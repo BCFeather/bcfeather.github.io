@@ -1,12 +1,12 @@
 ---
 title: "The Fourth of July at two hundred and forty-nine"
-date: 2025-07-04 10:15:00 +0800
+date: 2025-07-05 10:15:00 +0800
 tags: [culture, essay, united-states]
 categories: [culture]
-description: "The country's birthday arrived on a Friday in 2025, and the holiday was observed with the rituals that the day has accumulated: the parades, the fireworks, the cookouts, and the speeches that the occasion requires. The birthday fell in the middle of the year's argument about the country's direction, and the argument's presence was the holiday's particular character this year."
+description: "US' birthday arrived on a Friday in 2025, and the holiday was observed with the rituals that the day has accumulated: the parades, the fireworks, the cookouts, and the speeches that the occasion requires. The birthday fell in the middle of the year's argument about the country's direction, and the argument's presence was the holiday's particular character this year."
 ---
 
-The country's birthday arrived on a Friday in 2025, and the holiday was observed, across the time zones, with the rituals that the day has accumulated over two hundred and forty-nine years: the parades in the small towns, the fireworks over the cities, the cookouts in the backyards, and the speeches that the occasion requires from the politicians and the commentators. The birthday fell in the middle of the year's argument about the country's direction, and the argument's presence was the holiday's particular character this year: the celebration was conducted against the background of the trade conflicts, the institutional tensions and the divisions that the year has made visible, and the background shaped the way the day was kept.
+United States' birthday arrived on a Friday in 2025, and the holiday was observed, across the time zones, with the rituals that the day has accumulated over two hundred and forty-nine years: the parades in the small towns, the fireworks over the cities, the cookouts in the backyards, and the speeches that the occasion requires from the politicians and the commentators. The birthday fell in the middle of the year's argument about the country's direction, and the argument's presence was the holiday's particular character this year: the celebration was conducted against the background of the trade conflicts, the institutional tensions and the divisions that the year has made visible, and the background shaped the way the day was kept.
 
 The rituals themselves were the part that the coverage leads with, and the rituals' continuity is the day's real content. The parades that the towns organize, the flags that the porches display, the fireworks that the cities budget for, the national anthem that the stadiums play, all of it was performed with the regularity that the tradition commands; the continuity is the point, the demonstration that the republic's habits survive the arguments that its politics conduct. The day's rituals are the country's way of rehearsing its own existence, and the rehearsal is the reassurance that the year's crises have made more valuable.
 
