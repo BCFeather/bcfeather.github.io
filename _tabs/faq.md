@@ -8,11 +8,11 @@ Frequently asked questions about this blog, its content and how it is produced.
 
 ### Where do the articles on this blog come from?
 
-They come from several sources: pieces that I write myself, notes and summaries from my conversations with AI, and curated or aggregated reporting drawn from the news media. I aim to cross-reference facts across these sources and present them with enough context to stand on their own.
+They come from several sources: pieces that I write myself, notes and summaries from my conversations with AI and other people, and curated or aggregated reporting drawn from the news media. I aim to cross-reference facts across these sources and present them with enough context to stand on their own.
 
 ### How often is the blog updated?
 
-There is no fixed schedule. I publish when an event or a question feels worth thinking through slowly rather than chasing a headline. Some weeks may bring several posts; others may pass quietly.
+There is no fixed schedule. I publish when an event or a question feels worth thinking through slowly rather than chasing a headline. Some days may bring one or two posts, while others may pass quietly.
 
 ### What does the blog cover?
 
