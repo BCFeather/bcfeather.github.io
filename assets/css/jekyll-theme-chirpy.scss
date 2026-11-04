@@ -16,3 +16,19 @@
 article .content {
   font-family: Georgia, "Times New Roman", "Songti SC", "Noto Serif SC", SimSun, serif;
 }
+
+/* Latin motto in the footer */
+.latin-motto {
+  font-family: "Cormorant Garamond", Garamond, Georgia, serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.25rem;
+  letter-spacing: 0.03em;
+  color: var(--bs-secondary-color);
+}
+
+@media (min-width: 992px) {
+  .latin-motto {
+    font-size: 1.35rem;
+  }
+}
