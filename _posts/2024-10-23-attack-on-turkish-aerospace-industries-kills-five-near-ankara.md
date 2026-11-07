@@ -1,0 +1,18 @@
+---
+title: "Attack on Turkish Aerospace Industries kills five near Ankara"
+date: 2024-10-23 23:50:00 +0800
+categories: [news]
+description: "Two attackers opened fire at the Turkish Aerospace Industries site near Ankara on 23 October, killing five people and wounding twenty-two before being shot dead, and Turkey blamed the PKK and struck targets in Iraq and Syria."
+---
+
+Two attackers attacked the premises of Turkish Aerospace Industries, known as TUSAS, near Ankara on the twenty-third of October, killing five people and wounding twenty-two. Interior minister said a man and a woman arrived in a vehicle at a security gate at the end of the working day, exchanged fire with guards and detonated an explosive device, and both were shot dead by security forces. Staff were moved to shelters, and television images showed helicopters over the site and ambulances arriving at the perimeter.
+
+Identification of the attackers came the following day. Interior minister named them as members of the Kurdistan Workers' Party, and the group itself claimed responsibility in a statement. Turkish officials said the target was chosen because it is one of the country's largest defence contractors, producing fighter jets, drones and satellites, and because the attack was meant to disrupt a programme that has grown quickly over the past decade.
+
+Retaliation began within hours. Defence ministry said aircraft struck forty-seven targets in northern Iraq and northern Syria that it described as positions belonging to the group, and it claimed that forty-one fighters were killed. Operation was described as a response to the attack rather than a new campaign, and it extended the pattern of cross-border raids that Turkey has conducted for years against positions it links to the group.
+
+Timing drew attention because of a diplomatic meeting taking place the same day. President Recep Tayyip Erdogan was in Kazan, in Russia, for the summit of the BRICS group, where he was discussing Turkey's application to join, and he condemned the attack in a statement issued from there. Opposition parties in Turkey suspended their campaigning for a day, and the government declared a period of national mourning.
+
+Grievance behind the conflict is long and unresolved. Fighting began in 1984 and has killed more than forty thousand people, most of them civilians, and it has shaped the politics of the south-east as much as it has shaped the army's budget. Turkey has built a drone industry and a defence export business on the back of that campaign, and TUSAS is at the centre of both, which is why an attack on its gate was read as an attack on the state's most visible project. The Kurdish question has been fought over for four decades, and a peace process that had begun in 2013 collapsed in 2015. Government has recently hinted at a new attempt at settlement, and a nationalist party allied with it has spoken of allowing the group's imprisoned leader to address his followers. Attack of the twenty-third of October makes such an initiative harder, because it removes the political space that a government needs to offer concessions.
+
+Consequence for the security services is a set of questions that Turkish officials have not answered in public. Attackers reached a gate of a high-security facility in the capital with automatic weapons and explosives, and the guards at the entrance were the first line of defence. Turkey has suffered several attacks of this kind in the past decade, and the lesson in each case has been that the cost of guarding soft targets is higher than the state is prepared to spend. Investigation will concentrate on how the pair got there, and on whether they had help from inside.
