@@ -1,6 +1,6 @@
 ---
 title: "A magnitude 7.6 earthquake strikes Japan's Noto peninsula"
-date: 2024-01-01 22:41:00 +0800
+date: 2024-01-03 22:41:00 +0800
 categories: [news]
 description: "A magnitude 7.6 earthquake struck the Noto Peninsula of Ishikawa prefecture on the afternoon of 1 January, bringing tsunami warnings to the Japan Sea coast, cutting roads to fishing villages and leaving an unknown number dead in the winter cold."
 ---
