@@ -22,9 +22,11 @@ article .content {
   font-family: "Cormorant Garamond", Garamond, Georgia, serif;
   font-style: italic;
   font-weight: 500;
-  font-size: 1.25rem;
+  font-size: clamp(0.95rem, 4.4vw, 1.25rem);
+  line-height: 1.45;
   letter-spacing: 0.03em;
   color: var(--bs-secondary-color);
+  padding: 0 0.5rem;
   margin: 0 0 0.75rem 0;
 }
 
