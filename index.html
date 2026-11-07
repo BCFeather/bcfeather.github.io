@@ -125,7 +125,7 @@ window.__FEATURED = [
   var data = window.__FEATURED || [];
   var SLOTS = 7;
 
-  // deterministic seed from local date, so the set is fixed for the day
+  /* deterministic seed from local date, so the set is fixed for the day */
   var now = new Date();
   var seed = now.getFullYear() * 10000 + (now.getMonth() + 1) * 100 + now.getDate();
   function mulberry32(a) {
