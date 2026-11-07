@@ -72,6 +72,8 @@ ref: home
   .side-panel .side-quote{ margin:.65rem 0 0; padding-left:.75rem; border-left:3px solid var(--link-color,#0056b2); font-size:.86rem; font-style:italic; line-height:1.65; color:var(--main-text-color,#3a3a42); }
   .side-panel .side-quote cite{ display:block; margin-top:.35rem; font-style:normal; font-size:.74rem; line-height:1.45; color:var(--text-muted-color,#8a8f98); }
   .side-panel .side-date{ margin:.45rem 0 0; font-size:.72rem; letter-spacing:.09em; text-transform:uppercase; color:var(--text-muted-color,#8a8f98); }
+  .side-panel .side-label{ margin:.75rem 0 .2rem; font-size:.66rem; letter-spacing:.13em; text-transform:uppercase; color:var(--text-muted-color,#8a8f98); }
+  .side-panel .side-title{ display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; font-size:.85rem; line-height:1.5; color:var(--link-color,#0056b2); }
   .side-panel .side-meta{ margin:.6rem 0 0; font-size:.73rem; line-height:1.55; color:var(--text-muted-color,#8a8f98); }
 
   @media (max-width:576px){
@@ -309,16 +311,21 @@ window.__HOME_STATS = {
     bq.appendChild(el('cite', null, q[1]));
     todayPanel.appendChild(bq);
 
-    var ul = el('ul', 'side-list');
+    var dayWrap = el('div', 'side-day');
     if (same.length) {
-      same.slice(0, 1).forEach(function (it) {
-        ul.appendChild(linkItem('On this day: ' + it.p.t + ' (' + it.y + ')', it.p.u));
-      });
+      var it = same[0];
+      dayWrap.appendChild(el('p', 'side-label', 'On this day · ' + it.y));
+      var a = el('a', 'side-title', it.p.t);
+      a.href = it.p.u;
+      dayWrap.appendChild(a);
     } else if (data.length) {
       var r = data[Math.floor(Math.random() * data.length)];
-      ul.appendChild(linkItem('On this day: nothing filed. Read a random piece', r.u));
+      dayWrap.appendChild(el('p', 'side-label', 'On this day'));
+      var a2 = el('a', 'side-title', 'Nothing filed for this date. Read a random piece');
+      a2.href = r.u;
+      dayWrap.appendChild(a2);
     }
-    todayPanel.appendChild(ul);
+    todayPanel.appendChild(dayWrap);
 
     var meta = (stats.posts || data.length) + ' posts';
     if (stats.first && stats.last) {
