@@ -1,5 +1,5 @@
 ---
-title: "The second day and the visit that has a route"
+title: "Gifts in the trunk and a drive to the other household"
 date: 2025-01-30 20:15:00 +0800
 tags: [festivals, china, family, culture]
 categories: [culture]

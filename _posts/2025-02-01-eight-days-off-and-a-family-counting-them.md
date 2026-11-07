@@ -1,5 +1,5 @@
 ---
-title: "The fourth day and the arithmetic of the holiday"
+title: "Eight days off and a family counting them"
 date: 2025-02-01 20:40:00 +0800
 tags: [festivals, work, china, calendars]
 categories: [society]
