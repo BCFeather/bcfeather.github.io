@@ -1,7 +1,6 @@
 ---
 title: "The hottest forty days"
 date: 2024-07-17 21:10:00 +0800
-tags: [weather, labour, china, health]
 categories: [society]
 description: "The period that begins in the middle of July is the hottest of the year. The rules that protect outdoor workers exist, and the enforcement depends on who is paying the wage."
 ---

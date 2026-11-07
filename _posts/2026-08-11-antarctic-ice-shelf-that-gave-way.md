@@ -1,7 +1,6 @@
 ---
 title: "Antarctic ice shelf that gave way"
 date: 2026-08-11 14:26:00 +0800
-tags: [antarctica, climate, science, news]
 categories: [science]
 description: "A section of the George VI ice shelf in the Antarctic Peninsula collapsed in early August, releasing an iceberg roughly the size of a small country, and the collapse had been forecast to the month by the models that track the region's warming. The predictability is the disturbing part: the shelf failed exactly where and when the science said it would."
 ---

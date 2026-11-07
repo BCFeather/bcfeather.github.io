@@ -1,7 +1,6 @@
 ---
 title: "An AI model joins the Olympic Games"
 date: 2026-02-08 09:30:00 +0800
-tags: [ai, olympics, technology]
 categories: [news]
 description: "Days before the Milano Cortina Winter Olympics opened, the International Olympic Committee announced that its official Olympic model is built on a Chinese large language model, and the Games that began on 6 February are using it across scheduling, translation and broadcast services. It is the first time a foundation model has been embedded in the core running of the Games."
 ---

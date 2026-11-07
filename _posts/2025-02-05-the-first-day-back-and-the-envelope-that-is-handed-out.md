@@ -1,7 +1,6 @@
 ---
 title: "The first day back and the envelope that is handed out"
 date: 2025-02-05 20:45:00 +0800
-tags: [work, china, offices, festivals]
 categories: [society]
 description: "The offices reopen on the fifth of February, and the morning is marked by a red envelope from the employer and a conversation about the year that has just ended."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "National day, and the week that follows"
 date: 2025-10-01 20:40:00 +0800
-tags: [october, national-day, reflection]
 categories: [essay]
 description: "On 1 October the country marks the anniversary of its founding, the National Day that opens the year's longest holiday, and the day carries a double character: a formal anniversary of the state, and the informal beginning of a week of family, travel and rest. A short essay on the two holidays in one, and what the week reveals about the country."
 ---

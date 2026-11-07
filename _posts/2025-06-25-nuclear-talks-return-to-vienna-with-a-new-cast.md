@@ -1,7 +1,6 @@
 ---
 title: "Nuclear talks return to Vienna with a new cast"
 date: 2025-06-25 16:51:00 +0800
-tags: [iran, diplomacy, nuclear, news]
 categories: [news]
 description: "The negotiations over the Iranian nuclear programme resumed in the late June sessions with the cast that the year had produced: the American negotiators carrying the new administration's transactional doctrine, the Iranian negotiators seeking the relief that the sanctions have made urgent, and the international observers watching for the deal that the previous rounds could not produce. The talks' prospects are the subject of the summer's diplomacy."
 ---

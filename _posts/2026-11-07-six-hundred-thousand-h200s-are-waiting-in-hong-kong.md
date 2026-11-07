@@ -1,7 +1,6 @@
 ---
 title: "Six hundred thousand H200s are waiting in Hong Kong"
 date: 2026-11-07 18:40:00 +0800
-tags: [nvidia, export-controls, chips, hong-kong]
 categories: [technology]
 description: "Reuters reported on 5 November that about 600,000 of NVIDIA's H200 accelerators are sitting in Hong Kong warehouses, awaiting a mainland import approval that Beijing has not granted at scale. The stockpile sits between two gates: American export licences on one side, Chinese import control on the other, with prices in the unofficial market running about three times what they were a year ago."
 ---

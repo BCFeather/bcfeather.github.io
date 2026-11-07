@@ -1,7 +1,6 @@
 ---
 title: "Magnetic switchbacks: the engine of the fast solar wind"
 date: 2025-06-12 12:53:00 +0800
-tags: [space, solar, astrophysics]
 categories: [science]
 description: "A paper in *Science* on 29 August 2024 used two spacecraft at different distances to show that Alfvénic switchbacks deposit their energy to heat and accelerate the fast solar wind. A close reading of the *in-situ* measurement that settled a decades-old question."
 ---

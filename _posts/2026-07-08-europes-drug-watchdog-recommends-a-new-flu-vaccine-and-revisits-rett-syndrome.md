@@ -1,7 +1,6 @@
 ---
 title: "Europe's drug watchdog recommends a new flu vaccine and revisits Rett syndrome"
 date: 2026-07-08 11:11:00 +0800
-tags: [health, drugs, ema, regulation]
 categories: [news]
 description: "At its June meeting the European Medicines Agency's committee recommended six new medicines for approval, including a cell-culture flu vaccine for over-50s, reversed an earlier refusal on a Rett syndrome drug, and moved to withdraw one already on the market. The decisions were published on 26 June."
 ---

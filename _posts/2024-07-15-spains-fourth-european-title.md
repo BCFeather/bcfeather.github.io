@@ -1,7 +1,6 @@
 ---
 title: "Spain's fourth European title"
 date: 2024-07-15 03:52:00 +0800
-tags: [football, euro-2024, spain, england]
 categories: [news]
 description: "On 14 July Spain beat England 2-1 in the Berlin final of Euro 2024, with goals from Nico Williams and a late Mikel Oyarzabal finish, to win a record fourth European Championship, as Rodri was named player of the tournament and Lamine Yamal, seventeen, was its youngest finalist."
 ---

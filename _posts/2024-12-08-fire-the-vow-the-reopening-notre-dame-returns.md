@@ -1,7 +1,6 @@
 ---
 title: "Fire, vow, reopening: Notre-Dame returns"
 date: 2024-12-08 16:35:00 +0800
-tags: [france, notre-dame, heritage, restoration]
 categories: [culture]
 description: "Five and a half years after the spire fell, the cathedral reopens to the world. The restoration is a triumph of craft; the questions it leaves are quieter ones."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Light nuclei, surviving the fireball"
 date: 2025-12-12 09:40:00 +0800
-tags: [particle-physics, nuclei, lhc]
 categories: [science]
 description: "In the 10 December issue of *Nature*, the ALICE Collaboration reports new evidence on how light nuclei such as deuterons survive the extreme heat of high-energy collisions at the Large Hadron Collider, a puzzle that has connected particle physics to cosmology for decades. The result helps explain how fragile atomic nuclei emerge intact from the fireball."
 ---

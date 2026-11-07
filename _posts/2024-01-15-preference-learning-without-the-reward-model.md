@@ -1,7 +1,6 @@
 ---
 title: "Preference learning without the reward model"
 date: 2024-01-15 08:17:00 +0800
-tags: [ai, llm, machine-learning]
 categories: [technology]
 description: "Direct Preference Optimization teaches language models to follow human preferences without a trained reward model or reinforcement learning. A close reading of the Stanford paper that redrew the alignment recipe."
 ---

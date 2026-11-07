@@ -1,7 +1,6 @@
 ---
 title: "The speech that promised a cut"
 date: 2024-08-27 22:00:00 +0800
-tags: [markets, america, central-banks]
 categories: [business]
 description: "The chairman of the Federal Reserve told a conference in Wyoming that the time had come to adjust policy. The markets had priced in the cut before the sentence was finished."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Ceasefire that took shape in a week: Lebanon and the diplomacy of exhaustion"
 date: 2024-11-27 08:45:00 +0800
-tags: [israel, lebanon, middle-east, news]
 categories: [news]
 description: "The ceasefire between Israel and Lebanon took effect at four in the morning on November 27, after a year of fighting across the Blue Line and two months of full-scale war. The deal, brokered by the United States and France and built on the resolution that ended the 2006 war, is the season's first piece of good news from the region, and its fragility is part of its nature."
 ---

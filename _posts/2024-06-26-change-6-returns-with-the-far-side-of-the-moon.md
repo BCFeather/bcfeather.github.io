@@ -1,7 +1,6 @@
 ---
 title: "Chang'e-6 returns with the far side of the Moon"
 date: 2024-06-26 08:47:00 +0800
-tags: [space, china, moon, change-6]
 categories: [news]
 description: "On 25 June the Chang'e-6 return capsule touched down in Inner Mongolia carrying the first samples ever brought back from the far side of the Moon, drilled and scooped from the South Pole-Aitken basin."
 ---

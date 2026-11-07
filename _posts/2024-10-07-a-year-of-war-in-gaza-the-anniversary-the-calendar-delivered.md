@@ -1,7 +1,6 @@
 ---
 title: "A year of war in Gaza: the anniversary the calendar delivered"
 date: 2024-10-07 18:26:00 +0800
-tags: [israel, gaza, hamas, war, news]
 categories: [news]
 description: "A year after the October 7 attack, the war it started has moved far beyond Gaza and shows no sign of ending. The anniversary passed with memorials in Israel, rubble in the Strip and a region that has learned to live with the war's expansion."
 ---

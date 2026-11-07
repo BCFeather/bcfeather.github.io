@@ -1,7 +1,6 @@
 ---
 title: "The end of the Hasina era in Dhaka"
 date: 2024-08-07 09:42:00 +0800
-tags: [bangladesh, politics, news]
 categories: [news]
 description: "On 5 August, Sheikh Hasina resigned as prime minister of Bangladesh and flew to India, and the army chief who announced her departure promised a caretaker government. The student protests that had begun over a quota system in the civil service had turned, in a few weeks, into the end of a fifteen-year rule, and the hard part, as always after a fall, is what comes next."
 ---

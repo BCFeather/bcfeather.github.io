@@ -1,7 +1,6 @@
 ---
 title: "October opens with the year's final quarter in view"
 date: 2025-10-02 09:35:00 +0800
-tags: [news, essay, review]
 categories: [culture]
 description: "The final quarter of 2025 opened in the first days of October, and the opening brought the year's remaining calendar into view: the prizes, the summits, the deadlines and the decisions that the autumn has scheduled. The quarter is the year's climax, and the climax's preparation has been conducted through the year's events."
 ---

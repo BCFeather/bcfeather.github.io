@@ -1,7 +1,6 @@
 ---
 title: "New year, by the numbers"
 date: 2026-02-06 21:30:00 +0800
-tags: [self-tracking, technology, society]
 categories: [essay]
 description: "Every January the wrist prompts, the rings close, the streaks begin. A short essay on what it means to live by the numbers on a screen, and what the numbers leave out."
 ---

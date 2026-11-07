@@ -1,7 +1,6 @@
 ---
 title: "Talks in Geneva and the room that never empties"
 date: 2025-04-15 18:34:00 +0800
-tags: [trade, diplomacy, geneva, news]
 categories: [news]
 description: "The negotiations over the tariff programme moved into the diplomatic channels in mid-April, with the officials meeting in the cities that the trade diplomacy has always used, and the talks acquiring the rhythm that such negotiations develop: the sessions, the statements, the deadlines, and the quiet progress that the headlines rarely capture. The negotiations are the place where the trade conflict will actually be settled, and the room, as always, never empties."
 ---

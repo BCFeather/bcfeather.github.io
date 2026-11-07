@@ -1,7 +1,6 @@
 ---
 title: "The half-year sale and the habit of waiting"
 date: 2025-06-06 10:40:00 +0800
-tags: [retail, ecommerce, consumption, china]
 categories: [business]
 description: "Pre-sales for the mid-year shopping festival open in the middle of May, a month before the date the sale is named after. The arithmetic of deposits and stacked coupons has become a skill of its own, and the retailers are not the only ones who have learned it."
 ---

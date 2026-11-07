@@ -1,7 +1,6 @@
 ---
 title: "DeepSeek raises prices: the price war has a price after all"
 date: 2026-08-13 21:37:00 +0800
-tags: [ai, deepseek, china, technology]
 categories: [technology]
 description: "On 13 August, DeepSeek moved its V4 Pro model out of preview and announced the largest price increases in its history, with peak-hour output going from 6 to 27 yuan per million tokens. The company that built its reputation on undercutting everyone now says the economics have to change."
 ---

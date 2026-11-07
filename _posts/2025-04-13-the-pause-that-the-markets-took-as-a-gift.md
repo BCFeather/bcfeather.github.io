@@ -1,7 +1,6 @@
 ---
 title: "The pause that the markets took as a gift"
 date: 2025-04-13 15:26:00 +0800
-tags: [tariffs, markets, trade, news]
 categories: [news]
 description: "The administration announced a ninety-day pause in the application of the broad tariffs, and the markets responded with the largest rally in years, the indexes recovering the losses that the announcement had produced a week earlier. The pause was a tactical retreat with the particulars of the conflict written into it, and the markets' celebration was the acknowledgement that the retreat was also a negotiation."
 ---

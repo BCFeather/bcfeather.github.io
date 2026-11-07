@@ -1,7 +1,6 @@
 ---
 title: "A phone call home, once a year"
 date: 2026-05-12 14:27:00 +0800
-tags: [essay, family, mothers-day, distance]
 categories: [essay]
 description: "A short essay on the second Sunday in May, and on the strange formality of a weekly call home that the calendar suddenly insists everyone else is also making. On what we say on these calls, and what we leave out."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The day the heat should break"
 date: 2024-08-22 21:10:00 +0800
-tags: [weather, china, cities]
 categories: [society]
 description: "The solar term that marks the end of summer fell on the twenty-second this year. The forecast did not agree with the calendar, and the grid kept its peak for another fortnight."
 ---

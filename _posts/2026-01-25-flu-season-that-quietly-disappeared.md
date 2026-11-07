@@ -1,7 +1,6 @@
 ---
 title: "Flu season that quietly disappeared"
 date: 2026-01-25 08:35:00 +0800
-tags: [health, flu, vaccine, news]
 categories: [news]
 description: "Halfway through the northern winter, influenza activity in the northern hemisphere is running at less than a third of its pre-pandemic average, and the epidemiologists who track it are having a harder time explaining the quiet than they did explaining the noise. The likely causes are a well-matched vaccine and a demographic shift, and neither deserves the credit it is being given alone."
 ---

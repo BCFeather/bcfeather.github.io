@@ -1,7 +1,6 @@
 ---
 title: "Belém closes: the summit's verdict"
 date: 2025-11-21 22:53:00 +0800
-tags: [climate, cop, news]
 categories: [news]
 description: "The climate summit closed in the Amazonian city with the verdict that the two weeks of negotiations produced: the finance decision concluded, the texts delivered, and the gathering's record written in the presence of the year's pressures. The verdict is the year's climate record in its final form, and the record's meaning will be weighed by the sessions and the summits that follow."
 ---

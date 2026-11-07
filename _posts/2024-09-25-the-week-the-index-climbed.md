@@ -1,7 +1,6 @@
 ---
 title: "The week the index climbed"
 date: 2024-09-25 21:30:00 +0800
-tags: [markets, china, finance]
 categories: [business]
 description: "The main index rose for four sessions after the package was announced, and the turnover on one day was the largest in the history of the exchange. The buyers were domestic, and the sellers were the ones who had waited a year."
 ---

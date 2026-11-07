@@ -1,7 +1,6 @@
 ---
 title: "The pool that was too shallow"
 date: 2024-08-01 21:30:00 +0800
-tags: [olympics, swimming, sport, france]
 categories: [sport]
 description: "The swimming pool built for the Paris Games is two metres deep, a metre less than the standard. No world record has been set in it, which is the first time that has happened at a Games since 1988."
 ---

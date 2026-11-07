@@ -1,7 +1,6 @@
 ---
 title: "Brazil's Supreme Court bars X"
 date: 2024-08-31 20:11:00 +0800
-tags: [brazil, x, musk, social-media]
 categories: [news]
 description: "On 30 August, Justice Alexandre de Moraes ordered Elon Musk's social network X blocked across Brazil, after the company refused to appoint a legal representative and comply with court orders on content moderation."
 ---

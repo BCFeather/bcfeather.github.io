@@ -1,7 +1,6 @@
 ---
 title: "A weekly dual agonist that pairs fullness with calorie burn"
 date: 2026-07-11 16:16:00 +0800
-tags: [medicine, obesity, clinical-trial, glp1]
 categories: [science]
 description: "The phase 3 SYNCHRONIZE-1 trial of survodutide, a once-weekly dual agonist of the glucagon and GLP-1 receptors, was published in *the New England Journal of Medicine* on 7 June. On the efficacy estimand it produced an average weight loss of 16.6 per cent at 76 weeks against 3.2 per cent on placebo."
 ---

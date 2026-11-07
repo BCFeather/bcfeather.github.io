@@ -1,7 +1,6 @@
 ---
 title: "Electricity bill and the price of cool"
 date: 2026-07-28 19:19:00 +0800
-tags: [essay, summer, electricity, comfort]
 categories: [essay]
 description: "Cool is not free. A short essay on the electricity bill that arrives in August, what it reveals about the price of comfort, and how a July household quietly renegotiates the terms of staying cool."
 ---

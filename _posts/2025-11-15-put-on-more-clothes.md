@@ -1,7 +1,6 @@
 ---
 title: "Put on more clothes"
 date: 2025-11-15 20:40:00 +0800
-tags: [family, seasons, culture]
 categories: [essay]
 description: "As the first cold snap of the season arrives, so does the familiar refrain from parents and grandparents: put on more clothes. A short essay on the most universal instruction in the Chinese household, what it actually communicates, and why it never goes away."
 ---

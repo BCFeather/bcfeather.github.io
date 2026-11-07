@@ -1,7 +1,6 @@
 ---
 title: "When the autumn rain arrives without warning"
 date: 2026-10-11 17:40:00 +0800
-tags: [essay, autumn, city]
 categories: [essay]
 description: "A short essay on the autumn rain, the kind that arrives in October after a long dry spell, and the way a city changes for a day or two under it, slower, quieter and suddenly familiar."
 ---

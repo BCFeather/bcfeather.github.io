@@ -1,7 +1,6 @@
 ---
 title: "A drug built in six months for one baby"
 date: 2026-07-09 11:19:00 +0800
-tags: [biology, gene-editing, medicine]
 categories: [science]
 description: "A baby with a fatal urea-cycle disorder received a CRISPR base-editing therapy designed from scratch for a single mutation, developed in about six months. The New England Journal of Medicine paper that turns N-of-1 treatment from an idea into a precedent."
 ---

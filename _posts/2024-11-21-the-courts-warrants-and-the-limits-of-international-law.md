@@ -1,7 +1,6 @@
 ---
 title: "The court's warrants and the limits of international law"
 date: 2024-11-21 15:06:00 +0800
-tags: [israel, international-law, news]
 categories: [news]
 description: "The International Criminal Court issued arrest warrants on 21 November for the Israeli prime minister, his former defence minister and a Hamas commander, for war crimes and crimes against humanity committed since October 2023. The warrants are the court's boldest act of the decade, and they land at the exact point where the law's reach meets the limits of its power."
 ---

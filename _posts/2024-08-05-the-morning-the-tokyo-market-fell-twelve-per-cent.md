@@ -1,7 +1,6 @@
 ---
 title: "The morning the Tokyo market fell twelve per cent"
 date: 2024-08-05 22:10:00 +0800
-tags: [markets, japan, finance]
 categories: [business]
 description: "The Nikkei fell 12.4 per cent on 5 August, its worst day since 1987. The trigger was a rate rise in Tokyo, and the amplification came from the way that foreign funds had borrowed yen to buy everything else."
 ---

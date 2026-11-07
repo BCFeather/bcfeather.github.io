@@ -1,7 +1,6 @@
 ---
 title: "The summer that the cinema hoped for"
 date: 2024-07-06 21:20:00 +0800
-tags: [film, china, retail]
 categories: [culture]
 description: "The summer season is the year's biggest box office window. This year the tickets were cheaper, the screens were fuller, and the total fell short of the record set last summer."
 ---

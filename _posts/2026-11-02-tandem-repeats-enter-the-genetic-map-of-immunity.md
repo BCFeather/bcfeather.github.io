@@ -1,7 +1,6 @@
 ---
 title: "Tandem repeats enter the genetic map of immunity"
 date: 2026-11-02 09:40:00 +0800
-tags: [genomics, immunology, tandem-repeats, gene-regulation]
 categories: [science]
 description: "Three papers published in *Nature* on 29 October, the first major output of the TenK10K project, map how genetic variation shapes immune cells. The second of the three addresses tandem repeats, the repetitive stretches of DNA that occupy more genetic real estate than all protein-coding genes and have been too hard to analyse: the team identified more than 69,000 repeat variants linked to changes in gene expression and over 200 genes where repeats may explain immune and blood traits."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Teaching a robot by correcting it, not by reward"
 date: 2026-10-22 17:44:00 +0800
-tags: [robotics, machine-learning, manipulation]
 categories: [technology]
 description: "A Berkeley team writing in *Science Robotics* in August 2025 trained real robot arms on dexterous industrial tasks in one to two hours by letting a human intervene whenever the policy failed. Why human-in-the-loop reinforcement learning may be the trick that makes real-world RL practical."
 ---

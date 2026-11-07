@@ -1,7 +1,6 @@
 ---
 title: "A six-year-old died in a brain gene-editing trial. A Shanghai medical school is investigating"
 date: 2026-07-27 15:26:00 +0800
-tags: [gene-editing, bioethics, medicine, clinical-trials]
 categories: [health]
 description: An experimental brain gene-editing therapy at a Shanghai hospital ended in a child's death that stayed undisclosed for more than a year. The university has now promised a full inquiry.
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Training plastic-eating bacteria with a runaway virus"
 date: 2026-06-05 09:23:00 +0800
-tags: [synthetic-biology, bacteria, directed-evolution]
 categories: [science]
 description: "A Singapore team writing in *Nature Microbiology* has built a directed-evolution platform that lets a reprogrammed virus mutate an entire gene pathway 160,000 times faster than its host, improving plastic digestion in five cycles."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Rate cuts arrive sooner than the Fed wanted"
 date: 2026-04-18 20:11:00 +0800
-tags: [economy, federal-reserve, inflation, news]
 categories: [news]
 description: "The Federal Reserve cut its benchmark rate by a quarter point on 15 April, six weeks earlier than the path its own projections had implied, citing softer employment and a trade shock that is landing faster than expected. The cut was the right call and a worrying one at the same time, which is the state of central banking in 2026."
 ---

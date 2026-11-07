@@ -1,7 +1,6 @@
 ---
 title: "Europe's central bank tightens for the first time in years"
 date: 2026-06-13 11:08:00 +0800
-tags: [economy, central-banks, europe]
 categories: [news]
 description: "The European Central Bank raised its three key rates by a quarter of a percentage point on 11 June, the first increase since September 2023, citing inflation pressure from the Middle East war. It is a dovish-looking hike, aimed at expectations rather than demand."
 ---

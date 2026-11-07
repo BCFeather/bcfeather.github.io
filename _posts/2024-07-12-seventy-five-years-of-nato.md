@@ -1,7 +1,6 @@
 ---
 title: "Seventy-five years of NATO"
 date: 2024-07-12 19:15:00 +0800
-tags: [nato, ukraine, washington, defence]
 categories: [news]
 description: "NATO marked its 75th anniversary in Washington from 9 to 11 July, and used the birthday summit to harden its line on Ukraine: an irreversible path to membership, a pledged 40 billion euros in aid over the next year, and a new NATO presence in Kyiv."
 ---

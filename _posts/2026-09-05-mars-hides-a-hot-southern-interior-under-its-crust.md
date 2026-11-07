@@ -1,7 +1,6 @@
 ---
 title: "Mars hides a hot southern interior under its crust"
 date: 2026-09-05 09:47:00 +0800
-tags: [planetary-science, mars, geophysics, nasa]
 categories: [science]
 description: "A *Nature* paper from 27 August uses tidal tomography on decades of Mars gravity data to show the southern mantle is 200 to 400 degrees Celsius warmer than the north and partly molten. The red planet is not just lopsided on the surface; it is lopsided inside."
 ---

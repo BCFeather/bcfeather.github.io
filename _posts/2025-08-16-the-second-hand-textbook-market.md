@@ -1,7 +1,6 @@
 ---
 title: "The second-hand textbook market"
 date: 2025-08-16 19:30:00 +0800
-tags: [books, students, retail, cities]
 categories: [business]
 description: "Every August a market appears in the space between the students who have finished a course and the students who are about to start it. The prices are negotiated in person, the inventory is a shelf in a dormitory, and the whole trade exists because a new copy costs five times what a used one does."
 ---

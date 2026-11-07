@@ -1,7 +1,6 @@
 ---
 title: "Year-end lists and the curating of life"
 date: 2026-01-06 21:20:00 +0800
-tags: [culture, technology, society]
 categories: [essay]
 description: "Every January opens with the annual harvest of lists: the best books, the best songs, the year everyone just had, distilled into something scrollable. A short essay on what list-making does to experience, and what it gives back."
 ---

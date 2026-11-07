@@ -1,7 +1,6 @@
 ---
 title: "Debate that remade the race"
 date: 2024-09-13 19:37:00 +0800
-tags: [usa, election, politics, news]
 categories: [news]
 description: "On the evening of 10 September, Kamala Harris and Donald Trump met for the first time, in a debate in Philadelphia that ran past its allotted ninety minutes and ended with the Democrat, by the judgement of most polls and most observers, having held the initiative. The debate did not decide the election, but it changed the frame around it."
 ---

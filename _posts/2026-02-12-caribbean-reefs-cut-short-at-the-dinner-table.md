@@ -1,7 +1,6 @@
 ---
 title: "Caribbean reefs, cut short at the dinner table"
 date: 2026-02-12 09:35:00 +0800
-tags: [ecology, reefs, palaeontology]
 categories: [science]
 description: "In the 12 February issue of *Nature*, researchers use fossil isotope data to show that modern Caribbean reefs run shorter food chains than their ancestors did, a process they call trophic simplification. The reefs did not simply lose species; they lost an entire layer of the pyramid."
 ---

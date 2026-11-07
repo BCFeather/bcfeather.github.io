@@ -1,7 +1,6 @@
 ---
 title: "A rightward shift in the European Parliament"
 date: 2024-06-10 21:42:00 +0800
-tags: [european-union, european-parliament, elections]
 categories: [news]
 description: "Across four days in early June voters turned out for the European Parliament elections, and the result was a shift to the right: the centre-right EPP stayed the largest group, the far right made gains in France and Italy, and the balance of the new assembly moved to the right."
 ---

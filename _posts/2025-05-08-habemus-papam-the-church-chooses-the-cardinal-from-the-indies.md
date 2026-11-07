@@ -1,7 +1,6 @@
 ---
 title: "Habemus papam and the church’s turn towards Asia"
 date: 2025-05-08 22:05:00 +0800
-tags: [vatican, pope, news]
 categories: [news]
 description: "The smoke that rose from the Sistine Chapel's chimney on the first day of the conclave was white, and the church had its new pope: the archbishop of Jakarta, the first pope from Asia, who took the name that the world will now learn. The election carried the logic of the late pope's appointments to its conclusion, and the choice signals the direction that the church's centre of gravity has been moving for a generation."
 ---

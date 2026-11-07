@@ -1,7 +1,6 @@
 ---
 title: "August closes and the autumn's arguments line up"
 date: 2025-08-29 21:27:00 +0800
-tags: [review, essay, news]
 categories: [culture]
 description: "The month of the second round and the season's warnings closed with the autumn's arguments lining up on the calendar: the trade follow-ups, the budget season, the summits and the sessions that the year's second half has scheduled. August's record was the record of the preparation, and the preparation is the part that the autumn will test."
 ---

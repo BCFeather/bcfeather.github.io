@@ -1,7 +1,6 @@
 ---
 title: "Defence budgets arrive with the procurement lists"
 date: 2025-06-14 13:40:00 +0800
-tags: [defence, europe, security, news]
 categories: [news]
 description: "The European rearmament that the year's security crisis forced into the open moved into its concrete phase in the middle of June, with the member states' budgets arriving and the procurement lists being drawn: the tanks, the artillery, the air defences, the munitions that the war has shown the continent lacks. The rearmament's arithmetic is the story that the budgets are beginning to tell."
 ---

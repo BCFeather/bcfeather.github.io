@@ -1,7 +1,6 @@
 ---
 title: "Nested resonators lift the yield ceiling in on-chip optics"
 date: 2025-11-08 10:12:00 +0800
-tags: [photonics, integrated-optics, manufacturing]
 categories: [science]
 description: "In the 6 November issue of *Science*, a team including researchers at NIST reports a passive scheme called nested frequency-phase matching that lets silicon-nitride ring resonators generate four harmonic bands at once, with a 100% wafer-scale yield and no fine-tuning. The trick is to stop demanding that every device be perfect."
 ---

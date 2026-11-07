@@ -1,7 +1,6 @@
 ---
 title: "LHAASO measures the cosmic-ray knee one element at a time"
 date: 2026-03-30 10:10:00 +0800
-tags: [astrophysics, cosmic-rays, lhaaso]
 categories: [science]
 description: "In the 26 March issue of *Physical Review Letters*, the LHAASO collaboration reports high-precision measurements of the helium spectrum across the cosmic-ray knee, finding structure that the all-particle spectrum had blurred. The composition of the knee is the key to where the galaxy's most energetic particles come from."
 ---

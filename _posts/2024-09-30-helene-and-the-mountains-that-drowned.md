@@ -1,7 +1,6 @@
 ---
 title: "Helene and the mountains that drowned"
 date: 2024-09-30 18:23:00 +0800
-tags: [usa, weather, climate, news]
 categories: [news]
 description: "In the late hours of 26 September, Hurricane Helene came ashore in the Florida Panhandle as a category-four storm and then moved inland with an energy that did not stop at the coastline. The floods that followed destroyed towns across the southern Appalachians, killed more than two hundred people and left the mountains of western North Carolina, a region that believed itself beyond such disasters, under water and cut off from the world."
 ---

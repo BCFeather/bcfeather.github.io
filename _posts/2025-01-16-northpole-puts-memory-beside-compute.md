@@ -1,7 +1,6 @@
 ---
 title: "NorthPole puts memory beside compute"
 date: 2025-01-16 09:36:00 +0800
-tags: [hardware, chips, neuromorphic]
 categories: [technology]
 description: "IBM's NorthPole chip, published in *Science* in October 2023, eliminates off-chip memory by intertwining compute and storage on a 12-nm die. A close reading of how a brain-inspired architecture wins on inference despite an older process node."
 ---

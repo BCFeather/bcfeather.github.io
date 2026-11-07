@@ -1,7 +1,6 @@
 ---
 title: "March was the month AI stopped being just models"
 date: 2026-03-29 08:41:00 +0800
-tags: [ai, policy, regulation, technology]
 categories: [technology]
 description: "Between the frontier model releases on 5, 20 and 22 March, the industry and its regulators moved on parallel tracks: NVIDIA used GTC to position itself as the operating layer for enterprise agents, the White House published a national AI legislative framework, and European member states agreed to consider delaying the high-risk AI obligations that were meant to bite in August."
 ---

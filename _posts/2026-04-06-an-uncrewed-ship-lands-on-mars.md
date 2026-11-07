@@ -1,7 +1,6 @@
 ---
 title: "An uncrewed ship lands on Mars"
 date: 2026-04-06 07:31:00 +0800
-tags: [space, spacex, mars, technology]
 categories: [technology]
 description: "Early on 4 April, a Starship descended through the thin Martian sky and set down on the northern plains, the first landing of a spacecraft of its class on another planet. No one was aboard, and that is precisely why the landing matters as much as it does."
 ---

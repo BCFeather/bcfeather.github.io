@@ -1,7 +1,6 @@
 ---
 title: "The brain's amino acid sensor and the fat it controls"
 date: 2025-05-01 09:20:00 +0800
-tags: [neuroscience, metabolism, obesity, brown-fat]
 categories: [science]
 description: "A team at Fudan University reported in *Advanced Science* on 1 May that a population of amino-acid-sensing neurons in the anterior piriform cortex governs heat production in brown adipose tissue, opening a route to obesity treatment that runs through the nose of the brain rather than the stomach."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Greenland and the argument about the Arctic"
 date: 2025-03-17 14:52:00 +0800
-tags: [greenland, arctic, geopolitics, denmark]
 categories: [news]
 description: "The world's largest island became, in the spring of 2025, the subject of the year's most unusual territorial argument, with the American administration repeating its interest in acquiring the island and the Danish and Greenlandic governments insisting that it is not for sale. The argument has moved the Arctic into the centre of the transatlantic conversation, and the movement is the real story."
 ---

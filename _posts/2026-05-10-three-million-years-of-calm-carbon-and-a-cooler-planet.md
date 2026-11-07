@@ -1,7 +1,6 @@
 ---
 title: "Three million years of calm carbon and a cooler planet"
 date: 2026-05-10 11:05:00 +0800
-tags: [climate, paleoclimate, carbon-dioxide, antarctica]
 categories: [science]
 description: "A shallow ice core from the Allan Hills blue ice has pushed direct greenhouse-gas measurements back three million years. Over that span, global cooling outpaced any change in CO2, a finding that complicates the simple story of carbon as the main long-term driver."
 ---

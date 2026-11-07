@@ -1,7 +1,6 @@
 ---
 title: "How a tsunami warning travels"
 date: 2025-07-30 20:55:00 +0800
-tags: [tsunami, disaster, science, pacific]
 categories: [science]
 description: "The Pacific warning system moved faster this week than the wave it was tracking, which is the whole point of the design. The difficulty is that the message has about twenty minutes to reach people, and the last hundred metres of it are still delivered by hand."
 ---

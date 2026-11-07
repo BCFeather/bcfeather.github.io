@@ -1,7 +1,6 @@
 ---
 title: "The new year goods and the market that starts early"
 date: 2025-01-10 20:50:00 +0800
-tags: [festivals, retail, food, china]
 categories: [society]
 description: "The new year shopping begins in the first fortnight of January, weeks before the holiday, because the food that a family buys for the festival is the food that takes longest to make."
 ---

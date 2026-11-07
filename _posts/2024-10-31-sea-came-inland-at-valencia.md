@@ -1,7 +1,6 @@
 ---
 title: "Sea came inland at Valencia"
 date: 2024-10-31 11:07:00 +0800
-tags: [spain, weather, climate, news]
 categories: [news]
 description: "On the night of October 29, a year's worth of rain fell on parts of eastern Spain in a few hours, and the flash floods that followed killed more than two hundred people, most of them in the province of Valencia. The storm was a 'cold drop', the region's oldest weather, and the deaths raised the newest questions about the warnings that were not sent."
 ---

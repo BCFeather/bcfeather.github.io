@@ -1,7 +1,6 @@
 ---
 title: "The G7 at the lake: the summit of the strong"
 date: 2025-06-07 10:54:00 +0800
-tags: [g7, diplomacy, news]
 categories: [news]
 description: "The leaders of the world's largest economies gathered in the Canadian mountains for their annual summit, and the gathering was conducted under the shadow of the largest member's redefinition of the alliances: the trade truce, the burden-sharing demands, and the transactional style that the other members have spent the year adjusting to. The summit's outcomes were the compromises that the adjustments produced."
 ---

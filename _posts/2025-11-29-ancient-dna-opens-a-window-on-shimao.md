@@ -1,7 +1,6 @@
 ---
 title: "Ancient DNA opens a window on Shimao"
 date: 2025-11-29 09:40:00 +0800
-tags: [archaeology, ancient-dna, china]
 categories: [science]
 description: "In the 27 November issue of *Nature*, researchers report on the people of Shimao, the 4,000-year-old walled city in northern China, using ancient DNA to trace their origins, social structure and cultural practices. One of the most enigmatic sites in early Chinese archaeology finally has a human story to go with its walls."
 ---

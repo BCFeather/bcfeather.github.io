@@ -1,7 +1,6 @@
 ---
 title: "Summer of agentic work: a labour market reckoning"
 date: 2026-08-21 16:44:00 +0800
-tags: [ai, labour, economy, technology]
 categories: [technology]
 description: "The mid-year employment data published this week shows the first sustained effect of agentic AI on the white-collar labour market: hiring down in the clerical and junior professional tiers, hours up for the workers who remain, and a widening gap between the firms that deploy agents and the firms that have only read about them. The reckoning is here, and it is arriving in the shape of a quiet restructuring rather than a wave of headlines."
 ---

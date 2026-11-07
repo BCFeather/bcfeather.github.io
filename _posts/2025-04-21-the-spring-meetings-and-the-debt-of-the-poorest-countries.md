@@ -1,7 +1,6 @@
 ---
 title: "The spring meetings and the debt of the poorest countries"
 date: 2025-04-21 21:15:00 +0800
-tags: [imf, world-bank, debt, economy]
 categories: [economy]
 description: "The spring meetings of the International Monetary Fund and the World Bank open on the twenty-first of April, and the agenda is dominated by the countries that spend more on interest than on health. The arithmetic of that is not complicated and the politics of it is."
 ---

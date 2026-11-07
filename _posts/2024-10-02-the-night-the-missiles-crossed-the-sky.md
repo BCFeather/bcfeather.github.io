@@ -1,7 +1,6 @@
 ---
 title: "The night the missiles crossed the sky"
 date: 2024-10-02 01:42:00 +0800
-tags: [iran, israel, middle-east, news]
 categories: [news]
 description: "On the evening of October 1, Iran fired more than 180 ballistic missiles at Israel, the second direct attack of the year and by far the largest. The volley crossed the sky over Jerusalem and Tel Aviv, most of it was intercepted, and the region was left waiting for the reply."
 ---

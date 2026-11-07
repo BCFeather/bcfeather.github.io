@@ -1,7 +1,6 @@
 ---
 title: "The queue for the museum"
 date: 2025-08-22 19:50:00 +0800
-tags: [museums, tourism, culture, cities]
 categories: [culture]
 description: "Museums filled up this summer, and the booking system that most of them adopted has become the thing visitors talk about most. A ticket that is free and requires a reservation three weeks in advance is a strange kind of public good, and the queue outside the door tells you which kind."
 ---

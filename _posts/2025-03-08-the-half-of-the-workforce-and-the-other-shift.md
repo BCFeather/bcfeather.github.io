@@ -1,7 +1,6 @@
 ---
 title: "The half of the workforce and the other shift"
 date: 2025-03-08 09:30:00 +0800
-tags: [labour, women, society, economy]
 categories: [society]
 description: "The eighth of March arrives with flowers and a half-day holiday in some workplaces, and the numbers behind it describe a labour market in which the hours are equal and the unpaid work is not. The gap has narrowed, and it has narrowed unevenly."
 ---

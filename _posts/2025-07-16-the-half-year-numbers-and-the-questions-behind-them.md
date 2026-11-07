@@ -1,7 +1,6 @@
 ---
 title: "The half-year numbers and the questions behind them"
 date: 2025-07-16 10:20:00 +0800
-tags: [economy, china, statistics, growth]
 categories: [economy]
 description: "China's second-quarter figures were published in the middle of July, and the headline growth rate was respectable. The interesting information sat underneath it, in the split between production and consumption and in the price numbers that rarely make the front page."
 ---

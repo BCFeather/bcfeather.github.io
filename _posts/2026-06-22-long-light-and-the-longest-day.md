@@ -1,7 +1,6 @@
 ---
 title: "Long light, and the longest day"
 date: 2026-06-22 18:33:00 +0800
-tags: [essay, light, summer]
 categories: [essay]
 description: "The solstice passes almost without being noticed in the city. A short essay on the longest day of the year, on the strange light that lingers, and on what an extra hour of evening asks of the people who live by it."
 ---

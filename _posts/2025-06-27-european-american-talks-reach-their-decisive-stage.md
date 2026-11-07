@@ -1,7 +1,6 @@
 ---
 title: "European-American talks reach their decisive stage"
 date: 2025-06-27 15:23:00 +0800
-tags: [trade, europe, tariffs, news]
 categories: [news]
 description: "The trade negotiations between the European Union and the United States entered their decisive phase in the final week of June, with the sectors named, the deadlines set and the two sides' red lines facing their first direct test. The talks' outcome will be the year's largest trade settlement, and the settlement's shape will be determined by the concessions that the coming weeks produce."
 ---

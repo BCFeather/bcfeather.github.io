@@ -1,7 +1,6 @@
 ---
 title: "Golden Week, when the whole country travels"
 date: 2025-10-05 20:40:00 +0800
-tags: [holidays, travel, october]
 categories: [essay]
 description: "In the first week of October the country's largest annual migration takes place, not for work but for leisure: the National Day holiday, the Golden Week, when tens of millions of families take to the roads, the trains and the skies. A short essay on the biggest shared holiday, the queues it builds, and what the crowds say about the society that makes them."
 ---

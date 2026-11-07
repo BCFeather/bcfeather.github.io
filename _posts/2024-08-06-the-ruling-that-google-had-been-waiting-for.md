@@ -1,7 +1,6 @@
 ---
 title: "The ruling that Google had been waiting for"
 date: 2024-08-06 21:00:00 +0800
-tags: [technology, antitrust, google, law]
 categories: [technology]
 description: "A federal judge found that Google had illegally maintained a monopoly in search. The remedy is still to be decided, and the case will outlast the judge who wrote the opinion."
 ---

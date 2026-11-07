@@ -1,7 +1,6 @@
 ---
 title: "Biden steps aside, Harris steps in"
 date: 2024-07-22 09:48:00 +0800
-tags: [usa, election, biden, harris]
 categories: [news]
 description: "On 21 July Joe Biden withdrew from the 2024 race, ending his re-election bid three months before polling day and immediately endorsing Kamala Harris, after a disastrous June debate turned Democratic opinion firmly against him."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The holiday that falls on a Monday and the calendar that made it"
 date: 2025-01-20 20:45:00 +0800
-tags: [history, calendars, america, essay]
 categories: [culture]
 description: "The American holiday that honours Martin Luther King falls on the third Monday of January, and the rule that puts it there was a compromise. The way a country writes its holidays is a way of writing its history."
 ---

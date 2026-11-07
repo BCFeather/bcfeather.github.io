@@ -1,7 +1,6 @@
 ---
 title: "The truce expires and the tariffs return on schedule"
 date: 2025-06-21 12:18:00 +0800
-tags: [trade, tariffs, china, news]
 categories: [news]
 description: "The thirty-day truce that had opened the trade conflict's most hopeful chapter expired on its scheduled date, and the tariffs returned on schedule: the suspension lifted, the rates restored, and the negotiations that the window had opened left, for the moment, without the agreement that would have made the pause permanent. The window closed without the settlement, and the conflict resumed with the costs that the spring had measured."
 ---

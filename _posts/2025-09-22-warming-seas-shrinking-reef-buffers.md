@@ -1,7 +1,6 @@
 ---
 title: "Warming seas, shrinking reef buffers"
 date: 2025-09-22 09:40:00 +0800
-tags: [climate, coral, ocean]
 categories: [science]
 description: "In the 18 September issue of *Nature*, researchers report that warming is eroding the buffering function of coral reefs, the ability of reefs to absorb wave energy and protect shorelines from storms and erosion. The loss of that buffer is one of the less visible costs of the ocean's warming, and one of the hardest to reverse."
 ---

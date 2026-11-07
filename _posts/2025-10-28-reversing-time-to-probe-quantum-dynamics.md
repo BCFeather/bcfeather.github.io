@@ -1,7 +1,6 @@
 ---
 title: "Reversing time to probe quantum dynamics"
 date: 2025-10-28 09:40:00 +0800
-tags: [quantum, computing, physics]
 categories: [science]
 description: "In the 22 October issue of *Nature*, researchers from Google Quantum AI and collaborators report the observation of constructive interference at the edge of quantum ergodicity, a regime probed by manipulating the dynamics of a quantum system in ways that resemble running its evolution backwards. The result offers a new window on one of the deepest questions in quantum physics: how isolated systems forget, or refuse to forget, their past."
 ---

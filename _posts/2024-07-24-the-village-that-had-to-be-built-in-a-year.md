@@ -1,7 +1,6 @@
 ---
 title: "The village that had to be built in a year"
 date: 2024-07-24 21:30:00 +0800
-tags: [olympics, france, cities, sport]
 categories: [sport]
 description: "The athletes' village north of Paris opened two days before the ceremony. It was built on a former industrial site. The flats inside it will be sold as housing after the Games."
 ---

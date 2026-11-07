@@ -1,7 +1,6 @@
 ---
 title: "Yaogan 45: the 594th Long March flight"
 date: 2025-09-09 20:40:00 +0800
-tags: [space, satellites, china]
 categories: [news]
 description: "On the morning of 9 September, a Long March 7A lifted off from Wenchang carrying the Yaogan 45 satellite, the 594th flight of the Long March series. The satellite is bound for scientific experiments, land resource surveys, crop estimation and disaster prevention, the quiet workhorses of Earth observation."
 ---

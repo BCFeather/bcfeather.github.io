@@ -1,7 +1,6 @@
 ---
 title: "The quarter that the chip company reported"
 date: 2025-02-26 21:35:00 +0800
-tags: [technology, NVIDIA, chips, markets]
 categories: [business]
 description: "NVIDIA reported a quarter of about thirty-nine billion dollars in revenue, almost all of it from the data centre, and the shares fell because the margin guidance was slightly lower than the market expected."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Southern Europe burns: wildfires come early and come hot"
 date: 2026-07-09 19:15:00 +0800
-tags: [wildfires, climate, france, spain]
 categories: [environment]
 description: "A week into July, fires in southern France, Catalonia and Portugal have already forced tens of thousands of people to evacuate. The season is young, the ground is dry, and last year's record burn area is no longer an outlier but a starting point."
 ---

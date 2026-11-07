@@ -1,7 +1,6 @@
 ---
 title: "Short sleeves arrive before the heat does"
 date: 2026-05-04 08:42:00 +0800
-tags: [essay, summer, weather, city]
 categories: [essay]
 description: "A short essay on the first week of May, when the weather has not yet decided to be summer but people have already decided for it. On the small ritual of packing away the jackets and what it says about living ahead of the thermometer."
 ---

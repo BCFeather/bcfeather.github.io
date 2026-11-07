@@ -1,7 +1,6 @@
 ---
 title: "January opens with work: the first week of a heavy year"
 date: 2025-01-04 16:38:00 +0800
-tags: [news, economy, politics, world]
 categories: [news]
 description: "The first working week of 2025 closed with the year already in motion: the markets sold off and recovered, the courts scheduled the big cases, and the political calendar moved toward the inauguration that will dominate the month. The year did not begin with a bang; it began with a schedule, and the schedule was the news."
 ---

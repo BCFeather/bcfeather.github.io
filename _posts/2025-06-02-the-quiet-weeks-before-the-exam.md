@@ -1,7 +1,6 @@
 ---
 title: "The quiet weeks before the exam"
 date: 2025-06-02 21:10:00 +0800
-tags: [education, cities, society, china]
 categories: [society]
 description: "In the first week of June, cities stop pile drivers, pull the loudspeakers off shopfronts and close lanes near a handful of school gates. The restrictions last four days, and they show how much of a city's ordinary machinery still answers to a single test."
 ---

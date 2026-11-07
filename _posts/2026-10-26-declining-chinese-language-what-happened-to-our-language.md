@@ -1,7 +1,6 @@
 ---
 title: "'Declining' Chinese language: what happened to our language?"
 date: 2026-10-26 18:39:00 +0800
-tags: [society, language]
 categories: [essay]
 description: "Chinese isn't fading, but its depth is being tested. The real loss is our habit of thinking and expressing with precision. Language declines only when we stop demanding clarity. What we should become aware of nowadays."
 ---

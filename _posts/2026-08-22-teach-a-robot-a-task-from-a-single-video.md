@@ -1,7 +1,6 @@
 ---
 title: "Teach a robot a task from a single video"
 date: 2026-08-22 15:21:00 +0800
-tags: [robotics, imitation-learning, manipulation]
 categories: [technology]
 description: "A framework called HOST lets a robot pick up a new manipulation skill in about half a minute from a single video of a human doing the task, while keeping the skills it already knows. The result rethinks how much demonstration data a robot actually needs."
 ---

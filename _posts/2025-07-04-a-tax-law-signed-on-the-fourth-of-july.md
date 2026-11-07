@@ -1,7 +1,6 @@
 ---
 title: "A tax law signed on the fourth of July"
 date: 2025-07-04 23:40:00 +0800
-tags: [america, tax, politics, economy]
 categories: [economy]
 description: "The American tax and spending law was signed on 4 July, a date chosen for the photographs rather than for the policy. Its provisions take effect over years, and the arguments about them will be settled in the same way, slowly and in instalments."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The tariff war settles into a routine: the costs that neither side can end"
 date: 2025-03-03 09:26:00 +0800
-tags: [trade, tariffs, economy, news]
 categories: [news]
 description: "The trade conflict that the new year opened entered its third month with the shape that the participants had settled into: the tariffs applied, the countermeasures announced, the negotiations conducted in public through the statements and in private through the channels, and the markets learning to trade the cycle. The war has become a routine, and routines are harder to end than wars."
 ---

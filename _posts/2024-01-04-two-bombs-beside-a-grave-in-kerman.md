@@ -1,7 +1,6 @@
 ---
 title: "Two bombs beside a grave in Kerman"
 date: 2024-01-04 20:52:00 +0800
-tags: [iran, terrorism, islamic-state, kerman]
 categories: [news]
 description: "Two explosions near the grave of Qasem Soleimani in Kerman on 3 January killed nearly a hundred people during a memorial procession, and Islamic State claimed the attack a day later, the deadliest strike inside Iran since the revolution of 1979."
 ---

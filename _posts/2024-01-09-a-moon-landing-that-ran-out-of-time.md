@@ -1,7 +1,6 @@
 ---
 title: "A moon landing that ran out of time"
 date: 2024-01-09 21:06:00 +0800
-tags: [space, nasa, lunar, peregrine, commercial-space]
 categories: [science]
 description: "Astrobotic's Peregrine lander launched towards the moon on 8 January and lost propellant within hours, ending the first American commercial attempt to reach the lunar surface before it left Earth orbit."
 ---

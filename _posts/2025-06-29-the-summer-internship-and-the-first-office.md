@@ -1,7 +1,6 @@
 ---
 title: "The summer internship and the first office"
 date: 2025-06-29 21:05:00 +0800
-tags: [work, students, cities, summer]
 categories: [society]
 description: "Every June a large number of students who have never worked in an office begin a two-month internship at one. What they learn in the first fortnight is mostly about the parts of a workplace that no course covers, and almost none of it will appear on a CV."
 ---

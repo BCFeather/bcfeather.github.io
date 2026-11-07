@@ -1,7 +1,6 @@
 ---
 title: "Heat and patience in the long city summer"
 date: 2026-07-05 20:20:00 +0800
-tags: [essay, summer, heat, city]
 categories: [essay]
 description: "July in the city is a long negotiation with the temperature. A short essay on how heat slows the city down, rearranges its hours, and asks for a kind of patience that the rest of the year does not."
 ---

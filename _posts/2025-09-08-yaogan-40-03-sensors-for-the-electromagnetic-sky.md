@@ -1,7 +1,6 @@
 ---
 title: "Yaogan 40-03: sensors for the electromagnetic sky"
 date: 2025-09-08 09:20:00 +0800
-tags: [space, satellites, china]
 categories: [news]
 description: "In the early hours of 7 September, a Long March 6A lifted off from Taiyuan carrying the Yaogan 40-03 group of satellites, the latest instalment of a series dedicated to electromagnetic environment detection and related technical experiments. A small, quiet launch doing a specialised job."
 ---

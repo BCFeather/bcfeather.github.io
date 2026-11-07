@@ -1,7 +1,6 @@
 ---
 title: "Fengyun 3 08: a weather eye on climate change"
 date: 2025-09-28 09:20:00 +0800
-tags: [space, weather, satellites]
 categories: [news]
 description: "In the early hours of 27 September, a Long March 4C lifted off from Jiuquan carrying the Fengyun 3 08 satellite, a polar-orbiting weather satellite with an added mission: monitoring climate change. The launch extends a decades-long series into a new role, as the operational weather system takes on the longer job of watching the climate."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Desks of the exam season"
 date: 2025-12-17 20:30:00 +0800
-tags: [education, exams, winter]
 categories: [essay]
 description: "In the last weeks of the year, the exam season descends on the universities, and the library becomes a city in miniature, with its own economy of seats, thermoses and timed rituals. A short essay on the study hall in December, and what the desks witness."
 ---

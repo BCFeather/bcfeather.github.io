@@ -1,7 +1,6 @@
 ---
 title: "48-team World Cup opens in Mexico City"
 date: 2026-06-20 21:08:00 +0800
-tags: [football, sport, world-cup-2026, north-america]
 categories: [sport]
 description: "The 2026 World Cup opened on 11 June at the Estadio Ciudad de México, with the hosts beating South Africa 2-0 in front of more than 80,000 fans. A week and a half in, the tournament has already produced its talking points: a 48-team format that is testing what a World Cup is for, and a surprisingly large amount of China."
 ---

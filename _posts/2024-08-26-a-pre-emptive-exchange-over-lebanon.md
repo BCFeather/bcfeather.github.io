@@ -1,7 +1,6 @@
 ---
 title: "A pre-emptive exchange over Lebanon"
 date: 2024-08-26 21:48:00 +0800
-tags: [israel, lebanon, hezbollah, conflict]
 categories: [news]
 description: "On 25 August, Israel struck Hezbollah rocket launchers in Lebanon with roughly a hundred jets hours before an expected attack; Hezbollah responded with rockets and drones, most of which were intercepted."
 ---

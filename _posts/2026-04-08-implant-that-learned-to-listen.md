@@ -1,7 +1,6 @@
 ---
 title: "Implant that learned to listen"
 date: 2026-04-08 18:05:00 +0800
-tags: [neuralink, neuroscience, health, technology]
 categories: [technology]
 description: "Neuralink's third human participant, implanted in February, has reached a decoding rate of more than a hundred words per minute with a new high-density electrode array. The technical progress is real; the harder questions, about who gets this technology and what it is for, have not changed at all."
 ---

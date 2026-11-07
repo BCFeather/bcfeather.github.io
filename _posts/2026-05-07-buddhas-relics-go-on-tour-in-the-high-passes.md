@@ -1,7 +1,6 @@
 ---
 title: "Buddha's relics go on tour in the high passes"
 date: 2026-05-07 09:31:00 +0800
-tags: [culture, buddhism, ladakh, india]
 categories: [news]
 description: "Bone fragments of the Buddha, normally sealed in the National Museum in New Delhi, are on public display across Ladakh from 1 to 14 May, carried in by the air force and received in ceremonial procession. The tour is a religious occasion and a quietly deliberate piece of cultural diplomacy."
 ---

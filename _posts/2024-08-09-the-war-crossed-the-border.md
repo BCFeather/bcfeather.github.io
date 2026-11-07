@@ -1,7 +1,6 @@
 ---
 title: "The war crossed the border"
 date: 2024-08-09 14:05:00 +0800
-tags: [ukraine, russia, war, news]
 categories: [news]
 description: "On the morning of 6 August, Ukrainian forces crossed into the Russian region of Kursk, in what appeared to be the first ground incursion into Russian territory by a foreign army since the Second World War. The operation, which Moscow called a 'large-scale provocation', changed the geography of a war that had been fought on Ukrainian soil for more than two years."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Teaching a model to grade its own homework"
 date: 2024-03-27 10:26:00 +0800
-tags: [ai, llm, alignment]
 categories: [technology]
 description: "A Meta AI paper from January 2024 lets a language model grade its own outputs, generate its own preference data, and improve at both jobs over three rounds. The referee in the alignment loop turns out to be the player."
 ---

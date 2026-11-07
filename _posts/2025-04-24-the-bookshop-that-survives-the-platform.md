@@ -1,7 +1,6 @@
 ---
 title: "The bookshop that survives the platform"
 date: 2025-04-24 20:05:00 +0800
-tags: [books, retail, culture, cities]
 categories: [culture]
 description: "The twenty-third of April is the day for books, and the shops that sell them have spent a decade learning how to live with a platform that discounts every title. The ones that survived changed what they sell."
 ---

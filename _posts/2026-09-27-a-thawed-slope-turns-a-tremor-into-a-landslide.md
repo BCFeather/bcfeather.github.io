@@ -1,7 +1,6 @@
 ---
 title: "A thawed slope turns a tremor into a landslide"
 date: 2026-09-27 10:26:00 +0800
-tags: [earth-science, permafrost, arctic, geohazards]
 categories: [science]
 description: "A *PNAS* study from early September reconstructs how a 6.5-magnitude quake off Arctic Norway set off a giant rock avalanche that buried a glacier. The new ingredient is not the earthquake but the decades of warming that had already weakened the frozen slopes waiting to fail."
 ---

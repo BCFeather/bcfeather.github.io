@@ -1,7 +1,6 @@
 ---
 title: "Telescope that traced fast radio bursts to binary stars"
 date: 2026-01-19 14:32:00 +0800
-tags: [astronomy, space, science, china]
 categories: [science]
 description: "A team led by the Purple Mountain Observatory has used the Five-hundred-metre Aperture Spherical radio Telescope to catch a repeating fast radio burst in the middle of a dramatic change in its Faraday rotation, the closest look yet at the environment that produces these mysterious millisecond flashes."
 ---

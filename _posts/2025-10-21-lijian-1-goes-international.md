@@ -1,7 +1,6 @@
 ---
 title: "Lijian 1 goes international"
 date: 2025-10-21 09:20:00 +0800
-tags: [space, rockets, china]
 categories: [news]
 description: "On 19 October, a Lijian 1 (Kinetica-1) rocket lifted off from the Dongfeng Commercial Aerospace Innovation Zone carrying Pakistan's Yaogan-02 satellite and two Chinese satellites, the first international commercial launch for the vehicle and a new step for the country's commercial launch industry. The flight delivered a foreign customer's payload, and the symbolism is as significant as the payload."
 ---

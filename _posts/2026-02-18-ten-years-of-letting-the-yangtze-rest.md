@@ -1,7 +1,6 @@
 ---
 title: "Ten years of letting the Yangtze rest"
 date: 2026-02-18 09:50:00 +0800
-tags: [ecology, conservation, yangtze, fisheries]
 categories: [science]
 description: "In the 12 February issue of *Science*, Xiong et al. report that the Yangtze fishing ban, in force since 2021, has halted seven decades of biodiversity decline in the river, with fish biomass, body condition and species diversity all improving within three years. The first instalment of a ten-year experiment is in."
 ---

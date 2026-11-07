@@ -1,7 +1,6 @@
 ---
 title: "The year's science and the months of discovery"
 date: 2025-12-18 16:19:00 +0800
-tags: [science, news, review]
 categories: [science]
 description: "The year's scientific record, assembled as the year closes, is the record of the months of discovery that the headlines rarely carried: the research published, the missions flown, the fields advanced, and the institutions that the year's politics could not distract. The record is the year's quieter story, and the story's reading is the science's annual accounting."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Zhuque-3 and the rise of the factory satellite"
 date: 2026-08-20 10:12:00 +0800
-tags: [space, china, reusable-rockets, technology]
 categories: [space]
 description: "On 19 August, the Zhuque-3 rocket lifted off from Dongfeng, landed its first stage on a recovery pad and delivered the Honghu-03 satellite, built around components designed for mass production, into orbit. The flight joined two trends that are reshaping commercial space: reusable launchers and satellites made like products rather than bespoke machines."
 ---

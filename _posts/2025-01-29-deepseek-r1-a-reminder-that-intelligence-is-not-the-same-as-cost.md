@@ -1,7 +1,6 @@
 ---
 title: "DeepSeek R1: a reminder that intelligence is not the same as cost"
 date: 2025-01-29 20:35:00 +0800
-tags: [ai, deepseek, china, technology]
 categories: [technology]
 description: "A low-cost reasoning model from a Hangzhou startup triggered a global rout in AI stocks and a sobering realisation. What the R1 moment says about the industry."
 ---

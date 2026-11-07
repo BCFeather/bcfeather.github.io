@@ -1,7 +1,6 @@
 ---
 title: "White Dew and the first chill"
 date: 2025-09-07 20:40:00 +0800
-tags: [seasons, solar-terms, autumn]
 categories: [essay]
 description: "On 7 September the solar term of White Dew arrives, the first term of autumn to carry a promise of cold, and the season's most delicate hinge: the moment the heat begins, however reluctantly, to let go. A short essay on dew, the turning of the year, and the small signs the old calendar taught people to read."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Octopus skins of light: a camouflage made of colour"
 date: 2026-01-12 09:35:00 +0800
-tags: [materials, photonics, biomimicry]
 categories: [science]
 description: "In the 8 January issue of *Nature*, researchers report soft photonic skins whose texture and colour can be changed on demand, drawing on the same principle octopuses use: not pigment alone, but the manipulation of light itself. The materials point toward displays, camouflage and robots that can signal without electronics."
 ---

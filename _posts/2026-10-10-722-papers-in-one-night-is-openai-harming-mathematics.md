@@ -1,7 +1,6 @@
 ---
 title: "722 papers in one night: is OpenAI harming mathematics?"
 date: 2026-10-10 10:24:00 +0800
-tags: [ai, mathematics, openai, research]
 categories: [science]
 description: "On 6 October 2026, OpenAI put 722 AI-written mathematics papers on GitHub. Several long-open problems appear to have been cracked in hours. What this does to mathematics, and to the people who do it."
 ---

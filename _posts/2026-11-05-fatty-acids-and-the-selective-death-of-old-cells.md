@@ -1,7 +1,6 @@
 ---
 title: "Fatty acids and the selective death of old cells"
 date: 2026-11-05 09:40:00 +0800
-tags: [biology, ageing, metabolism, cell death]
 categories: [science]
 description: "In a paper recently published in *Cell*, an international team led by the University of Eastern Finland reports that the fatty acid DGLA is depleted in senescent cells, and that restoring DGLA, or inhibiting the enzyme that consumes it, triggers iron ferroptosis selectively in senescent cells while sparing healthy ones. Aged mice given oral DGLA showed fewer senescent cells and improved liver and kidney markers, and a Finnish cohort linked a DGLA-boosting gene variant to lower senescence markers in fat tissue."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The price of a bowl of noodles"
 date: 2025-08-05 21:05:00 +0800
-tags: [food, prices, cities, economy]
 categories: [business]
 description: "A bowl of noodles in a city noodle shop is one of the cheapest ways to read an economy. The price on the wall moves slowly, and the movements track rents, wheat and wages in proportions that the customer never sees."
 ---

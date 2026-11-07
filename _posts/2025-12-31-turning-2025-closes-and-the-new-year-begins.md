@@ -1,7 +1,6 @@
 ---
 title: "2025 closes and the new year begins"
 date: 2025-12-31 23:58:00 +0800
-tags: [culture, essay, new-year]
 categories: [culture]
 description: "The year turned in the final minutes of the last day, and the turning carried the record that 2025 has produced into the new year that the calendar will open: the conflicts and the settlements, the decisions and the deferrals, the records and the rituals that the seasons have assembled. The turning is the year's final act, and the final act's keeping is the new year's first ceremony."
 ---

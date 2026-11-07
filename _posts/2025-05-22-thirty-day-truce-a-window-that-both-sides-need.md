@@ -1,7 +1,6 @@
 ---
 title: "Thirty-day truce: a window that both sides need"
 date: 2025-05-22 20:26:00 +0800
-tags: [trade, tariffs, china, news]
 categories: [news]
 description: "The administration announced a thirty-day suspension of the tariffs on the largest trading partner, and the announcement, delivered from the European summit where the world's leaders were gathered, reset the trade conflict that the spring had escalated. The truce's window is short and conditional, and the conditions are the map of the negotiation that the two sides will now have to conduct."
 ---

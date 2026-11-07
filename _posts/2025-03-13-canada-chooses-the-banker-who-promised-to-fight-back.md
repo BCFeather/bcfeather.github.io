@@ -1,7 +1,6 @@
 ---
 title: "Canada chooses the banker who promised to fight back"
 date: 2025-03-13 20:31:00 +0800
-tags: [canada, politics, election, news]
 categories: [news]
 description: "The governing party in Ottawa chose its new leader, a former central banker who ran on the single promise of confronting the American tariff pressure head-on, and the choice reshaped the country's election campaign before it had properly begun. The new leader's appeal is built on the argument that Canada's fight is not with its own divisions but with the pressure from the south, and the argument has given the country a different kind of campaign."
 ---

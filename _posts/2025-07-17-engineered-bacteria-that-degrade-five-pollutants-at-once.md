@@ -1,7 +1,6 @@
 ---
 title: "Engineered bacteria that degrade five pollutants at once"
 date: 2025-07-17 19:11:00 +0800
-tags: [biology, synthetic-biology, bioremediation]
 categories: [science]
 description: "A *Nature* paper published on 7 May 2025 built a strain of *Vibrio natriegens* that simultaneously breaks down five aromatic pollutants in salty wastewater. A close reading of the chassis choice, the five stacked pathways, and what a single engineered microbe can and cannot clean."
 ---

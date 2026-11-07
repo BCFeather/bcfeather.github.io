@@ -1,7 +1,6 @@
 ---
 title: "A chip licence with a fee attached"
 date: 2025-08-14 20:35:00 +0800
-tags: [NVIDIA, semiconductors, export-controls, china]
 categories: [technology]
 description: "NVIDIA agreed to pay the American government a share of the revenue from sales of its China-specific accelerators, in exchange for export licences that had been withheld. The arrangement is new, it is unusual, and it is the first case in which a controls regime has been converted into a revenue stream."
 ---

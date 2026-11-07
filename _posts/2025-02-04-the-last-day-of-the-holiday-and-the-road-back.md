@@ -1,7 +1,6 @@
 ---
 title: "The last day of the holiday and the road back"
 date: 2025-02-04 21:30:00 +0800
-tags: [festivals, transport, china, work]
 categories: [society]
 description: "The holiday ends on the fourth of February, and the journey that a family makes on that day is the one that the whole transport system has been preparing for."
 ---

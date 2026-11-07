@@ -1,7 +1,6 @@
 ---
 title: "Apple's first foldable iPhone is here"
 date: 2026-09-13 21:47:00 +0800
-tags: [apple, iphone, technology, foldables]
 categories: [technology]
 description: "At its 9 September event at Apple Park, Apple unveiled the iPhone 18 Pro, a camera-first flagship, and the iPhone Duo, its first foldable, a 7.6-inch device priced at $1,999. The Duo, built on the two-nanometre A20 Pro, is Apple's entry into the category it spent years watching, and the reviews will decide whether the late arrival is a mistake or a strategy."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The exam results that arrive on the same morning"
 date: 2025-02-24 21:20:00 +0800
-tags: [education, china, exams, students]
 categories: [society]
 description: "The results of the postgraduate entrance examination were released from the twenty-fourth of February, and the morning is a national event with a number attached to it."
 ---

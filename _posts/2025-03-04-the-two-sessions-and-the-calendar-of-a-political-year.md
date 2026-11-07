@@ -1,7 +1,6 @@
 ---
 title: "The two sessions and the calendar of a political year"
 date: 2025-03-04 21:15:00 +0800
-tags: [china, politics, governance, news]
 categories: [news]
 description: "The advisory body opened on the fourth of March and the legislature follows a day later, and the fortnight that follows is the point in the year when the government's plans are stated in public and in numbers. The procedure is fixed, and the fixedness is the point."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The queue outside the tennis club"
 date: 2025-07-02 21:15:00 +0800
-tags: [tennis, sport, britain, summer]
 categories: [sport]
 description: "The oldest tennis tournament in the world keeps a queue instead of a ticket ballot for its standing places. People camp overnight on a field in south-west London for the chance to watch an afternoon of grass-court tennis, and the queue has become as much of an institution as the tournament itself."
 ---

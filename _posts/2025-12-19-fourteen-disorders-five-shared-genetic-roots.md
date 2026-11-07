@@ -1,7 +1,6 @@
 ---
 title: "Fourteen disorders, five shared genetic roots"
 date: 2025-12-19 09:50:00 +0800
-tags: [genetics, psychiatry, medicine]
 categories: [science]
 description: "In the 11 December issue of *Nature*, a genetic screen of more than one million people reports that 14 psychiatric conditions cluster into five groups that share most of their genetic risk, with depression, anxiety and schizophrenia among those most connected. The architecture of mental illness, read through DNA, looks less like a list and more like a map."
 ---

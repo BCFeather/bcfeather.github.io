@@ -1,7 +1,6 @@
 ---
 title: "A third planet imaged around a young star"
 date: 2026-08-16 09:45:00 +0800
-tags: [astronomy, exoplanets, direct-imaging]
 categories: [news]
 description: "Astronomers have directly imaged a third giant planet around Beta Pictoris, the faintest world ever photographed from the ground. The find, hidden in ten years of archives, shows how much is already sitting in the data we have."
 ---

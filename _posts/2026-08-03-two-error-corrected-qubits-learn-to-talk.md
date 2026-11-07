@@ -1,7 +1,6 @@
 ---
 title: "Two error-corrected qubits learn to talk"
 date: 2026-08-03 10:25:00 +0800
-tags: [quantum-computing, error-correction, superconductors]
 categories: [science]
 description: "A superconducting-qubit team has made a pair of distance-three surface-code logical qubits talk to each other, preparing a logical Bell state and running Deutsch-Jozsa inside the error-corrected box. Lattice surgery, not bigger chips, is becoming the practical route to logical computation."
 ---

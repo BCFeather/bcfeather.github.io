@@ -1,7 +1,6 @@
 ---
 title: "RNA copies itself without a catalyst"
 date: 2026-03-03 09:40:00 +0800
-tags: [origin-of-life, rna, chemistry]
 categories: [science]
 description: "In the 12 February issue of *Science*, a team reports short RNA molecules that copy themselves into complementary strands and back again with no enzyme in sight. The finding narrows one of the oldest gaps in the RNA-world hypothesis."
 ---

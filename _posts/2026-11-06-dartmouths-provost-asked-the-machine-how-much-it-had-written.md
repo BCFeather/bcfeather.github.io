@@ -1,7 +1,6 @@
 ---
 title: "Dartmouth's provost asked the machine how much it had written"
 date: 2026-11-06 09:40:00 +0800
-tags: [ai, universities, integrity, disclosure]
 categories: [essay]
 description: "Dartmouth's provost resigned on 28 October after an inquiry found he had used AI in his academic papers and public writing without adequate disclosure, months after publishing an article urging universities to take AI cheating seriously. The episode is less a scandal about one man than a demonstration of how thin the disclosure rules still are."
 ---

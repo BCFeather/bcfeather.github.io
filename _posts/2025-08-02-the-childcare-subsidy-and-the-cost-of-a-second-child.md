@@ -1,7 +1,6 @@
 ---
 title: "The childcare subsidy and the cost of a second child"
 date: 2025-08-02 20:15:00 +0800
-tags: [family, policy, china, demography]
 categories: [society]
 description: "A national subsidy for households with young children was announced at the end of July and pays out from this month. Three thousand six hundred yuan a year is a real transfer and a small fraction of what a child costs, and the gap between those two facts is where the policy debate lives."
 ---

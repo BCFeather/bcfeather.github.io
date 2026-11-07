@@ -1,7 +1,6 @@
 ---
 title: "First hundred hours"
 date: 2025-01-23 14:16:00 +0800
-tags: [politics, united-states, trump, news]
 categories: [news]
 description: "The new administration in Washington completed its first hundred hours in office, and the hundred hours were a compressed version of the agenda that the campaign had promised: the pardons, the executive orders, the withdrawal from the international agreements, and the tariff threats that the markets spent the week pricing. The speed was the message, and the speed has costs that the momentum cannot see."
 ---

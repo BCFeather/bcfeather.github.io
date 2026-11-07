@@ -1,7 +1,6 @@
 ---
 title: "The tariff deadline that arrived early"
 date: 2025-01-25 10:32:00 +0800
-tags: [trade, economy, tariffs, north-america]
 categories: [news]
 description: "The announcement that new tariffs on the country's two land neighbours would take effect on 1 February landed on the final weekend of January with the force of a deadline imposed from nowhere, and the two capitals that had spent the previous weeks negotiating responded with the mixture of defiance and calculation that the moment required. The tariff, if it takes effect, will be the first test of the new trade doctrine."
 ---

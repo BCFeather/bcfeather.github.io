@@ -1,7 +1,6 @@
 ---
 title: "NVIDIA stacks seven chips for the agentic era"
 date: 2026-04-13 09:50:00 +0800
-tags: [nvidia, chips, ai-infrastructure, gpu]
 categories: [news]
 description: "At GTC on 16 March NVIDIA put a seven-chip platform called Vera Rubin into production, built around racks of 72 Rubin GPUs. The build-out behind the next generation of large models."
 ---

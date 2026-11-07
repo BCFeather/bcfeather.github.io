@@ -1,7 +1,6 @@
 ---
 title: "Three nights beside an exam centre"
 date: 2024-06-04 20:30:00 +0800
-tags: [housing, education, prices, cities]
 categories: [business]
 description: "Rooms within walking distance of an exam centre cost several times their normal rate in the first week of June. The market behind that price is small, fixed and entirely predictable."
 ---

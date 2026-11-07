@@ -1,7 +1,6 @@
 ---
 title: "The fare that falls when the holiday ends"
 date: 2025-02-15 20:40:00 +0800
-tags: [transport, aviation, prices, china]
 categories: [business]
 description: "Domestic air fares collapse in the week after the festival, and the fall is a pricing model rather than a discount. The airlines are selling the same seat to a different passenger."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The summer that needs somewhere to go"
 date: 2024-06-29 20:50:00 +0800
-tags: [education, children, cities, china]
 categories: [society]
 description: "The school holidays begin and the households with two working parents have a gap to fill. The holiday services that fill it are cheap, oversubscribed and unevenly distributed."
 ---

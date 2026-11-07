@@ -1,7 +1,6 @@
 ---
 title: "The Bank of Japan holds and the yen keeps the world guessing"
 date: 2025-03-19 20:30:00 +0800
-tags: [japan, central-banks, currencies, economy]
 categories: [economy]
 description: "The Bank of Japan left its policy rate where it was on the nineteenth of March, after a year in which it had finally begun to raise it. The end of the cheapest money in the world is a slow process, and the slow process has consequences everywhere."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The October light and the season's own pace"
 date: 2025-10-18 08:55:00 +0800
-tags: [culture, essay, autumn]
 categories: [culture]
 description: "The middle of October brought the light that the season reserves for itself, the particular slant of the autumn sun that the northern latitudes have always known, and the pace that the light seems to set: the shorter days, the slower afternoons, the year's business conducted in the golden intervals. The season's own pace is the counterpoint to the year's headlines, and the counterpoint is worth the noticing."
 ---

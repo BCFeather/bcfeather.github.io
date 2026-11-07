@@ -1,7 +1,6 @@
 ---
 title: "A billion journeys home"
 date: 2026-02-05 20:40:00 +0800
-tags: [travel, spring-festival, society]
 categories: [essay]
 description: "In early February the Spring Festival travel season begins again, and for a few weeks the country performs its annual act of collective logistics: hundreds of millions of people moving at once, toward the same word, home. A short essay on what the migration reveals about the country that stages it."
 ---

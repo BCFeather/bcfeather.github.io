@@ -1,7 +1,6 @@
 ---
 title: "iPhone 17 arrives, and the upgrade question"
 date: 2025-09-11 09:20:00 +0800
-tags: [apple, smartphones, technology]
 categories: [news]
 description: "On 9 September, Apple introduced the iPhone 17 line at its annual September event, and the reviews that followed have settled into the pattern that smartphone launches have followed for a decade: impressive hardware, incremental changes, and the oldest question in the industry, why upgrade at all? The new generation is a study in how far the plateau has extended."
 ---

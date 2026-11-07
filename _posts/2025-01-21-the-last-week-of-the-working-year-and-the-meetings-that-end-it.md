@@ -1,7 +1,6 @@
 ---
 title: "The last week of the working year and the meetings that end it"
 date: 2025-01-21 20:35:00 +0800
-tags: [work, china, offices, festivals]
 categories: [society]
 description: "The week before the holiday is the week in which an office does its annual accounting, and the meetings that fill it are part review and part ritual."
 ---

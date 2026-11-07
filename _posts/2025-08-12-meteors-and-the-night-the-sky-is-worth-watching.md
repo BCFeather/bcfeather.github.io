@@ -1,7 +1,6 @@
 ---
 title: "Meteors, and the night the sky is worth watching"
 date: 2025-08-12 22:10:00 +0800
-tags: [astronomy, meteors, summer, science]
 categories: [science]
 description: "The Perseid shower peaks in the middle of August, when the nights are warm enough to stand outside and the moon decides whether anyone sees anything. The meteors themselves are dust from a comet that has been on the same orbit for centuries."
 ---

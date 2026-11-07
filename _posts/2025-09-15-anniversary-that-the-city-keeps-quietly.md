@@ -1,7 +1,6 @@
 ---
 title: "Anniversary that the city keeps quietly"
 date: 2025-09-15 07:48:00 +0800
-tags: [culture, essay, remembrance]
 categories: [culture]
 description: "The mid-September anniversary arrived with the particular quiet that the city reserves for it: the names read, the moments of silence observed, and the memorials visited by the families and the officials. Twenty-four years on, the day is kept by the city and the country with the rituals that the grief has established, and the keeping is the part of the anniversary that the coverage cannot improve."
 ---

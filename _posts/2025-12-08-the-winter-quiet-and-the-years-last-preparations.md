@@ -1,7 +1,6 @@
 ---
 title: "The winter quiet and the year's last preparations"
 date: 2025-12-08 17:33:00 +0800
-tags: [culture, essay, winter]
 categories: [culture]
 description: "The second week of December brought the particular quiet that the winter reserves for it: the year's business winding down, the streets taking on the season's light, and the preparations for the holidays and the new year beginning in earnest. The quiet is the year's last pause, and the pause is the season's gift before the turning."
 ---

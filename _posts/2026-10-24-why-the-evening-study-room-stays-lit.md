@@ -1,7 +1,6 @@
 ---
 title: "Why the evening study room stays lit"
 date: 2026-10-24 14:20:00 +0800
-tags: [essay, study, autumn]
 categories: [essay]
 description: "A short essay on the evening study room in late October, the rows of desks under the fluorescent light, and the quiet shared industry that settles over a campus once the days have drawn in."
 ---

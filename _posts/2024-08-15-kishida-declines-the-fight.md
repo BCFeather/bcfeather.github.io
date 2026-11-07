@@ -1,7 +1,6 @@
 ---
 title: "Kishida declines the fight"
 date: 2024-08-15 09:24:00 +0800
-tags: [japan, ldp, kishida, politics]
 categories: [news]
 description: "On 14 August, Fumio Kishida told reporters he would not stand for re-election as leader of the Liberal Democratic Party, clearing the way for a new prime minister in late September after a year of scandal and plummeting support."
 ---

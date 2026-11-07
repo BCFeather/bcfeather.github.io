@@ -1,7 +1,6 @@
 ---
 title: "Two launches open China's space year"
 date: 2026-01-14 09:20:00 +0800
-tags: [space, rockets, china]
 categories: [news]
 description: "On the evening of 13 January, two Chinese rockets lifted off within about an hour of each other, one from Taiyuan carrying the Yaogan-50-01 remote-sensing satellite on the Long March 6A, the other from Hainan carrying the 18th group of low-orbit internet satellites on the Long March 8A. The new space year had opened with a double beat."
 ---

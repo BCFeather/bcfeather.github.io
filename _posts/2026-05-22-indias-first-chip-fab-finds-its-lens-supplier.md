@@ -1,7 +1,6 @@
 ---
 title: "India's first chip fab finds its lens supplier"
 date: 2026-05-22 15:33:00 +0800
-tags: [technology, semiconductors, india, manufacturing]
 categories: [news]
 description: "Tata Electronics and ASML signed an agreement on 16 May to equip India's first front-end semiconductor fab in Dholera, Gujarat, a deal witnessed by the prime ministers of India and the Netherlands. It marks a long-planned project moving from announcement toward actual construction."
 ---

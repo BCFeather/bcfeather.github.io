@@ -1,7 +1,6 @@
 ---
 title: "The half year that closed at five per cent"
 date: 2024-06-30 21:30:00 +0800
-tags: [economy, china, statistics]
 categories: [business]
 description: "The first half of the year grew by five per cent, on a mix of exports, consumption and a shrinking property sector. The number is the target and the composition is the question."
 ---

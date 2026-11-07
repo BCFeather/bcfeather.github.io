@@ -1,7 +1,6 @@
 ---
 title: "A ductile interface keeps solid batteries from cracking"
 date: 2025-12-11 13:15:00 +0800
-tags: [materials, batteries, energy]
 categories: [science]
 description: "Solid-state lithium metal batteries have a brittle interface problem that no electrolyte conductivity fix has solved. A team at Tsinghua SIGS reported a ductile solid electrolyte interphase built from silver sulfide and silver fluoride in *Nature* on 30 October 2025. The interface bends, heals and conducts lithium at high current densities."
 ---

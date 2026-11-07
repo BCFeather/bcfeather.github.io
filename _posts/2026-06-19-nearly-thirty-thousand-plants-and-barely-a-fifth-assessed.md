@@ -1,7 +1,6 @@
 ---
 title: "Nearly thirty thousand plants, and barely a fifth assessed"
 date: 2026-06-19 09:51:00 +0800
-tags: [environment, biodiversity, plants]
 categories: [news]
 description: "Kew's latest State of the World's Plants and Fungi report, out on 16 June, counts nearly 30,000 threatened plant species and warns the true extinction toll is buried in the species no one has assessed. The headline hope is a digital revolution in specimen data."
 ---

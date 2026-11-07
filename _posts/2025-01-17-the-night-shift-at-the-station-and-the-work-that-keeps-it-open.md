@@ -1,7 +1,6 @@
 ---
 title: "The night shift at the station and the work that keeps it open"
 date: 2025-01-17 21:30:00 +0800
-tags: [transport, labour, cities, china]
 categories: [society]
 description: "A large station runs all night in the travel season, and the people who keep it running are the cleaners, the porters, the dispatchers and the police. The night is the part of the journey that the timetable does not describe."
 ---

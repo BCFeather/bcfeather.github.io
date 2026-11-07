@@ -1,7 +1,6 @@
 ---
 title: "Guterres asks countries to quit fossil fuels on a timetable"
 date: 2026-09-24 16:44:00 +0800
-tags: [climate, un, energy, policy]
 categories: [news]
 description: "At the UN Climate Summit in New York on 23 September, the Secretary-General called on every country to publish a dated roadmap for leaving fossil fuels, with the G20 in front. The ask is new, the money target is 1.3 trillion dollars a year by 2035, and the gap between words and grids is the hard part."
 ---

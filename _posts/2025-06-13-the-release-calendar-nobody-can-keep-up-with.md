@@ -1,7 +1,6 @@
 ---
 title: "The release calendar nobody can keep up with"
 date: 2025-06-13 22:40:00 +0800
-tags: [ai, models, industry, technology]
 categories: [technology]
 description: "A new model ships almost every week now, and each one arrives with a benchmark table that is obsolete by the following Friday. The cadence itself has become the product, which is a strange thing for a technology to sell."
 ---

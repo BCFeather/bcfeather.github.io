@@ -1,7 +1,6 @@
 ---
 title: "The last spring term and the rain that comes with it"
 date: 2025-04-20 20:25:00 +0800
-tags: [solar-terms, farming, seasons, essay]
 categories: [essay]
 description: "The term that falls on the twentieth of April is called guyu, the rain of the grain, and it marks the point when the spring sowing is finished and the summer crop begins. The name is a hope about the weather, and the weather has been responding less reliably."
 ---

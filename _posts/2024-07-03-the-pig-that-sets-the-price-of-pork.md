@@ -1,7 +1,6 @@
 ---
 title: "The pig that sets the price of pork"
 date: 2024-07-03 20:40:00 +0800
-tags: [agriculture, prices, china, food]
 categories: [business]
 description: "The price of pork rose through the early summer. The cause sits three quarters earlier, in the number of breeding sows that a farmer decided to keep."
 ---

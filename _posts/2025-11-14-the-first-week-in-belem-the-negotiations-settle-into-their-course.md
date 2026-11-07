@@ -1,7 +1,6 @@
 ---
 title: "The first week in Belém and the negotiations’ settling"
 date: 2025-11-14 18:03:00 +0800
-tags: [climate, cop, news]
 categories: [news]
 description: "The first week of the climate summit in Belém carried the negotiations through their opening rounds: the technical sessions on the texts, the ministerial conversations on the finance, and the coalitions' movements that the gathering's two-week course produces. The week's record is the record of the positions engaged, and the engagement's progress will be measured by the gathering's final days."
 ---

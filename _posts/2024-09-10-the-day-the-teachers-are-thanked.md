@@ -1,7 +1,6 @@
 ---
 title: "The day the teachers are thanked"
 date: 2024-09-10 20:30:00 +0800
-tags: [education, china, teachers]
 categories: [society]
 description: "Teacher's Day was fixed in 1985 and it is marked in every school with flowers, a speech and a red pen. The day celebrates a profession that is short of people in the places that need them most."
 ---

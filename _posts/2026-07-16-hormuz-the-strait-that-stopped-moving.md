@@ -1,7 +1,6 @@
 ---
 title: "Hormuz: the strait that stopped moving"
 date: 2026-07-16 11:48:00 +0800
-tags: [iran, middle-east, shipping, geopolitics]
 categories: [geopolitics]
 description: "Since hostilities between the United States and Iran resumed on 12 July, almost no ships have crossed the Strait of Hormuz. Around 6,000 seafarers are trapped on some 500 vessels moored in the Gulf, and the waterway that carries a fifth of the world's oil is running at a standstill."
 ---

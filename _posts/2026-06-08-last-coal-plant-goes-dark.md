@@ -1,7 +1,6 @@
 ---
 title: "Last coal plant goes dark"
 date: 2026-06-08 19:44:00 +0800
-tags: [energy, climate, coal, news]
 categories: [news]
 description: "Britain's final coal-fired power station stopped generating on 5 June, ending 144 years of burning coal for electricity in the country that started the industrial age on it. The closure is a milestone, and the arguments it settles are fewer than the arguments it opens."
 ---

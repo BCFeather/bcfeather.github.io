@@ -1,7 +1,6 @@
 ---
 title: "A burrowing lizard is left off the protected list"
 date: 2026-05-14 16:38:00 +0800
-tags: [environment, conservation, california, endangered-species]
 categories: [news]
 description: "On 4 May the US Fish and Wildlife Service decided not to list the Temblor legless lizard under the Endangered Species Act, after a petitioned review. The decision is a reminder that protection is a slow, bureaucratic process, and that 'not warranted' is rarely the end of the story."
 ---

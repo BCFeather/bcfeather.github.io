@@ -1,7 +1,6 @@
 ---
 title: "The Louvre closed early: France's second weekend of protest"
 date: 2026-10-25 16:32:00 +0800
-tags: [france, protests, cost-of-living, politics]
 categories: [politics]
 description: On Saturday 24 October the interior ministry counted 410,000 marchers and the unions 800,000. The Louvre, the Opéra and much of Paris's cultural life stayed shut, the shops boarded up, and a week after the worst rioting in years the government's answer was to ban a march it could not stop.
 ---

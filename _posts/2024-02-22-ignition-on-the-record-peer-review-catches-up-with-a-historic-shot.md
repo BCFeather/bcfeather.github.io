@@ -1,7 +1,6 @@
 ---
 title: "Ignition on the record: Peer review catches up with a historic shot"
 date: 2024-02-22 15:43:00 +0800
-tags: [physics, fusion, energy]
 categories: [science]
 description: "A peer-reviewed account of the first laboratory fusion ignition arrived on 5 February 2024, more than a year after the shot itself. What the *Physical Review Letters* paper actually establishes, and what target gain does and does not mean."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Ancient proteins name Denisovan bones in a Chinese cave"
 date: 2026-09-21 11:37:00 +0800
-tags: [genomics, evolution, denisovan, paleontology]
 categories: [science]
 description: "Two *Nature* papers on 9 September identify Denisovan remains from Bianfu Cave in Yunnan, mostly through ancient protein analysis when DNA does not survive. Among more than 60,000 bone fragments, just seven were human, and they are between 167,000 and 134,000 years old."
 ---

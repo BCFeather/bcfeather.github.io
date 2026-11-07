@@ -1,7 +1,6 @@
 ---
 title: "Apple lets the software carry the phone"
 date: 2024-09-12 22:05:00 +0800
-tags: [apple, technology, ai, news]
 categories: [news]
 description: "On 9 September, Apple announced the iPhone 16 at its annual launch event, and the hardware, larger screens and a new camera button, was quickly overshadowed by the software: Apple Intelligence, the company's answer to the generative-AI wave, is now the reason the phone exists. The event marked a shift in what the company thinks it sells."
 ---

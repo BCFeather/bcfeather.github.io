@@ -1,7 +1,6 @@
 ---
 title: "AI race enters the summer with a new phase"
 date: 2025-06-18 19:36:00 +0800
-tags: [technology, ai, news]
 categories: [news]
 description: "The artificial-intelligence industry moved into the summer with the phase shift that the year's developments had been building toward: the models' capabilities climbing, the costs of the frontier training spiralling, and the questions of the energy, the regulation and the deployment becoming the industry's central subjects. The summer's conferences and releases will test whether the industry can sustain the pace that the spring set."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "2026 Nobels: celebrating light, language and the long game"
 date: 2026-10-13 18:45:00 +0800
-tags: [nobel, science, literature, awards]
 categories: [science]
 description: "This year's prizes rewarded work built over decades: optogenetics for seeing neurons fire, the neutrino telescope, a chemist's mirror, a poet's sentences, and the economics of expectations."
 ---

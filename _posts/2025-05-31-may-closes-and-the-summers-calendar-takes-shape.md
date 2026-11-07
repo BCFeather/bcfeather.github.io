@@ -1,7 +1,6 @@
 ---
 title: "May closes and the summer's calendar takes shape"
 date: 2025-05-31 23:07:00 +0800
-tags: [news, review, essay]
 categories: [culture]
 description: "The month that carried the truce, the conclave and the Korean campaign's climax closed with the summer's calendar taking shape: the trade negotiations' deadlines, the election in Seoul, the summits and the sessions that the season will hold. The month's events, read together, were the demonstration of the year's rhythm, and the rhythm is the thing that the summer will now have to keep."
 ---

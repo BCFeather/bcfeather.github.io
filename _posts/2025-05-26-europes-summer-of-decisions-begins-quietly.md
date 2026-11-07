@@ -1,7 +1,6 @@
 ---
 title: "Europe's summer of decisions begins quietly"
 date: 2025-05-26 14:33:00 +0800
-tags: [europe, politics, economy, news]
 categories: [news]
 description: "The European institutions moved into the late spring with the agenda that the year had set: the defence budgets, the trade negotiations, the enlargement questions, and the governance of the continent's largest economies. The summer will be the season of the decisions, and the decisions will be shaped by the forces that the year has made visible: the American redefinition of the alliance, the war on the continent's edge, and the domestic politics of the member states."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Day the markets discovered the tariff math"
 date: 2025-04-03 21:47:00 +0800
-tags: [markets, tariffs, economy, news]
 categories: [news]
 description: "The day after the administration announced its broad tariff programme, the world's markets delivered the arithmetic that the policy had created: the largest single-day sell-off in years, the trillions of dollars in value erased, and the trading desks working through the night to model the new economics. The announcement had been anticipated for weeks; the reaction had not, and the gap between the anticipation and the reaction was the day's real lesson."
 ---

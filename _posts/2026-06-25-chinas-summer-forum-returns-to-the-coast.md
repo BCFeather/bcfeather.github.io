@@ -1,7 +1,6 @@
 ---
 title: "China's summer forum returns to the coast"
 date: 2026-06-25 21:07:00 +0800
-tags: [economy, china, business]
 categories: [news]
 description: "The World Economic Forum's summer meeting opened on 23 June in Dalian, bringing global business and political leaders to a port city on China's northeast coast. The conversation is about growth, energy and open trade, and the phrase on everyone's lips is China opportunity."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The week the blossom comes and the city goes out to see it"
 date: 2025-03-26 20:00:00 +0800
-tags: [essay, cities, seasons, culture]
 categories: [essay]
 description: "The cherry trees in a handful of parks and on one university campus flower for about a week at the end of March, and the city reorganises itself around the forecast. The blossom is a fortnight of crowds, a booking system and a very old habit of looking at flowers."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "GPT-5.5 makes agents the product"
 date: 2026-04-29 19:26:00 +0800
-tags: [ai, openai, technology, agents]
 categories: [technology]
 description: "OpenAI released GPT-5.5 on 23 April, a model designed explicitly for agentic AI: planning complex tasks, using tools and checking its own work, with the same response latency as GPT-5.4 but substantially more intelligence per token. The release is OpenAI's clearest statement yet about where the commercial value of frontier models now sits."
 ---

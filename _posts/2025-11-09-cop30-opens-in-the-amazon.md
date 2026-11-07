@@ -1,7 +1,6 @@
 ---
 title: "COP30 opens in the Amazon"
 date: 2025-11-09 09:20:00 +0800
-tags: [climate, cop, diplomacy]
 categories: [news]
 description: "In early November the world's climate summit arrived in Belém, Brazil, at the mouth of the Amazon, the first COP ever hosted in the rainforest region. The meeting opened with the symbolism of its location and the weight of an unfinished agenda, from climate finance to the gap between promises and plans."
 ---

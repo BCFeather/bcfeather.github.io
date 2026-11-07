@@ -1,7 +1,6 @@
 ---
 title: "Learning to reason in 13 parameters"
 date: 2026-04-03 09:24:00 +0800
-tags: [machine-learning, reasoning, lora, reinforcement-learning]
 categories: [technology]
 description: "A team writing in arXiv in early February trained an 8-billion-parameter model to near its ceiling on GSM8K by tuning only 13 numbers. The result reframes how much of post-training is really necessary."
 ---

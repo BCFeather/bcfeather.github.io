@@ -1,7 +1,6 @@
 ---
 title: "The boats come back before the wind"
 date: 2024-07-19 21:20:00 +0800
-tags: [weather, fishing, china, cities]
 categories: [society]
 description: "A typhoon that forms in the western Pacific gives a fishing port three days to bring its fleet home. The harbour that receives them is smaller than the fleet. The crews sleep on board."
 ---

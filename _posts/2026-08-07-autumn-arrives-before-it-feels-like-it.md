@@ -1,7 +1,6 @@
 ---
 title: "Autumn arrives before it feels like it"
 date: 2026-08-07 16:40:00 +0800
-tags: [essay, autumn, season]
 categories: [essay]
 description: "The calendar turns to the first of the autumn solar terms while the city is still deep in summer. A short piece on how the seasons arrive in the mind before they arrive in the air, and on the small ceremonies that mark them."
 ---

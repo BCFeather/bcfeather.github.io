@@ -1,7 +1,6 @@
 ---
 title: "The Fed's December cut and the caution that came with it"
 date: 2024-12-18 17:42:00 +0800
-tags: [economy, markets, news]
 categories: [news]
 description: "The Federal Reserve lowered its target range by a quarter point on December 18, the third cut of the autumn, but the forecasts that accompanied the decision pointed to a slower path in 2025. The cut was the easy part of the announcement; the caution was the message, and the markets read the caution as the louder one."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "November closes with the year’s decisions delivered"
 date: 2025-11-30 22:25:00 +0800
-tags: [review, essay, news]
 categories: [culture]
 description: "The month of the summit and the holiday closed with the year's decisions delivered: the climate verdict concluded, the trade deadlines met or carried, and the year's record approaching its final form. November's record is the record of the delivery, and the delivery's consequences will be the year's conclusion."
 ---

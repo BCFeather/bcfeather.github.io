@@ -1,7 +1,6 @@
 ---
 title: "The meeting in the Oval Office and the transfer that both sides wanted to show"
 date: 2024-11-13 22:08:00 +0800
-tags: [us, politics, news]
 categories: [news]
 description: "The outgoing president and the president-elect met in the Oval Office on November 13 for a conversation of nearly two hours, the ceremonial meeting of the transfer that the constitution arranges and the country expects. The meeting restored a formality that was skipped four years ago, and the restoration was the quiet demonstration that the institutions, whatever the politics, still hold."
 ---

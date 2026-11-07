@@ -1,7 +1,6 @@
 ---
 title: "Drought breeds drug-resistant soil microbes"
 date: 2026-04-10 14:05:00 +0800
-tags: [microbiology, antibiotic-resistance, climate, soil]
 categories: [science]
 description: "A Caltech team writing in Nature Microbiology on 23 March shows that dry soils harbour more antibiotic producers and more resistance genes, and that aridity lines up with resistant infections in hospitals across 116 countries."
 ---

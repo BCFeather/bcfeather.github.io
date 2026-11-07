@@ -1,7 +1,6 @@
 ---
 title: "App that the court could not save"
 date: 2025-01-19 20:05:00 +0800
-tags: [technology, law, tiktok, united-states]
 categories: [technology]
 description: "The Supreme Court upheld the law that would ban a popular social app unless its owners sold it, and the hours that followed were the strangest the platform has known: the users posting their farewells, the rivals planning their migration, and the company's own engineers preparing the shutdown that none of them wanted. The case was never really about the app; it was about the terms on which the digital world is allowed to operate."
 ---

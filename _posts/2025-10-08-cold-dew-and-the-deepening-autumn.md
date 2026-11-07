@@ -1,7 +1,6 @@
 ---
 title: "Cold Dew and the deepening autumn"
 date: 2025-10-08 20:40:00 +0800
-tags: [seasons, solar-terms, autumn]
 categories: [essay]
 description: "On 8 October the solar term of Cold Dew arrives, the seventeenth station of the old calendar, and the autumn crosses the threshold from pleasant to cold: the dew that gathered in September now carries the weight of the season's end. A short essay on the term, the chrysanthemums it brings out, and the year's long turn toward winter."
 ---

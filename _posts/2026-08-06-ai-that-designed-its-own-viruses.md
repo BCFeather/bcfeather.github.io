@@ -1,7 +1,6 @@
 ---
 title: "AI that designed its own viruses"
 date: 2026-08-06 14:05:00 +0800
-tags: [ai, biology, science, biosecurity]
 categories: [science]
 description: "In a paper published in *Science* on 6 August, researchers used the generative AI models Evo 1 and Evo 2 to design complete bacteriophage genomes from scratch, then built 285 of the designs in the lab. Sixteen worked, and a cocktail of them defeated antibiotic-resistant bacteria that natural phages could not."
 ---

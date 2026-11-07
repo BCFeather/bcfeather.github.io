@@ -1,7 +1,6 @@
 ---
 title: "Notebooks and pencils before term begins"
 date: 2026-08-24 20:14:00 +0800
-tags: [essay, school, stationery]
 categories: [essay]
 description: "A walk past the stationer's shop in the last week of August, when every family is buying notebooks and pencils. On the small commerce of going back to school, and the quiet hope folded into a fresh exercise book."
 ---

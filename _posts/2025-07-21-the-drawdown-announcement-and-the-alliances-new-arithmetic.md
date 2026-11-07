@@ -1,7 +1,6 @@
 ---
 title: "The drawdown announcement and the alliance's new arithmetic"
 date: 2025-07-21 14:06:00 +0800
-tags: [security, europe, united-states, news]
 categories: [news]
 description: "The administration announced the reduction of the forces stationed in Europe, and the announcement landed in the capitals that the alliance's structure has depended on with the force of a structural change: the numbers named, the timelines set, and the questions about the alliance's future opened. The drawdown is the burden-sharing doctrine applied to the alliance's most concrete commitment, and the application's consequences will be measured through the year."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The rider in the heat of the afternoon"
 date: 2025-07-10 20:40:00 +0800
-tags: [labour, delivery, heat, cities]
 categories: [society]
 description: "Delivery platforms pay by the order, and the orders keep arriving when the temperature passes thirty-five. The rules written to protect riders from heat exist on paper in several cities, and the gap between the paper and the app is the subject of this piece."
 ---

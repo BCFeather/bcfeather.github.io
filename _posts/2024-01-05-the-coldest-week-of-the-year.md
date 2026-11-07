@@ -1,7 +1,6 @@
 ---
 title: "The coldest week of the year"
 date: 2024-01-05 19:04:00 +0800
-tags: [chizhou, winter, essay]
 categories: [essay]
 description: "A quiet essay about the first week of January in Chizhou, when the river runs low and grey, the market sells salt fish and coal, and the term's last examinations are close enough to be felt."
 ---

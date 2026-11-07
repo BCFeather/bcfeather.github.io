@@ -1,7 +1,6 @@
 ---
 title: "Davos and the year of the strong"
 date: 2025-01-27 17:55:00 +0800
-tags: [economy, davos, world-economic-forum, news]
 categories: [news]
 description: "The annual gathering of the world's business and political leaders in the Swiss Alps closed its 2025 edition with the themes that the year was already presenting: the return of the strong leaders, the retreat of the global institutions, and the discovery that the certainties of the past decade had been quietly replaced. The conference's value was never the panels; it was the conversations in the corridors, and the corridors this year carried a particular tone."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The Starliner comes home empty"
 date: 2024-08-28 16:52:00 +0800
-tags: [space, nasa, technology, news]
 categories: [news]
 description: "On 24 August, NASA decided that the Boeing Starliner that had carried two astronauts to the space station in June would return to Earth without them, after weeks of uncertainty over its thrusters. Butch Wilmore and Suni Williams, who had expected to stay for eight days, will now come home in a SpaceX capsule next February, and the decision marks the most public failure yet in the commercial space programme."
 ---

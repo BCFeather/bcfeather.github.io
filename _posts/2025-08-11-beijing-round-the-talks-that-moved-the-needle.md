@@ -1,7 +1,6 @@
 ---
 title: "Beijing round: the talks that moved the needle"
 date: 2025-08-11 20:15:00 +0800
-tags: [trade, china, tariffs, news]
 categories: [news]
 description: "The second round of the trade talks concluded in the partner's capital with the reports of the progress that the summer's template had made possible: the framework sketched, the follow-ups scheduled, and the two sides' statements calibrated to the expectations that the negotiations had raised. The round moved the largest file further than the spring's rounds had, and the movement is the measure of the year's trade diplomacy."
 ---

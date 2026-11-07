@@ -1,7 +1,6 @@
 ---
 title: "The tournament opens in Munich"
 date: 2024-06-14 22:40:00 +0800
-tags: [football, europe, sport]
 categories: [sport]
 description: "The European championship opened in Munich with twenty-four teams, ten host cities and a fixture list that runs for a month."
 ---

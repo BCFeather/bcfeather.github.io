@@ -1,7 +1,6 @@
 ---
 title: "Qingming and the journey home"
 date: 2026-04-04 10:15:00 +0800
-tags: [essay, qingming, spring, ritual]
 categories: [essay]
 description: "Once a year the highways fill with people who are not going on holiday. A short essay on the Qingming journey home, the graveside and the quiet arithmetic of memory in early April."
 ---

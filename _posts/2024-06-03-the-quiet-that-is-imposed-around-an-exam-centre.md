@@ -1,7 +1,6 @@
 ---
 title: "The quiet that is imposed around an exam centre"
 date: 2024-06-03 21:05:00 +0800
-tags: [education, cities, noise, china]
 categories: [society]
 description: "Before the university entrance exam a city suspends construction, diverts traffic and asks shops to lower their speakers. The rules describe what a city is willing to stop for."
 ---

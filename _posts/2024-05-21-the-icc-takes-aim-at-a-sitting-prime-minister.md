@@ -1,7 +1,6 @@
 ---
 title: "The ICC takes aim at a sitting prime minister"
 date: 2024-05-21 13:09:00 +0800
-tags: [icc, israel, gaza, international-law, war]
 categories: [news]
 description: "On 20 May, the chief prosecutor of the International Criminal Court requested arrest warrants for Benjamin Netanyahu, Yoav Gallant and three Hamas leaders over the Gaza war, testing the court's reach into an active conflict and dividing its supporters."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Testing models at the frontier of human knowledge: Humanity's Last Exam"
 date: 2026-04-30 14:08:00 +0800
-tags: [ai, llm, benchmark]
 categories: [technology]
 description: "Humanity's Last Exam, released by the Center for AI Safety and Scale AI in January 2025, asks 2,500 expert-grade questions that no current model can answer. What its design reveals about measuring what machines still do not know."
 ---

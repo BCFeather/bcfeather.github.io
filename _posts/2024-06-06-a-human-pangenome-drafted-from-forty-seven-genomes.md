@@ -1,7 +1,6 @@
 ---
 title: "A human pangenome, drafted from forty-seven genomes"
 date: 2024-06-06 09:14:00 +0800
-tags: [biology, genomics, dna]
 categories: [science]
 description: "The Human Pangenome Reference Consortium released its first draft on 10 May 2023, built from 47 phased diploid genomes. The linear reference genome, biased toward a handful of people, finally gains a map of human variation."
 ---

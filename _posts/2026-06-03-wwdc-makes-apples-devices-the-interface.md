@@ -1,7 +1,6 @@
 ---
 title: "WWDC makes Apple's devices the interface"
 date: 2026-06-03 09:57:00 +0800
-tags: [apple, wwdc, ai, technology]
 categories: [technology]
 description: "Apple's developer conference on 2 June was built around on-device intelligence, with a new silicon architecture that keeps most of the AI workload inside the phone and a set of system features that assume the model is always present. The strategy is a bet that privacy is the differentiator, and the trade-offs are becoming visible."
 ---

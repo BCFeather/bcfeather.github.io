@@ -1,7 +1,6 @@
 ---
 title: "The typhoon season and the arithmetic of warnings"
 date: 2025-07-08 22:05:00 +0800
-tags: [typhoons, weather, china, risk]
 categories: [science]
 description: "July is when the western Pacific starts producing storms at a rate that the forecast offices can barely keep up with. A warning is not a prediction of damage. It is a decision about how many people to move, made under uncertainty and paid for either way."
 ---

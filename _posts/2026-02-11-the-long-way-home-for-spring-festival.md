@@ -1,7 +1,6 @@
 ---
 title: "The long way home for Spring Festival"
 date: 2026-02-11 10:54:00 +0800
-tags: [essay, spring-festival, home, china]
 categories: [essay]
 description: "A week before the new year, the city I grew up in puts on its annual dress rehearsal for reunion. A short essay on Spring Festival in Chizhou, and what the holiday asks of a family that is about to send its only child away to university."
 ---

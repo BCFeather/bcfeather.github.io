@@ -1,7 +1,6 @@
 ---
 title: "G7 foreign ministers gather near Paris"
 date: 2026-04-02 08:30:00 +0800
-tags: [diplomacy, g7, europe, middle-east]
 categories: [news]
 description: "The first G7 foreign ministers' meeting of the French presidency opened at an abbey outside Paris on 26 March, with a statement on Iran and a pledge to rebuild the Chernobyl shelter. A look at what a small club can still agree on."
 ---

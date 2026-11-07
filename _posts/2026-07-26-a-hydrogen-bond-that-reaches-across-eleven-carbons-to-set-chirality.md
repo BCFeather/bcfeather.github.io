@@ -1,7 +1,6 @@
 ---
 title: "A hydrogen bond that reaches across eleven carbons to set chirality"
 date: 2026-07-26 15:15:00 +0800
-tags: [chemistry, catalysis, asymmetry, synthesis]
 categories: [science]
 description: "A team at the Shanghai Institute of Organic Chemistry writing in *Nature Catalysis* on 10 July reports a copper-catalysed asymmetric cyanation of unstabilized alkyl radicals, using a Box-OH ligand whose remote hydrogen bond controls stereochemistry up to 11 bonds away. Yields reach 95 per cent enantiomeric excess from unactivated alkenes and 96 per cent from C-H bonds."
 ---

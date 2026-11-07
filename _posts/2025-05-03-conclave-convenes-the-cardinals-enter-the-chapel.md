@@ -1,7 +1,6 @@
 ---
 title: "Conclave convenes: the cardinals enter the chapel"
 date: 2025-05-03 09:48:00 +0800
-tags: [vatican, pope, conclave, news]
 categories: [news]
 description: "The cardinals of the church gathered in Rome in the first days of May, and the gathering moved, with the rituals that the centuries have fixed, toward the conclave that will choose the successor to the pope who died in April. The electors' deliberations have been the subject of the speculation that the rare event invites, and the speculation will end when the smoke rises from the chapel's chimney."
 ---

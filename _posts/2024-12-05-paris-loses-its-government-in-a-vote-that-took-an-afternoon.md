@@ -1,7 +1,6 @@
 ---
 title: "Paris loses its government in a vote that took an afternoon"
 date: 2024-12-05 14:27:00 +0800
-tags: [france, politics, news]
 categories: [news]
 description: "On the evening of 4 December, the National Assembly in Paris voted three hundred and thirty-one to bring down the government of Michel Barnier, the first no-confidence dismissal since 1962 and the shortest-lived government of the Fifth Republic. The vote was a budget argument conducted as a constitutional event, and the country is left with the winter's hardest arithmetic."
 ---

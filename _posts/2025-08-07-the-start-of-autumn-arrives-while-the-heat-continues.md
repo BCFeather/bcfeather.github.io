@@ -1,7 +1,6 @@
 ---
 title: "The start of autumn arrives while the heat continues"
 date: 2025-08-07 20:50:00 +0800
-tags: [essay, seasons, heat, calendar]
 categories: [essay]
 description: "The calendar says autumn begins on the seventh of August, and the thermometer disagrees for another three weeks. The gap between the two is the most reliable thing about this season, and it has its own traditions, its own diet and its own small disappointments."
 ---

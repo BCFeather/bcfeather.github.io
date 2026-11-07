@@ -1,7 +1,6 @@
 ---
 title: "The rooftop that became a power station"
 date: 2025-04-27 20:45:00 +0800
-tags: [energy, solar, households, china]
 categories: [economy]
 description: "A household that puts panels on its roof becomes a small generator, and the rules that decide what its electricity is worth have been changing. The arithmetic that made the panels attractive is being rewritten in the middle of the investment."
 ---

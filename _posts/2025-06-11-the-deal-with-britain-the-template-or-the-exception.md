@@ -1,7 +1,6 @@
 ---
 title: "The deal with Britain: the template or the exception"
 date: 2025-06-11 17:29:00 +0800
-tags: [trade, britain, tariffs, news]
 categories: [news]
 description: "The first trade agreement of the new tariff era was signed in the second week of June, with the two governments announcing the deal that the negotiations had produced and the coverage asking the question that the deal invites: whether the agreement is the template for the year's other negotiations or the exception that the special relationship allowed. The answer will be written by the talks that follow."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The first long weekend of the year"
 date: 2025-05-02 18:40:00 +0800
-tags: [essay, holiday, travel, cities]
 categories: [essay]
 description: "The Labour Day holiday gives the country five days off in a row, and the way people spend them says more about the year than the calendar does. A short essay on queues, hotels and the peculiar arithmetic of a break that everyone takes at once."
 ---

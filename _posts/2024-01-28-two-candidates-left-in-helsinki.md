@@ -1,7 +1,6 @@
 ---
 title: "Two candidates left in Helsinki"
 date: 2024-01-28 21:05:00 +0800
-tags: [finland, election, stubb, haavisto, politics]
 categories: [news]
 description: "Finland's presidential election on 28 January sent Alexander Stubb and Pekka Haavisto to a second round on 11 February, after a campaign dominated by the country's new membership in NATO and its long border with Russia."
 ---

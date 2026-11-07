@@ -1,7 +1,6 @@
 ---
 title: "May in the riverside town"
 date: 2024-05-25 08:36:00 +0800
-tags: [essay, hometown, seasons, school]
 categories: [essay]
 description: "A quiet essay about May in Chizhou, a small city on the Yangtze, where the river rises before the rains, the classroom windows stay open late, and the first heat of the year arrives with the sound of cicadas still learning their song."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The first of March is still winter"
 date: 2025-03-01 08:40:00 +0800
-tags: [essay, seasons, cities, weather]
 categories: [essay]
 description: "March opens with three calendars disagreeing about whether spring has started. The meteorological one begins today, the astronomical one waits for the equinox, and the solar terms put the thaw somewhere in between. The weather meanwhile follows none of them."
 ---

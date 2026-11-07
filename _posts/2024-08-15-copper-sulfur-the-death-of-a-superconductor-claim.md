@@ -1,7 +1,6 @@
 ---
 title: "Copper sulfur: the death of a superconductor claim"
 date: 2024-08-15 07:32:00 +0800
-tags: [materials, superconductivity, chemistry]
 categories: [science]
 description: "In November 2023 a Chinese team traced LK-99's apparent resistive drop to a first-order phase transition in a copper sulfide impurity near 385 kelvin. The summer's room-temperature superconductor claim, explained."
 ---

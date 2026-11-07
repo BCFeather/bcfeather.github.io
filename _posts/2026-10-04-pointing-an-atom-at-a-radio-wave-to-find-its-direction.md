@@ -1,7 +1,6 @@
 ---
 title: "Pointing an atom at a radio wave to find its direction"
 date: 2026-10-04 10:14:00 +0800
-tags: [physics, atomic-physics, sensing]
 categories: [science]
 description: "A team from Boulder and NIST writing on arXiv in September uses the light-shifted spectra of Rydberg atoms in a single glass cell to work out where a radio wave is coming from, without measuring its phase or using several antennas. Why atom-based sensors may reshape direction-finding."
 ---

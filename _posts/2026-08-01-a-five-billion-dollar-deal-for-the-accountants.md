@@ -1,7 +1,6 @@
 ---
 title: "A five-billion-dollar deal for the accountants"
 date: 2026-08-01 09:12:00 +0800
-tags: [business, mergers, accounting]
 categories: [news]
 description: "Grant Thornton Advisors, backed by New Mountain Capital, agreed on 29 July to buy CBIZ for about five billion dollars, a pairing of two middle-market accounting and advisory firms. The deal is a reminder that consolidation in professional services has its own logic, separate from the tech headlines."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The insects wake and the farm calendar begins"
 date: 2025-03-05 20:50:00 +0800
-tags: [solar-terms, farming, seasons, essay]
 categories: [essay]
 description: "The solar term that falls on the fifth of March marks the awakening of the insects and the start of the spring ploughing. The calendar it belongs to was built on what a farmer could see, and the things a farmer can see have moved."
 ---

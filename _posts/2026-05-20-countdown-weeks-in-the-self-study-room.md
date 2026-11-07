@@ -1,7 +1,6 @@
 ---
 title: "Countdown weeks in the self-study room"
 date: 2026-05-20 09:18:00 +0800
-tags: [essay, gaokao, study, students]
 categories: [essay]
 description: "A short essay on the two weeks before the big exam, and on the self-study room as a room apart: the same desks, the same fluorescent light, the strange collective discipline of counting down together."
 ---

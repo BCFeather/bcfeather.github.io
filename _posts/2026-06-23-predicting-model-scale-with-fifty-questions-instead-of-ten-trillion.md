@@ -1,7 +1,6 @@
 ---
 title: "Predicting model scale with fifty questions instead of ten trillion"
 date: 2026-06-23 13:19:00 +0800
-tags: [machine-learning, scaling-laws, evaluation]
 categories: [technology]
 description: "A Stanford team writing in *arXiv* has borrowed item-response theory from exam testing to estimate how language models scale, reaching the same predictions from 50 questions per benchmark instead of tens of thousands. The trick treats models as students and questions as items."
 ---

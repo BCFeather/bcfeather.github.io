@@ -1,7 +1,6 @@
 ---
 title: "September closes and the autumn begins in earnest"
 date: 2025-09-30 22:56:00 +0800
-tags: [review, essay, news]
 categories: [culture]
 description: "The month that opened with the trade clock turning and closed with the assembly's work returned to its channels was the autumn's first full chapter: the negotiations moved, the decisions were made, and the calendar's remaining events took their places. September's record is the record of the transition, and the transition is the part that the year's final quarter will test."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Samsung's foldables grow an Ultra"
 date: 2026-08-18 20:41:00 +0800
-tags: [samsung, smartphones, technology, foldables]
 categories: [technology]
 description: "At its July Unpacked event, Samsung unveiled its most complete foldable lineup yet, led by the Galaxy Z Fold8 Ultra, a device that trades the usual compromises of foldables for an eight-inch workspace and a 200-megapixel camera. With the lineup now shipping, the question is whether foldables have finally become the premium default rather than the experiment."
 ---

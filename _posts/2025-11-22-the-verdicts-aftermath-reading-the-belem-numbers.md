@@ -1,7 +1,6 @@
 ---
 title: "The verdict's aftermath: reading the Belém numbers"
 date: 2025-11-22 14:36:00 +0800
-tags: [climate, cop, news]
 categories: [news]
 description: "The days after the Belém summit closed brought the reading that the gathering's verdict requires: the finance numbers weighed against the year's needs, the texts' implications traced through the mechanisms, and the parties' statements parsed for the commitments that the implementation will test. The aftermath is where the summit's meaning is actually settled, and the settling is the coverage that follows the ceremonies."
 ---

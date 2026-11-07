@@ -1,7 +1,6 @@
 ---
 title: "The supermarket before the eve and the price of a vegetable"
 date: 2025-01-26 21:40:00 +0800
-tags: [food, retail, prices, festivals]
 categories: [society]
 description: "The two days before the festival eve are the busiest of the year in a supermarket, and the price of a leaf vegetable is the number that tells a household how the year has gone."
 ---

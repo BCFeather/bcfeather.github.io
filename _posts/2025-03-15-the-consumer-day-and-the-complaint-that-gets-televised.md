@@ -1,7 +1,6 @@
 ---
 title: "The consumer day and the complaint that gets televised"
 date: 2025-03-15 22:00:00 +0800
-tags: [consumers, retail, regulation, news]
 categories: [society]
 description: "The fifteenth of March is the day for consumer complaints, and the evening programme that broadcasts the worst of them has become an institution. The companies it names are punished within hours, and the question is what happens to the ones it does not name."
 ---

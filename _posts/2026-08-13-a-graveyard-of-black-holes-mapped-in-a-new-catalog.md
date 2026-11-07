@@ -1,7 +1,6 @@
 ---
 title: "A graveyard of black holes, mapped in a new catalog"
 date: 2026-08-13 20:47:00 +0800
-tags: [physics, gravitational-waves, astronomy]
 categories: [science]
 description: "On 26 August 2025 the LIGO-Virgo-KAGRA network released GWTC-4.0, adding 128 new gravitational-wave candidates from the first part of its fourth observing run. What the expanded stellar graveyard reveals about the black holes the universe is actually making."
 ---

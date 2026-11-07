@@ -1,7 +1,6 @@
 ---
 title: "The pact that the general assembly adopted"
 date: 2024-09-23 22:00:00 +0800
-tags: [united-nations, diplomacy, climate]
 categories: [world]
 description: "The summit before the general debate produced a document of fifty-six pages. It commits the members to changes that the members themselves will have to make, which is the limit of what a pact can do."
 ---

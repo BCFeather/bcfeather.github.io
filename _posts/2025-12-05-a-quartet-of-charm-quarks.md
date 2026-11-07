@@ -1,7 +1,6 @@
 ---
 title: "A quartet of charm quarks"
 date: 2025-12-05 09:40:00 +0800
-tags: [particle-physics, quarks, lhc]
 categories: [science]
 description: "In the 4 December issue of *Nature*, the CMS Collaboration reports measurements of exotic particles made of four charm quarks, the all-charm tetraquarks, offering a new test of the force that binds protons and neutrons together. The results probe one of the least understood corners of the strong interaction."
 ---

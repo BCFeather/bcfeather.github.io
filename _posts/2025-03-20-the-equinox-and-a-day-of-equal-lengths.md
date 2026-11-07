@@ -1,7 +1,6 @@
 ---
 title: "The equinox and a day of equal lengths"
 date: 2025-03-20 21:05:00 +0800
-tags: [astronomy, seasons, essay, science]
 categories: [science]
 description: "The sun crosses the celestial equator on the twentieth of March, and the day and the night are supposed to be equal. They are not quite, and the reason is the way the atmosphere bends the light and the way a day is counted."
 ---

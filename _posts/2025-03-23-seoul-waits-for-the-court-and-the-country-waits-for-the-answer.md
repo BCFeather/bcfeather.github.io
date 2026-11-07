@@ -1,7 +1,6 @@
 ---
 title: "Seoul waits for the court and the country waits for the answer"
 date: 2025-03-23 19:14:00 +0800
-tags: [korea, impeachment, politics, news]
 categories: [news]
 description: "The constitutional court in Seoul entered the final phase of its deliberations on the impeachment of the suspended president, with the decision expected within weeks and the country's attention fixed on the calendar. The case has become the country's winter-long conversation, and the conversation has reached the point where the answer, whichever way it goes, will reshape the politics of the year."
 ---

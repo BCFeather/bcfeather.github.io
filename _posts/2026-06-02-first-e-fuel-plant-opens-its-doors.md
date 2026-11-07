@@ -1,7 +1,6 @@
 ---
 title: "First e-fuel plant opens its doors"
 date: 2026-06-02 18:55:00 +0800
-tags: [energy, climate, technology, transport]
 categories: [technology]
 description: "The first commercial plant making synthetic fuel from renewable electricity and captured carbon opened in southern Germany on 1 June, with a capacity that is small, symbolic and enough to test the question the whole industry is circling: whether e-fuels can ever escape the laboratory of the demonstration project."
 ---

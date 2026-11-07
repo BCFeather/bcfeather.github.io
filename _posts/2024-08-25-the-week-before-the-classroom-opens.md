@@ -1,7 +1,6 @@
 ---
 title: "The week before the classroom opens"
 date: 2024-08-25 21:30:00 +0800
-tags: [education, china, cities, retail]
 categories: [society]
 description: "The last week of August is when a household buys what a school year needs. The shops that sell it work a season of ten days, and the queues are longer than the ones in the sales."
 ---

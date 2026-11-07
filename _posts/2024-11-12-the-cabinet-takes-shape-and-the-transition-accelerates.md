@@ -1,7 +1,6 @@
 ---
 title: "The cabinet takes shape and the transition accelerates"
 date: 2024-11-12 18:52:00 +0800
-tags: [us, politics, news]
 categories: [news]
 description: "In the week after the election, the president-elect filled his cabinet at a pace that surprised the capital: the television host chosen for the Pentagon, the social platform owner placed at the head of a new efficiency commission, and the senators and governors picked to run the departments. The picks are loyalists first and administrators second, and the speed is the signal."
 ---

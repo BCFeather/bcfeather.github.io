@@ -1,7 +1,6 @@
 ---
 title: "Shots at a rally in Butler, Pennsylvania"
 date: 2024-07-14 09:18:00 +0800
-tags: [usa, trump, rally, security]
 categories: [news]
 description: "On 13 July a gunman opened fire on a Donald Trump rally in Butler, Pennsylvania, wounding the former president on the ear, killing one spectator and wounding two others before he was shot dead by a Secret Service counter-sniper."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "A four-step history of the mammalian jaw"
 date: 2025-11-16 09:40:00 +0800
-tags: [palaeontology, evolution, mammals]
 categories: [science]
 description: "In the 13 November issue of *Nature*, researchers use fossils from Sichuan and Yunnan to reconstruct the evolution of the mammalian jaw in four stages, showing that the transformation of jaw bones into ear bones happened along multiple independent routes. The study turns a textbook story into a branching history."
 ---

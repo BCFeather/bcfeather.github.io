@@ -1,7 +1,6 @@
 ---
 title: "The winter games open and the snow that has to be made"
 date: 2025-02-07 21:20:00 +0800
-tags: [sport, winter, china, events]
 categories: [sport]
 description: "The Asian winter games opened in Harbin on the seventh of February, and the snow on the slopes is a manufactured product as much as a weather event."
 ---

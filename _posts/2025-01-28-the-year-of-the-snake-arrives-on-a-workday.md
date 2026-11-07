@@ -1,7 +1,6 @@
 ---
 title: "The Year of the Snake arrives on a workday: the shortest festival"
 date: 2025-01-28 19:41:00 +0800
-tags: [culture, china, spring-festival, essay]
 categories: [culture]
 description: "The Lunar New Year fell on 29 January this year, a Wednesday, and the timing made the holiday a compressed ritual for most of the country: the trains full, the family tables set, and the work schedule bending around the oldest date on the calendar. The Year of the Snake arrived with the particular irony that the busiest travel season in the world was also the shortest."
 ---

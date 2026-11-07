@@ -1,7 +1,6 @@
 ---
 title: "An oral obesity pill is among six drugs backed in Europe"
 date: 2026-10-16 15:12:00 +0800
-tags: [health, medicine, europe]
 categories: [news]
 description: "Europe's drug regulators recommended six new medicines at their October meeting, including an once-daily oral GLP-1 tablet for weight loss and diabetes and a new targeted drug for metastatic pancreatic cancer. The session also moved an overdose nasal spray to over-the-counter status."
 ---

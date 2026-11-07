@@ -1,7 +1,6 @@
 ---
 title: "Giant crystals from the young Earth's magma ocean"
 date: 2026-01-23 10:05:00 +0800
-tags: [geoscience, planets, mineralogy]
 categories: [science]
 description: "In the 21 January issue of *Nature*, a team led by Northwestern Polytechnical University reports that bridgmanite, the main mineral of the lower mantle, can crystallise into giants centimetres to metres across in a deep magma ocean, reshaping the standard picture of how the young Earth solidified."
 ---

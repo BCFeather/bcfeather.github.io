@@ -1,7 +1,6 @@
 ---
 title: "At the liver congress, an entry inhibitor reports back"
 date: 2025-05-10 11:05:00 +0800
-tags: [hepatitis-b, medicine, clinical-trials, virology]
 categories: [health]
 description: "At the European Association for the Study of the Liver congress in Amsterdam this week, a Chinese team presented phase 2 results for an entry inhibitor against chronic hepatitis B. The strategy targets the first step of infection, which is also the step that existing drugs cannot reach."
 ---

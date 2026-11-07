@@ -1,7 +1,6 @@
 ---
 title: "A market for used things"
 date: 2025-11-20 20:15:00 +0800
-tags: [consumption, second-hand, sustainability]
 categories: [essay]
 description: "The resale of used goods has grown from a fringe habit into a mainstream market, powered by apps, trust systems and a generation that treats ownership more lightly. A short essay on what the second-hand boom reveals about value, waste and the economics of everything old."
 ---

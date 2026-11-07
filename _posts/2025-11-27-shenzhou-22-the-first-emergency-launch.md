@@ -1,7 +1,6 @@
 ---
 title: "Shenzhou 22, the first emergency launch"
 date: 2025-11-27 09:20:00 +0800
-tags: [space, chinese-space-programme, emergency]
 categories: [news]
 description: "On 25 November, the Shenzhou 22 spacecraft lifted off from Jiuquan on a mission unlike any before it in the Chinese human spaceflight programme: an emergency launch, flown in sixteen days, to replace the return vehicle for the crew aboard the Tiangong station. The docking, three and a half hours after liftoff, closed the loop on a test of readiness."
 ---

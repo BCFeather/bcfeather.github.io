@@ -1,7 +1,6 @@
 ---
 title: "A black hole collision, the strongest yet"
 date: 2025-09-14 09:40:00 +0800
-tags: [physics, black-holes, gravitational-waves]
 categories: [science]
 description: "On 10 September, physicists announced the strongest gravitational wave signal yet recorded, the collision of two black holes in a distant galaxy so violent that it confirms one of the most celebrated predictions in the field: that the area of a black hole can only grow, never shrink. The observation vindicates Einstein's general relativity and a theorem derived from it by Stephen Hawking."
 ---

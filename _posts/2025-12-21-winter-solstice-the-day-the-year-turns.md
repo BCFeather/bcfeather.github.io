@@ -1,7 +1,6 @@
 ---
 title: "Winter solstice: the day the year turns"
 date: 2025-12-21 20:40:00 +0800
-tags: [seasons, festivals, culture]
 categories: [essay]
 description: "On 21 December the sun stands still at the southernmost point of its journey, the shortest day and the longest night of the year, and the winter solstice brings with it an old Chinese conviction: that the year's fortune turns here. A short essay on the shortest day, the dumplings and the long, patient logic of the season."
 ---

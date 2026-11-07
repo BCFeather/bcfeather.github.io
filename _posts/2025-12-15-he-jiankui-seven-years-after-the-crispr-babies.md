@@ -1,7 +1,6 @@
 ---
 title: "He Jiankui, seven years after the CRISPR babies"
 date: 2025-12-15 09:40:00 +0800
-tags: [gene-editing, ethics, crispr]
 categories: [news]
 description: "In December, a profile in the Financial Times found He Jiankui standing in an art gallery in Beijing, seven years after he announced the birth of the world's first gene-edited babies and was sent to prison for it. The story of his rise, his conviction and his return to the public eye is also the story of the questions the CRISPR babies left unanswered."
 ---

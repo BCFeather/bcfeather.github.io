@@ -1,7 +1,6 @@
 ---
 title: "Launch pads of Boca Chica never go quiet"
 date: 2026-03-05 09:14:00 +0800
-tags: [space, spacex, rockets, technology]
 categories: [technology]
 description: "In the first week of March, SpaceX flew Starship for the eleventh time in twelve months, and the pace has stopped being news. What was once a spectacle is now a production line, and that quiet normalisation may be the most consequential thing about it."
 ---

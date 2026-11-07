@@ -1,7 +1,6 @@
 ---
 title: "The grid in the hottest week"
 date: 2024-06-23 21:20:00 +0800
-tags: [energy, weather, cities, china]
 categories: [science]
 description: "A heat wave pushes the national power load past a record. The peak is set in the late afternoon, and the reserve that covers it is thinner than the annual report suggests."
 ---

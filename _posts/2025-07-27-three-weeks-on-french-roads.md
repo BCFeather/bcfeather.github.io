@@ -1,7 +1,6 @@
 ---
 title: "Three weeks on French roads"
 date: 2025-07-27 21:40:00 +0800
-tags: [cycling, sport, france, summer]
 categories: [sport]
 description: "The Tour de France ends in Paris on the last Sunday of July, after three weeks in which a small number of riders and a very large number of spectators occupy the same roads. The race has changed more than its route, and the changes are mostly about who is watching."
 ---

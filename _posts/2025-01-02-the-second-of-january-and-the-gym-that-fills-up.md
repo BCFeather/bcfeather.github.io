@@ -1,7 +1,6 @@
 ---
 title: "The second of January and the gym that fills up"
 date: 2025-01-02 21:10:00 +0800
-tags: [fitness, cities, business, essay]
 categories: [society]
 description: "The first working day of the year is also the busiest day at a gym, and the rush that arrives in the first week of January is a business problem dressed as a personal one."
 ---

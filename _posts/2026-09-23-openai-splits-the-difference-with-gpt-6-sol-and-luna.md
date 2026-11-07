@@ -1,7 +1,6 @@
 ---
 title: "OpenAI splits the difference with GPT-6 Sol and Luna"
 date: 2026-09-23 17:32:00 +0800
-tags: [ai, openai, technology, models]
 categories: [technology]
 description: "On 22 September, OpenAI released two new reasoning models, GPT-6 Sol and GPT-6 Luna, with the same core ability and different costs, one aimed at enterprises and the other at consumers. The release marks the first time the company has split a generation into two models by price rather than by capability, and the pricing structure is a bet on the economics of AI scaling."
 ---

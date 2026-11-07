@@ -1,7 +1,6 @@
 ---
 title: "Bread and candles the night before the typhoon"
 date: 2026-08-31 18:26:00 +0800
-tags: [essay, typhoon, preparedness]
 categories: [essay]
 description: "The evening before a typhoon makes landfall, the whole city goes shopping for water, bread and candles. A piece on the small collective ritual of bracing for a storm, and why it is done with such quiet good humour."
 ---

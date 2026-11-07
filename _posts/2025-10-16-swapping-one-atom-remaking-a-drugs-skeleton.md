@@ -1,7 +1,6 @@
 ---
 title: "Swapping one atom, remaking a drug's skeleton"
 date: 2025-10-16 09:40:00 +0800
-tags: [chemistry, drugs, synthesis]
 categories: [science]
 description: "In the 15 October issue of *Nature*, a team led by researchers at NUS reports a general strategy for swapping atoms within the ring structures at the heart of countless drugs, replacing one atom for another inside saturated four-membered rings. The approach offers chemists a new tool for modifying drug skeletons, and a faster path to new molecules."
 ---

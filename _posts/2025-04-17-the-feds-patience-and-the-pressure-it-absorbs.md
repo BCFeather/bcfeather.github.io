@@ -1,7 +1,6 @@
 ---
 title: "The Fed's patience and the pressure it absorbs"
 date: 2025-04-17 12:03:00 +0800
-tags: [fed, rates, economy, central-bank]
 categories: [news]
 description: "The central bank entered its spring meeting season with the policy path that the year's events had set: the inflation expectations raised by the tariff policy, the growth outlook clouded by the trade conflict, and the independence of the institution tested by the public pressure from the administration. The bank's decisions in the coming months will be the test of whether the independence can survive the politics."
 ---

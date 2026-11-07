@@ -1,7 +1,6 @@
 ---
 title: "Chip controls tighten around the thinnest wafers"
 date: 2026-04-16 12:48:00 +0800
-tags: [semiconductors, trade, china, technology]
 categories: [technology]
 description: "On 14 April the United States extended its export controls to cover the lithography systems used for 2-nanometre chips, closing a loophole that had let advanced equipment reach Chinese fabs through third countries. The rule is one paragraph; the restructuring it forces on the world's semiconductor map is a decade-long story."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The first quarter grew and the question is what grew"
 date: 2025-04-16 21:30:00 +0800
-tags: [china, economy, statistics, news]
 categories: [economy]
 description: "The statistics office reported growth of 5.4 per cent for the first quarter on the sixteenth of April, above the target for the year. The composition of the number is the part that the target does not describe."
 ---

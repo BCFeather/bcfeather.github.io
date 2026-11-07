@@ -1,7 +1,6 @@
 ---
 title: "Photonics and wireless converge at 512 Gbps"
 date: 2026-02-24 09:35:00 +0800
-tags: [telecom, photonics, 6g, technology]
 categories: [news]
 description: "A team led by Peking University reported a converged optical-wireless communication system that carries 512 Gbps over fibre and 400 Gbps over the air from a single shared channel. The demonstration, reported on 20 February, is a small but concrete step toward the kind of network 6G will need."
 ---

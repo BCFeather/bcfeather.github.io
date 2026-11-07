@@ -1,7 +1,6 @@
 ---
 title: "The gym in February and the members who stop coming"
 date: 2025-02-20 21:00:00 +0800
-tags: [fitness, business, cities, consumers]
 categories: [business]
 description: "The first wave of new members thins out in the second half of February, and the gym industry has built a pricing model that survives the thinning."
 ---

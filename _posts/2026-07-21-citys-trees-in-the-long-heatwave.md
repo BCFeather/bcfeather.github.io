@@ -1,7 +1,6 @@
 ---
 title: "City's trees in the long heatwave"
 date: 2026-07-21 17:25:00 +0800
-tags: [essay, summer, trees, city]
 categories: [essay]
 description: "A heatwave is a test the city runs on itself, and the trees are the part of it that cannot be moved indoors. A short essay on how the street trees hold up, and what a July street is like without them."
 ---

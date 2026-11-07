@@ -1,7 +1,6 @@
 ---
 title: "The assembly in New York: autumn's great room"
 date: 2025-09-13 15:44:00 +0800
-tags: [diplomacy, united-nations, news]
 categories: [news]
 description: "The general assembly of the world's governments began its autumn session in New York, and the session brought the year's arguments into the institution's great room: the war's settlement, the trade conflicts, the climate finance, and the institutions' own place in a year that has tested them. The assembly is the world's annual rehearsal of its diplomacy, and the rehearsal this year carries the particular weight of the year's events."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Out-of-state tuition disappears from the bill"
 date: 2026-08-09 11:18:00 +0800
-tags: [education, universities, tuition]
 categories: [news]
 description: "Alaska's Board of Regents voted on 4 August to end non-resident tuition across the state university system from the 2027-28 academic year, doubling down on an experiment in pricing. The bet is that transparency and retention matter more than the surcharge revenue."
 ---

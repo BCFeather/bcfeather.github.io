@@ -1,7 +1,6 @@
 ---
 title: "The twenty days before the new year"
 date: 2024-01-21 19:26:00 +0800
-tags: [chizhou, spring-festival, essay, winter]
 categories: [essay]
 description: "A quiet essay about the last stretch of the lunar year in Chizhou, when the cured meat comes down from the rafters, the shop windows fill with red paper and the town begins the long, patient work of getting ready."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Words of the year, and the mood they catch"
 date: 2025-12-28 20:30:00 +0800
-tags: [language, culture, year-end]
 categories: [essay]
 description: "Every December the dictionaries crown a word of the year, chosen from the evidence of how we actually spoke, and the choice always says as much about the year as about the language. A short essay on what the annual word-vote reveals, and what it hides."
 ---

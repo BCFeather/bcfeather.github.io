@@ -1,7 +1,6 @@
 ---
 title: "Eve of Belém and the summit’s final preparations"
 date: 2025-11-03 14:22:00 +0800
-tags: [climate, cop, news]
 categories: [news]
 description: "The week before the climate summit's opening brought the final preparations into view: the delegations assembling, the texts in their near-final drafts, and the finance question, the summit's central test, unresolved and pressing. The eve of Belém carried the particular combination of hope and tension that the gathering's approach always produces, and the combination is the summit's context."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "A 100 per cent tariff on imported pills"
 date: 2026-04-07 11:40:00 +0800
-tags: [trade, pharmaceuticals, tariffs, economy]
 categories: [news]
 description: "On 2 April the White House announced a 100 per cent duty on patented medicines and their ingredients under Section 232, with carve-outs for companies that build domestic supply. The bet behind the border."
 ---

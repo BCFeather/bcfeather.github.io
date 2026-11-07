@@ -1,7 +1,6 @@
 ---
 title: "A year of record heat: the climate bill arrives in instalments"
 date: 2026-01-15 08:23:00 +0800
-tags: [climate, weather, science, news]
 categories: [news]
 description: "The climate agencies closed 2025 as the hottest year on record, the third such title in a row, and the numbers have stopped surprising anyone. The surprise has moved elsewhere, into the bills arriving in instalments: insurance, food, water and the quiet rearrangement of where people can live."
 ---

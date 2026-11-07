@@ -1,7 +1,6 @@
 ---
 title: "Midterms and the midpoint of the term"
 date: 2026-11-04 09:40:00 +0800
-tags: [university, rhythm, season, study]
 categories: [culture]
 description: "By the first week of November the semester has crossed its midpoint, and the exams that go by the name of midterms arrive as a collective state. They divide the term into two halves the way a cut divides a film, and they do something to the rhythm of the weeks that no syllabus quite accounts for."
 ---

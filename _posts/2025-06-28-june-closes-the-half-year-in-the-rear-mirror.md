@@ -1,7 +1,6 @@
 ---
 title: "June closes: the half-year in the rear mirror"
 date: 2025-06-28 21:33:00 +0800
-tags: [review, essay, news]
 categories: [culture]
 description: "The first half of 2025 closed with the record of the year's events assembled and the second half's calendar already written: the truce that expired, the deals that were signed, the elections that were held, the wars and the negotiations that the summer will carry. The half-year's reading, done in the quiet of the closing week, is the attempt to see the shape that the year is taking."
 ---

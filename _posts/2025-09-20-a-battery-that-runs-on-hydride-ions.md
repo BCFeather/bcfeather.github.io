@@ -1,7 +1,6 @@
 ---
 title: "A battery that runs on hydride ions"
 date: 2025-09-20 09:40:00 +0800
-tags: [energy, batteries, chemistry]
 categories: [science]
 description: "In the 17 September issue of *Nature*, a Chinese research team reports the first prototype battery that works on hydride ions, negative hydrogen ions, stacking cells to reach 1.9 volts and lighting a yellow LED. The demonstration carries a charge from concept to experiment, and opens a new corner of battery chemistry."
 ---

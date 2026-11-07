@@ -1,7 +1,6 @@
 ---
 title: "Monsoon arrives late and makes up for it"
 date: 2026-07-17 07:41:00 +0800
-tags: [climate, india, agriculture, news]
 categories: [news]
 description: "India's monsoon declared itself on 12 July, more than a week after the date that the meteorological office had forecast and two weeks after the farmers had planted for it, and the rain that followed has been heavy enough to erase the deficit and threaten the fields it was meant to save. The season is a reminder that the world's most important weather system runs on its own timetable."
 ---

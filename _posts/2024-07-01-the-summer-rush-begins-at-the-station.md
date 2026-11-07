@@ -1,7 +1,6 @@
 ---
 title: "The summer rush begins at the station"
 date: 2024-07-01 21:10:00 +0800
-tags: [transport, railways, china, cities]
 categories: [society]
 description: "The sixty-two day summer travel season opens on the first of July. The railways add trains, the stations add staff, and the peak falls in the third week of the month."
 ---

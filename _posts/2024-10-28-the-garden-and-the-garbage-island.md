@@ -1,7 +1,6 @@
 ---
 title: "The Garden and the garbage island"
 date: 2024-10-28 09:53:00 +0800
-tags: [us, election, trump, news]
 categories: [news]
 description: "Donald Trump filled Madison Square Garden on 27 October, nine days before the vote, and the rally was overshadowed before it ended by a comedian's joke about Puerto Rico. The backlash reached into the battleground states within hours, and the campaign enters its final week defending a remark it did not make."
 ---

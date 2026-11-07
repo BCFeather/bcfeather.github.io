@@ -1,7 +1,6 @@
 ---
 title: "Easter in the middle of the trade war"
 date: 2025-04-19 07:22:00 +0800
-tags: [culture, easter, reflection, essay]
 categories: [culture]
 description: "The holiest weekend of the Christian calendar arrived in the middle of the trade war, and the coincidence was worth a moment's notice: the holiday that the world's churches observe with the oldest rituals of renewal fell at the point where the year's economic argument was at its loudest. The two calendars, the sacred and the commercial, ran in parallel, and the parallel was the month's quietest lesson."
 ---

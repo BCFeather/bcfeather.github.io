@@ -1,7 +1,6 @@
 ---
 title: "The day before the show, the halls of Las Vegas"
 date: 2025-01-06 20:40:00 +0800
-tags: [technology, ces, business, media]
 categories: [technology]
 description: "The consumer electronics show opens on the seventh of January, and the day before it is when the booths are built and the press conferences begin. A trade show is a machine for producing a year of coverage."
 ---

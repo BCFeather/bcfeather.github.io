@@ -1,7 +1,6 @@
 ---
 title: "European deal and the tariff era’s largest settlement"
 date: 2025-07-15 22:13:00 +0800
-tags: [trade, europe, tariffs, news]
 categories: [news]
 description: "The European Union and the United States announced the agreement that the summer's negotiations had been building toward, and the announcement carried the year's largest trade settlement: the tariffs reduced on the major sectors, the access secured for the industries that had pressed, and the template provided for the negotiations that remain. The deal was the tariff era's proof of concept, and the proof's consequences will shape the year's remaining trade politics."
 ---

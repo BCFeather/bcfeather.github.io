@@ -1,7 +1,6 @@
 ---
 title: "A single goal in Jakarta ends the campaign"
 date: 2025-06-05 23:50:00 +0800
-tags: [football, sport, world-cup, asia]
 categories: [sport]
 description: "The national team lost one nil in Jakarta on 5 June and with it went the last realistic route to the 2026 World Cup. The match was decided by a single goal, and the arguments about why it happened will outlast the tournament."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "G7 leaders meet in Puglia"
 date: 2024-06-16 19:53:00 +0800
-tags: [g7, italy, diplomacy, ukraine]
 categories: [news]
 description: "From 13 to 15 June the leaders of the Group of Seven gathered at Borgo Egnazia in Puglia under Giorgia Meloni, and agreed a fifty-billion-dollar loan to Ukraine backed by the profits from frozen Russian assets, with migration and artificial intelligence on the agenda."
 ---

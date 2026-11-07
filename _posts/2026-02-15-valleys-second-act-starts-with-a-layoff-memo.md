@@ -1,7 +1,6 @@
 ---
 title: "Valley’s second act starts with a layoff memo"
 date: 2026-02-15 10:44:00 +0800
-tags: [technology, economy, silicon-valley, news]
 categories: [news]
 description: "A wave of restructuring memos hit Silicon Valley's software companies this week, cutting thousands of positions in product support and middle management even as the same companies post record revenues. The layoffs are not a sign of decline; they are the first visible cost of a decade of automation arriving all at once."
 ---

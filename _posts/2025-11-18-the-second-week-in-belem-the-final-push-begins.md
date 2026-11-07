@@ -1,7 +1,6 @@
 ---
 title: "The second week in Belém and the final push"
 date: 2025-11-18 17:26:00 +0800
-tags: [climate, cop, news]
 categories: [news]
 description: "The second week of the climate summit opened with the gathering's final push under way: the finance question in its decisive sessions, the texts approaching their conclusions, and the delegations' attention fixed on the outcome that the gathering's two weeks will deliver. The final push is the summit's decisive phase, and the phase's outcome will be the year's climate verdict."
 ---

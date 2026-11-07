@@ -1,7 +1,6 @@
 ---
 title: "A Nobel for the quantum circuit"
 date: 2025-10-09 09:40:00 +0800
-tags: [physics, quantum, nobel]
 categories: [news]
 description: "On 7 October, the Nobel Prize in Physics was awarded to John Clarke, Michel Devoret and John Martinis for the discovery of macroscopic quantum tunnelling and energy quantisation in an electric circuit. The prize honours the physics that made quantum computing possible, and the decades of experiments that showed the quantum world can be built in a circuit."
 ---

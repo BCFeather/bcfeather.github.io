@@ -1,7 +1,6 @@
 ---
 title: "Swimming pool's small republic of order"
 date: 2026-07-13 22:22:00 +0800
-tags: [essay, summer, swimming, order]
 categories: [essay]
 description: "A public swimming pool in July runs on a small, unspoken order: lanes, clocks, rope lines, a lifeguard on a chair. A short essay on how that order works, and why a city's pool is one of the few places in summer where strangers agree on the rules."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Noticing the days draw shorter"
 date: 2026-09-30 19:05:00 +0800
-tags: [essay, autumn, light, city]
 categories: [essay]
 description: "By the end of September the afternoon has a different length. It is not cold yet, and the leaves have not turned, but the light leaves earlier, and the city adjusts its whole evening around it. A short essay on the quiet arrival of the dark."
 ---

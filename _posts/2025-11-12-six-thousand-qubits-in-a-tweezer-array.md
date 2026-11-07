@@ -1,7 +1,6 @@
 ---
 title: "Six thousand qubits in a tweezer array"
 date: 2025-11-12 09:30:00 +0800
-tags: [quantum-computing, atomic-physics, optics]
 categories: [science]
 description: "In the 6 November issue of *Nature*, a Caltech-led team reports an optical tweezer array holding more than 6,100 highly coherent atomic qubits across about 12,000 sites, with a 12.6-second coherence time, 99.99% imaging fidelity and room-temperature trapping lifetimes near 23 minutes. The platform makes thousands-to-tens-of-thousands of physical qubits a near-term prospect."
 ---

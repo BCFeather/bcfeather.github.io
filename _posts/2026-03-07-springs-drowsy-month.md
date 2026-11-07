@@ -1,7 +1,6 @@
 ---
 title: "Spring's drowsy month"
 date: 2026-03-07 20:40:00 +0800
-tags: [seasons, sleep, health]
 categories: [essay]
 description: "Every year, when the days lengthen and the temperature edges upward, a familiar lethargy settles over the population, and the jokes about spring drowsiness begin. A short essay on the biology behind the March yawn, and what it reveals about the gap between our schedules and the seasons."
 ---

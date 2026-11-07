@@ -1,7 +1,6 @@
 ---
 title: "Qingming, the road home"
 date: 2025-03-26 08:47:00 +0800
-tags: [essay, qingming, family, memory]
 categories: [essay]
 description: "Every spring the road home fills with people carrying flowers and spades. A short essay on Qingming, the graves that hold a family's memory, and what it means to sweep a plot of earth your, perhaps, great-grandfather swept before you."
 ---

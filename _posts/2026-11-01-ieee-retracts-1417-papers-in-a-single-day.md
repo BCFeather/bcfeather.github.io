@@ -1,7 +1,6 @@
 ---
 title: "IEEE retracts 1,417 papers in a single day"
 date: 2026-11-01 09:40:00 +0800
-tags: [publishing, integrity, conferences, paper-mills]
 categories: [news]
 description: "On 23 October IEEE withdrew 1,417 conference papers at once, the largest single retraction by any academic publisher, and confirmed the decision on 28 October. The papers were tied to paper mills that sell authorship on conference submissions: first-author slots were advertised at $43 to $400, last-author slots at $11 to $200, and 95 of the 109 affected IEEE-sponsored conferences were held in India."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Cocoa at a record price and the bar that got smaller"
 date: 2025-02-14 21:05:00 +0800
-tags: [commodities, food, industry, africa]
 categories: [business]
 description: "The price of cocoa has more than doubled in two years, and the chocolate industry has responded by shrinking the bar rather than raising the price on the shelf."
 ---

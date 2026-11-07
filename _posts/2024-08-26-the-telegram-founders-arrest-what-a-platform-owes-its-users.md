@@ -1,7 +1,6 @@
 ---
 title: "The Telegram founder's arrest: what a platform owes its users"
 date: 2024-08-26 11:09:00 +0800
-tags: [technology, france, internet, news]
 categories: [news]
 description: "On 24 August, Pavel Durov, the founder and chief executive of Telegram, was arrested at an airport outside Paris as part of a French investigation into criminal activity on the platform. The arrest of one of the internet's most elusive figures turned a legal question about moderation into a diplomatic and ideological battle, and the platform's users are caught in the middle."
 ---

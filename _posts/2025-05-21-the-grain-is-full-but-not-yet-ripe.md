@@ -1,7 +1,6 @@
 ---
 title: "The grain is full but not yet ripe"
 date: 2025-05-21 21:30:00 +0800
-tags: [essay, solar-terms, agriculture, language]
 categories: [culture]
 description: "Xiaoman, the eighth solar term, falls around 21 May and marks the moment when the wheat is filled with grain but still green. It is the calendar's only term built around incompleteness, and the word has outlived the farming it described."
 ---

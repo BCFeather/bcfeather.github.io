@@ -1,7 +1,6 @@
 ---
 title: "Apple sues OpenAI, and the AI hardware fight goes to court"
 date: 2026-08-05 14:26:00 +0800
-tags: [apple, openai, technology, law]
 categories: [technology]
 description: "On 10 July, Apple filed suit against OpenAI, accusing the company of systematically acquiring Apple trade secrets to build its own hardware business, and on 3 August it asked a federal judge to bar OpenAI and two former Apple executives from using its confidential information while the case proceeds. OpenAI denies the allegations and has called the lawsuit careless and oddly personal."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "A seventh batch of space-internet test satellites"
 date: 2025-09-18 09:20:00 +0800
-tags: [space, satellites, internet]
 categories: [news]
 description: "On the morning of 17 September, a Long March 2C lifted off from Jiuquan carrying another batch of experimental satellites for the space-based internet technology demonstrator series, the seventh orbital deployment in the programme. The cadence is the story: a national constellation being built, batch by batch, in plain sight."
 ---

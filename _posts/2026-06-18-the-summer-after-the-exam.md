@@ -1,7 +1,6 @@
 ---
 title: "The summer after the exam"
 date: 2026-06-18 18:44:00 +0800
-tags: [essay, gaokao, summer, china]
 categories: [essay]
 description: "The exam is over and the city is holding its breath. A short essay on the ten days after the gaokao in Chizhou, on estimating marks and waiting for results, and on the strange suspension between a finished year and an unknown one."
 ---

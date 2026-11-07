@@ -1,7 +1,6 @@
 ---
 title: "The AI Act reaches its second deadline"
 date: 2025-08-01 21:30:00 +0800
-tags: [ai, regulation, europe, policy]
 categories: [technology]
 description: "On 2 August the European rules on general-purpose AI systems begin to bite, eight months after the first obligations and a year before most of the rest. What changes is mostly paperwork, and paperwork is how a law about models is actually applied."
 ---

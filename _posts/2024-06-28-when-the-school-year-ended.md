@@ -1,7 +1,6 @@
 ---
 title: "When the school year ended"
 date: 2024-06-28 16:53:00 +0800
-tags: [chizhou, high-school, summer]
 categories: [essay]
 description: "A quiet essay about the last days of the first year of high school in Chizhou: the final exams in the damp, the emptied classroom, the report card, and the first slow afternoon of summer."
 ---

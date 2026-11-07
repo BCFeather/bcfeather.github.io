@@ -1,7 +1,6 @@
 ---
 title: "The end of the first quarter and the numbers that come next"
 date: 2025-03-31 21:20:00 +0800
-tags: [economy, markets, china, news]
 categories: [economy]
 description: "The first quarter closed on the thirty-first of March, and the numbers that describe it will arrive in the middle of April. The gap between the end of a quarter and the publication of its results is a fortnight in which everyone has an opinion and nobody has data."
 ---

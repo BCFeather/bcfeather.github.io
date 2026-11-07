@@ -1,7 +1,6 @@
 ---
 title: "Which came first, the black hole or its galaxy's stars?"
 date: 2026-06-11 14:37:00 +0800
-tags: [astronomy, black-holes, early-universe]
 categories: [science]
 description: "A Cambridge team writing in *Nature* has weighed a black hole in a little red dot seen when the universe was 700 million years old. At 50 million solar masses, it outweighs its entire host galaxy, suggesting some black holes grew before their stars did."
 ---

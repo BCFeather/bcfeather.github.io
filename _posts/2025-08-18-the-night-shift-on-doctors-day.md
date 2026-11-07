@@ -1,7 +1,6 @@
 ---
 title: "The night shift on doctors' day"
 date: 2025-08-18 21:20:00 +0800
-tags: [medicine, hospitals, labour, essay]
 categories: [society]
 description: "The nineteenth of August is set aside to thank doctors, and the day is marked with flowers and a short ceremony in the lobby. The people being thanked are mostly at work, and what the work is like at three in the morning is the part the ceremony does not reach."
 ---

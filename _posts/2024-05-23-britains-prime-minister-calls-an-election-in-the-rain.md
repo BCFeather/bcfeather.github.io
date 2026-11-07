@@ -1,7 +1,6 @@
 ---
 title: "Britain's prime minister calls an election in the rain"
 date: 2024-05-23 20:27:00 +0800
-tags: [uk, politics, election, conservatives]
 categories: [news]
 description: "On 22 May, Rishi Sunak stood in the rain outside Number 10 and called a general election for 4 July, a gamble against the polls that ended fourteen years of Conservative government and brought Labour to power."
 ---

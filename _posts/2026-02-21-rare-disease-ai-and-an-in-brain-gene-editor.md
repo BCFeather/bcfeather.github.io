@@ -1,7 +1,6 @@
 ---
 title: "Rare-disease AI and an in-brain gene editor"
 date: 2026-02-21 10:25:00 +0800
-tags: [medicine, ai, gene-editing, rare-disease]
 categories: [science]
 description: "On 19 February *Nature* published two Chinese-led results that share a hospital and a purpose: a traceable agentic AI that diagnoses rare diseases from clinical descriptions alone, and an adenine base editor that repaired a neurodevelopmental mutation in primate brains. Both are early, and both attack the same wall from different sides."
 ---

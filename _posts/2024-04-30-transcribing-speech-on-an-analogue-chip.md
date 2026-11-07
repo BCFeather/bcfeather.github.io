@@ -1,7 +1,6 @@
 ---
 title: "Transcribing speech on an analogue chip"
 date: 2024-04-30 16:51:00 +0800
-tags: [chip, hardware, analogue]
 categories: [technology]
 description: "An IBM Research chip from August 2023 runs deep neural networks in analogue on phase-change memory, matching digital accuracy on speech recognition and transcription at roughly fourteen times the energy efficiency."
 ---

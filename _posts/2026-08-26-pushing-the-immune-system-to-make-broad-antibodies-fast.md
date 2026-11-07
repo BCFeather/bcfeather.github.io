@@ -1,7 +1,6 @@
 ---
 title: "Pushing the immune system to make broad antibodies fast"
 date: 2026-08-26 10:38:00 +0800
-tags: [health, vaccines, hiv]
 categories: [news]
 description: "A vaccine strategy from the University of Pennsylvania and Duke has prompted broadly neutralizing antibodies against HIV after just a few doses in preclinical trials, a response that in natural infection takes years. The work, published in Nature, has already moved into Phase 1 trials in people."
 ---

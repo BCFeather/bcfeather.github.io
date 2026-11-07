@@ -1,7 +1,6 @@
 ---
 title: "Starship's ninth flight and the cost of iterating in public"
 date: 2025-05-27 23:20:00 +0800
-tags: [space, starship, spacex, engineering]
 categories: [space]
 description: "SpaceX flew Starship for the ninth time on 27 May and lost both stages, the third consecutive flight to end without a controlled descent. The programme's method is to test in public at full scale, and the ninth flight is what that method looks like when it fails."
 ---

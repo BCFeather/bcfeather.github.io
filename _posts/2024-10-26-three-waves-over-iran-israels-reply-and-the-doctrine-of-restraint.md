@@ -1,7 +1,6 @@
 ---
 title: "Three waves over Iran and the doctrine of restraint"
 date: 2024-10-26 14:26:00 +0800
-tags: [israel, iran, middle-east, news]
 categories: [news]
 description: "In the early hours of 26 October, Israeli aircraft struck military targets across Iran in three waves, then returned home. The targets were chosen to hurt, the oil and the nuclear programme were left alone, and the exchange settled into the pattern the region has learned this year."
 ---

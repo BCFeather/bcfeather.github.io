@@ -1,7 +1,6 @@
 ---
 title: "An octopus arm, rebuilt in silicone"
 date: 2024-09-19 18:05:00 +0800
-tags: [robotics, soft-robotics, biomimicry]
 categories: [technology]
 description: "A Beihang and Tsinghua team built a sensorised soft octopus arm that reaches 1.5 times its own length, stretches its liquid-metal wiring by 710 per cent, and obeys one human finger through a wearable glove."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Water worlds, brewed under pressure"
 date: 2025-10-31 09:40:00 +0800
-tags: [planets, exoplanets, water]
 categories: [science]
 description: "In the 30 October issue of *Nature*, planetary scientists report that some exoplanets may produce their water during formation, through reactions between rock and hydrogen under high pressure, rather than inheriting it from icy material in the disc. The result offers a new route to water worlds, and a new way to think about which planets can be wet."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "A seventh remission, and a gentler road to it"
 date: 2025-12-10 10:20:00 +0800
-tags: [medicine, hiv, gene-therapy, transplants]
 categories: [science]
 description: "In the 2 December issue of *Nature*, clinicians report a 60-year-old man in Germany who achieved sustained remission from HIV after a stem-cell transplant using cells with just one copy of the *CCR5* mutation, not the two copies used in all previous remissions. If the pattern holds, the treatment becomes dramatically easier to match."
 ---

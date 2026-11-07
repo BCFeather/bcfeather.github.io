@@ -1,7 +1,6 @@
 ---
 title: "Germany's last weekend before the verdict"
 date: 2025-02-22 10:11:00 +0800
-tags: [germany, election, politics, news]
 categories: [news]
 description: "The final weekend of the German campaign closed with the polls showing a result that had been stable for weeks and the candidates campaigning as if the stability could still be broken. The election on Sunday will decide the composition of the next government, and the composition will be decided, in the tradition of the country's politics, by the coalition mathematics rather than by the first-place finish."
 ---

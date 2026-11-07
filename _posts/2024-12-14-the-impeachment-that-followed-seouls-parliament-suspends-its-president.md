@@ -1,7 +1,6 @@
 ---
 title: "The impeachment that followed: Seoul's parliament suspends its president"
 date: 2024-12-14 19:58:00 +0800
-tags: [korea, politics, news]
 categories: [news]
 description: "Eleven days after the martial law declaration that failed within six hours, South Korea's National Assembly voted two hundred and four to impeach President Yoon Suk-yeol, suspending him from office while the Constitutional Court decides his fate. The vote was the democracy's institutional answer, and the answer was delivered in the language the constitution provides."
 ---

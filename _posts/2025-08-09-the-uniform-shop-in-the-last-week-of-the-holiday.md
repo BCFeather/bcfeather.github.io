@@ -1,7 +1,6 @@
 ---
 title: "The uniform shop in the last week of the holiday"
 date: 2025-08-09 20:20:00 +0800
-tags: [school, retail, families, summer]
 categories: [society]
 description: "The last three weeks of August are when a city's uniform shops do most of their year's business. The queue at the fitting room is a piece of social infrastructure, and the arithmetic behind the shirt on the hanger is worth a look."
 ---

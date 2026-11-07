@@ -1,7 +1,6 @@
 ---
 title: "An obesity pill, approved at speed"
 date: 2026-04-19 10:25:00 +0800
-tags: [health, drugs, obesity, fda]
 categories: [news]
 description: "On 1 April the FDA approved Lilly's Foundayo, an oral once-daily GLP-1 pill for weight loss, decided fifty days after filing and nearly ten months ahead of its review deadline. What the speed says about the weight-loss market."
 ---

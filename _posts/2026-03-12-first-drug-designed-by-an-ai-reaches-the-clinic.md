@@ -1,7 +1,6 @@
 ---
 title: "First drug designed by an AI reaches the clinic"
 date: 2026-03-12 21:36:00 +0800
-tags: [ai, medicine, health, technology]
 categories: [technology]
 description: "On 9 March a small molecule designed entirely by a generative model entered phase I trials in Oxford, the first candidate of its kind to reach human testing. The field has promised this for years; now it has to deliver, and the gap between the press release and the ward is about to become visible."
 ---

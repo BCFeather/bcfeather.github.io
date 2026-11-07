@@ -1,7 +1,6 @@
 ---
 title: "Gifts in the trunk and a drive to the other household"
 date: 2025-01-30 20:15:00 +0800
-tags: [festivals, china, family, culture]
 categories: [culture]
 description: "The second day of the lunar year is the day of the visit to the wife's family, and the journey that a family makes on that morning has a route that is planned weeks in advance."
 ---

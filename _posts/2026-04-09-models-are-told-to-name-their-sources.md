@@ -1,7 +1,6 @@
 ---
 title: "Models are told to name their sources"
 date: 2026-04-09 13:27:00 +0800
-tags: [ai, copyright, law, technology]
 categories: [technology]
 description: "A federal court in Manhattan ruled on 8 April that generative models whose training data includes copyrighted works must disclose their sources to rights holders upon request, the first decision to settle the discovery phase of the industry's great copyright fight. The ruling is procedural, and its consequences are anything but."
 ---

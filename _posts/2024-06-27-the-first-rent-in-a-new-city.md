@@ -1,7 +1,6 @@
 ---
 title: "The first rent in a new city"
 date: 2024-06-27 21:10:00 +0800
-tags: [housing, cities, graduates, china]
 categories: [business]
 description: "Nearly twelve million graduates left university this summer. The ones who took a job in another city had one week to find a flat, and the arithmetic of that week decides how the next year is lived."
 ---

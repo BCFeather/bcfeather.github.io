@@ -1,7 +1,6 @@
 ---
 title: "The holiday and the year's accounting"
 date: 2025-11-26 20:47:00 +0800
-tags: [culture, essay, thanksgiving]
 categories: [culture]
 description: "The American holiday arrived with the rituals that the season has fixed, and the rituals carried the year's particular content: the tables set, the meal shared, and the year's events weighed in the conversations that the holiday hosts. The holiday is the year's accounting, and the accounting's form is the one that the traditions have always provided."
 ---

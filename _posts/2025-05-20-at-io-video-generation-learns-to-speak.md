@@ -1,7 +1,6 @@
 ---
 title: "At I/O, video generation learns to speak"
 date: 2025-05-20 23:40:00 +0800
-tags: [ai, video, google, generative-media]
 categories: [technology]
 description: "Google's developer conference on 20 May introduced Veo 3, a video model that generates dialogue, sound effects and ambience alongside the picture, plus Imagen 4 and a faster Gemini. The addition of sound is the change that matters, because it is the step that turns a demo into footage."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Osmanthus shows up on the morning ride"
 date: 2026-09-12 09:18:00 +0800
-tags: [essay, autumn, osmanthus, city]
 categories: [essay]
 description: "For a few weeks in September the whole city smells of honey. The osmanthus blooms quietly, on unremarkable trees, and it announces the season not by turning colour but by scent. A short essay on the perfume of autumn that nobody schedules and everybody notices."
 ---

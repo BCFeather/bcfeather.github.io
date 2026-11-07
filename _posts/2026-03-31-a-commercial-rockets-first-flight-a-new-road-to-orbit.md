@@ -1,7 +1,6 @@
 ---
 title: "A commercial rocket's first flight, a new road to orbit"
 date: 2026-03-31 09:20:00 +0800
-tags: [space, rockets, commercial]
 categories: [news]
 description: "On the evening of 30 March, the Lijian-2 rocket made its first flight from the Dongfeng commercial space testing zone, carrying three satellites and a prototype of the Qingzhou spacecraft into orbit. The launch is a step toward a new mode of space logistics, with a reusable vehicle and a cargo ship designed for future stations."
 ---

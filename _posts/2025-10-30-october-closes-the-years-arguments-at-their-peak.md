@@ -1,7 +1,6 @@
 ---
 title: "October closes with the year’s arguments at their peak"
 date: 2025-10-30 22:11:00 +0800
-tags: [review, essay, news]
 categories: [culture]
 description: "The month of the prizes, the summit's approach and the trade resumptions closed with the year's arguments at their peak: the finance question scheduled for the autumn's gathering, the negotiations at their decisive phase, and the institutions' eightieth anniversary providing the perspective that the year's pressures had obscured. October's record is the record of the climax, and the climax's outcome will be the year's conclusion."
 ---

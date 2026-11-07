@@ -1,7 +1,6 @@
 ---
 title: "Cold snap that broke a grid"
 date: 2026-02-02 07:48:00 +0800
-tags: [energy, climate, europe, news]
 categories: [news]
 description: "A week of Siberian air sent temperatures across northern Europe below the thresholds that grids are designed for, and one regional operator had to shed load for the first time in years. The cold was the trigger; the margin between demand and supply was the cause, and the margin has been shrinking quietly for a decade."
 ---

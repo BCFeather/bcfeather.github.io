@@ -1,7 +1,6 @@
 ---
 title: "The last week before Korea votes"
 date: 2025-05-29 18:12:00 +0800
-tags: [korea, election, politics, news]
 categories: [news]
 description: "The final week of the Korean presidential campaign opened with the polls showing the race that the spring had shaped: the opposition's candidate ahead, the ruling party's candidate within reach, and the undecided voters preparing to make the decision that the first days of June will record. The campaign's last days will be conducted in the shadow of the martial-law night, and the shadow is the election's permanent backdrop."
 ---

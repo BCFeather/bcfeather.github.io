@@ -1,7 +1,6 @@
 ---
 title: "What the school start time does to a teenager"
 date: 2025-08-27 21:00:00 +0800
-tags: [sleep, schools, adolescents, science]
 categories: [science]
 description: "The evidence on adolescent sleep and school start times is unusually consistent, and the policy has moved slowly anyway. A bell at half past seven is a decision about buses and parents as much as about biology."
 ---

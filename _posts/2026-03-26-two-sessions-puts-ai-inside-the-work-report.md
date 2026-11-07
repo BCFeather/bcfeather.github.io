@@ -1,7 +1,6 @@
 ---
 title: "Two Sessions puts AI inside the work report"
 date: 2026-03-26 19:23:00 +0800
-tags: [china, politics, ai, policy]
 categories: [news]
 description: "The Government Work Report delivered to the National People's Congress on 10 March committed China to an 'AI-plus' action plan, promising deeper integration of artificial intelligence across industry, health and government services. The sentence was short; the consequences, for every company that reads the report as a budget, will be long."
 ---

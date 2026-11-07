@@ -1,7 +1,6 @@
 ---
 title: "The birthday speech: a claim that ripples across the alliances"
 date: 2025-07-06 18:44:00 +0800
-tags: [united-states, diplomacy, news]
 categories: [news]
 description: "US president's Fourth of July address carried a claim about the country's place in the hemisphere that the allies did not expect, and the claim's ripples reached the capitals within hours: the denials from the governments named, the questions from the analysts, and the recognition that the speech had opened a new front in the year's renegotiation of the country's relationships. The claim's fate will be measured in the diplomatic traffic of the coming weeks."
 ---

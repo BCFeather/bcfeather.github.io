@@ -1,7 +1,6 @@
 ---
 title: "Hello, world!"
 date: 2024-01-03 15:38:00 +0800
-tags: [intro]
 categories: [blog]
 description: "The first post on this blog, and what I hope to write here."
 ---

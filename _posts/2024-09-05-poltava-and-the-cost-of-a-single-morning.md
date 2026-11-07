@@ -1,7 +1,6 @@
 ---
 title: "Poltava and the cost of a single morning"
 date: 2024-09-05 08:14:00 +0800
-tags: [ukraine, russia, war, news]
 categories: [news]
 description: "On the morning of 3 September, two Russian ballistic missiles struck a military communications institute and a nearby hospital in Poltava, killing more than fifty people and wounding hundreds more. The strike, one of the deadliest single attacks of the war, killed cadets and civilians in a city far from the front line, and the mourning that followed was the war's ordinary arithmetic."
 ---

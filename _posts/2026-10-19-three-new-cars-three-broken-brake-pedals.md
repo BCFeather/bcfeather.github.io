@@ -1,7 +1,6 @@
 ---
 title: "Three new cars, three broken brake pedals"
 date: 2026-10-19 17:36:00 +0800
-tags: [china, cars, technology]
 categories: [news]
 description: "On 8 October, DCar published a test in which three brand-new MAEXTRO V800 MPVs, bought from different production batches, all had their brake pedal brackets snap during repeated 100 km/h emergency stops. The result put the car, the joint venture between Huawei and JAC, and the meaning of a 766,000-yuan starting price under a spotlight that has not yet moved on."
 ---

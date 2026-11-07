@@ -1,7 +1,6 @@
 ---
 title: "The month when every city cut its prices"
 date: 2024-08-13 21:20:00 +0800
-tags: [housing, china, prices, cities]
 categories: [business]
 description: "New home prices fell in every month of the year and second-hand prices fell in all seventy of the cities that the statistics office tracks. The measures that were supposed to stop the fall have not stopped it."
 ---

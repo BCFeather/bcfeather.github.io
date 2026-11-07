@@ -1,7 +1,6 @@
 ---
 title: "The flowers that arrive before the fourteenth"
 date: 2025-02-13 20:55:00 +0800
-tags: [retail, logistics, agriculture, festivals]
 categories: [business]
 description: "The rose that is sold on the fourteenth of February was cut in a greenhouse weeks earlier, and the cold chain that carries it is the reason the price triples in a fortnight."
 ---

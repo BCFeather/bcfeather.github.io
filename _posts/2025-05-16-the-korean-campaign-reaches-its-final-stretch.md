@@ -1,7 +1,6 @@
 ---
 title: "The Korean campaign reaches its final stretch"
 date: 2025-05-16 17:41:00 +0800
-tags: [korea, election, politics, news]
 categories: [news]
 description: "The presidential campaign in Seoul entered its final weeks with the polls showing a race that the winter had not predicted: the opposition's candidate leading, the ruling party's candidate closing, and the undecided voters holding the balance that the June election will settle. The campaign has been conducted in the shadow of the martial-law night, and the shadow has shaped every issue that the candidates have addressed."
 ---

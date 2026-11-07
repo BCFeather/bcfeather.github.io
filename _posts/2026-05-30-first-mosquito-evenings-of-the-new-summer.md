@@ -1,7 +1,6 @@
 ---
 title: "First mosquito evenings of the new summer"
 date: 2026-05-30 19:41:00 +0800
-tags: [essay, summer, insects, city]
 categories: [essay]
 description: "A short essay on the first evenings of the year when the mosquitoes arrive, and on the small, ancient negotiation that follows: the light, the standing water, the swat, and the uneasy truce people make with the insect world each warm season."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "FLEX and Sentinel-3C lift off on a shared Vega-C"
 date: 2026-09-15 18:09:00 +0800
-tags: [esa, space, satellite, earth-observation]
 categories: [news]
 description: "Two very different European satellites rode one Vega-C out of French Guiana on 15 September, the fluorescence-measuring FLEX and the third Sentinel-3. Riding together lets Europe place two Earth-observation missions at once, and points to a frugal era of shared launches."
 ---

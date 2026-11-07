@@ -1,7 +1,6 @@
 ---
 title: "The mid-May lull: a breath between the escalations"
 date: 2025-05-19 08:52:00 +0800
-tags: [trade, markets, economy, essay]
 categories: [news]
 description: "The middle of May brought a pause in the year's conflicts that the calendars had not scheduled: the tariff announcements spaced out, the negotiations continuing without the crises, and the markets settling into the trading range that the absence of the headlines allowed. The lull was the counterpoint to the year's pace, and the counterpoint was worth a moment's notice, because the lulls are where the strategies get adjusted."
 ---

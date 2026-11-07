@@ -1,7 +1,6 @@
 ---
 title: "Jackson Hole arrives with the rates in question"
 date: 2025-08-19 16:37:00 +0800
-tags: [fed, economy, central-bank, news]
 categories: [news]
 description: "The central bankers' annual gathering in the Wyoming mountains opened with the question that the year has made central: the path of the rates through the tariff-era inflation and the cooling growth, and the independence that the gathering's rituals are designed to affirm. The speeches at the gathering will set the expectations for the autumn's decisions."
 ---

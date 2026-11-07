@@ -1,7 +1,6 @@
 ---
 title: "A divertor shield for the fusion core"
 date: 2025-10-19 09:20:00 +0800
-tags: [energy, fusion, science]
 categories: [news]
 description: "On 13 October, the prototype divertor of the CRAFT facility, China's fusion device research complex, passed expert review, with a steady-state heat load capacity of 20 megawatts per square metre and millimetre-level precision in its plasma-facing surface. The component is one of the hardest pieces of a fusion reactor, and its acceptance marks a step toward a working fusion core."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Mamba: linear-time language models without attention"
 date: 2024-12-05 14:22:00 +0800
-tags: [ai, llm, architecture]
 categories: [technology]
 description: "Mamba replaces the quadratic attention of Transformers with a selective state-space model that costs one unit per token. A close reading of the December 2023 paper by Albert Gu and Tri Dao, and what its linear-time backbone changes for long context."
 ---

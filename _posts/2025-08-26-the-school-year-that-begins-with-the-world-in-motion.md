@@ -1,7 +1,6 @@
 ---
 title: "The school year that begins with the world in motion"
 date: 2025-08-26 08:32:00 +0800
-tags: [culture, essay, school]
 categories: [culture]
 description: "The classrooms across the northern hemisphere began their new year at the end of August, and the beginning carried the particular combination that the season always brings: the fresh notebooks, the new routines, and the world's news arriving with the students through the doors. The school year is the calendar's most reliable rhythm, and the rhythm's return is worth a moment's notice in a year of change."
 ---

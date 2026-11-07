@@ -1,7 +1,6 @@
 ---
 title: "The independent film and the ceremony that sells it"
 date: 2025-03-02 23:30:00 +0800
-tags: [film, awards, culture, business]
 categories: [culture]
 description: "The ninety-seventh Academy Awards went to a film made for a few million dollars and distributed by a company with a dozen employees. The ceremony is a marketing machine, and what it marketed this year was the case for the small film."
 ---

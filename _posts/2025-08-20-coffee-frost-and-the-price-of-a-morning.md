@@ -1,7 +1,6 @@
 ---
 title: "Coffee, frost and the price of a morning"
 date: 2025-08-20 20:45:00 +0800
-tags: [coffee, commodities, prices, climate]
 categories: [economy]
 description: "The price of arabica has been at records for two years, and the cause is a sequence of bad harvests in Brazil and Vietnam rather than anything that happened in a coffee shop. The cost travels down a long chain, and the last link in it is a paper cup."
 ---

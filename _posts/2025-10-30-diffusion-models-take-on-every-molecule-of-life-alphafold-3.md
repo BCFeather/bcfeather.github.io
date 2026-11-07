@@ -1,7 +1,6 @@
 ---
 title: "Diffusion models take on every molecule of life: AlphaFold 3"
 date: 2025-10-30 10:49:00 +0800
-tags: [biology, protein, structure, ai]
 categories: [science]
 description: "AlphaFold 3 moved beyond single-protein folding to predict the structures of complexes containing proteins, DNA, RNA, ligands and ions. Published in *Nature* on 8 May 2024, the model uses a diffusion-based architecture and roughly doubles accuracy on drug-binding interactions. What the architecture changes, and where it still falls short."
 ---

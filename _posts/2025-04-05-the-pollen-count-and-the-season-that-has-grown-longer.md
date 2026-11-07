@@ -1,7 +1,6 @@
 ---
 title: "The pollen count and the season that has grown longer"
 date: 2025-04-05 09:10:00 +0800
-tags: [health, allergies, seasons, science]
 categories: [science]
 description: "April is the month when the pollen arrives, and the number of people who react to it has been rising for thirty years. The cause is partly the plants and partly the way a city plants them."
 ---

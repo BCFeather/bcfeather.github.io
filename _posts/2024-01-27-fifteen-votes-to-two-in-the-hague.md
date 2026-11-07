@@ -1,7 +1,6 @@
 ---
 title: "Fifteen votes to two in The Hague"
 date: 2024-01-27 21:40:00 +0800
-tags: [icj, gaza, south-africa, israel, international-law]
 categories: [news]
 description: "The International Court of Justice ordered provisional measures against Israel on 26 January in the genocide case brought by South Africa, by fifteen votes to two, without ordering a halt to the military campaign in Gaza."
 ---

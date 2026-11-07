@@ -1,7 +1,6 @@
 ---
 title: "Thailand picks its youngest prime minister"
 date: 2024-08-19 17:33:00 +0800
-tags: [thailand, politics, asia, news]
 categories: [news]
 description: "On 16 August, two days after the constitutional court removed the prime minister over an ethics ruling, the Thai parliament elected Paetongtarn Shinawatra, the 37-year-old daughter of Thaksin Shinawatra, as its youngest-ever head of government. The name on the ballot was new; the family behind it was the oldest story in Thai politics."
 ---

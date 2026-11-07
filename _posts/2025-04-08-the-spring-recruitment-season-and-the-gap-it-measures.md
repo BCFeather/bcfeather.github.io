@@ -1,7 +1,6 @@
 ---
 title: "The spring recruitment season and the gap it measures"
 date: 2025-04-08 21:00:00 +0800
-tags: [employment, graduates, economy, china]
 categories: [society]
 description: "The spring hiring season runs through March and April, and it is the moment when the number of graduates meets the number of jobs. The gap between the two is the number that the policy is trying to move."
 ---

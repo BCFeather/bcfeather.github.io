@@ -1,7 +1,6 @@
 ---
 title: "Europe's biggest power-chip factory opens in Dresden"
 date: 2026-07-15 13:13:00 +0800
-tags: [technology, semiconductors, germany, industry]
 categories: [news]
 description: "Infineon opened its new Smart Power Fab in Dresden on 3 July, a 5 billion euro plant that the company calls its largest ever single investment. It will double Infineon's Dresden capacity for power semiconductors, with 1,000 new jobs and a plant built without natural gas."
 ---

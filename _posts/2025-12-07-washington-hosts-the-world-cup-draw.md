@@ -1,7 +1,6 @@
 ---
 title: "Washington hosts the World Cup draw"
 date: 2025-12-07 09:20:00 +0800
-tags: [football, world-cup, sport]
 categories: [news]
 description: "On 5 December, the draw for the 2026 World Cup took place at the Kennedy Center in Washington, setting the groups for the first 48-team tournament, to be played across the United States, Canada and Mexico next summer. The ceremony closed months of speculation and opened the countdown to the biggest World Cup ever staged."
 ---

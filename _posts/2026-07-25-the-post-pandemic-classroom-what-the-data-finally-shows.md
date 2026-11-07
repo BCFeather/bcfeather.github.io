@@ -1,7 +1,6 @@
 ---
 title: "The post-pandemic classroom: what the data finally shows"
 date: 2026-07-25 19:02:00 +0800
-tags: [education, pandemic, policy, news]
 categories: [news]
 description: "The first full-cohort assessment of the post-pandemic school years was published this week, and the picture is more hopeful and more uneven than the early alarms suggested: the lost ground in reading has been mostly recovered, the lost ground in mathematics has not, and the gap between the schools that could respond and the schools that could not has widened into a structural divide."
 ---

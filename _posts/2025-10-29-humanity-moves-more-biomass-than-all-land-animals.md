@@ -1,7 +1,6 @@
 ---
 title: "Humanity moves more biomass than all land animals"
 date: 2025-10-29 09:40:00 +0800
-tags: [ecology, environment, humanity]
 categories: [science]
 description: "In the 28 October issue of *Nature Ecology & Evolution*, researchers report that the movement of biomass by humans, the mass of food, timber, livestock and everything else we transport, may be up to forty times greater than the combined movement of all land animals on Earth. The finding redraws the picture of who moves the planet's biological matter."
 ---

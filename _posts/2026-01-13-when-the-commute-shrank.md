@@ -1,7 +1,6 @@
 ---
 title: "When the commute shrank"
 date: 2026-01-13 20:35:00 +0800
-tags: [work, cities, society]
 categories: [essay]
 description: "Five years after remote work became mainstream, the hour-long journey to the office has become a minority habit, and the cities that grew around it are still adjusting. A short essay on what a city loses and gains when the daily migration stops."
 ---

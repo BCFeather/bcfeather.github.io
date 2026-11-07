@@ -1,7 +1,6 @@
 ---
 title: "A 90 GHz oscilloscope, made in China"
 date: 2025-10-17 09:20:00 +0800
-tags: [technology, instruments, semiconductors]
 categories: [news]
 description: "On 15 October, at the Bay Area Semiconductor Industry Ecosystem Expo, a domestically developed 90 GHz real-time oscilloscope was unveiled, a class of instrument long dominated by a handful of Western makers. The launch is the latest sign of a quiet campaign: the push to master the precision instruments on which the semiconductor industry depends."
 ---

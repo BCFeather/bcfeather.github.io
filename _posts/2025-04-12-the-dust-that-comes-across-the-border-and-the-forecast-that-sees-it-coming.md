@@ -1,7 +1,6 @@
 ---
 title: "The dust that comes across the border and the forecast that sees it coming"
 date: 2025-04-12 20:10:00 +0800
-tags: [weather, air-quality, dust, science]
 categories: [science]
 description: "April is the season of the dust storm, and the particles that turn the sky yellow are lifted in one country and deposited in another. The forecasting of them has become good enough to warn a city a day ahead."
 ---

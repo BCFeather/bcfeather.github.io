@@ -1,7 +1,6 @@
 ---
 title: "Saudel's rains trigger a deadly landslide in Jiangxi"
 date: 2026-09-09 10:31:00 +0800
-tags: [typhoon, flood, jiangxi, disaster]
 categories: [news]
 description: "Days of rain from Typhoon Saudel sent a mudslide into a village in Suichuan County, Jiangxi, before dawn on 5 September, burying homes and leaving residents dead or missing. The disaster is a reminder that the autumn typhoon season turns steep, waterlogged hillsides into slow-motion risks."
 ---

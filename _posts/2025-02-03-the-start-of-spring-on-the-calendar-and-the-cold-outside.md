@@ -1,7 +1,6 @@
 ---
 title: "The start of spring on the calendar and the cold outside"
 date: 2025-02-03 20:50:00 +0800
-tags: [seasons, china, food, calendars]
 categories: [culture]
 description: "The solar term that opens the spring falls on the third of February, and the day is marked with a pancake and a radish while the weather stays firmly wintry."
 ---

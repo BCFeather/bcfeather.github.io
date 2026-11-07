@@ -1,7 +1,6 @@
 ---
 title: "Graphene that superconducts harder when the magnetic field rises"
 date: 2026-07-18 18:18:00 +0800
-tags: [physics, superconductivity, graphene, condensed-matter]
 categories: [science]
 description: "A team at MIT writing in *Nature* on 29 June reports that rhombohedral graphene, a natural stacking of four or five carbon layers, hosts four distinct superconducting states. Three of them survive magnetic fields near nine tesla, and one actually becomes superconducting at a higher temperature when a perpendicular field is applied."
 ---

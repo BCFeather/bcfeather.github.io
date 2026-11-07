@@ -1,7 +1,6 @@
 ---
 title: "A million optical neurons on one chip"
 date: 2026-06-04 16:35:00 +0800
-tags: [photonic, computing, chip]
 categories: [technology]
 description: "Shanghai Jiao Tong University's LightGen chip, reported in *Science* in December 2025, performs large-scale generative image synthesis entirely in light. Why moving the computation out of electrons and into photons changes what optical computing can actually do."
 ---

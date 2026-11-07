@@ -1,7 +1,6 @@
 ---
 title: "Haley loses New Hampshire and keeps going"
 date: 2024-01-24 22:31:00 +0800
-tags: [usa, election, haley, primaries, trump]
 categories: [news]
 description: "Donald Trump beat Nikki Haley by about eleven points in New Hampshire on 23 January, a narrower margin than the polls had suggested in the state where she was expected to do best, and Haley said she would continue to South Carolina."
 ---

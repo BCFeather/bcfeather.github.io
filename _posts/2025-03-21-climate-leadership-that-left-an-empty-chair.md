@@ -1,7 +1,6 @@
 ---
 title: "Climate leadership that left an empty chair"
 date: 2025-03-21 08:47:00 +0800
-tags: [climate, politics, cop, news]
 categories: [news]
 description: "The world's largest economy completed its formal withdrawal from the Paris climate agreement in the spring of 2025, and the completion was the confirmation of the shift that the election had promised: the country that had led the global climate effort was now the country that had left it. The departure leaves a gap that the other powers are competing to fill, and the competition is the climate politics of the new era."
 ---

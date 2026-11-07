@@ -1,7 +1,6 @@
 ---
 title: "A language model that reads and writes genomes: Evo 2"
 date: 2026-09-17 08:58:00 +0800
-tags: [biology, synthetic-biology, genomics]
 categories: [science]
 description: "Evo 2, a DNA foundation model trained on nine trillion base pairs and published in *Nature* in March 2026, designs whole genomes from scratch at single-letter resolution. What it means that writing life is starting to look like generating text."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "A mapping satellite continues its quiet work"
 date: 2025-12-16 09:20:00 +0800
-tags: [space, satellites, surveying]
 categories: [news]
 description: "On 16 December, a Long March 4B rocket lifted off from Taiyuan carrying the Ziyuan-3 04 satellite, the latest addition to the Chinese programme's surveying and mapping constellation. The launch is routine in the best sense: the unglamorous, indispensable work of measuring the country from orbit continues."
 ---

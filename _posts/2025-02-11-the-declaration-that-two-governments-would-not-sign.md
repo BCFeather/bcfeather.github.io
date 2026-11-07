@@ -1,7 +1,6 @@
 ---
 title: "The declaration that two governments would not sign"
 date: 2025-02-11 21:15:00 +0800
-tags: [policy, technology, europe, governance]
 categories: [technology]
 description: "A summit in Paris produced a statement on artificial intelligence that most of the attending countries signed, and the two that declined explained the refusal in a sentence about regulation."
 ---

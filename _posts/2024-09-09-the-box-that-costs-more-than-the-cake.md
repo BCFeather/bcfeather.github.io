@@ -1,7 +1,6 @@
 ---
 title: "The box that costs more than the cake"
 date: 2024-09-09 20:50:00 +0800
-tags: [retail, china, food, festival]
 categories: [business]
 description: "A rule on mooncake packaging limits the box to three layers and fifteen per cent of the price. The rule has changed the shelf, and it has not changed the habit of buying a box to give away."
 ---

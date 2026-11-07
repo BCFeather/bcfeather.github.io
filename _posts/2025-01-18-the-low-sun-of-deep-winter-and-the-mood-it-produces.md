@@ -1,7 +1,6 @@
 ---
 title: "The low sun of deep winter and the mood it produces"
 date: 2025-01-18 20:20:00 +0800
-tags: [health, seasons, light, science]
 categories: [science]
 description: "In the second half of January the sun rises late and sets early, and the short day changes the way a body works. The change has a name, a mechanism and a treatment that is a lamp."
 ---

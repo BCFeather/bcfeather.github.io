@@ -1,7 +1,6 @@
 ---
 title: "Chestnuts roasting at the street corner"
 date: 2026-10-17 18:05:00 +0800
-tags: [essay, autumn, food]
 categories: [essay]
 description: "A short essay on the street-corner chestnut stall, the smell that arrives with the first cold mornings, and the small ritual of buying a paper bag of warmth in the darkening autumn evenings."
 ---

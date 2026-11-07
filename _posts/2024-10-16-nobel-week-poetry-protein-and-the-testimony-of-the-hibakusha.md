@@ -1,7 +1,6 @@
 ---
 title: "Nobel week: poetry, protein and the testimony of the hibakusha"
 date: 2024-10-16 21:38:00 +0800
-tags: [nobel-prize, literature, science, peace, news]
 categories: [news]
 description: "The Nobel week of 2024 honoured a Korean novelist, the survivors of Hiroshima and Nagasaki, the designers of proteins and the students of institutions. Read together, the prizes form an unusually coherent statement about memory, life and the structures that shape both."
 ---

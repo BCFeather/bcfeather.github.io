@@ -1,7 +1,6 @@
 ---
 title: "December's trades: the markets at the year's end"
 date: 2025-12-04 14:51:00 +0800
-tags: [markets, economy, news]
 categories: [news]
 description: "The markets moved into December with the trades that the year's end has always produced: the positioning for the year's close, the attention to the year-end data, and the weighing of the year's record against the expectations that the new year will carry. December's markets are the year's final trading, and the trading's outcome will be the year's financial record."
 ---

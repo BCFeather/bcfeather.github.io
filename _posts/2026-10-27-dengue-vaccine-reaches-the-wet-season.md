@@ -1,7 +1,6 @@
 ---
 title: "Dengue vaccine reaches the wet season"
 date: 2026-10-27 14:58:00 +0800
-tags: [health, vaccine, tropical-disease, news]
 categories: [news]
 description: "The first large-scale rollout of a dengue vaccine began this month in Southeast Asia, timed to the start of the wet season when the mosquito-borne disease peaks, and the campaign is a test of everything that makes dengue a difficult target: four virus types, a waning immune response, and a vaccine that works best on people who have already been infected. The rollout is the most careful immunization campaign the tropics have ever mounted."
 ---

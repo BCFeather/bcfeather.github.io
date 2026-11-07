@@ -1,7 +1,6 @@
 ---
 title: "The street that was burning in August"
 date: 2024-08-08 21:40:00 +0800
-tags: [britain, policing, riots]
 categories: [society]
 description: "Rioting spread across English towns for a week after a stabbing in Southport. Shops burned, hotels housing asylum seekers were attacked, and four hundred people were arrested."
 ---

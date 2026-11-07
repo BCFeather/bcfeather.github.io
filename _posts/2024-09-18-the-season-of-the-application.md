@@ -1,7 +1,6 @@
 ---
 title: "The season of the application"
 date: 2024-09-18 21:30:00 +0800
-tags: [employment, china, graduates]
 categories: [business]
 description: "The autumn recruiting season opens in September, which is a year before the students graduate. A firm that wants twenty people receives thousands of applications, and the first filter is a test rather than a conversation."
 ---

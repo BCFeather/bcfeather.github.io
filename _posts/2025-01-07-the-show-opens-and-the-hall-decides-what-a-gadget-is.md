@@ -1,7 +1,6 @@
 ---
 title: "The show opens and the hall decides what a gadget is"
 date: 2025-01-07 22:15:00 +0800
-tags: [technology, ces, chips, consumer]
 categories: [technology]
 description: "The electronics show opened on the seventh of January with a hall full of machines that can talk. The year's products were on display and the year's phrase was on every booth."
 ---

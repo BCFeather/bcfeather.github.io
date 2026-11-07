@@ -1,7 +1,6 @@
 ---
 title: "A machine that proves geometry"
 date: 2024-01-23 21:14:00 +0800
-tags: [ai, mathematics, deepmind, geometry, research]
 categories: [science]
 description: "AlphaGeometry, published in Nature on 17 January, solved twenty-five of thirty olympiad geometry problems without human demonstrations, matching the average gold medallist by pairing a language model with a symbolic deduction engine."
 ---

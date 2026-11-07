@@ -1,7 +1,6 @@
 ---
 title: "Shrinking Olympic roster: a sport that almost vanished"
 date: 2026-04-21 20:36:00 +0800
-tags: [sport, olympics, policy, news]
 categories: [sport]
 description: "The IOC's final decision on the 2032 summer programme, published this week, cut four sports and left one of the Olympic movement's oldest disciplines with a single event. The deletions were framed as modernisation; the details suggest a more careful story about which sports the Olympics can still afford."
 ---

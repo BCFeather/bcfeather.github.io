@@ -1,7 +1,6 @@
 ---
 title: "The space station samples that came home in May"
 date: 2026-05-31 12:37:00 +0800
-tags: [space, science, china, biology]
 categories: [science]
 description: "On 30 May, the Shenzhou-22 return capsule brought back the tenth batch of scientific samples from the Chinese space station: 41 kilograms covering 23 experiments, including artificial embryos, brain organoids, new titanium alloys and flame-synthesis products. The deliveries are the quiet core of what the station is for."
 ---

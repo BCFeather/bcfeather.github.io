@@ -1,7 +1,6 @@
 ---
 title: "An antibody that carries infants through the winter"
 date: 2025-08-06 19:45:00 +0800
-tags: [medicine, infants, viruses, health]
 categories: [science]
 description: "Respiratory syncytial virus fills paediatric wards every winter, and the newest protection for infants is a single injection of antibodies rather than a vaccine. The clinical case is strong, and the obstacle in most of the world is cost and timing."
 ---

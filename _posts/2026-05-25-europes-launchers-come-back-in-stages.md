@@ -1,7 +1,6 @@
 ---
 title: "Europe's launchers come back in stages"
 date: 2026-05-25 22:04:00 +0800
-tags: [space, europe, ariane, technology]
 categories: [technology]
 description: "With the tenth Ariane 6 launch in April and Vega-C's return to service in May, Europe's rocket fleet has reached the cadence its operators promised years ago. The recovery is real, and it arrives just in time for a commercial market that is more crowded and cheaper than the one Europe planned for."
 ---

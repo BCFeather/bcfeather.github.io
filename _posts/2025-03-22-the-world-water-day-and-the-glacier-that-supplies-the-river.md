@@ -1,7 +1,6 @@
 ---
 title: "The world water day and the glacier that supplies the river"
 date: 2025-03-22 20:15:00 +0800
-tags: [water, climate, environment, science]
 categories: [environment]
 description: "The twenty-second of March is the world water day, and this year it is about glaciers. The ice that feeds the great rivers of Asia is shrinking, and the timetable of its retreat is the timetable of a water supply that a billion people use."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Apple changes its numbering and redraws its surfaces"
 date: 2025-06-09 23:30:00 +0800
-tags: [apple, software, design, technology]
 categories: [technology]
 description: "At the developer conference keynote on 9 June, Apple moved every one of its platforms onto a single year-based version number and introduced a translucent design language called Liquid Glass. The renaming is housekeeping. The surfaces are the part that users will notice."
 ---

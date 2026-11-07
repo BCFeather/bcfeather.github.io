@@ -1,7 +1,6 @@
 ---
 title: "The dog days begin"
 date: 2025-07-20 21:25:00 +0800
-tags: [essay, heat, seasons, cities]
 categories: [essay]
 description: "The hot stretch of the year has a name, a start date and a mythology, and it begins in the third week of July. A piece about forty days of weather that everyone complains about and nobody schedules anything around."
 ---

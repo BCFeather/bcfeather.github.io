@@ -1,7 +1,6 @@
 ---
 title: "The comet that came for the summer"
 date: 2026-07-14 21:23:00 +0800
-tags: [space, astronomy, science, news]
 categories: [science]
 description: "A comet discovered in January is making its first and only close approach this month, brightening into the kind of object that the evening sky offers once a decade, and the amateur networks that track such visitors are having the best summer of their lives. The comet is a reminder that the sky's calendar is written by bodies that owe us nothing."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Pandemic treaty finally has teeth"
 date: 2026-05-13 08:19:00 +0800
-tags: [health, who, pandemic, policy]
 categories: [news]
 description: "The WHO Pandemic Agreement entered into force on 10 May, three months after the sixtieth state ratified it, with binding provisions on pathogen sharing and a financing mechanism that member states have already begun to test. The text was years in the making; the proof will be in the next outbreak."
 ---

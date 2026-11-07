@@ -1,7 +1,6 @@
 ---
 title: "A night borrowed from sleep"
 date: 2026-01-24 20:30:00 +0800
-tags: [sleep, work, technology]
 categories: [essay]
 description: "Revenge bedtime procrastination, the habit of staying up late to reclaim a few hours that the day took away, has become a recognised symptom of the always-on schedule. A short essay on the economics of the stolen night, and what the theft says about the day it compensates for."
 ---

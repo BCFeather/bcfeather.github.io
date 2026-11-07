@@ -1,7 +1,6 @@
 ---
 title: "A young blueprint for the Galaxy's most common planets"
 date: 2026-01-09 09:40:00 +0800
-tags: [astronomy, exoplanets, planet-formation]
 categories: [science]
 description: "In the 8 January issue of *Nature*, a team including Caltech astronomers reports a young system that appears to be the progenitor of the Galaxy's most common kind of planets, using a nine-year observing baseline to trace how a compact disk of gas and dust evolves. The find puts a face on the planet type we know least."
 ---

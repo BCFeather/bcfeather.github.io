@@ -1,7 +1,6 @@
 ---
 title: "Thirty days in, the resolutions thin out"
 date: 2026-01-20 20:40:00 +0800
-tags: [habits, new-year, self-improvement]
 categories: [essay]
 description: "By the third week of January the new year's resolutions have begun their annual retreat, and the statistics are so consistent that they have become a genre of their own. A short essay on why the failure is so predictable, and what the predictability does to the attempt."
 ---

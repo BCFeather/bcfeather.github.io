@@ -1,7 +1,6 @@
 ---
 title: "The night the leader fell"
 date: 2024-09-29 09:12:00 +0800
-tags: [lebanon, israel, middle-east, news]
 categories: [news]
 description: "On the evening of 27 September, Israeli jets dropped more than eighty bombs on a suburb of Beirut, and Hassan Nasrallah, the secretary-general of Hezbollah for thirty-two years, was killed. The strike removed the most powerful man in Lebanon from the map of the region's conflicts, and the war that he spent three decades shaping has entered its most dangerous phase."
 ---

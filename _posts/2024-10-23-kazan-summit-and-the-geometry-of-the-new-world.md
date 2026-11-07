@@ -1,7 +1,6 @@
 ---
 title: "Kazan summit and the geometry of the new world"
 date: 2024-10-23 20:44:00 +0800
-tags: [brics, russia, china, diplomacy, news]
 categories: [news]
 description: "The BRICS summit in Kazan brought the leaders of the expanded group together under Russia's chairmanship, with a theme about multilateralism and a guest list that doubled as a statement. The summit was as much a demonstration of who is not invited as of who is."
 ---

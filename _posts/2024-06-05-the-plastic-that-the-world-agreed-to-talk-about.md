@@ -1,7 +1,6 @@
 ---
 title: "The plastic that the world agreed to talk about"
 date: 2024-06-05 20:50:00 +0800
-tags: [environment, plastic, policy, united-nations]
 categories: [science]
 description: "The environment day is given to plastic this year. The treaty meant to control it is stuck on the question of what counts as production."
 ---

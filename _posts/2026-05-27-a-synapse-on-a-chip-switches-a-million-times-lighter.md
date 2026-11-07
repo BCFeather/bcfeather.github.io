@@ -1,7 +1,6 @@
 ---
 title: "A synapse on a chip switches a million times lighter"
 date: 2026-05-27 13:26:00 +0800
-tags: [chips, memristor, neuromorphic, energy]
 categories: [technology]
 description: "A Cambridge team built a hafnium-oxide memristor that switches at currents roughly a million times lower than silicon, published in Nature Electronics on 22 April. The device mimics a brain synapse and hints at a route to AI hardware that runs on a fraction of today's power."
 ---

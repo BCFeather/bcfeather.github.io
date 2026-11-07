@@ -1,7 +1,6 @@
 ---
 title: "A malaria vaccine reaches the children it was built for"
 date: 2025-08-17 20:10:00 +0800
-tags: [malaria, vaccines, africa, public-health]
 categories: [science]
 description: "The first malaria vaccines approved for wide use have now been rolled out across a dozen African countries, and the results are being reported from routine clinics rather than from trials. The efficacy is moderate, the logistics are difficult, and the programme is the largest public health intervention of its kind in a generation."
 ---

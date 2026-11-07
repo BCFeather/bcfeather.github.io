@@ -1,7 +1,6 @@
 ---
 title: "The assembly closes and the autumn's work resumes"
 date: 2025-09-26 20:38:00 +0800
-tags: [diplomacy, united-nations, news]
 categories: [news]
 description: "The general assembly's autumn session closed at the end of September with the record of the bilaterals and the speeches that the year's diplomacy had produced, and the closing returned the work to the channels that the session had convened for: the negotiations, the deadlines and the summits that the autumn's calendar holds. The assembly's value was the room it provided, and the room's closing is the resumption of the work that the room made possible."
 ---

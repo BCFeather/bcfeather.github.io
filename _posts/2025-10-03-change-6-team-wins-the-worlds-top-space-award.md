@@ -1,7 +1,6 @@
 ---
 title: "Chang'e 6 team wins the world's top space award"
 date: 2025-10-03 09:20:00 +0800
-tags: [space, moon, awards]
 categories: [news]
 description: "At the opening of the 76th International Astronautical Congress in Sydney on 29 September, the Chang'e 6 mission team received the International Astronautical Federation's World Space Award, the highest honour in the field. The award recognises a mission that returned the first samples from the far side of the Moon, a first in the history of lunar exploration."
 ---

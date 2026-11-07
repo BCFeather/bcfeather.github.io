@@ -1,7 +1,6 @@
 ---
 title: "Reserved seats and the grammar of the library"
 date: 2026-09-19 10:14:00 +0800
-tags: [essay, library, study, city]
 categories: [essay]
 description: "A good library is run on an unwritten etiquette of chairs, bags and silence. The seat that holds a notebook for hours, the desk lamp that belongs to whoever sits there, the hush that is policed by the readers themselves. A short essay on the private grammar of a shared public room."
 ---

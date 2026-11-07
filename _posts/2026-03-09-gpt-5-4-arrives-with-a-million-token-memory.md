@@ -1,7 +1,6 @@
 ---
 title: "GPT-5.4 arrives with a million-token memory"
 date: 2026-03-09 09:47:00 +0800
-tags: [ai, openai, technology, models]
 categories: [technology]
 description: "On 5 March, OpenAI released GPT-5.4, its first model with a 1.05 million-token context window, shipped in three variants aimed at different price and latency points. The release is the strongest signal yet that the frontier is shifting from raw capability to how much of a problem a model can hold at once."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The capital that moved into a forest"
 date: 2024-08-17 20:50:00 +0800
-tags: [indonesia, cities, politics]
 categories: [world]
 description: "Indonesia held its independence day ceremony in two places this year. One was the old capital and the other was a city that is still being built in the forest of East Kalimantan."
 ---

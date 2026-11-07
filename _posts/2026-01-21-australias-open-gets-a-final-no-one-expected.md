@@ -1,7 +1,6 @@
 ---
 title: "Australia's Open gets a final no one expected"
 date: 2026-01-21 15:53:00 +0800
-tags: [sport, tennis, australia, news]
 categories: [sport]
 description: "The Australian Open final on 20 January paired a thirty-six-year-old veteran chasing his first major in a decade with a nineteen-year-old qualifier who had never won a main-draw match in Melbourne. Tennis loves its narratives, and this final supplied the strangest one in years."
 ---

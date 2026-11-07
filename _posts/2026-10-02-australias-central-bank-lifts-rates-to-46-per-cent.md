@@ -1,7 +1,6 @@
 ---
 title: "Australia's central bank lifts rates to 4.6 per cent"
 date: 2026-10-02 09:23:00 +0800
-tags: [economy, central-bank, australia]
 categories: [news]
 description: "The Reserve Bank of Australia raised the cash rate by a quarter point to 4.60 per cent on 29 September, its third hike of the year, citing stubborn inflation fed by oil prices and strong domestic demand. A small open economy is tightening even as much of the world watches."
 ---

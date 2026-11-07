@@ -1,7 +1,6 @@
 ---
 title: "Ultrasound mops up the brain after a haemorrhagic stroke"
 date: 2025-11-13 09:40:00 +0800
-tags: [medicine, neuroscience, ultrasound, stroke]
 categories: [science]
 description: "In the 10 November issue of *Nature Biotechnology*, a team led by Raag Airan reports that a low-intensity, non-invasive ultrasound protocol clears more than half of the blood cells that linger in the brain after an induced haemorrhagic stroke in mice, shuttling them to the deep cervical lymph nodes, cutting inflammation, and improving survival, behaviour and recovery of weight and swelling. The team is now planning clinical trials."
 ---

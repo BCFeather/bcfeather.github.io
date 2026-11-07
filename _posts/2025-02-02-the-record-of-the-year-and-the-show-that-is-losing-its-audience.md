@@ -1,7 +1,6 @@
 ---
 title: "The record of the year and the show that is losing its audience"
 date: 2025-02-02 21:25:00 +0800
-tags: [music, media, america, awards]
 categories: [culture]
 description: "The music awards were handed out in Los Angeles on the second of February, and the broadcast that carries them has been shrinking for a decade. The prize and the audience have come apart."
 ---

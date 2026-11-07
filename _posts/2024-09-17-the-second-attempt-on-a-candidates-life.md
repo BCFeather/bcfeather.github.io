@@ -1,7 +1,6 @@
 ---
 title: "The second attempt on a candidate's life"
 date: 2024-09-17 12:44:00 +0800
-tags: [usa, election, politics, news]
 categories: [news]
 description: "On 15 September, an armed man was spotted near the sixth hole of Donald Trump's golf course in West Palm Beach, and Secret Service agents opened fire before he could. The suspect, Ryan Routh, was arrested and later charged with attempting to assassinate a major presidential candidate, the second such attempt in two months, and the country's argument about political violence has acquired a new chapter."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The lander that arrived on its side"
 date: 2024-01-20 20:39:00 +0800
-tags: [japan, space, lunar, jaxa, slim]
 categories: [science]
 description: "Japan's SLIM spacecraft touched down on the moon on 19 January, landing within about fifty-five metres of its target but tipped onto its nose with its solar panels facing the wrong way, and was switched off after two hours with its mission unfinished."
 ---

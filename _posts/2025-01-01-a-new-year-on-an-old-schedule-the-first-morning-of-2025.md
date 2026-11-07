@@ -1,7 +1,6 @@
 ---
 title: "A new year on an old schedule: the first morning of 2025"
 date: 2025-01-01 07:12:00 +0800
-tags: [year-end, culture, reflection, essay]
 categories: [culture]
 description: "The first morning of 2025 arrived without drama, which is exactly what a new year should do, and the quiet of 1 January gave the year ahead room to be seen clearly for once. The schedule of the coming year was already written before it began: inaugurations, budgets, tournaments and a handful of dates that everyone will remember regardless of what happens on the days between."
 ---

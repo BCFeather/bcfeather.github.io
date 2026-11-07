@@ -1,7 +1,6 @@
 ---
 title: "A growth chart for the brain's white matter"
 date: 2026-08-12 14:33:00 +0800
-tags: [neuroscience, brain-imaging, white-matter]
 categories: [science]
 description: "Processing 35,120 brain scans from 50 studies, a team has built reference charts for white-matter tracts across the whole human lifespan, from birth to one hundred years. The brain now has the kind of growth chart children have long had for height and weight."
 ---

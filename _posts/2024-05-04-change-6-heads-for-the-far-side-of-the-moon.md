@@ -1,7 +1,6 @@
 ---
 title: "Chang'e-6 heads for the far side of the Moon"
 date: 2024-05-04 14:27:00 +0800
-tags: [china, space, moon, science]
 categories: [news]
 description: "On 3 May, China launched its Chang'e-6 probe on a Long March 5 rocket from Wenchang, opening the world's first sample-return mission to the far side of the Moon, with a target landing zone in the South Pole-Aitken Basin."
 ---

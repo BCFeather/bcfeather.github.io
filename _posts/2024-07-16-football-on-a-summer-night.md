@@ -1,7 +1,6 @@
 ---
 title: "Football on a summer night"
 date: 2024-07-16 21:26:00 +0800
-tags: [chizhou, summer, football, euro-2024]
 categories: [essay]
 description: "A quiet essay about watching the European Championship final on a hot July night in Chizhou, where the cicadas, the river and the dark outside matter as much as the match itself."
 ---

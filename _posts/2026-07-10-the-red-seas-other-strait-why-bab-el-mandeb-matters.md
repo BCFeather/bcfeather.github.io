@@ -1,7 +1,6 @@
 ---
 title: "The Red Sea's other strait: why Bab el-Mandeb matters"
 date: 2026-07-10 08:58:00 +0800
-tags: [geopolitics, shipping, middle-east, news]
 categories: [news]
 description: "The week's attention was on the Gulf, and the Gulf's chokepoint got the coverage; the Red Sea's other gate, the narrow passage at Bab el-Mandeb, has been doing the quieter work of carrying the world's trade while the insurance rates around it make the front pages only when something burns. The strait deserves the attention that the headlines reserve for its northern cousin."
 ---

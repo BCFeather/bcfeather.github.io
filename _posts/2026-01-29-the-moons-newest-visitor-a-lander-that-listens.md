@@ -1,7 +1,6 @@
 ---
 title: "The moon's newest visitor: a lander that listens"
 date: 2026-01-29 22:05:00 +0800
-tags: [space, moon, science, technology]
 categories: [science]
 description: "On 27 January a commercial lander touched down in the lunar south pole region carrying the most sensitive seismometer ever placed on the Moon. The mission's science goals are modest; the listening it will do, to the Moon's internal rumble and to the debris that strikes it, is anything but."
 ---

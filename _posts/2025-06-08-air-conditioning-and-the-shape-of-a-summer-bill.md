@@ -1,7 +1,6 @@
 ---
 title: "Air conditioning and the shape of a summer bill"
 date: 2025-06-08 21:20:00 +0800
-tags: [energy, climate, cities, households]
 categories: [society]
 description: "The first sustained heat of the year arrives in June, and with it the annual argument about electricity bills. The price of a comfortable summer has been falling for twenty years, and the consequences of that have not been priced in anywhere."
 ---

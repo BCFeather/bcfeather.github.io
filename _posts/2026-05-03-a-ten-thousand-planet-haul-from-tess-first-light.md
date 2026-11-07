@@ -1,7 +1,6 @@
 ---
 title: "A ten-thousand-planet haul from TESS first light"
 date: 2026-05-03 10:15:00 +0800
-tags: [astronomy, exoplanets, tess]
 categories: [science]
 description: "A Princeton-led team mined every full-frame image TESS took in its first cycle and surfaced 10,091 new planet candidates around faint stars, more than doubling the census. The T16 survey is a reminder that the richest discoveries are still hidden in the data already collected."
 ---

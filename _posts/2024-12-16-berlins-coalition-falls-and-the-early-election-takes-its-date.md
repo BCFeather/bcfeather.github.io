@@ -1,7 +1,6 @@
 ---
 title: "Berlin's coalition falls and the early election takes its date"
 date: 2024-12-16 22:14:00 +0800
-tags: [germany, politics, news]
 categories: [news]
 description: "The Bundestag voted on 16 December to deny Chancellor Olaf Scholz the confidence he requested, clearing the path to early elections on 23 February. The vote was the formal end of the traffic-light coalition's project, and the campaign that begins now will decide what replaces it."
 ---

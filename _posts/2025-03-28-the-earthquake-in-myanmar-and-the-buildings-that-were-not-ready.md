@@ -1,7 +1,6 @@
 ---
 title: "The earthquake in Myanmar and the buildings that were not ready"
 date: 2025-03-28 23:40:00 +0800
-tags: [earthquakes, myanmar, disaster, news]
 categories: [news]
 description: "A magnitude 7.7 earthquake struck central Myanmar on the twenty-eighth of March, close to Mandalay, and the damage was concentrated in the kind of building that a poor country builds. The wave reached Bangkok, where a tower under construction came down."
 ---

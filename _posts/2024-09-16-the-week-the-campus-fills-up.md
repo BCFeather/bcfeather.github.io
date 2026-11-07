@@ -1,7 +1,6 @@
 ---
 title: "The week the campus fills up"
 date: 2024-09-16 21:00:00 +0800
-tags: [education, china, universities]
 categories: [society]
 description: "The new students arrive in the second week of September, and the first thing they do is stand in a line for a medical check, a dormitory key and a uniform for the training that follows."
 ---

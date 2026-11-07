@@ -1,7 +1,6 @@
 ---
 title: "The Korean campaign that the verdict opened"
 date: 2025-04-28 19:20:00 +0800
-tags: [korea, election, politics, news]
 categories: [news]
 description: "The campaign for the presidential election took shape in the final week of April, with the parties settling their candidates and the issues that the year's events had set: the economy, the security, and the judgement of the martial-law night that had removed the previous president. The election in early June will be the country's answer to the winter's question, and the answer is being written by the campaigns that the verdict opened."
 ---

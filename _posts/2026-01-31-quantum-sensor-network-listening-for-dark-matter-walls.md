@@ -1,7 +1,6 @@
 ---
 title: "Quantum sensor network listening for dark matter walls"
 date: 2026-01-31 10:18:00 +0800
-tags: [science, physics, quantum, china]
 categories: [science]
 description: "On 29 January, *Nature* published work by a team at the University of Science and Technology of China describing the first quantum sensing network built on nuclear spins, five sensors spread between Hefei and Hangzhou, synchronized by satellite, and pointed at one of the stranger predictions of dark matter physics."
 ---

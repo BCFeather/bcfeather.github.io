@@ -1,7 +1,6 @@
 ---
 title: "Banking year starts with a balance sheet warning"
 date: 2026-01-30 14:12:00 +0800
-tags: [economy, banks, finance, news]
 categories: [news]
 description: "The first major bank earnings of the year were published this week, and while the headline numbers cleared expectations, the balance sheets behind them carried a message the press releases left out: the interest-rate tail of the last cycle has not finished wagging. Commercial real estate is the name of the problem; the regulators are watching the same floor."
 ---

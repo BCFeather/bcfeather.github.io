@@ -1,7 +1,6 @@
 ---
 title: "Phone call that could stop the war: the leaders’ arithmetic"
 date: 2025-07-11 20:19:00 +0800
-tags: [russia, ukraine, diplomacy, news]
 categories: [news]
 description: "The leaders of the two largest powers in the war's diplomacy were reported to be preparing for the direct conversation that the summer's negotiations have been building toward, and the expectation of the call carried the hopes and the fears that the war's three years have accumulated. The call, when it happens, will be the moment when the war's settlement either begins or recedes."
 ---

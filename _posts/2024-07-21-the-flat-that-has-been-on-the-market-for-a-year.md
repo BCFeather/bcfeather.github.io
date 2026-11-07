@@ -1,7 +1,6 @@
 ---
 title: "The flat that has been on the market for a year"
 date: 2024-07-21 21:00:00 +0800
-tags: [housing, cities, china, prices]
 categories: [business]
 description: "A seller who listed a flat last summer has cut the price four times. The listing is still up, the viewings have stopped. The agent has started to call the neighbours instead."
 ---

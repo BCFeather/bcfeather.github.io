@@ -1,7 +1,6 @@
 ---
 title: "Half-year report card for the oceans"
 date: 2026-06-30 12:08:00 +0800
-tags: [oceans, climate, science, news]
 categories: [science]
 description: "The ocean-monitoring networks published their half-year assessment this week, and the numbers were the familiar mixture of the alarming and the surprising: record sea-surface temperatures in the Pacific, a cooler Atlantic than the models expected, and a coral bleaching season that arrived a month early and ended a month early. The oceans are no longer a slow-moving baseline; they are the fastest-changing part of the climate system."
 ---

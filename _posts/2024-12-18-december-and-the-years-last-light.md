@@ -1,7 +1,6 @@
 ---
 title: "December, and the year's last light"
 date: 2024-12-18 19:23:00 +0800
-tags: [essay, winter, time, home]
 categories: [essay]
 description: "Late December in Anhui is a quiet season, and the year's end is the one time of the calendar that asks for no performance. A short essay on how we measure time, and what the last light of the year is for."
 ---

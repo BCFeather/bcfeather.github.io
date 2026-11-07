@@ -1,7 +1,6 @@
 ---
 title: "Quantum error correction stops being a promise"
 date: 2026-03-20 08:47:00 +0800
-tags: [quantum, computing, technology]
 categories: [technology]
 description: "On 18 March a team at the University of Science and Technology of China reported a logical qubit whose error rate fell below that of its physical components, the first demonstration at scale of the threshold that makes fault-tolerant quantum computing possible. The field has talked about this for thirty years; now it has to be practical."
 ---

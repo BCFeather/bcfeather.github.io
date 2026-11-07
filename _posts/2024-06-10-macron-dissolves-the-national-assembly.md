@@ -1,7 +1,6 @@
 ---
 title: "Macron dissolves the National Assembly"
 date: 2024-06-10 21:48:00 +0800
-tags: [france, macron, european-elections]
 categories: [news]
 description: "On 9 June, after a heavy far-right win in the European vote, Emmanuel Macron dissolved the National Assembly and called snap legislative elections for 30 June and 7 July, turning a European defeat into a high-stakes gamble on his own majority."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Shanghai hosts the AI summit that created a global body"
 date: 2026-07-20 18:35:00 +0800
-tags: [ai, china, policy, governance]
 categories: [technology]
 description: "The 2026 World AI Conference opened in Shanghai on 17 July, with the signing of the charter for a new World AI Cooperation Organization, a multilateral body aimed at the global south. The summit brought together heads of state and international officials, and its outcome is a bet that governance can be built before the technology is fully understood."
 ---

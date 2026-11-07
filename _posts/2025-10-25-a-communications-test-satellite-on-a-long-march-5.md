@@ -1,7 +1,6 @@
 ---
 title: "A communications test satellite, on a Long March 5"
 date: 2025-10-25 09:20:00 +0800
-tags: [space, satellites, communications]
 categories: [news]
 description: "On the evening of 23 October, a Long March 5 lifted off from the Wenchang launch site carrying the Communications Technology Test Satellite 20 into orbit. The flight pairs the country's largest rocket with the quiet work of testing the technologies on which its communications satellite fleet will depend."
 ---

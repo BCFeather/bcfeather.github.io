@@ -1,7 +1,6 @@
 ---
 title: "The expo on an artificial island and the cost of a world fair"
 date: 2025-04-14 20:35:00 +0800
-tags: [expo, cities, architecture, culture]
 categories: [culture]
 description: "The world expo opened in Osaka on the thirteenth of April, on an island built for the purpose in the bay. The fairs that once displayed the technology of the future now compete with the internet, and the question is what a six-month exhibition is for."
 ---

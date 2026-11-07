@@ -1,7 +1,6 @@
 ---
 title: "Microplastics reach the deep-sea vents two kilometres down"
 date: 2026-07-23 10:10:00 +0800
-tags: [environment, ocean, plastic, pollution]
 categories: [news]
 description: "A Korean team comparing animals from hydrothermal vents more than 2,000 metres down in the south-western Pacific and the Indian Ocean found microplastics in 92 per cent of the creatures they examined, with Indian Ocean specimens carrying up to 14.7 times the load of Pacific ones. The study was published in *Water Research*."
 ---

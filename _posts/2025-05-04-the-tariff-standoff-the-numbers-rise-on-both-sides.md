@@ -1,7 +1,6 @@
 ---
 title: "The tariff standoff: the numbers rise on both sides"
 date: 2025-05-04 15:57:00 +0800
-tags: [trade, tariffs, china, news]
 categories: [news]
 description: "The trade conflict between the world's two largest economies escalated through the spring's first weekend, with the rates on the affected goods climbing on both sides and the negotiations, such as they were, conducted through the announcements rather than across the tables. The standoff has reached the levels that the economists had described as the worst case, and the worst case is now the baseline from which the two sides will have to find a way back."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Rice that survives the flood: a quiet Green Revolution"
 date: 2026-02-27 16:49:00 +0800
-tags: [agriculture, science, climate, food]
 categories: [science]
 description: "Field trials in the Mekong delta ended this month with the strongest evidence yet that a new line of flood-tolerant rice can match the yields of the standard varieties in good years and save the harvest in bad ones. The variety is not a headline technology; it is the kind of quiet insurance that the world's staple crop has been waiting for."
 ---

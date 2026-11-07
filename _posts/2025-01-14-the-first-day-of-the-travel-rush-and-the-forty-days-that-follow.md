@@ -1,7 +1,6 @@
 ---
 title: "The first day of the travel rush and the forty days that follow"
 date: 2025-01-14 21:00:00 +0800
-tags: [transport, festivals, china, cities]
 categories: [society]
 description: "The spring travel period opens on the fourteenth of January and runs for forty days. The first morning is quiet and the last week is not, and the shape of the period is what the operators plan for."
 ---

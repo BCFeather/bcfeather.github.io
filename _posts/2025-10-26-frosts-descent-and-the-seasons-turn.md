@@ -1,7 +1,6 @@
 ---
 title: "Frost's descent and the season's turn"
 date: 2025-10-26 20:40:00 +0800
-tags: [seasons, solar-terms, autumn]
 categories: [essay]
 description: "On 23 October the solar term of Frost's Descent arrived, the last term of autumn and the one that announces winter's approach: the point in the year when the cold stops threatening and begins to arrive. A short essay on the season's final station, the persimmons and the maple leaves it brings out, and the particular beauty of the year's last warm days."
 ---

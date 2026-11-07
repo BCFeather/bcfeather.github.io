@@ -1,7 +1,6 @@
 ---
 title: "Brussels issues its first fine under the AI Act"
 date: 2026-03-15 16:02:00 +0800
-tags: [ai, europe, regulation, law]
 categories: [technology]
 description: "On 13 March the European Commission fined a recruitment platform €1.2 million for running an unregistered high-risk hiring model, the first penalty handed down under the AI Act. The sum is small; the precedent is not, and it reveals how the world's strictest AI regime intends to enforce itself."
 ---

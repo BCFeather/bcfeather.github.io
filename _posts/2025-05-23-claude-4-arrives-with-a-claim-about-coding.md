@@ -1,7 +1,6 @@
 ---
 title: "Claude 4 arrives with a claim about coding"
 date: 2025-05-23 09:35:00 +0800
-tags: [ai, anthropic, models, software]
 categories: [technology]
 description: "Anthropic released Claude Opus 4 and Claude Sonnet 4 on 22 May, positioning the larger model as the strongest coding system available and both of them as agents that can work through long tasks. The claims are specific enough to be tested, which is the useful part."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The roads to the south are gone"
 date: 2024-10-15 21:09:00 +0800
-tags: [north-korea, south-korea, korea, news]
 categories: [news]
 description: "At noon on 15 October, North Korea demolished the roads and railways that once linked it to the South, and Seoul answered with warning shots. The demolition was the physical form of a decision the two Koreas have been moving toward all year."
 ---

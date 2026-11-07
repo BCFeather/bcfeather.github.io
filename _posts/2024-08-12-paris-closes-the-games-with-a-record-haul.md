@@ -1,7 +1,6 @@
 ---
 title: "Paris closes the Games with a record haul"
 date: 2024-08-12 21:18:00 +0800
-tags: [olympics, france, sport, news]
 categories: [news]
 description: "The Paris Olympics closed on 11 August with thirty-two world records broken and a final tally in which the United States and China finished level on forty gold medals each. A city that had begun the summer in political crisis managed, for two weeks, to be the host the world expected, and the Games ended with the politics waiting where they had been left."
 ---

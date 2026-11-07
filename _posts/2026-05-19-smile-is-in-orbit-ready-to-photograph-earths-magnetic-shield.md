@@ -1,7 +1,6 @@
 ---
 title: "SMILE is in orbit, ready to photograph Earth's magnetic shield"
 date: 2026-05-19 16:44:00 +0800
-tags: [space, science, china, europe]
 categories: [space]
 description: "On 19 May, a Vega-C rocket lifted off from Kourou carrying SMILE, the Solar wind Magnetosphere Ionosphere Link Explorer, the first space-science mission built as a full-scale collaboration between the Chinese Academy of Sciences and the European Space Agency. Its job is to photograph the interaction between the solar wind and Earth's magnetosphere, something no satellite has done as a whole."
 ---

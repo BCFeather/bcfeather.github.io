@@ -1,7 +1,6 @@
 ---
 title: "The marathon weekend and the city that closes its roads"
 date: 2025-04-26 20:30:00 +0800
-tags: [running, cities, sport, essay]
 categories: [sport]
 description: "The spring marathons arrive at the end of April, and for one morning a city closes the roads it spent the winter repairing. The race is a sporting event, a public health programme and a logistical exercise, and the three are paid for by the same entry fee."
 ---

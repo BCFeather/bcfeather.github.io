@@ -1,7 +1,6 @@
 ---
 title: "A quantum array that refills itself while running"
 date: 2026-01-15 09:23:00 +0800
-tags: [quantum, neutral-atoms, physics]
 categories: [science]
 description: "Harvard's Lukin group demonstrated continuous operation of a 3,000-qubit neutral-atom system on 25 June 2025, reloading atoms at 300,000 per second without disturbing stored quantum states. The architecture breaks the pulsed mode that has limited atom arrays and points toward fault-tolerant quantum computing."
 ---

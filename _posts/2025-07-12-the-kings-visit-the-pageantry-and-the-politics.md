@@ -1,7 +1,6 @@
 ---
 title: "The king's visit: the pageantry and the politics"
 date: 2025-07-12 16:27:00 +0800
-tags: [britain, united-states, diplomacy, news]
 categories: [news]
 description: "The British monarch's state visit to Washington brought the pageantry that the occasion commands and the politics that the year has made unavoidable: the trade agreement to be celebrated, the alliance to be affirmed, and the special relationship to be performed in the presence of the cameras. The visit's success was measured in the ceremonies and the statements, and the ceremonies carried the year's weight."
 ---

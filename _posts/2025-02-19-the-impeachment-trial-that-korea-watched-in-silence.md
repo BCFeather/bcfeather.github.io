@@ -1,7 +1,6 @@
 ---
 title: "The impeachment trial that Korea watched in silence"
 date: 2025-02-19 18:22:00 +0800
-tags: [korea, politics, impeachment, news]
 categories: [news]
 description: "The constitutional court in Seoul continued its deliberations on the impeachment of the suspended president, and the country watched with the particular patience that the procedure demands: the arguments filed, the witnesses heard, the televised sessions drawing audiences that the daytime programming never expected. The case is legal in form and political in substance, and the country's silence around it is the loudest part of the story."
 ---

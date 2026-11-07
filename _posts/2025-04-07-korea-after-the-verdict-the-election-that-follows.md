@@ -1,7 +1,6 @@
 ---
 title: "Korea after the verdict: the election that follows"
 date: 2025-04-07 09:12:00 +0800
-tags: [korea, politics, impeachment, election]
 categories: [news]
 description: "The constitutional court removed the suspended president, and the country that had waited through the winter for the decision began, within hours, the campaign that the removal triggers: the election within sixty days, the parties reconfiguring around the new field, and the politics of the martial-law night finally moving from the courtroom to the ballot box. The verdict closed the legal case and opened the political one."
 ---

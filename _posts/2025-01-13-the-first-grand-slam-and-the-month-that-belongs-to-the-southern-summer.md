@@ -1,7 +1,6 @@
 ---
 title: "The first grand slam and the month that belongs to the southern summer"
 date: 2025-01-13 20:30:00 +0800
-tags: [tennis, sport, australia, seasons]
 categories: [sport]
 description: "The Australian Open began in Melbourne on the twelfth of January, and for two weeks the tennis world works in a time zone that suits nobody else. The tournament is a lesson in how a city can own a month."
 ---

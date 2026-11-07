@@ -1,7 +1,6 @@
 ---
 title: "The prepared dish and the dinner that arrives in a box"
 date: 2025-01-24 20:25:00 +0800
-tags: [food, retail, china, industry]
 categories: [society]
 description: "The festival dinner is increasingly assembled from prepared dishes that arrive frozen in a box, and the industry behind them has changed what a family cooks. The convenience and the taste are two separate questions."
 ---

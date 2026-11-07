@@ -1,7 +1,6 @@
 ---
 title: "The heating season and the bill that arrives in the coldest week"
 date: 2025-01-09 21:05:00 +0800
-tags: [energy, cities, winter, households]
 categories: [society]
 description: "The northern cities heat their flats from the middle of November to the middle of March, and the coldest week of January is when the system is tested. The bill is fixed and the comfort is not."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The second Sunday of May"
 date: 2025-05-12 20:15:00 +0800
-tags: [essay, family, festival, memory]
 categories: [essay]
 description: "Mother's Day arrived on the eleventh of May this year, carried by the same florists and the same group chats as every year. A short essay on what a fixed date does to a feeling that is otherwise ungovernable by the calendar."
 ---

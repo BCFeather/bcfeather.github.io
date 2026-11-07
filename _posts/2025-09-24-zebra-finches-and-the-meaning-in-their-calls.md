@@ -1,7 +1,6 @@
 ---
 title: "Zebra finches, and the meaning in their calls"
 date: 2025-09-24 09:40:00 +0800
-tags: [animals, language, birds]
 categories: [science]
 description: "In the 18 September issue of *Science*, researchers report that zebra finches perceive their own call types in a categorical, semantic way, distinguishing the meaning of different calls rather than merely their sounds. The finding adds one of the clearest animal examples yet of a step that looks like the beginning of language."
 ---

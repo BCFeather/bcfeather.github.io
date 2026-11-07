@@ -1,7 +1,6 @@
 ---
 title: "A hung parliament in Paris"
 date: 2024-07-08 21:42:00 +0800
-tags: [france, election, politics]
 categories: [news]
 description: "On 7 July the second round of France's snap election returned a hung parliament: the left's Nouveau Front Populaire won the most seats, Macron's centrists came second, and the far-right National Rally, ahead after round one, finished third, leaving no one able to govern alone."
 ---

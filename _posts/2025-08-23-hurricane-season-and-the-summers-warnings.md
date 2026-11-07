@@ -1,7 +1,6 @@
 ---
 title: "Hurricane season and the summer’s warnings"
 date: 2025-08-23 14:48:00 +0800
-tags: [climate, weather, news]
 categories: [news]
 description: "The Atlantic's hurricane season moved through its peak weeks in late August, and the season's activity carried the warnings that the forecasts had issued: the storms forming in the warm waters, the coasts preparing for the landfalls, and the year's climate extremes adding to the pressure on the emergency systems. The season is the annual test of the region's preparedness, and the test has been conducted against the backdrop of the year's heat."
 ---

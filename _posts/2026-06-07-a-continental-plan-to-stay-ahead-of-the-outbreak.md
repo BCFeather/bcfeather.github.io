@@ -1,7 +1,6 @@
 ---
 title: "A continental plan to stay ahead of the outbreak"
 date: 2026-06-07 10:15:00 +0800
-tags: [health, ebola, africa]
 categories: [news]
 description: "The WHO and the Africa Centres for Disease Control have launched a six-month continental preparedness plan for the Ebola outbreak caused by the Bundibugyo virus in the Congo and Uganda, seeking 518 million dollars. The gamble is to spend before the spread."
 ---

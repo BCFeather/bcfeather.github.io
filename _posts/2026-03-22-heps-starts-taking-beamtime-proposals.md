@@ -1,7 +1,6 @@
 ---
 title: "HEPS starts taking beamtime proposals"
 date: 2026-03-22 09:20:00 +0800
-tags: [science, facilities, china]
 categories: [news]
 description: "On 20 March the High Energy Photon Source opened its first round of beamtime proposals, moving Asia's first fourth-generation synchrotron from construction into the early days of operation. Seven years of building in Huairou are about to become a queue of experiments."
 ---

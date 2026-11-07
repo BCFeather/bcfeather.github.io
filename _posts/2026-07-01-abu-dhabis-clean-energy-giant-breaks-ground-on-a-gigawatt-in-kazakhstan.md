@@ -1,7 +1,6 @@
 ---
 title: "Abu Dhabi's clean energy giant breaks ground on a gigawatt in Kazakhstan"
 date: 2026-07-01 09:09:00 +0800
-tags: [energy, wind, central-asia, investment]
 categories: [news]
 description: "Masdar broke ground on 29 June on a 1-gigawatt wind farm with 600 megawatt-hours of battery storage in Kazakhstan's Zhambyl region, a 1.4 billion dollar project that ties Gulf capital to Central Asian grids and to data-centre demand."
 ---

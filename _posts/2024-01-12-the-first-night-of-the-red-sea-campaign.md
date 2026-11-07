@@ -1,7 +1,6 @@
 ---
 title: "The first night of the Red Sea campaign"
 date: 2024-01-12 22:58:00 +0800
-tags: [red-sea, houthis, yemen, shipping, military]
 categories: [news]
 description: "American and British aircraft and warships struck more than sixty Houthi targets across Yemen on the night of 11 January, the first direct military response to a campaign against shipping that has diverted trade around the Cape of Good Hope."
 ---

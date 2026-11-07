@@ -1,7 +1,6 @@
 ---
 title: "Second round: Beijing prepares for the longest table"
 date: 2025-08-04 11:07:00 +0800
-tags: [trade, china, tariffs, news]
 categories: [news]
 description: "The second round of the trade talks between the world's two largest economies was announced for the capital that the first round had not reached, and the announcement set the stage for the sessions that the year's largest file now requires. The talks' second round will test whether the template that the summer's other settlements established can be extended to the relationship where the stakes are highest."
 ---

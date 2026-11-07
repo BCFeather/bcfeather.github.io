@@ -1,7 +1,6 @@
 ---
 title: "The summer that the cinema lost"
 date: 2024-08-24 21:50:00 +0800
-tags: [film, china, retail]
 categories: [culture]
 description: "The summer season closed below last year's takings by a fifth. The tickets were cheaper, the screens were the same, and the audience that used to come twice came once."
 ---

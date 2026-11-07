@@ -1,7 +1,6 @@
 ---
 title: "Summer deadline approaches and the talks hold their course"
 date: 2025-05-13 11:15:00 +0800
-tags: [trade, negotiations, economy, news]
 categories: [news]
 description: "The negotiations over the tariff programme entered their second month with the pause's deadline on the calendar and the talks proceeding at the pace that the trade diplomacy has always set: the technical sessions, the ministerial calls, the statements and the deadlines accumulating as the summer approaches. The pause's end will arrive on a fixed date; the agreement that would make the pause permanent will arrive, if it arrives, on the negotiators' schedule."
 ---

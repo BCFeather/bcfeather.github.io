@@ -1,7 +1,6 @@
 ---
 title: "The long vacation and the quiet between the headlines"
 date: 2025-07-25 10:49:00 +0800
-tags: [culture, essay, summer]
 categories: [culture]
 description: "The middle of July brought the particular quiet that the northern summer reserves for itself: the parliaments thinning, the news cycles slowing, and the world's attention drifting toward the beaches and the mountains that the season has always claimed. The quiet was the year's counterpoint, and the counterpoint was worth a moment's notice before the autumn's events arrive."
 ---

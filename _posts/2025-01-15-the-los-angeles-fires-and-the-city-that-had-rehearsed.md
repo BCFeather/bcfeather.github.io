@@ -1,7 +1,6 @@
 ---
 title: "The Los Angeles fires and the city that had rehearsed"
 date: 2025-01-15 11:24:00 +0800
-tags: [climate, fires, california, news]
 categories: [news]
 description: "The fires that swept through the hills above Los Angeles in mid-January were among the most destructive in the city's history, and the response that followed was the strange mixture of the heroic and the overwhelmed that big disasters always produce. The city had rehearsed for this fire for twenty years; the rehearsal was real, and it was not enough."
 ---

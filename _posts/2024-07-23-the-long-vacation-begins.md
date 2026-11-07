@@ -1,7 +1,6 @@
 ---
 title: "The long vacation begins"
 date: 2024-07-23 17:26:00 +0800
-tags: [chizhou, summer, vacation, yangtze]
 categories: [essay]
 description: "A quiet essay about the first days of the summer vacation in Chizhou, on the Yangtze: no alarm clock, bicycles before the heat, a half-forgotten bookshop, and evenings on the river embankment."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Inside the refusal circuit of a large language model"
 date: 2026-09-14 14:52:00 +0800
-tags: [ai, interpretability, safety, llm]
 categories: [technology]
 description: "A paper on *arXiv* in late August dissects how aligned language models refuse harmful requests. Three stages, detection heads, safety neurons and refusal heads, chain together across six LLMs, and scaling that circuit improves attack robustness by 26.5% at a 1.7% accuracy cost."
 ---

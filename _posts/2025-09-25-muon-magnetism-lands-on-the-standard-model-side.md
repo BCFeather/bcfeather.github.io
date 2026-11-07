@@ -1,7 +1,6 @@
 ---
 title: "Muon magnetism lands on the Standard Model side"
 date: 2025-09-25 16:02:00 +0800
-tags: [physics, particle-physics, muon]
 categories: [science]
 description: "Fermilab's Muon g-2 collaboration released its final combined measurement on 3 June 2025, reaching 127 parts per billion precision. The number agrees with the updated Standard Model prediction. What a precision experiment does when the discrepancy it was chasing disappears."
 ---

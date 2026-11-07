@@ -1,7 +1,6 @@
 ---
 title: "Reading thousands of phage genes in one experiment"
 date: 2026-10-18 10:26:00 +0800
-tags: [biology, microbiology, phage]
 categories: [science]
 description: "An ETH-led team writing in *Nature Microbiology* in September built HIDEN-SEQ, a way to mutate almost every gene of a bacteriophage at once and read out which ones matter against each bacterial defence. A genome-wide map of viral fitness, built in a single experiment."
 ---

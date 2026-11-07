@@ -1,7 +1,6 @@
 ---
 title: "The rain that the calendar promises"
 date: 2025-02-18 20:30:00 +0800
-tags: [seasons, agriculture, weather, china]
 categories: [science]
 description: "The solar term of the rainwater falls on the eighteenth of February, and the name describes a hope rather than a forecast. The farming that depends on it has learned to work with both."
 ---

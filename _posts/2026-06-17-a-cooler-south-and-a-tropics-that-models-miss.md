@@ -1,7 +1,6 @@
 ---
 title: "A cooler south, and a tropics that models miss"
 date: 2026-06-17 16:44:00 +0800
-tags: [climate, ocean, teleconnection]
 categories: [science]
 description: "Models published in *Science Advances* show that the Southern Ocean's cooling influence on the tropics has been systematically underestimated, because climate models get the tropical rain belt wrong. Fixing the mean state, not just the forcings, is what changes the answer."
 ---

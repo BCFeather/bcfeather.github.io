@@ -1,7 +1,6 @@
 ---
 title: "Super Bowl 60 sells the future one ad at a time"
 date: 2026-02-09 12:31:00 +0800
-tags: [sport, advertising, technology, news]
 categories: [news]
 description: "The biggest television event of the year ran its sixty-first edition on 8 February, and the game was a classic; the commercials were the more interesting broadcast. A third of the ad slots were bought by AI companies, and the industry's pitch to the American public has reached a new level of confidence."
 ---

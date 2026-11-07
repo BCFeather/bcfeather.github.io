@@ -1,7 +1,6 @@
 ---
 title: "April rain on the city"
 date: 2026-04-11 16:20:00 +0800
-tags: [essay, rain, spring, city]
 categories: [essay]
 description: "The soft, persistent rain of early spring changes how a city looks and moves. A short essay on wet pavements, lowered voices and the particular calm of an April shower."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Climate machinery grinds toward Belém"
 date: 2025-05-30 09:02:00 +0800
-tags: [climate, cop, news]
 categories: [news]
 description: "The preparations for the autumn climate summit moved through the late spring with the particular machinery that the process has built: the technical meetings, the draft texts, the finance negotiations, and the quiet work of the coalitions that the summit's outcomes will depend on. The summit in the Amazonian city will be the first since the largest economy's withdrawal, and the machinery is preparing for the summit that the withdrawal has made harder."
 ---

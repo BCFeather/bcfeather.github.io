@@ -1,7 +1,6 @@
 ---
 title: "Munich prepares for the argument about security: the alliance’s renegotiation"
 date: 2025-02-12 16:03:00 +0800
-tags: [security, diplomacy, munich, europe]
 categories: [news]
 description: "The Munich Security Conference opened its annual edition with the year's largest questions on the table: the war in Europe, the reliability of the American alliance, the European defence budgets that the war has forced into the open, and the discovery that the continent's security order is being renegotiated in real time. The conference's theme this year was written by events rather than by the organisers."
 ---

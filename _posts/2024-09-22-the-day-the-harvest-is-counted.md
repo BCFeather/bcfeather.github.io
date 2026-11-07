@@ -1,7 +1,6 @@
 ---
 title: "The day the harvest is counted"
 date: 2024-09-22 21:10:00 +0800
-tags: [agriculture, china, weather]
 categories: [society]
 description: "The autumn equinox falls on the twenty-second, and since 2018 it has also been the festival of the harvest. The day is a celebration in the counties and a date in the calendar everywhere else."
 ---

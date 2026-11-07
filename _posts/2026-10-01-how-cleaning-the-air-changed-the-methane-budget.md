@@ -1,7 +1,6 @@
 ---
 title: "How cleaning the air changed the methane budget"
 date: 2026-10-01 12:31:00 +0800
-tags: [climate, methane, atmosphere]
 categories: [science]
 description: "A *Nature* paper from May 2025 shows that air pollution has been quietly modulating the global methane sink for two decades, partly buffering the gas's rise. Why cleaning up soot and carbon monoxide turns out to have complicated climate side effects."
 ---

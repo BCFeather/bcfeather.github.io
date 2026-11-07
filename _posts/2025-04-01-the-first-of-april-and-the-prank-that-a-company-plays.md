@@ -1,7 +1,6 @@
 ---
 title: "The first of April and the prank that a company plays"
 date: 2025-04-01 22:20:00 +0800
-tags: [media, business, culture, internet]
 categories: [culture]
 description: "The first of April is the one day of the year on which a company can publish something false and call it marketing. The tradition has become a genre with its own rules, and the rules are stricter than they look."
 ---

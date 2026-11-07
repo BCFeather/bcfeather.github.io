@@ -1,7 +1,6 @@
 ---
 title: "HBM4 arrives and memory prices go through the roof"
 date: 2026-02-16 15:53:00 +0800
-tags: [semiconductors, technology, memory, hbm]
 categories: [technology]
 description: "On 12 February, Samsung said it had begun shipping HBM4, the fifth generation of high-bandwidth memory, and the memory market reacted the way it has all year: with prices going up. Micron's supply of high-bandwidth memory is sold out for 2026, and contract prices for conventional DRAM are forecast to rise by up to 95 per cent in a single quarter, the largest jump ever recorded."
 ---

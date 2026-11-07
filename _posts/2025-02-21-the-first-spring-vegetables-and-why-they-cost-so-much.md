@@ -1,7 +1,6 @@
 ---
 title: "The first spring vegetables and why they cost so much"
 date: 2025-02-21 20:50:00 +0800
-tags: [food, markets, agriculture, prices]
 categories: [business]
 description: "The bamboo shoot and the toon arrive in the market in the second half of February at a price that falls by half within three weeks, and the fall describes a supply curve rather than a fashion."
 ---

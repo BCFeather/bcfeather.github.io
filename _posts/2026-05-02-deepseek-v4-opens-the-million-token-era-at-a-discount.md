@@ -1,7 +1,6 @@
 ---
 title: "DeepSeek-V4 opens the million-token era at a discount"
 date: 2026-05-02 11:26:00 +0800
-tags: [ai, deepseek, open-source, technology]
 categories: [technology]
 description: "DeepSeek released the DeepSeek-V4 preview on 24 April, open-sourced under the MIT licence, with a million-token context as the standard for all its services. The release matters twice over: for the architecture, a compressed-attention design that cuts the cost of long context, and for the pricing, which undercuts the frontier labs by an order of magnitude."
 ---

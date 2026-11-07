@@ -1,7 +1,6 @@
 ---
 title: "Aurora returns for an encore"
 date: 2026-10-20 20:05:00 +0800
-tags: [space, aurora, science, news]
 categories: [science]
 description: "The strongest geomagnetic storm of the current solar cycle put the aurora on view across latitudes that have not seen it in a generation, and the sky-watchers who spent the spring chasing the last big display had an autumn encore to compare it against. The science of the storm was a study in prediction working as intended; the spectacle was a reminder of what the planet's magnetic field does for free."
 ---

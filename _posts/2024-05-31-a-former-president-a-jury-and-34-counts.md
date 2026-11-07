@@ -1,7 +1,6 @@
 ---
 title: "A former president, a jury, and 34 counts"
 date: 2024-05-31 09:14:00 +0800
-tags: [us, politics, trump, law]
 categories: [news]
 description: "On 30 May, a Manhattan jury found Donald Trump guilty on all 34 counts of falsifying business records in the hush-money case, making him the first former US president ever convicted of a crime, weeks before he was set to become the Republican nominee again."
 ---

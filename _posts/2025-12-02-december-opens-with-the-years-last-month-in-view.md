@@ -1,7 +1,6 @@
 ---
 title: "December opens with the year's last month in view"
 date: 2025-12-02 09:18:00 +0800
-tags: [news, essay, review]
 categories: [culture]
 description: "The year's final month opened in the first days of December, and the opening brought the year's record into its last chapter: the trade follow-ups, the budget conclusions, the sessions that the calendar holds, and the seasonal rituals that the month's end will bring. December is the year's closing, and the closing's conduct will be the record's final form."
 ---

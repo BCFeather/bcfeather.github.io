@@ -1,7 +1,6 @@
 ---
 title: "The electricity bill of a data centre"
 date: 2025-07-24 21:10:00 +0800
-tags: [ai, energy, infrastructure, technology]
 categories: [technology]
 description: "The training runs and the inference that follow them consume electricity at a scale that has started to show up in national statistics. The industry's answer has been to buy clean power and to move the machines somewhere colder, and neither answer is as complete as the press release implies."
 ---

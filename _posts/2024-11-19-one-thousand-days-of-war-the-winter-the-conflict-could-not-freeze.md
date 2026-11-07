@@ -1,7 +1,6 @@
 ---
 title: "One thousand days of war: the winter the conflict could not freeze"
 date: 2024-11-19 21:33:00 +0800
-tags: [ukraine, russia, war, news]
 categories: [news]
 description: "The war in Ukraine passed its thousandth day on November 19, and the day itself brought the escalation that the milestone had been building toward: Ukraine fired American long-range missiles into Russian territory for the first time, and the Kremlin answered within days with a new missile of its own. The thousand days have changed the conflict's shape, and the winter is the test."
 ---

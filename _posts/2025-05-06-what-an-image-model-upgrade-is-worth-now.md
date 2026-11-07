@@ -1,7 +1,6 @@
 ---
 title: "What an image model upgrade is worth now"
 date: 2025-05-06 10:15:00 +0800
-tags: [ai, generative-media, design, technology]
 categories: [technology]
 description: "Ideogram shipped version 3.0 on 1 May and Suno updated its music model the same week, both promising better control rather than better novelty. Six months into a saturated market, the interesting question about generative media is what the upgrades are actually for."
 ---

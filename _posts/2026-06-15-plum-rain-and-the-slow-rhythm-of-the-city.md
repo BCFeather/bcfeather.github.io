@@ -1,7 +1,6 @@
 ---
 title: "Plum rain, and the slow rhythm of the city"
 date: 2026-06-15 19:26:00 +0800
-tags: [essay, rain, city]
 categories: [essay]
 description: "The plum-rain weeks settle over the city like a held breath. A short essay on living with rain that does not end, on the quiet adjustments everyone makes, and on the strange intimacy of a wet June."
 ---

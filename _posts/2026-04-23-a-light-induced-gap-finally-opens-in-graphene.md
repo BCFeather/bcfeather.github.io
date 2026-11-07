@@ -1,7 +1,6 @@
 ---
 title: "A light-induced gap finally opens in graphene"
 date: 2026-04-23 11:10:00 +0800
-tags: [physics, graphene, floquet, materials]
 categories: [science]
 description: "A Tsinghua group writing in Nature Materials on 22 March reports the first direct spectroscopic observation of the long-sought Floquet gap in graphene, opened with a mid-infrared laser and splitting the Dirac crossing into two."
 ---

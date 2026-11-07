@@ -1,7 +1,6 @@
 ---
 title: "The last draft before the defence"
 date: 2025-06-04 20:30:00 +0800
-tags: [university, research, education, june]
 categories: [society]
 description: "Early June is defence season in Chinese universities. A four-year project is compressed into fifteen minutes of speaking and twenty minutes of questions, and everything that happens afterwards depends on how those thirty-five minutes go."
 ---

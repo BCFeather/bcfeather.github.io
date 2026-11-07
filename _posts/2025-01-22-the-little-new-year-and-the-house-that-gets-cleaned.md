@@ -1,7 +1,6 @@
 ---
 title: "The little new year and the house that gets cleaned"
 date: 2025-01-22 21:15:00 +0800
-tags: [festivals, china, home, food]
 categories: [culture]
 description: "The twenty-third day of the twelfth lunar month is the little new year in the north, and the day is given to sweeping the house and sending the kitchen god away. The cleaning has a logic that outlasts the theology."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "One year of the AI safety board: what the first rulings settled"
 date: 2026-01-17 20:42:00 +0800
-tags: [ai, safety, policy, technology]
 categories: [technology]
 description: "The international AI safety board marked its first anniversary this week by publishing its first binding rulings, on transparency in high-impact model releases and on the disclosure of safety evaluations. The rulings are narrow, and their narrowness is the point: the board is learning to walk on ground that everyone can agree on."
 ---

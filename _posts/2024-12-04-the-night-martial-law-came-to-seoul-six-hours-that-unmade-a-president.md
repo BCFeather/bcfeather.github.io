@@ -1,7 +1,6 @@
 ---
 title: "The night martial law came to Seoul: six hours that unmade a president"
 date: 2024-12-04 19:36:00 +0800
-tags: [korea, politics, news,yoon-suk-yeol]
 categories: [news]
 description: "On the night of 3 December, President Yoon Suk-yeol declared emergency martial law for the first time in South Korea's democratic era; by four in the morning the National Assembly had voted it down and he had lifted it. Six hours changed the course of the country's politics, and the change was the kind that does not reverse."
 ---

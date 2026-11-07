@@ -1,7 +1,6 @@
 ---
 title: "GPT-6.1 Sol brings flagship reasoning at half the price"
 date: 2026-09-29 20:21:00 +0800
-tags: [ai, openai, technology, models]
 categories: [technology]
 description: "On 29 September, OpenAI released GPT-6.1 Sol through its API, a distilled version of the flagship reasoning model with lower latency and dramatically lower cost, priced at roughly half the flagship tier. The release continues the company's strategy of splitting model generations by price, and it gives developers a cheaper way to run long-horizon reasoning in production."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "China opens its station to foreign crews"
 date: 2026-06-10 11:28:00 +0800
-tags: [china, space-station, space, news]
 categories: [news]
 description: "On 8 June, two European astronauts flew to the Chinese space station aboard a Shenzhou spacecraft, the first time foreign crew members have lived aboard the station. The flight was announced two weeks in advance and completed without drama, which is exactly why it matters."
 ---

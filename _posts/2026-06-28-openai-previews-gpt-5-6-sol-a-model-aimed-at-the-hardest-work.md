@@ -1,7 +1,6 @@
 ---
 title: "OpenAI previews GPT-5.6 Sol, a model aimed at the hardest work"
 date: 2026-06-28 22:14:00 +0800
-tags: [ai, openai, technology, models]
 categories: [technology]
 description: "On 26 June, OpenAI previewed GPT-5.6 Sol, a model aimed at the hardest end of its workloads: advanced coding, scientific reasoning and cybersecurity, wrapped in what the company describes as its most advanced safety stack yet. The preview, two months after GPT-5.5, keeps the cadence the industry has settled into."
 ---

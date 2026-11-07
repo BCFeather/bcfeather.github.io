@@ -1,7 +1,6 @@
 ---
 title: "Moscow and Beijing put their partnership on paper"
 date: 2024-05-17 16:38:00 +0800
-tags: [russia, china, diplomacy, geopolitics]
 categories: [news]
 description: "From 16 to 17 May, Vladimir Putin made a state visit to Beijing, where he and Xi Jinping signed a joint statement marking 75 years of diplomatic relations, before the Russian president travelled on to Harbin for the China-Russia Expo."
 ---

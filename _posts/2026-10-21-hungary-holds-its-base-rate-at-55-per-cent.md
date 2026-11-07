@@ -1,7 +1,6 @@
 ---
 title: "Hungary holds its base rate at 5.5 per cent"
 date: 2026-10-21 13:18:00 +0800
-tags: [economy, central-bank, rates]
 categories: [news]
 description: "Hungary's central bank kept its base rate on hold at 5.50 per cent on 20 October, leaving the corridor unchanged, even though inflation has slipped to 1.6 per cent. A cautionary hold at a moment when neighbours are also pausing and global yields keep climbing."
 ---

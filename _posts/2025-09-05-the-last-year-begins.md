@@ -1,7 +1,6 @@
 ---
 title: "The last year begins"
 date: 2025-09-05 21:38:00 +0800
-tags: [essay, gaokao, school, china]
 categories: [essay]
 description: "In September the classrooms of Chizhou fill again, and for the oldest students the countdown starts in earnest. A short essay on the first month of the final year of school, on countdown boards and morning exercises, and on the strange discipline of living by a deadline you did not choose."
 ---

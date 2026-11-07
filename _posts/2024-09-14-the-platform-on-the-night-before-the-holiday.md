@@ -1,7 +1,6 @@
 ---
 title: "The platform on the night before the holiday"
 date: 2024-09-14 21:10:00 +0800
-tags: [travel, china, cities, festival]
 categories: [society]
 description: "The mid-autumn holiday runs from the fifteenth to the seventeenth this year, and the station on the fourteenth carries the crowd that a three-day break produces. The tickets sold out in eleven minutes."
 ---

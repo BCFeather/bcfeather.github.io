@@ -1,7 +1,6 @@
 ---
 title: "The season opener and the cost cap that holds the field together"
 date: 2025-03-16 23:10:00 +0800
-tags: [formula-one, sport, business, motorsport]
 categories: [sport]
 description: "The Formula One season opened in Melbourne on the sixteenth of March, and the race was close enough to be decided by a pit stop. The closeness is the product of a cost cap that has changed how the sport spends."
 ---

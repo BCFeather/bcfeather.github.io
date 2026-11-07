@@ -1,7 +1,6 @@
 ---
 title: "The ticket that everyone wants and the system that allocates it"
 date: 2025-01-12 21:20:00 +0800
-tags: [transport, festivals, china, technology]
 categories: [society]
 description: "The spring travel rush begins on the fourteenth of January, and the tickets for the first days sell out within minutes. The queue is now a queue inside a computer, and the rules of it decide who goes home."
 ---

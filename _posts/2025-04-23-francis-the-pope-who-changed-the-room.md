@@ -1,7 +1,6 @@
 ---
 title: "Francis: the pope who changed the room"
 date: 2025-04-23 21:38:00 +0800
-tags: [vatican, religion, obituary, news]
 categories: [news]
 description: "The pope died in the fourth week of April at the age of eighty-eight, and the church that he had led for twelve years began the rituals that his office requires. He was the first pope from the Americas, the first to take the name of the saint of the poor, and the leader who changed the church's tone more than its doctrine; the crowds that filled the square in the days of his illness were the measure of the affection that he had earned."
 ---

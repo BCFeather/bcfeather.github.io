@@ -1,7 +1,6 @@
 ---
 title: "Milano Cortina closes on a high-tech note"
 date: 2026-02-26 09:20:00 +0800
-tags: [olympics, ai, technology]
 categories: [news]
 description: "The Milano Cortina Winter Games closed on 22 February after seventeen days in which artificial intelligence sat inside the core of the event, from the official Olympic model built on a Chinese foundation model to drone-assisted broadcasts and AI replays. The review of the fortnight is not just about medals."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The monthly payment that falls"
 date: 2024-09-24 21:50:00 +0800
-tags: [housing, china, interest-rates, banks]
 categories: [business]
 description: "The central bank cut the rate on existing mortgages by about half a point and lowered the deposit requirement for a second home. A household with a loan saves a few hundred yuan a month, which is the point of the measure."
 ---

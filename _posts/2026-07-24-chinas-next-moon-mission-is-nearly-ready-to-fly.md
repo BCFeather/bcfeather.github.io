@@ -1,7 +1,6 @@
 ---
 title: "China's next moon mission is nearly ready to fly"
 date: 2026-07-24 11:07:00 +0800
-tags: [space, china, moon]
 categories: [space]
 description: "On 13 July, the Long March 5 rocket assigned to the Chang'e-7 mission arrived at the Wenchang spaceport, joining the lander that had been delivered in April. The launch is scheduled for later this year, and the mission is a different kind of moon landing: a south-pole probe designed to walk, hop and search for water in permanently shadowed craters."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Labour's landslide at Westminster"
 date: 2024-07-05 07:42:00 +0800
-tags: [uk, election, labour, westminster]
 categories: [news]
 description: "On 4 July Labour won 411 seats and ended fourteen years of Conservative rule, Keir Starmer became prime minister, and Rishi Sunak conceded in the small hours of the morning."
 ---

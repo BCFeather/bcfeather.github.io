@@ -1,7 +1,6 @@
 ---
 title: "The first morning of the exam"
 date: 2024-06-07 21:10:00 +0800
-tags: [education, china, cities]
 categories: [society]
 description: "Thirteen million candidates sat the first paper of the university entrance exam this morning. The day is run like a transport operation, on a timetable that has not changed in decades."
 ---

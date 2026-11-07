@@ -1,7 +1,6 @@
 ---
 title: "Fusion's longest burn: the record nobody celebrated"
 date: 2026-01-22 11:17:00 +0800
-tags: [energy, fusion, science, technology]
 categories: [science]
 description: "A private fusion company sustained a burning plasma for ninety seconds on 19 January, nearly four times the previous record, and the announcement arrived without fireworks. The quiet is the message: fusion has entered the phase where the milestones are measured in minutes of boredom rather than seconds of glory."
 ---

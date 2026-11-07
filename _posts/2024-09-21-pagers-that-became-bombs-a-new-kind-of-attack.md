@@ -1,7 +1,6 @@
 ---
 title: "Pagers that became bombs: a new kind of attack"
 date: 2024-09-21 10:31:00 +0800
-tags: [lebanon, israel, technology, news]
 categories: [news]
 description: "On 17 and 18 September, thousands of pagers and walkie-talkies carried by members of Hezbollah exploded across Lebanon, killing more than thirty people and wounding thousands. The attack, attributed to Israel, turned the supply chain itself into a weapon, and the precedent it sets will be studied, and feared, by every state that has ever bought communications equipment from abroad."
 ---

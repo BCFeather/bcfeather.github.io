@@ -1,7 +1,6 @@
 ---
 title: "European talks begin with a list of demands: the mandate the member states set"
 date: 2025-04-18 10:44:00 +0800
-tags: [europe, trade, tariffs, news]
 categories: [news]
 description: "The trade negotiations between the two sides of the Atlantic opened in the third week of April with the European negotiators carrying a mandate and a list: the mandate to seek the removal of the tariffs on the European exports, and the list of the goods and the sectors that the removal would protect. The talks' opening positions were far apart, and the distance was the negotiation's first subject."
 ---

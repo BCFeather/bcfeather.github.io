@@ -1,7 +1,6 @@
 ---
 title: "Apple Intelligence arrives at WWDC"
 date: 2024-06-11 19:26:00 +0800
-tags: [apple, wwdc, ai]
 categories: [news]
 description: "At the WWDC keynote on 10 June, Apple introduced Apple Intelligence, a personal intelligence layer across iPhone, iPad and Mac, built on on-device processing and a Private Cloud Compute, with ChatGPT and GPT-4o integrated by way of a partnership with OpenAI."
 ---

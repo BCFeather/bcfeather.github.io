@@ -1,7 +1,6 @@
 ---
 title: "Typhoon season opens with a faster alarm"
 date: 2026-05-06 10:53:00 +0800
-tags: [climate, weather, disaster, news]
 categories: [news]
 description: "The first named typhoon of the western Pacific season formed on 2 May, and the forecasters who tracked it issued their best track six days ahead, the longest useful lead time the region has ever had. The progress is real, and it exposes a harder truth: a better alarm only helps the people who can act on it."
 ---

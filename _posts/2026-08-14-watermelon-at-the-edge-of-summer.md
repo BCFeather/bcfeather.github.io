@@ -1,7 +1,6 @@
 ---
 title: "Watermelon at the edge of summer"
 date: 2026-08-14 19:07:00 +0800
-tags: [essay, summer, watermelon]
 categories: [essay]
 description: "A piece on the watermelon as the unofficial punctuation of summer: how it is bought, judged, shared and eaten, and why the last weeks of the season taste like its rind. No fruit carries the season the way this one does."
 ---

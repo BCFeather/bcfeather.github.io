@@ -1,7 +1,6 @@
 ---
 title: "Ancient corals, and the resilience they hint at"
 date: 2025-10-23 09:40:00 +0800
-tags: [climate, coral, ocean]
 categories: [science]
 description: "In the 23 October issue of *Nature*, researchers report that some ancient stony corals survived extreme environmental change in the geological past, raising the possibility that some modern species retain a measure of resilience to the pressures of today. The finding complicates the story of corals as helpless victims of warming, and shifts attention to which species carry the capacity to endure."
 ---

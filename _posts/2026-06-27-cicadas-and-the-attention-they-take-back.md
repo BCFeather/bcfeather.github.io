@@ -1,7 +1,6 @@
 ---
 title: "Cicadas, and the attention they take back"
 date: 2026-06-27 20:55:00 +0800
-tags: [essay, insects, attention]
 categories: [essay]
 description: "By late June the cicadas have taken over the soundtrack of the city. A short essay on the loudest insect in the trees, on noise one cannot switch off, and on what a summer without a mute button does to attention."
 ---

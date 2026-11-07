@@ -1,7 +1,6 @@
 ---
 title: "Iran's president dies in a helicopter crash"
 date: 2024-05-20 22:15:00 +0800
-tags: [iran, middle-east, politics]
 categories: [news]
 description: "On 19 May, a helicopter carrying President Ebrahim Raisi crashed in the mountains of East Azerbaijan province, killing Raisi, Foreign Minister Hossein Amir-Abdollahian and six others, and plunging Iran into a state succession with a presidential election due within fifty days."
 ---

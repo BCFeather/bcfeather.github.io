@@ -1,7 +1,6 @@
 ---
 title: "Plum rain over the Yangtze"
 date: 2024-06-21 17:36:00 +0800
-tags: [chizhou, yangtze, plum-rain]
 categories: [essay]
 description: "A quiet essay about the plum rain in Chizhou, a small city on the Yangtze, where the late-June drizzle turns the streets grey, the river rises, and a school year ends."
 ---

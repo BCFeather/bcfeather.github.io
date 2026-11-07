@@ -1,7 +1,6 @@
 ---
 title: "The UN at eighty: the institution's long arithmetic"
 date: 2025-10-24 19:30:00 +0800
-tags: [united-nations, diplomacy, news]
 categories: [news]
 description: "The world body marked its eightieth anniversary in the last week of October, and the marking brought the institution's long arithmetic into view: the membership grown from the founding fifty to nearly two hundred, the wars that the institution could not prevent and the peace it has kept, and the questions about its place in the year's renegotiated order. The anniversary was the occasion for the accounting that the institution's eight decades deserve."
 ---

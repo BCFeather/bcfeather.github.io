@@ -1,7 +1,6 @@
 ---
 title: "A record-hot ocean, year after year"
 date: 2025-05-08 15:28:00 +0800
-tags: [climate, ocean, warming]
 categories: [science]
 description: "A team of 54 scientists reported on 10 January 2025 that 2024 set a new record for both sea-surface temperature and upper-ocean heat content. A close reading of the Advances in Atmospheric Sciences paper, and what the repeated records actually measure."
 ---

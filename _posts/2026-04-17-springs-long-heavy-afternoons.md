@@ -1,7 +1,6 @@
 ---
 title: "Spring's long, heavy afternoons"
 date: 2026-04-17 15:45:00 +0800
-tags: [essay, spring, drowsiness, attention]
 categories: [essay]
 description: "In mid-April the afternoons turn soft and heavy, and concentration becomes a small daily negotiation. A short essay on spring drowsiness and the body's quiet refusal to be fully on duty."
 ---

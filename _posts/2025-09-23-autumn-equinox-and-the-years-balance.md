@@ -1,7 +1,6 @@
 ---
 title: "Autumn equinox, and the year's balance"
 date: 2025-09-23 20:40:00 +0800
-tags: [seasons, solar-terms, autumn]
 categories: [essay]
 description: "On 23 September the sun crosses the celestial equator, day and night are briefly equal, and the autumn equinox arrives, the old calendar's station of balance between the year's growth and its decline. A short essay on the day the year levels out, the harvest it crowns, and what the equinox asks of the people who notice it."
 ---

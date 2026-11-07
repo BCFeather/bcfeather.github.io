@@ -1,7 +1,6 @@
 ---
 title: "Starship flight 4: a soft landing in the Indian Ocean"
 date: 2024-06-06 22:14:00 +0800
-tags: [space, spacex, starship]
 categories: [news]
 description: "On 6 June, SpaceX's Starship flew its fourth test and, for the first time, came home intact: the Super Heavy booster soft-splashed in the Gulf of Mexico, and the ship survived reentry to splash down in the Indian Ocean. The flight proved that the largest rocket ever built can be brought back, which is the hard half of making it reusable."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The exam that sorts fourteen year-olds"
 date: 2024-06-25 20:40:00 +0800
-tags: [education, china, cities]
 categories: [society]
 description: "The school entrance exam for lower secondary pupils decides who goes to an academic high school. The share that does is set by the province, and the argument about it never quite ends."
 ---

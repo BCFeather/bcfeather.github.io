@@ -1,7 +1,6 @@
 ---
 title: "The envelope that arrives in July"
 date: 2025-07-22 18:50:00 +0800
-tags: [education, university, family, summer]
 categories: [society]
 description: "Admission notices go out in the second half of July, and with them a small industry of design, delivery and photography. The envelope is the only part of the process a family can hold, and it has become more elaborate every year."
 ---

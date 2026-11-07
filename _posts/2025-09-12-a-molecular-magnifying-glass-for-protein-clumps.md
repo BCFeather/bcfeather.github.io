@@ -1,7 +1,6 @@
 ---
 title: "A molecular magnifying glass for protein clumps"
 date: 2025-09-12 09:40:00 +0800
-tags: [chemistry, proteins, diagnostics]
 categories: [science]
 description: "In the 10 September issue of *Nature Chemical Biology*, researchers at Rice University report a molecular strategy that amplifies the signal of protein aggregation, the process behind a family of diseases from Alzheimer's to Parkinson's. The approach could make such aggregates visible earlier, and it doubles as a platform for screening drugs that target them."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Thin snow line moves up the mountain"
 date: 2026-02-23 09:15:00 +0800
-tags: [climate, tourism, mountains, news]
 categories: [news]
 description: "The winter sports season that ended this month was the warmest on record for the Alps, with the snow line sitting hundreds of metres higher than the historic norm and a third of the region's resorts unable to open their lower slopes. The industry's adaptation is no longer a question of if; it is a question of which towns get to keep their winter."
 ---

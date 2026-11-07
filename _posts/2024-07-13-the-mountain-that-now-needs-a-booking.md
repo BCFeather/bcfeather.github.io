@@ -1,7 +1,6 @@
 ---
 title: "The mountain that now needs a booking"
 date: 2024-07-13 20:50:00 +0800
-tags: [tourism, china, cities]
 categories: [society]
 description: "A scenic area that used to admit anyone now sells a fixed number of slots per day. The queue moved from the gate to an app, and the local guesthouses read the booking curve like a weather chart."
 ---

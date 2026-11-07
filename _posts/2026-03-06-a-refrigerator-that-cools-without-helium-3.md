@@ -1,7 +1,6 @@
 ---
 title: "A refrigerator that cools without helium-3"
 date: 2026-03-06 10:05:00 +0800
-tags: [physics, quantum-technology, materials]
 categories: [science]
 description: "In the 11 February issue of *Nature*, a Chinese team reports a metallic alloy that cools to 106 millikelvin through the magnetocaloric effect, reaching the lowest temperature yet achieved by a helium-3-free magnetic material. Quantum computing's supply-chain headache may have a solid-state answer."
 ---

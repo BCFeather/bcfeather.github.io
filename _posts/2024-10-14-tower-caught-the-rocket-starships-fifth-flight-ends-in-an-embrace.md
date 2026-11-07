@@ -1,7 +1,6 @@
 ---
 title: "Tower caught the rocket"
 date: 2024-10-14 06:52:00 +0800
-tags: [spacex, space, technology, news]
 categories: [news]
 description: "On October 13, the Super Heavy booster of SpaceX's Starship returned from space and was caught in mid-air by the mechanical arms of its launch tower, a first in the history of rocketry. The flight was the fifth test of the largest rocket ever built, and the catch was the moment the industry had been waiting for."
 ---

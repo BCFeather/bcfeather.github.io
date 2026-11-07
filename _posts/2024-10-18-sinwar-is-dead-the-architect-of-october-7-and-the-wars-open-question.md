@@ -1,7 +1,6 @@
 ---
 title: "Sinwar is dead: the architect of October 7 and the war's open question"
 date: 2024-10-18 15:16:00 +0800
-tags: [israel, gaza, hamas, war, news]
 categories: [news]
 description: "Israeli forces killed Yahya Sinwar, the leader of Hamas and the architect of the October 7 attack, in a chance encounter in Gaza. His death removes the war's central figure without resolving the war itself."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "When logical qubits beat the physical error floor"
 date: 2025-04-03 08:44:00 +0800
-tags: [quantum, error-correction, trapped-ion]
 categories: [science]
 description: "A Microsoft-Quantinuum preprint posted on 2 April 2024 entangled logical qubits whose error rates fell below the physical baseline. A close reading of the break-even result on a trapped-ion processor, and why repeated correction matters more than a single shot."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "An earthquake under the ocean floor"
 date: 2025-07-29 23:15:00 +0800
-tags: [earthquakes, geology, pacific, hazard]
 categories: [science]
 description: "A very large earthquake struck off the Kamchatka Peninsula on 29 July, in one of the most seismically active corners of the Pacific. The event was felt across the region, prompted evacuations in Japan, and produced a tsunami that was smaller than the initial warnings feared."
 ---

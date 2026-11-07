@@ -1,7 +1,6 @@
 ---
 title: "Graduation season and the photographs we take"
 date: 2025-05-28 21:50:00 +0800
-tags: [essay, university, memory, photography]
 categories: [essay]
 description: "From the middle of May the campus belongs to the people who are leaving. Gowns, group photographs, and the ritual of posing in front of buildings that will shortly stop being yours: a short essay on how a university says goodbye."
 ---

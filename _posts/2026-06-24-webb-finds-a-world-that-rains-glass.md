@@ -1,7 +1,6 @@
 ---
 title: "Webb finds a world that rains glass"
 date: 2026-06-24 16:15:00 +0800
-tags: [webb, space, exoplanet, science]
 categories: [science]
 description: "The James Webb Space Telescope has resolved the atmosphere of a young exoplanet and found something the models did not predict: layers of silicate particles condensing into glassy droplets that fall as horizontal rain. The paper is beautiful, and the reason it matters is not the spectacle but the method."
 ---

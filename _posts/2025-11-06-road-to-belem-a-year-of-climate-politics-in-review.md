@@ -1,7 +1,6 @@
 ---
 title: "Road to Belém: a year of climate politics in review"
 date: 2025-11-06 09:47:00 +0800
-tags: [climate, cop, news]
 categories: [news]
 description: "The summit that opens in the Amazonian city this month is the product of a year of climate politics, and the year's record is the one that the gathering will negotiate from: the largest economy's departure, the finance gap, the records of heat, and the negotiations that the year's sessions have conducted. The road to Belém was built by the year's events, and the road's condition is the summit's starting point."
 ---

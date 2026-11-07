@@ -1,7 +1,6 @@
 ---
 title: "Filter bubbles and the view outside them"
 date: 2026-03-13 20:50:00 +0800
-tags: [algorithms, media, society]
 categories: [essay]
 description: "Fifteen years after the phrase was coined, the filter bubble remains one of the most discussed and least understood ideas in digital life. A short essay on what the evidence actually says about personalised feeds and the views they hide."
 ---

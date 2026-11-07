@@ -1,7 +1,6 @@
 ---
 title: "Super Bowl 59 and the game the league wanted: the ritual outgrows the sport"
 date: 2025-02-09 12:48:00 +0800
-tags: [sport, super-bowl, football, news]
 categories: [sport]
 description: "The Super Bowl was played on 9 February in New Orleans, and the game gave the league exactly what its marketing department ordered: the defending champions back on the stage, the ratings record broken, and a result that the neutral viewer could enjoy even when the score was not close. The event was bigger than the sport, as always, and the bigness was the story."
 ---

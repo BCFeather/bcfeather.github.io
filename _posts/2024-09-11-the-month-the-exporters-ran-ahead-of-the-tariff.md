@@ -1,7 +1,6 @@
 ---
 title: "The month the exporters ran ahead of the tariff"
 date: 2024-09-11 21:40:00 +0800
-tags: [trade, china, economy]
 categories: [business]
 description: "Exports rose by nearly nine per cent in August, which is faster than the shipments that the ports were expecting. A share of the increase came from orders that were pulled forward before a tariff takes effect."
 ---

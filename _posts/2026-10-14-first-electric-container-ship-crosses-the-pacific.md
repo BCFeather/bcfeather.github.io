@@ -1,7 +1,6 @@
 ---
 title: "First electric container ship crosses the Pacific"
 date: 2026-10-14 09:12:00 +0800
-tags: [shipping, energy, technology, news]
 categories: [technology]
 description: "A container ship powered entirely by batteries completed its first transpacific crossing this week, docking in Los Angeles with its cargo intact and its carbon ledger empty, and the voyage was short on drama and long on signal. The vessel is small by the standards of the trade, and the economics of its route are a preview of the industry's slow, difficult electrification."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "DESI's first map leaves the cosmological constant in question"
 date: 2024-07-11 13:47:00 +0800
-tags: [physics, astronomy, cosmology]
 categories: [science]
 description: "The Dark Energy Spectroscopic Instrument released its first year of baryon-acoustic measurements in early 2024. Alone, the data agree with the cosmological constant; paired with the microwave sky and supernovae, they hint that dark energy is evolving."
 ---

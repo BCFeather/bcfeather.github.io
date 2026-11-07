@@ -1,7 +1,6 @@
 ---
 title: "The night shift that saves the afternoon"
 date: 2024-07-10 21:00:00 +0800
-tags: [energy, industry, china, prices]
 categories: [business]
 description: "A factory that moves its furnaces to the night pays less for the power and leaves the afternoon capacity to the air conditioners. The saving is shared between the plant and the grid."
 ---

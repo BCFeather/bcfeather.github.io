@@ -1,7 +1,6 @@
 ---
 title: "September opens with the trade clock turning: the month of the deadlines"
 date: 2025-09-06 10:12:00 +0800
-tags: [trade, tariffs, economy, news]
 categories: [news]
 description: "The autumn opened with the trade negotiations at the point that the summer had prepared: the follow-ups that the Beijing round scheduled moving through the technical channels, the settlements that the summer produced being implemented, and the deadlines that the pause calendar has fixed beginning to concentrate the negotiators' work. September is the month when the trade clock turns, and the turning will be measured in the sessions that the autumn holds."
 ---

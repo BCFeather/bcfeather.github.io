@@ -1,7 +1,6 @@
 ---
 title: "Oceans absorb another record year of heat"
 date: 2026-02-19 18:56:00 +0800
-tags: [ocean, climate, environment]
 categories: [science]
 description: "An international team led by the Chinese Academy of Sciences reported in January 2026 that the upper 2,000 metres of the ocean absorbed about 23 additional zetajoules of heat in 2025, the ninth consecutive annual record. The warming rate has doubled since 2005, and the heat is not sitting evenly across basins."
 ---

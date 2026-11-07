@@ -1,7 +1,6 @@
 ---
 title: "GPT-4o opens its voice to everyone"
 date: 2024-05-14 09:52:00 +0800
-tags: [ai, openai, technology, chatgpt]
 categories: [news]
 description: "On 13 May, OpenAI introduced GPT-4o, a flagship model that processes text, audio and images in real time, and made it free to every ChatGPT user, turning the voice assistant into a speaking companion."
 ---

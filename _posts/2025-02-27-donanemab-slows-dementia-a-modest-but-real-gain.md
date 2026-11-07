@@ -1,7 +1,6 @@
 ---
 title: "Donanemab slows dementia: a modest but real gain"
 date: 2025-02-27 17:09:00 +0800
-tags: [medicine, alzheimers, clinical-trial]
 categories: [science]
 description: "The TRAILBLAZER-ALZ 2 phase 3 trial, published in *JAMA* on 17 July 2023, found donanemab slowed early Alzheimer's disease by about 35 percent in the key subgroup. A close reading of what the number means, and what the safety profile costs."
 ---

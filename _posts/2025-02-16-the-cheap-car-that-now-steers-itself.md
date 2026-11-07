@@ -1,7 +1,6 @@
 ---
 title: "The cheap car that now steers itself"
 date: 2025-02-16 21:10:00 +0800
-tags: [automotive, china, technology, industry]
 categories: [technology]
 description: "A Chinese carmaker put a driver assistance system on its cheapest models in February, and the announcement moved the feature from the premium segment to the mass market in a single week."
 ---

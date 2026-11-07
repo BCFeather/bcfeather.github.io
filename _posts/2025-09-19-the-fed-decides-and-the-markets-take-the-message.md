@@ -1,7 +1,6 @@
 ---
 title: "The Fed decides and the markets take the message"
 date: 2025-09-19 18:23:00 +0800
-tags: [fed, rates, economy, news]
 categories: [news]
 description: "The central bank's autumn meeting delivered the decision that the year's data had prepared, and the statement that accompanied it carried the careful language that the tariff-era inflation and the cooling growth have made necessary; the markets read the decision and the statement for the signals about the year's remaining path. The decision was the institution's latest instalment of its long balance."
 ---

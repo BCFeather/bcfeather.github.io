@@ -1,7 +1,6 @@
 ---
 title: "Putting neural equation solvers on a variational footing"
 date: 2026-10-12 09:47:00 +0800
-tags: [mathematics, numerical-analysis, pde]
 categories: [science]
 description: "A two-author paper on arXiv in September shows that physics-informed neural networks and finite element methods are two faces of the same Gauss-Newton problem, with the choice of test functions made explicit. The unification could make neural PDE solvers less of a workaround and more of a design."
 ---

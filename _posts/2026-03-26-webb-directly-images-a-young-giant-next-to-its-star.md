@@ -1,7 +1,6 @@
 ---
 title: "Webb directly images a young giant next to its star"
 date: 2026-03-26 07:41:00 +0800
-tags: [astronomy, exoplanets, jwst]
 categories: [science]
 description: "On 25 June 2025, a French-led team reported the first exoplanet discovered by direct imaging with the James Webb Space Telescope. TWA 7b is a sub-Jovian world about 0.3 times Jupiter's mass, orbiting a 6.4-million-year-old star at 52 astronomical units. The MIRI coronagraph opened a window on planets ten times lighter than any imaged before."
 ---

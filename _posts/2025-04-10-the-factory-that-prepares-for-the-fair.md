@@ -1,7 +1,6 @@
 ---
 title: "The factory that prepares for the fair"
 date: 2025-04-10 20:40:00 +0800
-tags: [trade, manufacturing, china, business]
 categories: [economy]
 description: "The export fair opens in Guangzhou in the middle of April, and the preparation begins months earlier in the factories of the Pearl River Delta. The samples that go on display are the year's argument about what the market wants."
 ---

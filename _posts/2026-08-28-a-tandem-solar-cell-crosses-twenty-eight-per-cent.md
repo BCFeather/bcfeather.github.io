@@ -1,7 +1,6 @@
 ---
 title: "A tandem solar cell crosses twenty-eight per cent"
 date: 2026-08-28 13:52:00 +0800
-tags: [solar-cells, perovskite, photovoltaics]
 categories: [technology]
 description: "A team at the Institute of Chemistry in Beijing has built a perovskite-organic tandem cell that reaches a certified steady-state efficiency of 28.04 per cent and keeps ninety per cent of it after 625 hours of light. Lightweight, printable photovoltaics just moved a step toward usefulness."
 ---

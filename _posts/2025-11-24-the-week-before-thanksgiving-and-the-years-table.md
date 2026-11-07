@@ -1,7 +1,6 @@
 ---
 title: "The week before Thanksgiving and the year's table"
 date: 2025-11-24 10:29:00 +0800
-tags: [culture, essay, thanksgiving]
 categories: [culture]
 description: "The week before the American holiday arrived with the particular rhythm that the season reserves for it: the travel preparations, the menus planned, and the year's conversations gathered around the tables that the holiday will set. The week is the holiday's prelude, and the prelude is the season's quiet introduction."
 ---

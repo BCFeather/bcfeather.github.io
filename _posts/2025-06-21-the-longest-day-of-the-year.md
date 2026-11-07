@@ -1,7 +1,6 @@
 ---
 title: "The longest day of the year"
 date: 2025-06-21 19:40:00 +0800
-tags: [essay, seasons, time, cities]
 categories: [essay]
 description: "The solstice falls on 21 June, and in the northern half of the country the light does not leave the sky until well past eight. A short piece on the one day of the year when the evening is long enough to notice."
 ---

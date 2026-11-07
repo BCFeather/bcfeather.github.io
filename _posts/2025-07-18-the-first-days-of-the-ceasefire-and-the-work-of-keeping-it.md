@@ -1,7 +1,6 @@
 ---
 title: "The first days of the ceasefire and the work of keeping it"
 date: 2025-07-18 18:52:00 +0800
-tags: [ukraine, war, ceasefire, news]
 categories: [news]
 description: "The ceasefire that the leaders' conversation had prepared took effect in the middle of July, and the first days of the pause were the test of the settlement's possibility: the fronts quiet, the monitors deploying, and the negotiation over the ceasefire's terms moving into the work of its implementation. The pause's first days were the most hopeful and the most fragile of the war's recent phase."
 ---

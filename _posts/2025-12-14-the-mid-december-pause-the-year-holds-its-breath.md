@@ -1,7 +1,6 @@
 ---
 title: "The mid-December pause: the year holds its breath"
 date: 2025-12-14 10:44:00 +0800
-tags: [news, essay, review]
 categories: [culture]
 description: "The middle of December brought the pause that the year's end always reserves: the major decisions delivered or deferred, the sessions concluded and the holidays approaching, and the year's record waiting, in the quiet, for its final form. The pause is the year's breath, and the breath's holding is the prelude to the turning."
 ---

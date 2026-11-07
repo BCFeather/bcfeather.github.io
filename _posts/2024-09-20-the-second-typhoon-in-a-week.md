@@ -1,7 +1,6 @@
 ---
 title: "The second typhoon in a week"
 date: 2024-09-20 22:20:00 +0800
-tags: [weather, china, cities]
 categories: [society]
 description: "Typhoon Pulasan landed near Shanghai on the nineteenth, four days after Bebinca had passed the same coast. The city that had just finished clearing up started again."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Korea votes and the country turns the page"
 date: 2025-06-03 22:41:00 +0800
-tags: [korea, election, politics, news]
 categories: [news]
 description: "The Korean election delivered the result that the polls had indicated, with the opposition's candidate elected president in the first days of June and the country closing the chapter that the martial-law night had opened. The transition that follows will be the test of the country's institutions, and the test will be conducted in the full presence of the winter's memory."
 ---

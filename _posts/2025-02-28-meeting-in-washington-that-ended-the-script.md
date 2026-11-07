@@ -1,7 +1,6 @@
 ---
 title: "Meeting in Washington that ended the script"
 date: 2025-02-28 23:15:00 +0800
-tags: [ukraine, united-states, diplomacy, news]
 categories: [news]
 description: "The meeting that was meant to seal the agreement on the minerals and the security guarantees collapsed in front of the cameras, with the arguments exchanged in the Oval Office and the Ukrainian delegation leaving without the signing ceremony that had been scheduled. The breakdown was the most dramatic moment in the war's diplomacy, and the drama was the point: the two countries' readings of the war had finally been said aloud."
 ---

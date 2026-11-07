@@ -1,7 +1,6 @@
 ---
 title: "A change of season in the American race"
 date: 2024-08-23 20:47:00 +0800
-tags: [usa, election, politics, news]
 categories: [news]
 description: "On 22 August, Kamala Harris accepted the Democratic nomination for president before a packed arena in Chicago, becoming the first African-American and South Asian woman to lead a major-party ticket. The convention that crowned her was less a coronation than a reorganisation, and the campaign that emerges from it looks like a different election from the one that began the summer."
 ---

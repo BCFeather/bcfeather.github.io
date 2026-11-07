@@ -1,7 +1,6 @@
 ---
 title: "The targets that the year is measured against"
 date: 2025-03-10 21:40:00 +0800
-tags: [china, economy, policy, news]
 categories: [news]
 description: "The work report set the year's growth target at around five per cent and raised the deficit ratio to four per cent of GDP. The numbers are a promise to the provinces as much as a forecast, and the provinces have heard promises before."
 ---

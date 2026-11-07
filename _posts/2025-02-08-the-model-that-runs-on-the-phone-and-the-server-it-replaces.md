@@ -1,7 +1,6 @@
 ---
 title: "The model that runs on the phone and the server it replaces"
 date: 2025-02-08 20:35:00 +0800
-tags: [technology, chips, software, mobile]
 categories: [technology]
 description: "Phone makers began shipping assistants that run on the device rather than in a data centre, and the arithmetic behind that decision is about memory and heat as much as privacy."
 ---

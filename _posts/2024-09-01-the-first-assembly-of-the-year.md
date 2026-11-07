@@ -1,7 +1,6 @@
 ---
 title: "The first assembly of the year"
 date: 2024-09-01 20:40:00 +0800
-tags: [education, china, cities]
 categories: [society]
 description: "The school year opened on the first of September with an assembly, a new set of textbooks and a photograph at the gate. The routines that follow are set in the first week and changed rarely afterwards."
 ---

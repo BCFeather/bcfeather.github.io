@@ -1,7 +1,6 @@
 ---
 title: "The eve of the holiday and the arithmetic of a trip"
 date: 2025-04-30 21:10:00 +0800
-tags: [travel, holidays, china, essay]
 categories: [society]
 description: "The first of May is a five-day holiday, and the evening before it is the hour in which a hundred million people decide how to spend it. The arithmetic of the trip is a calculation about time, money and the crowd."
 ---

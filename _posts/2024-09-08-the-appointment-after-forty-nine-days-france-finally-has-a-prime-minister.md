@@ -1,7 +1,6 @@
 ---
 title: "The appointment after forty-nine days: France finally has a prime minister"
 date: 2024-09-08 15:26:00 +0800
-tags: [france, politics, europe, news]
 categories: [news]
 description: "On 5 September, Emmanuel Macron named Michel Barnier, the 73-year-old former EU Brexit negotiator, as prime minister, ending a caretaker limbo that had lasted seven weeks since the elections produced a hung parliament. The appointment was a holding operation rather than a solution, and the new government begins with every parliamentary group holding a veto over its survival."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "When the rain arrives faster than the drains"
 date: 2025-07-13 21:35:00 +0800
-tags: [cities, flooding, infrastructure, climate]
 categories: [society]
 description: "A summer thunderstorm can drop in an hour what a city's drainage was designed to carry in a day. The result is a familiar scene of cars floating in an underpass, and the engineering answer has been known for a century without being built at the necessary scale."
 ---

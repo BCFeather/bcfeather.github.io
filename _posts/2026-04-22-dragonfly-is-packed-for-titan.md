@@ -1,7 +1,6 @@
 ---
 title: "Dragonfly is packed for Titan"
 date: 2026-04-22 15:26:00 +0800
-tags: [space, nasa, titan, technology]
 categories: [technology]
 description: "NASA's Dragonfly rotorcraft has completed its final integration in Maryland and is being prepared for a launch window that opens in July. The mission will spend a decade building toward a question it will not answer quickly: whether the chemistry of Saturn's largest moon ever turned into biology."
 ---

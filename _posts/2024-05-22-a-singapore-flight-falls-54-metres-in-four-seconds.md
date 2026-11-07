@@ -1,7 +1,6 @@
 ---
 title: "A Singapore flight falls 54 metres in four seconds"
 date: 2024-05-22 18:41:00 +0800
-tags: [aviation, safety, singapore, travel]
 categories: [news]
 description: "On 21 May, a Singapore Airlines Boeing 777-300ER hit severe turbulence over Myanmar and was forced to divert to Bangkok, killing one passenger and injuring dozens, in an accident that renewed the debate about seatbelts and turbulence forecasting."
 ---

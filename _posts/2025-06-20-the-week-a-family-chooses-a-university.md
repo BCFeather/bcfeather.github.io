@@ -1,7 +1,6 @@
 ---
 title: "The week a family chooses a university"
 date: 2025-06-20 19:25:00 +0800
-tags: [education, family, university, china]
 categories: [society]
 description: "Once the scores are published in late June, the country's households enter a five-day negotiation about where a child will spend the next four years. The information they work from is public, and the way they use it is not rational in any way an economist would recognise."
 ---

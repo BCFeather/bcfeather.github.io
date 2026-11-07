@@ -1,7 +1,6 @@
 ---
 title: "The forum on a small island and the question it asks"
 date: 2025-03-25 21:30:00 +0800
-tags: [asia, diplomacy, economy, china]
 categories: [news]
 description: "The Boao forum opened on the twenty-fifth of March on a small island off Hainan, and the annual gathering has become a place where the region's governments say in public what they are thinking about trade. The statements are not binding and they are not ignored."
 ---

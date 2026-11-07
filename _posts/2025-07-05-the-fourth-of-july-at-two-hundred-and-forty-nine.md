@@ -1,7 +1,6 @@
 ---
 title: "The Fourth of July at two hundred and forty-nine"
 date: 2025-07-05 10:15:00 +0800
-tags: [culture, essay, united-states]
 categories: [culture]
 description: "US' birthday arrived on a Friday in 2025, and the holiday was observed with the rituals that the day has accumulated: the parades, the fireworks, the cookouts, and the speeches that the occasion requires. The birthday fell in the middle of the year's argument about the country's direction, and the argument's presence was the holiday's particular character this year."
 ---

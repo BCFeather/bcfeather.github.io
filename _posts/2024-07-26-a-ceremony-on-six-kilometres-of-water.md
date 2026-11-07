@@ -1,7 +1,6 @@
 ---
 title: "A ceremony on six kilometres of water"
 date: 2024-07-26 23:20:00 +0800
-tags: [olympics, france, sport, cities]
 categories: [sport]
 description: "The opening ceremony was staged on the river rather than in a stadium. Eighty boats carried the delegations downstream. The audience stood on the embankments above them."
 ---

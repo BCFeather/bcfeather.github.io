@@ -1,7 +1,6 @@
 ---
 title: "Gemini 3.1 Ultra is Google's answer to the agent era"
 date: 2026-03-23 17:05:00 +0800
-tags: [ai, google, technology, models]
 categories: [technology]
 description: "Google DeepMind released Gemini 3.1 Ultra on 20 March, a model with a two-million-token context window built around native multimodal reasoning. It arrived two weeks after GPT-5.4 and two days before Grok 4.20, the most compressed frontier release window the industry has seen."
 ---

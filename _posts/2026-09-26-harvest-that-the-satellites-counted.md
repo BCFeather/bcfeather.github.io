@@ -1,7 +1,6 @@
 ---
 title: "Harvest that the satellites counted"
 date: 2026-09-26 10:52:00 +0800
-tags: [agriculture, satellites, science, food]
 categories: [science]
 description: "The autumn harvest estimates published this month were assembled, for the first time, from a satellite system that maps crop health weekly across the world's breadbaskets, and the numbers matched the ground surveys within a fraction of a percent. The technology has quietly done what decades of agricultural statistics could not: made the global harvest visible in real time."
 ---

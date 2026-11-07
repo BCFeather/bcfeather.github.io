@@ -1,7 +1,6 @@
 ---
 title: "Heatwaves, attributed to the carbon majors"
 date: 2025-09-16 09:40:00 +0800
-tags: [climate, attribution, energy]
 categories: [science]
 description: "In the 11 September issue of *Nature*, researchers report a systematic attribution of heatwaves to the emissions of the world's largest carbon producers, quantifying how much of the intensity and probability of recent heat extremes can be traced to the fossil fuel companies at the top of the emissions ledger. The study brings the science of event attribution to the biggest single actors in the climate story."
 ---

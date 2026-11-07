@@ -1,7 +1,6 @@
 ---
 title: "Guyu and the first sowing"
 date: 2026-04-26 09:55:00 +0800
-tags: [essay, guyu, sowing, spring]
 categories: [essay]
 description: "Around 20 April the solar term of grain rain arrives, and the last fortnight of spring is also the first fortnight of the planting year. A short essay on sowing, patience and the old rhythm that still runs underneath the city."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The sale that starts in May"
 date: 2024-06-18 21:30:00 +0800
-tags: [retail, ecommerce, china, logistics]
 categories: [business]
 description: "The mid-year sale reaches its loudest day in the middle of June. The discount is planned in April, the parcels are sorted in June, and the returns arrive in July."
 ---

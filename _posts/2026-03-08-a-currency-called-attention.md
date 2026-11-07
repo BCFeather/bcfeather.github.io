@@ -1,7 +1,6 @@
 ---
 title: "A currency called attention"
 date: 2026-03-08 21:15:00 +0800
-tags: [attention, technology, society]
 categories: [essay]
 description: "Every hour of every day, attention is bought, sold, measured and optimized by systems that were built to be profitable before they were built to be good. A short essay on what it means when the scarcest resource in a connected society has a price tag."
 ---

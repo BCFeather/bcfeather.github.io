@@ -1,7 +1,6 @@
 ---
 title: "The longest day arrives early"
 date: 2024-06-19 21:00:00 +0800
-tags: [seasons, weather, cities, china]
 categories: [science]
 description: "The solstice falls on the twenty-first of June this year. The extra daylight is distributed unevenly across the country, and the buildings that face south were designed around it."
 ---

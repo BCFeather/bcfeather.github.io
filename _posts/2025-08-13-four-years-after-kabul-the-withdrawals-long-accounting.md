@@ -1,7 +1,6 @@
 ---
 title: "Four years after Kabul and the withdrawal’s long accounting"
 date: 2025-08-13 09:26:00 +0800
-tags: [afghanistan, security, news]
 categories: [news]
 description: "The anniversary of the withdrawal from Kabul arrived in mid-August, and the anniversary was the occasion for the accounting that the four years have accumulated: the country's condition under the government that followed, the world's engagement with the regime, and the questions about the withdrawal that the year's security politics has revived. The accounting is the part of the anniversary that the coverage returns to, and the returning is the measure of the event's weight."
 ---

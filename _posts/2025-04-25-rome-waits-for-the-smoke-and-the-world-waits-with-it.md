@@ -1,7 +1,6 @@
 ---
 title: "Rome waits for the smoke and the world waits with it"
 date: 2025-04-25 16:09:00 +0800
-tags: [vatican, pope, conclave, news]
 categories: [news]
 description: "In the days after the pope's funeral, the church's governance passed to the cardinals who will choose his successor, and the world's attention fixed on the rituals that the choice requires: the conclave, the sealed doors, the smoke that signals the ballots' outcome. The transition is the church's oldest procedure, and the procedure's weight is the measure of the office that the church is preparing to fill."
 ---

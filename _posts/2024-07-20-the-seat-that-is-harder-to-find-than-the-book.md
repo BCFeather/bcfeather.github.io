@@ -1,7 +1,6 @@
 ---
 title: "The seat that is harder to find than the book"
 date: 2024-07-20 20:30:00 +0800
-tags: [cities, education, china, libraries]
 categories: [society]
 description: "A public library in July fills before it opens. The queue is made of students preparing for an exam. The seat is now the scarce resource rather than the book."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The intern who is paid in experience"
 date: 2024-07-18 20:40:00 +0800
-tags: [education, labour, china, cities]
 categories: [society]
 description: "Summer internships begin in July. A placement that pays nothing still costs the student a room for two months, which is the part of the arrangement that the advertisements leave out."
 ---

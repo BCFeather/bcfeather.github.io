@@ -1,7 +1,6 @@
 ---
 title: "Germany votes and the coalition work begins"
 date: 2025-02-23 22:40:00 +0800
-tags: [germany, election, politics, news]
 categories: [news]
 description: "The German election produced the result that the polls had promised, with the conservative bloc in first place and the governing parties in retreat, and the evening projections gave the country its first picture of the parliament that the next government will have to assemble. The vote settled the distribution of the seats; the negotiations that begin now will settle everything else."
 ---

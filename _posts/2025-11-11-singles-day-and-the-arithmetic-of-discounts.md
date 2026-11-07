@@ -1,7 +1,6 @@
 ---
 title: "Singles' Day and the arithmetic of discounts"
 date: 2025-11-11 20:40:00 +0800
-tags: [consumption, commerce, platforms]
 categories: [essay]
 description: "On 11 November the largest shopping festival on Earth runs its annual course, and with it a familiar festival of arithmetic: pre-sale prices, red packets, coupons, thresholds and the careful multiplication of imagined savings. A short essay on what discount mathematics does to judgement."
 ---

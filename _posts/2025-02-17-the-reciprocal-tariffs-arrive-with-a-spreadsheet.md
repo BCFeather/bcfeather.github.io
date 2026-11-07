@@ -1,7 +1,6 @@
 ---
 title: "The reciprocal tariffs arrive with a spreadsheet"
 date: 2025-02-17 11:19:00 +0800
-tags: [trade, tariffs, economy, united-states]
 categories: [news]
 description: "The new American trade policy was unveiled in mid-February with the instrument that the administration had promised for months: a programme of reciprocal tariffs, designed to match the levies that other countries impose on American goods, delivered with a table of the countries and the rates that would be matched. The announcement was a negotiation opening, and the negotiations that follow will define the year's trade politics."
 ---

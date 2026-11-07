@@ -1,7 +1,6 @@
 ---
 title: "The car company that sold fewer cars in Europe"
 date: 2025-02-25 20:45:00 +0800
-tags: [automotive, europe, markets, industry]
 categories: [business]
 description: "The registrations of one electric car brand in Europe fell by about half in January, and the explanations that the industry gives are a model cycle, a price and a reputation."
 ---

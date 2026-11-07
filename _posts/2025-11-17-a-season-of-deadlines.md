@@ -1,7 +1,6 @@
 ---
 title: "A season of deadlines"
 date: 2025-11-17 20:30:00 +0800
-tags: [work, time, society]
 categories: [essay]
 description: "In the middle weeks of November the calendar fills with them: application deadlines, registration cut-offs, project milestones, the annual crop of things that must be done by a date. A short essay on the deadline as a modern institution, and what it says about how we have chosen to be governed by dates."
 ---

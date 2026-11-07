@@ -1,7 +1,6 @@
 ---
 title: "The end of the summer"
 date: 2024-08-29 18:33:00 +0800
-tags: [chizhou, summer, high-school, yangtze]
 categories: [essay]
 description: "A quiet essay about the last week of August in Chizhou, when the heat still holds, the cicadas change their note, and the second year of high school begins to feel real."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The Fed cuts again: a rate decision at the edge of an election"
 date: 2024-11-07 16:23:00 +0800
-tags: [economy, markets, news]
 categories: [news]
 description: "Two days after the election, the Federal Reserve lowered rates by a quarter point to between four and a half and four and three quarters per cent, its second cut of the autumn. The decision was the easy part; the harder part is the year ahead, when a new administration's policies meet a central bank that has been careful with its independence."
 ---

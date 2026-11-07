@@ -1,7 +1,6 @@
 ---
 title: "A three-million-year record of ice and air"
 date: 2026-03-21 09:40:00 +0800
-tags: [climate, palaeoclimate, ice]
 categories: [science]
 description: "In the 18 March issue of *Nature*, two companion papers reconstruct three million years of the climate record, one tracing atmospheric carbon dioxide and methane, the other tracing ocean heat content. The pair shows how stable the ice-age world was, and how far the present departure from it has already gone."
 ---

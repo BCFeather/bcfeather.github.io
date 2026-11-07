@@ -1,7 +1,6 @@
 ---
 title: "Boats on the river before the festival"
 date: 2024-06-12 20:20:00 +0800
-tags: [festivals, china, food, sport]
 categories: [culture]
 description: "The dragon boat races fall in the first half of June. The boats are built by hand in a few villages, and the team that paddles them trains for a month."
 ---

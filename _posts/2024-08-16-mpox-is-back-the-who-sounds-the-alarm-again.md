@@ -1,7 +1,6 @@
 ---
 title: "Mpox is back: the WHO sounds the alarm again"
 date: 2024-08-16 08:26:00 +0800
-tags: [health, africa, who, news]
 categories: [news]
 description: "On 14 August, the World Health Organization declared the mpox outbreak in the Democratic Republic of the Congo and its neighbours a public health emergency of international concern, the second time it has issued its highest alert for the disease in two years. The new strain, clade 1b, is spreading faster and affecting children, and the alarm is the easy part."
 ---

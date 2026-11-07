@@ -1,7 +1,6 @@
 ---
 title: "M4 debuts in the thinnest iPad Pro yet"
 date: 2024-05-08 11:43:00 +0800
-tags: [apple, technology, hardware, ai]
 categories: [news]
 description: "On 7 May, Apple unveiled the M4 chip inside a redesigned iPad Pro, the thinnest device Apple has ever made, together with a new Apple Pencil Pro and an updated iPad Air."
 ---

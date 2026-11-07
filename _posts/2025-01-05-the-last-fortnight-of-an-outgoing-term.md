@@ -1,7 +1,6 @@
 ---
 title: "The last fortnight of an outgoing term"
 date: 2025-01-05 09:47:00 +0800
-tags: [politics, united-states, washington, news]
 categories: [news]
 description: "With two weeks left in the White House, Washington entered the strange season that every presidency ends with: the farewells, the pardons, the final executive orders, and the long goodbye that the capital conducts whether the departing president is popular or not. The town that runs on power was learning to run on memory."
 ---

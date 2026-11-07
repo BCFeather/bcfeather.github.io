@@ -1,7 +1,6 @@
 ---
 title: "A sheltered cavity between Earth and the Moon"
 date: 2026-04-15 13:35:00 +0800
-tags: [space, radiation, moon, cosmic-rays]
 categories: [science]
 description: "Analysis of three years of data from China's Chang'e-4 lander, cross-checked with NASA's LRO, reveals a pocket of reduced cosmic-ray flux on the lunar dayside, carved by Earth's magnetic field. Published in Science Advances on 25 March."
 ---

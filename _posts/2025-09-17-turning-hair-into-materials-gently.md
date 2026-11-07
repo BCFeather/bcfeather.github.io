@@ -1,7 +1,6 @@
 ---
 title: "Turning hair into materials, gently"
 date: 2025-09-17 09:40:00 +0800
-tags: [materials, sustainability, chemistry]
 categories: [science]
 description: "In the 16 September issue of *Nature Communications*, researchers at Harvard report a gentler way to extract keratin, the protein that makes up hair, wool and nails, using a salt-based method that avoids harsh chemicals. The work opens a route from the billions of tonnes of hair that go to waste each year to eco-friendly materials."
 ---

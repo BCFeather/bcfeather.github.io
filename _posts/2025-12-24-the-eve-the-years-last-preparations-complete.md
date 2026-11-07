@@ -1,7 +1,6 @@
 ---
 title: "The eve of the holiday and the year’s last preparations"
 date: 2025-12-24 20:06:00 +0800
-tags: [culture, essay, christmas]
 categories: [culture]
 description: "The eve arrived with the year's last preparations complete: the tables set, the gifts wrapped, the travel done, and the households gathered for the ceremonies that the season's end commands. The eve is the year's threshold, and the threshold's keeping is the pause before the turning."
 ---

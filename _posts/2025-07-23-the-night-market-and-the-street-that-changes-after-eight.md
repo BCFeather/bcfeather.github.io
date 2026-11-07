@@ -1,7 +1,6 @@
 ---
 title: "The night market and the street that changes after eight"
 date: 2025-07-23 22:30:00 +0800
-tags: [cities, retail, summer, night-life]
 categories: [business]
 description: "In July the night market takes over streets that are ordinary roads during the day. The economics behind it are thinner than the atmosphere suggests, and both are worth understanding, because the format keeps being proposed as a solution to things it cannot fix."
 ---

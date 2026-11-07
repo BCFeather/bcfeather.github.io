@@ -1,7 +1,6 @@
 ---
 title: "Valentine's Day and the economy of affection"
 date: 2026-02-14 20:30:00 +0800
-tags: [holidays, consumption, society]
 categories: [essay]
 description: "Valentine's Day is the most nakedly commercial of the major holidays, a day on which the price of affection is quoted in roses, chocolates and reservations. A short essay on what the industry does to the feeling it claims to serve, and what the transaction leaves out."
 ---

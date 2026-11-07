@@ -1,7 +1,6 @@
 ---
 title: "Eight days off and a family counting them"
 date: 2025-02-01 20:40:00 +0800
-tags: [festivals, work, china, calendars]
 categories: [society]
 description: "The holiday in China runs for eight days around the festival, and by the fourth day a family is counting them. The count is what makes the holiday a holiday."
 ---

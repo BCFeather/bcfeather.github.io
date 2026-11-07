@@ -1,7 +1,6 @@
 ---
 title: "The economy that Germany stopped pretending about: the campaign’s arithmetic"
 date: 2025-02-06 08:29:00 +0800
-tags: [germany, economy, election, news]
 categories: [news]
 description: "With the election three weeks away, the German campaign has finally told the truth about the economy that the country spent a decade not discussing: the industry that built the postwar miracle is shrinking, the energy costs are structural rather than temporary, and the model that financed the welfare state is being revised by events. The campaign has stopped pretending, and the honesty is the most German thing about it."
 ---

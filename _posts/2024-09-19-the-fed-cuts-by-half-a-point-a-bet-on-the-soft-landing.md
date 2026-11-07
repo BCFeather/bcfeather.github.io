@@ -1,7 +1,6 @@
 ---
 title: "The Fed cuts by half a point: a bet on the soft landing"
 date: 2024-09-19 09:58:00 +0800
-tags: [economy, usa, finance, news]
 categories: [news]
 description: "On 18 September, the Federal Reserve cut its benchmark interest rate by half a percentage point, the first cut in more than four years and a bigger move than most of Wall Street had expected. The decision, which the chair called a 'recalibration', was a declaration that the inflation fight is over and that the labour market is now the priority, and it landed in the middle of an election year."
 ---

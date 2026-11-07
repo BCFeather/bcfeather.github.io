@@ -1,7 +1,6 @@
 ---
 title: "Google I/O bets that cheaper is the future"
 date: 2026-05-09 17:40:00 +0800
-tags: [ai, google, technology, models]
 categories: [technology]
 description: "Google's developer conference on 6 May was shorter on spectacle and longer on price cuts, with a new Gemini variant priced at a fraction of last year's cost and a suite of agent tools aimed at developers who build on other people's models. The message was clear: the AI war is now fought on the cost curve."
 ---

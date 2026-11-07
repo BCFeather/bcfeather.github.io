@@ -1,7 +1,6 @@
 ---
 title: "Apple's M6 chip arrives on a two-nanometre process"
 date: 2026-08-27 10:33:00 +0800
-tags: [apple, silicon, technology]
 categories: [technology]
 description: "On 26 August, Apple revealed the M6, its first chip built on a two-nanometre process, alongside the M5 Ultra, a quad-die design aimed at the heaviest AI and rendering workloads. The two chips mark the point where Apple's silicon advantage is no longer about laptops alone."
 ---

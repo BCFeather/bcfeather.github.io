@@ -1,7 +1,6 @@
 ---
 title: "NVIDIA takes a $3.5 billion stake in MediaTek"
 date: 2026-09-02 09:12:00 +0800
-tags: [semiconductors, nvidia, mediatek, ai]
 categories: [news]
 description: "NVIDIA is putting 3.5 billion dollars into MediaTek convertible bonds and opening its NVLink Fusion interconnect to the Taiwanese designer. The deal turns a customer into a partner, and shows how the AI compute race is being fought through ecosystems rather than chips alone."
 ---

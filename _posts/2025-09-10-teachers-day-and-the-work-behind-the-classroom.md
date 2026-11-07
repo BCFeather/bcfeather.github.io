@@ -1,7 +1,6 @@
 ---
 title: "Teachers' Day and the work behind the classroom"
 date: 2025-09-10 20:40:00 +0800
-tags: [teachers, education, september]
 categories: [essay]
 description: "On 10 September the country marks Teachers' Day, a date that belongs to a profession whose real work is measured in decades rather than ceremonies. A short essay on what the day celebrates, what it cannot celebrate, and why the classroom remains the least automated institution in modern life."
 ---

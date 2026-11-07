@@ -1,7 +1,6 @@
 ---
 title: "The Fed holds and waits for the tariffs"
 date: 2025-06-18 22:15:00 +0800
-tags: [central-banking, inflation, tariffs, economy]
 categories: [economy]
 description: "The Federal Reserve left its policy rate unchanged at the June meeting, the third hold in a row, and repeated that it wanted to see how the trade measures work through prices before moving. Waiting has become the policy."
 ---

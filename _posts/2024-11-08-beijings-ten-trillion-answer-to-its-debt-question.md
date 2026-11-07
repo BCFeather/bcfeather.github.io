@@ -1,7 +1,6 @@
 ---
 title: "Beijing's ten trillion answer to its debt question"
 date: 2024-11-08 20:41:00 +0800
-tags: [china, economy, news]
 categories: [news]
 description: "On November 8, the Standing Committee of the National People's Congress approved a plan to raise the local government debt ceiling by six trillion yuan, part of a ten trillion yuan package to swap the hidden debts that have weighed on local finances. The approval was the year's largest fiscal signal, and its meaning is in how carefully it was calibrated."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The medals that nobody practises for"
 date: 2024-07-30 22:10:00 +0800
-tags: [olympics, sport, france]
 categories: [sport]
 description: "The programme has grown to three hundred and twenty-nine events. A handful of them are contested by a few dozen athletes in sports that have no professional circuit and no television money."
 ---

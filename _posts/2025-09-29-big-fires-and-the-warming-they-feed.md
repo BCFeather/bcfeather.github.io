@@ -1,7 +1,6 @@
 ---
 title: "Big fires, and the warming they feed"
 date: 2025-09-29 09:40:00 +0800
-tags: [climate, wildfires, environment]
 categories: [science]
 description: "In the 26 September issue of *Nature*, researchers report evidence that the growing scale of forest fires may itself be warming the surface, as the dark char left by large burns absorbs more sunlight than the forest that stood before. The finding adds a feedback loop to the fire climate equation: bigger fires beget more heat, and more heat begets bigger fires."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "The three coldest weeks and the hospitals that fill up"
 date: 2025-01-08 20:55:00 +0800
-tags: [weather, health, winter, cities]
 categories: [science]
 description: "The coldest stretch of the Chinese winter begins on the eighth of January, and the paediatric wards fill up in the same fortnight. The cold and the virus arrive together and the two are not the same problem."
 ---

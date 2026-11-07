@@ -1,7 +1,6 @@
 ---
 title: "The peace talks that everyone wants and nobody believes"
 date: 2025-02-10 09:37:00 +0800
-tags: [russia, ukraine, diplomacy, war]
 categories: [news]
 description: "The first serious moves toward ending the war in Europe arrived in the second week of February, with the new American administration announcing the beginning of negotiations and the capitals of Europe reacting with the mixture of hope and alarm that the announcement deserved. The talks are wanted by everyone and believed by almost no one, and the gap between the wanting and the believing is the honest measure of how far the war has to go."
 ---

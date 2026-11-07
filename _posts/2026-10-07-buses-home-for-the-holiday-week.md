@@ -1,7 +1,6 @@
 ---
 title: "Buses home for the holiday week"
 date: 2026-10-07 18:32:00 +0800
-tags: [essay, autumn, travel]
 categories: [essay]
 description: "A short essay on the week when the big cities thin out and the small towns fill up, on the roads and stations and the quiet arithmetic of who leaves and who stays for the national holiday."
 ---

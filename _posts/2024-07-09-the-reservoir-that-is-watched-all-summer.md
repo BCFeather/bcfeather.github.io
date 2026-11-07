@@ -1,7 +1,6 @@
 ---
 title: "The reservoir that is watched all summer"
 date: 2024-07-09 21:00:00 +0800
-tags: [water, weather, china, infrastructure]
 categories: [science]
 description: "A reservoir above a flood plain holds water back in July and releases it in September. The level is set by a rule that trades a small flood now against a larger one later."
 ---

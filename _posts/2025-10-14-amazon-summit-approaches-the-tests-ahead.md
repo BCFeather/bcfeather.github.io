@@ -1,7 +1,6 @@
 ---
 title: "Amazon summit approaches: the tests ahead"
 date: 2025-10-14 18:19:00 +0800
-tags: [climate, cop, news]
 categories: [news]
 description: "The climate summit that the autumn has been preparing for moved into its final phase in mid-October, with the host city ready, the texts drafted and the finance question unresolved; the summit's opening, scheduled for the coming weeks, will test the year's climate politics against the institution's oldest question. The tests ahead are the ones that the preparations have been conducted for."
 ---

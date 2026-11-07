@@ -1,7 +1,6 @@
 ---
 title: "The solstice: the year's darkest turn and its promise"
 date: 2025-12-22 08:31:00 +0800
-tags: [culture, essay, winter]
 categories: [culture]
 description: "The winter solstice arrived in the year's final week, the shortest day that the northern hemisphere has known, and the turning carried the particular meaning that the seasons have always given it: the darkness at its fullest, and the light, from this day, beginning its return. The solstice is the year's oldest turning, and the turning's keeping is the season's quiet ceremony."
 ---

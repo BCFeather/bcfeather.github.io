@@ -1,7 +1,6 @@
 ---
 title: "Spring that the markets learned to price"
 date: 2025-03-25 16:58:00 +0800
-tags: [markets, economy, tariffs, news]
 categories: [news]
 description: "The first quarter of the year closed with the markets having learned the new rules of the trade conflict: the tariffs announced, the headlines digested, the volatility traded and the indexes ending the quarter with the gains that the sceptics had not expected. The quarter was the education of the market in the new politics, and the education was expensive, confusing and, for the investors who adapted, profitable."
 ---

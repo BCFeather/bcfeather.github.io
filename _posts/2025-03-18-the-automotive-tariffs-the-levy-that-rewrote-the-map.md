@@ -1,7 +1,6 @@
 ---
 title: "The automotive tariffs: the levy that rewrote the map"
 date: 2025-03-18 11:05:00 +0800
-tags: [trade, cars, tariffs, north-america]
 categories: [news]
 description: "The announcement that tariffs would be applied to imported vehicles and parts landed in the third week of March, and the announcement hit the industry that the continent's trade was built around with the force of a structural event. The automotive sector, the most integrated supply chain in the world, is the place where the tariff war's economics will be tested in their purest form."
 ---

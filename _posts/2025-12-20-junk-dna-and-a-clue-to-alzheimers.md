@@ -1,7 +1,6 @@
 ---
 title: "Junk DNA, and a clue to Alzheimer's"
 date: 2025-12-20 09:40:00 +0800
-tags: [neuroscience, genomics, alzheimers]
 categories: [science]
 description: "In the 18 December issue of *Nature Neuroscience*, a team from UNSW reports a link between the non-coding genome, the stretch once dismissed as junk DNA, and Alzheimer's disease, finding that variants outside the genes shape the disease through their effects on the brain's support cells. The 98 per cent of the genome that does not code for proteins is increasingly hard to ignore."
 ---

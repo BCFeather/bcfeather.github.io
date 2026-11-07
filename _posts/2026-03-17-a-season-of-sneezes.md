@@ -1,7 +1,6 @@
 ---
 title: "A season of sneezes"
 date: 2026-03-17 20:30:00 +0800
-tags: [health, seasons, environment]
 categories: [essay]
 description: "In the middle weeks of spring, the pollen count climbs, the tissues come out, and a significant fraction of the population begins its annual battle with hay fever. A short essay on why the allergy season seems to grow longer and fiercer every year, and what the sneezes say about the cities we have built."
 ---

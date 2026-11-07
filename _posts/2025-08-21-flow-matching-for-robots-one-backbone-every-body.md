@@ -1,7 +1,6 @@
 ---
 title: "Flow matching for robots: one backbone, every body"
 date: 2025-08-21 06:37:00 +0800
-tags: [robotics, ai, embodied-ai, vlm]
 categories: [technology]
 description: "Physical Intelligence posted a robot foundation model built on a pretrained vision-language backbone plus a flow-matching action expert. Trained across seven embodiments, it folds laundry and assembles boxes from a single network. The architecture borrows from language models and invents the rest for the physical world."
 ---

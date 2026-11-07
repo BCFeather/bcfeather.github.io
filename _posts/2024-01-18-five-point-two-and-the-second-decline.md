@@ -1,7 +1,6 @@
 ---
 title: "Five point two and the second decline"
 date: 2024-01-18 21:52:00 +0800
-tags: [china, economy, statistics, gdp, demography]
 categories: [news]
 description: "China's statistics bureau reported growth of 5.2 per cent for 2023 on a GDP of 126.06 trillion yuan, and a population that fell by 2.08 million to 1.4097 billion, the second consecutive annual decline since the figures were first published."
 ---

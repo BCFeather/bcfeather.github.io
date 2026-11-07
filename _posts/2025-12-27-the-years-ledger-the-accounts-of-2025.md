@@ -1,7 +1,6 @@
 ---
 title: "The year's ledger: the accounts of 2025"
 date: 2025-12-27 19:44:00 +0800
-tags: [review, essay, news]
 categories: [culture]
 description: "The year's final days brought the reading that the turning requires: the accounts of 2025 assembled, the conflicts and the settlements, the decisions and the deferrals, the records and the rituals that the year has produced. The ledger's reading is the year's conclusion, and the conclusion's form will be the new year's beginning."
 ---

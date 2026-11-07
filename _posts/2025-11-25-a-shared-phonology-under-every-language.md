@@ -1,7 +1,6 @@
 ---
 title: "A shared phonology under every language"
 date: 2025-11-25 09:40:00 +0800
-tags: [neuroscience, language, perception]
 categories: [science]
 description: "In the 19 November issue of *Nature*, a study of intracranial recordings from the human temporal lobe reports that speech perception is not lost in translation: the brain's phonological machinery combines a shared, language-general core with language-specific tuning, so that hearing a foreign language still engages the same basic sound-processing circuitry."
 ---

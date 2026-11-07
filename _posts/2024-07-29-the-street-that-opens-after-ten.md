@@ -1,7 +1,6 @@
 ---
 title: "The street that opens after ten"
 date: 2024-07-29 21:40:00 +0800
-tags: [cities, food, china, retail]
 categories: [society]
 description: "A night market in summer begins when the heat leaves the pavement. The stalls pay a fee to a management company, the neighbours complain about the noise. The street earns more after dark than it does by day."
 ---

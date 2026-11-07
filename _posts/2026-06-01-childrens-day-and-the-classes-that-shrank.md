@@ -1,7 +1,6 @@
 ---
 title: "Children's day and the classes that shrank"
 date: 2026-06-01 09:20:00 +0800
-tags: [china, education, population, news]
 categories: [news]
 description: "Children's day in China arrived this year with an unusual piece of good news hidden in the school statistics: the average primary class size has fallen below forty for the first time in two decades. The numbers are a demographic dividend that nobody planned for, and the education system is only beginning to decide what to do with it."
 ---

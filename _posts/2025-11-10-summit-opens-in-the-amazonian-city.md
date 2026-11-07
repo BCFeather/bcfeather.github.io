@@ -1,7 +1,6 @@
 ---
 title: "Summit opens in the Amazonian city"
 date: 2025-11-10 21:35:00 +0800
-tags: [climate, cop, news]
 categories: [news]
 description: "The climate summit opened in Belém on the second week of November, with the delegations of nearly two hundred countries assembling in the Amazonian city and the negotiations that the year has prepared beginning their two-week course; the opening ceremonies carried the particular combination of the drama that the location provides and the hard work that the finance question demands."
 ---

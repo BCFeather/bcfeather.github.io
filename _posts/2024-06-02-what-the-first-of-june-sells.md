@@ -1,7 +1,6 @@
 ---
 title: "What the first of June sells"
 date: 2024-06-02 20:40:00 +0800
-tags: [retail, children, festivals, china]
 categories: [business]
 description: "The first of June is a retail date as much as a school one. The spending around it splits into a gift, an outing and a treat, and each of the three follows its own logic."
 ---

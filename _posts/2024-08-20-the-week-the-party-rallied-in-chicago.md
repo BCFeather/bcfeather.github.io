@@ -1,7 +1,6 @@
 ---
 title: "The week the party rallied in Chicago"
 date: 2024-08-20 22:30:00 +0800
-tags: [america, elections, politics]
 categories: [world]
 description: "The Democratic convention opened in Chicago a month after the president withdrew. The party that had spent July arguing about his age spent four days arguing about everything else."
 ---

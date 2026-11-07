@@ -1,7 +1,6 @@
 ---
 title: "LEGO-like crystals add light control to silicon chips"
 date: 2026-10-23 09:52:00 +0800
-tags: [photonics, materials, chips]
 categories: [science]
 description: "A WashU team writing in *Nature* in October transfers ultrathin single-crystal membranes of barium titanate, cobalt ferrite and compound semiconductors onto pre-made silicon photonic circuits, adding modulation, isolation and light detection that silicon alone cannot do. A modular approach to photonic chips."
 ---

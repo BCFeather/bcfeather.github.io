@@ -1,7 +1,6 @@
 ---
 title: "A ductile metal that carries a load at 2,400 degrees"
 date: 2026-07-03 14:14:00 +0800
-tags: [materials, metallurgy, high-temperature, tantalum]
 categories: [science]
 description: "A team at Xi'an Jiaotong University writing in *Nature* on 25 June reports an oxide-dispersion-strengthened tantalum alloy that keeps 100 megapascals of tensile strength at 2,400 degrees Celsius, while remaining ductile enough to machine. The trick is a boron-assisted in-situ oxidation that controls the second phase."
 ---

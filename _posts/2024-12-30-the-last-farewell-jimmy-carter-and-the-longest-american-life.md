@@ -1,7 +1,6 @@
 ---
 title: "The last farewell: Jimmy Carter and the longest American life"
 date: 2024-12-30 11:47:00 +0800
-tags: [us, obituary, culture, news]
 categories: [culture]
 description: "Jimmy Carter died on December 29 at his home in Plains, Georgia, at the age of one hundred, the longest-lived president in American history. The thirty-ninth president and Nobel laureate spent his decades after office building the post-presidency that the office had never had, and the country that he leaves behind is the measure of how completely he remade the role."
 ---

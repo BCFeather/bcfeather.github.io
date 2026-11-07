@@ -1,7 +1,6 @@
 ---
 title: "Autumn's trades: the markets in October"
 date: 2025-10-13 11:26:00 +0800
-tags: [markets, economy, news]
 categories: [news]
 description: "The markets moved through the first half of October with the trades that the autumn's calendar has prepared: the earnings season opening, the data releases accumulating, and the year's larger variables, the trade talks and the central banks, providing the background that the sessions trade against. October's markets are the markets at the year's decisive season, and the decisiveness is the month's character."
 ---

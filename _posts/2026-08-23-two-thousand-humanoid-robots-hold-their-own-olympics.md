@@ -1,7 +1,6 @@
 ---
 title: "Two thousand humanoid robots hold their own Olympics"
 date: 2026-08-23 19:17:00 +0800
-tags: [robotics, china, technology, ai]
 categories: [technology]
 description: "The second World Humanoid Robot Games opened in Beijing on 22 August, with 2,056 robots from 666 teams across sixteen countries competing in 51 events. The 100-metre sprint and the high jump opened the programme with results beyond what human athletes have achieved, and the event has grown into the clearest annual measure of how fast embodied AI is moving."
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Quantum annealing shows a scaling edge on spin glasses"
 date: 2024-10-24 11:58:00 +0800
-tags: [quantum, quantum-computing, algorithms]
 categories: [technology]
 description: "Posted to arXiv in January 2024, a D-Wave study shows its Advantage annealer solving 2D spin-glass problems with a scaling advantage over the best classical heuristic, once quantum annealing correction is switched on."
 ---

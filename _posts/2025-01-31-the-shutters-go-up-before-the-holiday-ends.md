@@ -1,7 +1,6 @@
 ---
 title: "The shutters go up before the holiday ends"
 date: 2025-01-31 21:10:00 +0800
-tags: [festivals, cities, retail, china]
 categories: [society]
 description: "The third day of the lunar year is when the city begins to come back, and the shops that open on that morning serve the people who never stopped working."
 ---
