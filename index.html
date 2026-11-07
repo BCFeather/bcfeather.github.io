@@ -71,7 +71,8 @@ ref: home
   .side-panel a:hover{ text-decoration:underline; }
   .side-panel .side-quote{ margin:.8rem 0 0; padding-left:.85rem; border-left:3px solid var(--link-color,#0056b2); font-size:.9rem; font-style:italic; line-height:1.75; color:var(--main-text-color,#3a3a42); }
   .side-panel .side-quote cite{ display:block; margin-top:.45rem; font-style:normal; font-size:.76rem; line-height:1.5; color:var(--text-muted-color,#8a8f98); }
-  .side-panel .side-facts li{ font-variant-numeric:tabular-nums; }
+  .side-panel .side-date{ margin:.5rem 0 .1rem; font-size:.73rem; letter-spacing:.09em; text-transform:uppercase; color:var(--text-muted-color,#8a8f98); }
+  .side-panel .side-meta{ margin:.8rem 0 0; font-size:.74rem; line-height:1.6; color:var(--text-muted-color,#8a8f98); }
 
   @media (max-width:576px){
     .home-hero{ padding:3rem 1rem 2.6rem; }
@@ -300,37 +301,34 @@ window.__HOME_STATS = {
     });
     same.sort(function (a, b) { return b.y - a.y; });
 
-    var glance = makeSection('At a Glance', 'side-glance');
-    var facts = el('ul', 'side-facts');
-    facts.appendChild(el('li', null, (stats.posts || data.length) + ' posts'));
-    if (stats.first && stats.last) {
-      facts.appendChild(el('li', null, stats.first + '–' + stats.last));
-    }
-    if (stats.cats) {
-      facts.appendChild(el('li', null, stats.cats + ' categories'));
-    }
-    glance.appendChild(facts);
-    access.appendChild(glance);
+    var q = QUOTES[(year * 372 + today.getMonth() * 31 + day) % QUOTES.length];
+    var todayPanel = makeSection('Today', 'side-today');
+    todayPanel.appendChild(el('p', 'side-date', today.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })));
 
-    var onday = makeSection('On This Day', 'side-onthisday');
-    var ul = el('ul');
+    var bq = el('blockquote', 'side-quote', q[0]);
+    bq.appendChild(el('cite', null, q[1]));
+    todayPanel.appendChild(bq);
+
+    var ul = el('ul', 'side-list');
     if (same.length) {
       same.slice(0, 2).forEach(function (it) {
-        ul.appendChild(linkItem(it.p.t + ' (' + it.y + ')', it.p.u));
+        ul.appendChild(linkItem('On this day: ' + it.p.t + ' (' + it.y + ')', it.p.u));
       });
     } else if (data.length) {
       var r = data[Math.floor(Math.random() * data.length)];
-      ul.appendChild(linkItem('Nothing filed for ' + day + ' ' + mon + '. Read a random piece', r.u));
+      ul.appendChild(linkItem('On this day: nothing filed. Read a random piece', r.u));
     }
-    onday.appendChild(ul);
-    access.appendChild(onday);
+    todayPanel.appendChild(ul);
 
-    var q = QUOTES[(year * 372 + today.getMonth() * 31 + day) % QUOTES.length];
-    var quote = makeSection('Quote of the Day', 'side-quote-panel');
-    var bq = el('blockquote', 'side-quote', q[0]);
-    bq.appendChild(el('cite', null, q[1]));
-    quote.appendChild(bq);
-    access.appendChild(quote);
+    var meta = (stats.posts || data.length) + ' posts';
+    if (stats.first && stats.last) {
+      meta += ' · ' + stats.first + '–' + stats.last;
+    }
+    if (stats.cats) {
+      meta += ' · ' + stats.cats + ' categories';
+    }
+    todayPanel.appendChild(el('p', 'side-meta', meta));
+    access.appendChild(todayPanel);
   }
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', build);
