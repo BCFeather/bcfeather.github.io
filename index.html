@@ -85,7 +85,6 @@ ref: home
 </style>
 
 <section class="home-hero">
-  <span class="home-eyebrow">Personal blog &middot; Notes and commentary</span>
   <h1>BlogFeather</h1>
   <p class="tagline">Verba volant, scripta manent.</p>
   <p class="intro">Observing the world, reflecting on current affairs and social phenomena, and sharing recent advances in STEM with a dose of rational thought.</p>
@@ -98,7 +97,7 @@ ref: home
 {% if site.posts.size > 0 %}
 <section class="home-block">
   <div class="home-block-head">
-    <span class="home-eyebrow">Selected</span>
+    <span class="home-eyebrow">Selected |</span>
     <h2 class="home-section-title">Featured</h2>
   </div>
   <div class="home-carousel" id="featuredCarousel">
@@ -106,7 +105,7 @@ ref: home
       <div class="carousel-track">
         {% for post in site.posts limit:3 %}
         <a class="home-featured-card carousel-slide" href="{{ post.url | relative_url }}">
-          <div class="meta">Featured &middot; {{ post.date | date: "%-d %b %Y" }}</div>
+          <div class="meta">Featured | {{ post.date | date: "%-d %b %Y" }}</div>
           <h3>{{ post.title }}</h3>
           {% if post.description %}<p class="desc">{{ post.description | markdownify | replace: '<p>', '' | replace: '</p>', '' }}</p>{% endif %}
         </a>
@@ -176,7 +175,7 @@ ref: home
 
 <section class="home-block">
   <div class="home-block-head">
-    <span class="home-eyebrow">Recent</span>
+    <span class="home-eyebrow">Recent |</span>
     <h2 class="home-section-title">Latest posts</h2>
   </div>
   {% for post in site.posts limit:5 %}
