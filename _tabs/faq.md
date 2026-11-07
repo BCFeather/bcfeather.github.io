@@ -9,7 +9,7 @@ Frequently asked questions about this blog, its content and how it is produced.
 
 ### Where do the articles on this blog come from?
 
-They come from several sources: pieces that I write myself, notes and summaries from my conversations with AI and other people, and curated or aggregated reporting drawn from the news media. I aim to cross-reference facts across these sources and present them with enough context to stand on their own. AI might be used to refine sentences if I think it's necessary.
+They come from several sources: pieces that I write myself, notes and summaries from my conversations with AI and other people, and curated or aggregated reporting drawn from the news media. I aim to cross-reference facts across these sources and present them with enough context to stand on their own. AI might be used to refine sentences if I think it's necessary. Also, the experiences written in the essays could be imaginary.
 
 ### How often is the blog updated?
 
