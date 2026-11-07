@@ -1,0 +1,18 @@
+---
+title: "Australia bans social media accounts for children under sixteen"
+date: 2024-11-29 22:15:00 +0800
+categories: [technology]
+description: "Australia's parliament passed a law on 28 November requiring platforms to take reasonable steps to keep people under sixteen off social media, with fines of up to 49.5 million Australian dollars for systemic breaches."
+---
+
+Australian parliament passed legislation on the twenty-eighth of November that will require social media companies to prevent children under sixteen from holding accounts, the first national law of its kind. Senate approved the bill by thirty-four votes to nineteen after the lower house passed it the previous day, and it received royal assent shortly afterwards. Rules will take effect at the end of 2025, a year later than originally planned, to give the regulator time to set out how platforms are expected to comply.
+
+Design of the law puts the burden on companies rather than on parents. Platforms must take reasonable steps to verify age and to remove existing accounts held by younger users, and the law lists the services it covers, including the largest networks, video-sharing sites and messaging applications. Fines for systemic breaches reach 49.5 million Australian dollars. No penalty falls on a child or a parent who gets around the rules, which the government said was deliberate: children should not be treated as offenders for using a service the state has decided to withhold.
+
+Justification offered was public health. Government cited research on sleep, body image and exposure to harmful content, and it described adolescence as a period in which social comparison is most damaging. Support in parliament came from both major parties, which is unusual in Australian politics, and the bill passed with a majority that included the opposition. Parent groups welcomed it, and a petition organised by a bereaved mother whose daughter had taken her own life after seeing harmful material gathered hundreds of thousands of signatures.
+
+Opposition came from several directions, and the platforms were the loudest of them. Digital rights groups argued that the law will push younger teenagers onto less moderated services, that age verification will require collecting identity data from everyone, and that a blanket ban removes the benefits of online connection for isolated young people. Technology companies said the rules were unworkable at the scale proposed, and academics noted that the evidence on the effect of social media on adolescent mental health is contested, which makes a national prohibition a large experiment.
+
+Implementation is the hard part and remains undefined. Age assurance can be done through device settings, bank records, government digital identity or facial estimation, and the regulator has been asked to produce guidance that lets companies choose. Privacy rules limit what can be stored, and the government has said platforms will not be allowed to keep identity documents. Enforcement will be tested quickly, because the technical measures available can be circumvented by a determined teenager with a virtual private network.
+
+Precedent matters beyond Australia. Several American states have passed age limits that are tied up in litigation, and European regulators have set stricter rules for minors without a ban. Australian law is the first national measure written as a prohibition with penalties attached, and other governments have said they are watching the implementation. If it works, the model will be copied; if it fails, the argument will be that age verification is a problem of identification rather than of technology, and that no parliament can legislate a boundary that platforms cannot enforce.
