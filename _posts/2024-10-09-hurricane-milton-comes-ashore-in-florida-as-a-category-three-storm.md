@@ -1,0 +1,18 @@
+---
+title: "Hurricane Milton comes ashore in Florida as a category three storm"
+date: 2024-10-09 23:55:00 +0800
+categories: [news]
+description: "Hurricane Milton made landfall near Siesta Key on the evening of 9 October with winds of 120 miles an hour, cut power to more than three million homes and killed at least twenty-four people as it crossed the Florida peninsula."
+---
+
+Hurricane Milton made landfall near Siesta Key, south of Tampa, at about half past eight on the evening of the ninth of October, with maximum sustained winds of 120 miles an hour, a category three storm at the moment it came ashore. It had been a category five over the Gulf of Mexico two days earlier, one of the most intense hurricanes recorded in the Atlantic basin, and it weakened as it approached the coast. Track moved south in the final hours, which spared Tampa the direct hit that forecasters had feared.
+
+Effects were felt across the state within hours. More than three million homes and businesses lost power, some of them for a week, and the storm spawned dozens of tornadoes in the counties south of Orlando, which caused more damage than the wind at the coast. At least twenty-four people were killed, several of them by falling trees and flooding in inland areas. Bridges were closed, airports suspended flights, and a stretch of the main highway across the peninsula was shut by debris.
+
+Surge was smaller than the forecast, and that is the part officials described as luck. Hurricane had been expected to push a wall of water into Tampa Bay, which has not taken a direct hit from a major storm since 1921, and the southward track moved the worst of it away from the city. Water levels in some bays still rose by several feet, and beaches and barrier islands lost sand that will take years to replace. Insurers said the loss would be in the tens of billions of dollars, below the worst case and above the recent average.
+
+Recovery was complicated by the storms that had come before. Hurricane Helene had struck the same coast two weeks earlier and had left debris that Milton turned into projectiles, and some of the counties that were hit hardest had not finished clearing the first storm's wreckage. Federal emergency teams were deployed before landfall, and the state opened fuel distribution points because petrol stations had run dry during the evacuation. Shelters held tens of thousands of people, and many returned to homes that had lost roofs.
+
+Politics of the response was visible and immediate. Candidates in the presidential election used the storm to argue about climate policy and about federal aid, and the two campaigns suspended events in the state for a day. Officials in Florida, who have generally avoided the language of climate change, described the frequency of the storms in terms of preparation and building codes. Scientists noted that Milton intensified from a tropical storm to a category five in less than two days, which is the kind of rapid development that warmer sea surfaces make more likely.
+
+Season has been unusual in ways that will be studied. Milton was the second category five hurricane of the year, after Beryl in July, and the ninth hurricane of an Atlantic season that had been forecast to be busy. Insurance losses from the year are already the highest since 2017, and several companies have withdrawn from parts of the market, which leaves homeowners dependent on a state-backed insurer. Question for the next season is whether the pattern of rapid intensification and repeated landfalls continues, and whether the building stock and the insurance system can absorb it.
