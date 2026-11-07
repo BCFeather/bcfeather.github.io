@@ -10,7 +10,7 @@ The Australian Open began in Melbourne on the twelfth of January, and for two we
 
 The tournament is the first of the four grand slams in the calendar and the one with the shortest history. It moved to its current site in 1988, when the surface was changed to a hard court and the stadium was built beside a river, and the event has grown into a fortnight that the city treats as its own festival.
 
-The heat is the condition that the players talk about. The temperature on the court can pass forty degrees in the afternoon, the surface radiates, and the rule that governs the suspension of play is written in a policy that the tournament reviews each year. The matches that are scheduled in the middle of the day are the ones that the players with the most experience try to avoid.
+The heat is the condition that the players talk about. The temperature on the court can pass forty degrees in the afternoon, the surface radiates, and the rule that governs the suspension of play is written in a policy that the tournament reviews each year. The matches that are scheduled in the middle of the day are the ones that the players with the most experience try to avoid, and the ones who cannot avoid them are the qualifiers and the doubles teams.
 
 The economics of the tournament are a lesson in the value of a month. The city fills its hotels, the television rights are sold to a hundred countries, and the sponsorship that surrounds the courts is priced for the audience that the final delivers. The tournament is a private business and a public event, and the balance between the two is negotiated every few years with the state government.
 
