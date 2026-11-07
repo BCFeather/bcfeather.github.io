@@ -12,7 +12,7 @@ The problem is measurable. The world makes several hundred million tonnes of pla
 
 The negotiations have two camps. One group wants an agreement that limits the production of virgin polymer under a global rule. The other wants an agreement that improves waste systems and leaves production to each country. The first group contains the countries that import waste. The second contains the countries that make polymer.
 
-Recycling is the claim both camps make. A bottle that is collected is sorted, washed and turned into a pellet. The pellet is worth less than virgin material for most uses. That gap explains why the collection rate has climbed while the recycling rate has stayed low.
+Recycling is the claim both camps make. A bottle that is collected is sorted, washed and turned into a pellet. The pellet is worth less than virgin material for most uses. That gap explains why the collection rate has climbed while the recycling rate has stayed low. The mechanical process also shortens the polymer chain each time the material is melted, so a bottle can go round a few times before it has to be downcycled into a bench or a bin liner.
 
 Substitutes are a market of their own. A fibre from a plant, a film grown by a bacterium, a cup made of paper with a lining. Each has a cost that a buyer compares with the plastic it would replace. The comparison usually ends with plastic winning on price.
 
