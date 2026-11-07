@@ -12,6 +12,7 @@ tabs:
   tags: Tags
   archives: Archives
   about: About
+  faq: FAQ
 search:
   hint: search
   cancel: Cancel
