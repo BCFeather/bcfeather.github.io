@@ -64,15 +64,15 @@ ref: home
   @media (min-width:1200px){
     #panel-wrapper{ position:sticky; top:4.5rem; align-self:flex-start; }
   }
-  .side-panel{ margin-top:2.2rem; }
-  .side-panel ul{ list-style:none; padding:0; margin:.7rem 0 0; }
-  .side-panel li{ font-size:.86rem; line-height:1.95; }
+  .side-panel{ margin-top:1.8rem; }
+  .side-panel ul{ list-style:none; padding:0; margin:.55rem 0 0; }
+  .side-panel li{ font-size:.85rem; line-height:1.8; }
   .side-panel a{ color:var(--link-color,#0056b2); text-decoration:none; }
   .side-panel a:hover{ text-decoration:underline; }
-  .side-panel .side-quote{ margin:.8rem 0 0; padding-left:.85rem; border-left:3px solid var(--link-color,#0056b2); font-size:.9rem; font-style:italic; line-height:1.75; color:var(--main-text-color,#3a3a42); }
-  .side-panel .side-quote cite{ display:block; margin-top:.45rem; font-style:normal; font-size:.76rem; line-height:1.5; color:var(--text-muted-color,#8a8f98); }
-  .side-panel .side-date{ margin:.5rem 0 .1rem; font-size:.73rem; letter-spacing:.09em; text-transform:uppercase; color:var(--text-muted-color,#8a8f98); }
-  .side-panel .side-meta{ margin:.8rem 0 0; font-size:.74rem; line-height:1.6; color:var(--text-muted-color,#8a8f98); }
+  .side-panel .side-quote{ margin:.65rem 0 0; padding-left:.75rem; border-left:3px solid var(--link-color,#0056b2); font-size:.86rem; font-style:italic; line-height:1.65; color:var(--main-text-color,#3a3a42); }
+  .side-panel .side-quote cite{ display:block; margin-top:.35rem; font-style:normal; font-size:.74rem; line-height:1.45; color:var(--text-muted-color,#8a8f98); }
+  .side-panel .side-date{ margin:.45rem 0 0; font-size:.72rem; letter-spacing:.09em; text-transform:uppercase; color:var(--text-muted-color,#8a8f98); }
+  .side-panel .side-meta{ margin:.6rem 0 0; font-size:.73rem; line-height:1.55; color:var(--text-muted-color,#8a8f98); }
 
   @media (max-width:576px){
     .home-hero{ padding:3rem 1rem 2.6rem; }
@@ -311,7 +311,7 @@ window.__HOME_STATS = {
 
     var ul = el('ul', 'side-list');
     if (same.length) {
-      same.slice(0, 2).forEach(function (it) {
+      same.slice(0, 1).forEach(function (it) {
         ul.appendChild(linkItem('On this day: ' + it.p.t + ' (' + it.y + ')', it.p.u));
       });
     } else if (data.length) {
