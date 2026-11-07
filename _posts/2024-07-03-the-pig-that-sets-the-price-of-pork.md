@@ -20,10 +20,10 @@ The consumer sees the result in a hundred dishes. A bowl of noodles with minced 
 
 The restaurants absorb the change for a month or two. A menu is reprinted twice a year and the price on it is set for the season. A restaurant that sells a braised pork dish at a fixed price loses a margin in July and recovers it in December.
 
-The cycle will turn again. The sows kept this spring will produce pigs in the autumn. The price will fall in the winter, and the farmer who expanded will lose money in the following spring.
-
 The slaughterhouse is the bottleneck when the herd is large. A line that kills two thousand pigs a day cannot kill three thousand without a second shift, and a second shift needs staff that the county does not have. A farmer who cannot get a slot sells at a discount to a trader who can.
 
 The cold chain decides where the meat goes. A carcass that is chilled within an hour can travel a thousand kilometres. A carcass that is not is sold in the county. The cities that eat the most pork are supplied by the provinces that have the most chilling capacity, which is why a shortage in one province becomes a price in another.
 
 The import is the other valve. Frozen pork bought from Europe or from South America is held in a bonded cold store and released when the domestic price rises. The volume is small enough to be a signal and large enough to be a threat, which is how the reserve works.
+
+The cycle will turn again. The sows kept this spring will produce pigs in the autumn. The price will fall in the winter, and the farmer who expanded will lose money in the following spring.

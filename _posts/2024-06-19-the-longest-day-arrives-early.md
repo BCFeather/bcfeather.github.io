@@ -22,8 +22,8 @@ Indoor air conditioning has its own rule. A public building is asked to keep its
 
 The working day has not moved. A noon break of two hours survives in many offices. The break makes more sense in a place where the sun stands high at one o'clock. The habit outlived the reason and the air conditioner made it comfortable again.
 
-The longest day is not the hottest one. The ground and the sea take weeks to absorb the heat, which is why the peak of summer arrives in July. The daylight is already getting shorter when the temperature reaches its highest point.
-
 The shade in a courtyard moves with the season. In June the shadow of a wall reaches the middle of the yard at noon. In December the shadow covers the whole yard and the sun never touches the ground. A tree at the edge is planted for the shade it gives in one month and the light it lets through in another.
 
 The long evening is not used in the way an outsider expects. The streets are busy until nine and quiet after ten, because the school term has not ended and the first bell is at seven.
+
+The longest day is not the hottest one. The ground and the sea take weeks to absorb the heat, which is why the peak of summer arrives in July. The daylight is already getting shorter when the temperature reaches its highest point.

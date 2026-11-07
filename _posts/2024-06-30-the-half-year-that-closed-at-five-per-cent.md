@@ -22,10 +22,10 @@ The policy response was gradual. Interest rates were cut twice. A scheme to trad
 
 The second half will be compared with a stronger base. The figures of last year's autumn were high. Holding five per cent for the year therefore asks more of the next six months than of the last six.
 
-The half year ended with a number that matched the plan. The composition behind the number is the part that the plan did not fix.
-
 The exports were carried by two categories. Electronic components rose, because the factories that make them added capacity. Vehicles rose, because the electric models found buyers in Europe and in South-East Asia. The two categories account for most of the increase and the rest of the basket was flat.
 
 The local governments borrowed to replace the land revenue. A financing vehicle attached to a city raises money against a road or a water plant, and the interest is paid from the budget. The half-year figures do not include the debt and the debt is what the next budget has to carry.
 
 The survey of small firms told a similar story. Orders were steady and the payment for them arrived later. A workshop that used to be paid in thirty days was paid in ninety, and the difference was financed by a loan that the owner described as the cost of staying open.
+
+The half year ended with a number that matched the plan. The composition behind the number is the part that the plan did not fix.

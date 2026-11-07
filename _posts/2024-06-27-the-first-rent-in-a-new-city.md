@@ -3,29 +3,25 @@ title: "The first rent in a new city"
 date: 2024-06-27 21:10:00 +0800
 tags: [housing, cities, graduates, china]
 categories: [business]
-description: "Graduates move into the rental market in the last week of June. The deposit, the agency fee and the commute decide which flat they take, and the bargaining starts from a listing that is already optimistic."
+description: "Nearly twelve million graduates left university this summer. The ones who took a job in another city had one week to find a flat, and the arithmetic of that week decides how the next year is lived."
 ---
 
-Graduates move into the rental market in the last week of June. Nearly twelve million people left university this year. A share of them stayed in the city where they studied, and a share moved to a city where a job was waiting.
+The last week of June is when the rental market of a university city turns over. The halls close on the thirtieth. A graduate with a job in another city has four days to find a room, sign a contract and move a suitcase.
 
-The demand concentrates within a few weeks. A landlord who lists a flat in May receives few calls. The same listing in the last week of June receives twenty. The price moves with the calls, and the flat that was advertised at four thousand is signed at four thousand two hundred.
+Nearly twelve million people left university this summer. The share that moved to a new city is smaller than the headlines suggest, because most graduates take the job nearest to the life they have already built. The ones who moved are the ones with a starting salary high enough to cover a deposit in a place where they know nobody.
 
-The deposit is the barrier. The standard contract asks for one month of rent as a deposit and three months in advance, which is four months of cash before the tenant has a key. A graduate who has not been paid yet borrows it from a parent.
+The viewing is a compressed exercise. An agent shows three flats in an afternoon, all of them within a kilometre of a metro station. The first is a room in a shared flat with a mattress on the floor. The second is a studio whose landlord wants a year paid in two instalments. The third is a two-room flat above a shop, priced at the top of the budget.
 
-The agency fee is the second. An agent charges a share of the annual rent, usually half a month or a full one. The fee is negotiable in a market with many agents and it is rarely negotiated by a tenant who has just arrived.
+The deposit decides the choice more often than the rent does. The standard contract asks for one month as a deposit and three months in advance. That is four months of cash before the key is handed over, on a salary that has not been paid once.
 
-The commute decides the choice more than the rent. A flat ten minutes from a metro station costs more than a flat twenty minutes from one, and the difference is smaller than the difference in travel time. A graduate who works in the centre chooses the outer district with a direct line.
+The agency fee comes on top. An agent charges a share of the annual rent, usually half a month or a whole one, and the fee is negotiable on a street with nine agencies. A graduate who has just arrived negotiates nothing, because the alternative is another afternoon of viewings.
 
-The alternative is the shared flat. Two or three people who met on a platform rent a larger apartment between them and divide the rooms by size. The arrangement is cheaper and it depends on people who have never lived together.
+The commute is the variable that no budget can fix. A flat ten minutes from a station costs more than a flat twenty minutes away, and the difference in rent is smaller than the difference in time. A graduate who starts at nine in the centre takes the outer district with a direct line, and spends fifty minutes each way on a train that is full at eight.
 
-The city has added a stock of subsidised rentals. An apartment block built for the programme lets to graduates below a price ceiling, with a contract of three years and a condition on income. The waiting list is long and the blocks are on the edge of the built-up area.
+The shared flat is where most of them end up. Two or three people who met on a platform rent a larger apartment and divide it by rooms. The rent is lower and the risk is other people. A flatmate who leaves in November takes a third of the rent with him, which leaves two tenants a month to find a replacement.
 
-The move itself is cheap and exhausting. A suitcase, a mattress bought on credit, a desk assembled from a box. The furniture arrives on a van that the building does not allow to park at the entrance.
+The city has added a stock of subsidised rentals for this group. A block built under the programme lets to graduates below a price ceiling, on a three-year contract with a condition on income. The queue is ordered by the date of application, so a graduate who applies in June sits behind everyone who applied in March.
 
-The first rent is paid before the first salary. The gap between the two is covered by the family, which is the part of the graduate economy that the statistics do not show.
+The move costs a day and very little money. A suitcase, a mattress bought on credit, a desk that arrives in a box. The van cannot park at the entrance of the building, so the boxes are carried in from the road while the lift is held for the afternoon.
 
-The repair is where the contract matters. A landlord who lives in another city will send a plumber after three calls. A landlord who lives in the building will come up with a wrench. The tenant who signed without reading the clause pays for the boiler.
-
-The waiting list for a subsidised flat is ordered by the date of application. A graduate who applies in June is behind everyone who applied in March, and the blocks that open in the autumn will go to them first.
-
-The lease is signed for a year and renewed by a phone call. The rent rises at the renewal, by a figure that the tenant accepts because moving costs a month of rent.
+The first rent falls due before the first salary. The gap between the two is covered by a parent, which is the part of the graduate economy that no statistic records.

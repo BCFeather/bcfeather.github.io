@@ -22,8 +22,8 @@ The dormitory is the cheap alternative. A university that keeps its halls open i
 
 The internship is also a form of screening. A firm that runs a summer programme uses it to see how a candidate behaves in an office before it commits to a salary. The eight weeks are cheaper than a probation period.
 
-The students who do not get a placement take a course or a trip. The gap on a form is read by a recruiter as a lack of initiative, which is a judgement that the student cannot argue with.
-
 The application is a competition with a narrow funnel. A firm that advertises ten places receives a thousand applications, screens three hundred by a test, interviews sixty, and takes ten. The test is a set of numerical questions that a student can prepare for in a week.
 
 The reference letter is the other product. A supervisor who writes one for an intern writes twenty in August, and the letters are similar. A recruiter who reads them learns little beyond the fact that the student turned up. A student who takes two placements in two summers has two references and one line of experience, which is a better position than a student with neither.
+
+The students who do not get a placement take a course or a trip. The gap on a form is read by a recruiter as a lack of initiative, which is a judgement that the student cannot argue with.

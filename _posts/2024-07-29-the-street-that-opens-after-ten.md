@@ -22,8 +22,8 @@ The waste is the part that the street does not advertise. A thousand skewers pro
 
 The market is also a stage. A singer with a guitar plays for tips at the corner, a magician works a small circle of children, a painter draws portraits for thirty yuan. The performances are licensed by the same company that runs the stalls.
 
-The season ends in September. The stalls pack up, the road reopens to cars, and the residents' committee collects the last payment. The street returns to being a street, and the queue moves somewhere else.
-
 The permit is issued for the season rather than for the year. A street that hosts a market from June to September applies again in the spring, and the application includes a plan for the waste and a list of the vendors with their licences.
 
 The vendors are often the same people each summer. A couple who grill skewers in the market have done it for nine years and have a stall that their children will take over. The knowledge of where to stand, when to restock and which customer to greet is the asset that the licence does not capture. A visitor who arrives at eleven finds the best of the night already sold, which the regulars know and the guidebooks do not.
+
+The season ends in September. The stalls pack up, the road reopens to cars, and the residents' committee collects the last payment. The street returns to being a street, and the queue moves somewhere else.

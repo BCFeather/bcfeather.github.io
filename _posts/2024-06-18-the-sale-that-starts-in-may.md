@@ -20,8 +20,8 @@ The live streams are where the volume concentrates. A host with a large followin
 
 The shops on the street have adapted by joining the sale. A chain store offers the same discount as its app and accepts the online voucher at the counter. The customer who walks in has usually checked the price already, which is why the staff no longer explain the offer.
 
-The sale is a fixed point in the retail calendar now. It began as a single company's anniversary and it has become an industry-wide date. The discount is real for some categories and nominal for others, and a shopper who compares two screens will find out which.
-
 The labour behind the parcels is temporary. A sorting centre hires students and agency workers for the three weeks of the sale. The shift runs ten hours and the pay is counted by the parcel. A worker who lasts the whole period is offered a permanent contract at the end, which is how the operators keep the ones who are good.
 
 The prices are monitored by the regulator. A rule requires the seller to show the lowest price of the past thirty days beside the discount. A brand that raised its price in May and cut it in June has to disclose both numbers. The rule was written after a year of complaints and it has changed how the promotions are designed.
+
+The sale is a fixed point in the retail calendar now. It began as a single company's anniversary and it has become an industry-wide date. The discount is real for some categories and nominal for others, and a shopper who compares two screens will find out which.

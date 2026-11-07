@@ -20,8 +20,8 @@ The squads are young this year. Several of the favourites brought players who ar
 
 The football itself has become more controlled. A team that wins the ball high up the pitch scores within eight seconds or gives it back. The statistics that the broadcasters show have changed to match. The number of passes in the final third is now printed beside the score.
 
-The first match set a tone that the tournament will struggle to repeat. The host scored in the first ten minutes, the crowd sang for an hour, and the opposition was beaten by four goals. The second match is tomorrow afternoon.
-
 The broadcast is the largest part of the tournament's economy. The rights were sold to a handful of networks for a sum that dwarfs the ticket revenue. A match kicks off at nine in the evening so that it lands in prime time across the continent. A viewer in Asia watches at three in the morning, and pays for the privilege through a subscription.
 
 The security bill is carried by the cities. A match day brings eighty thousand people to a stadium and twice that to the surrounding streets. The police draft officers from other regions, close the approach roads four hours before kick-off. Bags are searched at the gates by a contractor. The cost is counted afterwards, in a report that nobody reads. A city that hosts four matches spends more on policing than it earns on the tickets it was allotted.
+
+The first match set a tone that the tournament will struggle to repeat. The host scored in the first ten minutes, the crowd sang for an hour, and the opposition was beaten by four goals. The second match is tomorrow afternoon.

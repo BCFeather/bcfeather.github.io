@@ -20,8 +20,8 @@ The herb that hangs on the door is sold on the pavement. A bundle of mugwort and
 
 The festival is a public holiday of three days this year, and the first of them fell on a Saturday. The roads out of the cities were busy on Friday evening. A race that draws ten thousand spectators fills the hotels in a county town for one night.
 
-The boats go back into storage in the afternoon. The hull is washed, dried, covered and hung under a roof that keeps the rain off. The crew drinks together and argues about the start. Next year the same twenty-four men will try out again.
-
 A county that hosts a race builds a temporary grandstand for the day. The tickets go to residents first, then to visitors, at twenty or thirty yuan. The food stalls along the bank pay a fee to the organisers. The town fills its guesthouses for one night and empties again on Monday.
 
 The wrapped rice has become an export. A factory in the delta ships boxes to supermarkets in the cities and to overseas Chinese communities. The leaves are now bought in bulk from a supplier rather than gathered. The recipe has not changed and the wrapping has, since a machine can fold a hundred in the time a pair of hands folds twenty.
+
+The boats go back into storage in the afternoon. The hull is washed, dried, covered and hung under a roof that keeps the rain off. The crew drinks together and argues about the start. Next year the same twenty-four men will try out again.

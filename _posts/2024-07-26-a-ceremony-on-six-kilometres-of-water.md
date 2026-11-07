@@ -22,8 +22,8 @@ The transport plan was tested on the night. Six metro lines ran until two in the
 
 The cost was counted in the morning papers. The ceremony was the most expensive item in a budget that had already been revised twice, and the security was the second. The city expects the visitors to pay part of it back in a fortnight.
 
-The ceremony ended after midnight. The boats moored, the crowd walked away along the embankments, and the cleaning crews started on the route before the last train.
-
 The stands on the lower quay were dismantled within a week. A temporary structure of scaffolding and seats costs a fortune to build and nothing to remove, because the parts are rented from a company that supplies festivals.
 
 The delegations that arrived by boat had to be at the pontoon three hours before. A team of two hundred queued in a hall and was fed in shifts. The athletes who walked in the parade instead of sailing it called the evening the longest of their fortnight. The permanent legacy of the evening is a set of pontoons on the river, which the city will keep for the boat traffic that it already had.
+
+The ceremony ended after midnight. The boats moored, the crowd walked away along the embankments, and the cleaning crews started on the route before the last train.

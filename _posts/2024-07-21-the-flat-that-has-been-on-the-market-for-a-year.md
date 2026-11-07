@@ -22,8 +22,8 @@ The rent has held. A flat that cannot be sold is rented instead. The rent in the
 
 The land sale is the part that the city notices. A plot that would have sold for a large sum two years ago receives no bid. The budget that was written on the assumption of the sale has to be rewritten. The flat and the plot are the same market.
 
-The flat will sell eventually. A price that is low enough finds a buyer in any market, and the question is only how much the seller will accept before the family that needs the money accepts it for them.
-
 The school district is the part that holds the price. A flat in the catchment of a good primary school sells at a premium that survives every other fall in the market. A family that buys it for the school sells it to another family that wants the same place, and the chain repeats.
 
 The mortgage is the constraint on the buyer. A loan is approved against an income and a valuation, and a bank that values the flat at last year's price lends less than the seller expects. The gap is paid in cash or the deal does not close. The listing page keeps its own history, and a buyer who scrolls back can see every cut the seller has made.
+
+The flat will sell eventually. A price that is low enough finds a buyer in any market, and the question is only how much the seller will accept before the family that needs the money accepts it for them.

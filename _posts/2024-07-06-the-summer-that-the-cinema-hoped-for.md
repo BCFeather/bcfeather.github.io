@@ -20,10 +20,10 @@ The audience has changed shape. A family with two children buys four tickets and
 
 The streaming services take the audience that stays home. A film reaches a platform six weeks after the cinema. A family that waits saves the price of four tickets. The window has shortened twice in five years.
 
-The season closed with a total below the record of last summer. The industry read it as a sign that the habit of going out had weakened. The autumn releases were scheduled accordingly, with fewer titles and longer runs.
-
 The marketing has moved to the short video. A clip of a single scene is cut and pushed to a phone before the trailer is released. A film that produces a quotable line in the first week earns a second week of screens, because the line is repeated in a million videos.
 
 The cinema is also a property. A multiplex in a shopping centre pays a rent that rises with the footfall of the mall. The footfall of the mall depends on the cinema. The two businesses are tied together, and neither of them can afford to close.
 
 The staff who work the season are paid by the hour and go home at one in the morning. A projectionist who has eight screens to check walks four kilometres inside a building during a shift, which is the part of the job that nobody outside the trade knows about.
+
+The season closed with a total below the record of last summer. The industry read it as a sign that the habit of going out had weakened. The autumn releases were scheduled accordingly, with fewer titles and longer runs.

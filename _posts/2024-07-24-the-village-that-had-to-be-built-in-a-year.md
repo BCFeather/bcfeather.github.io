@@ -22,8 +22,8 @@ The cleaning worked and the rain still threatens it. A heavy storm in the week b
 
 The cost has been counted by the auditors. The public share of the bill is large and it is spread across a regional budget, a national budget and a transport authority. The village is the part that will earn something back, because the flats have a buyer.
 
-The district will keep the swimming pool, the sports hall and the bridge. The rest of the site will be sold, and the families who move in will live in a building that was designed for a fortnight of athletes.
-
 The medical station is the size of a small hospital. Two hundred beds, a pharmacy, a laboratory and a set of imaging machines were installed in the basement. The staff are volunteers from the city's hospitals and from the army, and they will close the station when the last team leaves.
 
 The volunteers are the part of the operation that is hardest to count. Forty-five thousand people applied to help, and the organisers trained them in a hall for three evenings. A volunteer who hands out water at a finish line has been through a background check and a first aid course. The keys to the flats will be handed to the tenants in the autumn, after the last team has checked out of the building.
+
+The district will keep the swimming pool, the sports hall and the bridge. The rest of the site will be sold, and the families who move in will live in a building that was designed for a fortnight of athletes.

@@ -22,10 +22,6 @@ Rural children have a different summer. The school is closed and the fields are 
 
 The parents' cost is measured in leave. A worker with ten days of annual leave spends most of them in July. A worker without leave pays for the camp. The camp costs more than the holiday pay would have been, and it is the only option that includes lunch.
 
-The gap closes in September. The buildings reopen, the teachers return, the children are counted again, and the seven weeks leave no record except on the household's account.
-
 The commercial camp is a market of its own. A week of football, a week of robotics, a week of English with a foreign teacher. The price ranges from a few hundred to several thousand yuan, and the expensive ones are sold as preparation for a school that the child has not yet entered.
 
-The grandparents are the largest provider of the service and they are not counted. A grandmother who looks after a child for seven weeks has taken on a job that the statistics record as retirement.
-
-A child of nine who spends the holiday alone learns the schedule of the delivery drivers before learning anything else.
+The grandparents are the largest provider of the service and they are not counted. A grandmother who looks after a child for seven weeks has taken on a job that the statistics record as retirement. A child of nine who spends the holiday alone learns the schedule of the delivery drivers before learning anything else. A holiday with no adult in it is the part of the summer that a school cannot fix when the term begins again.

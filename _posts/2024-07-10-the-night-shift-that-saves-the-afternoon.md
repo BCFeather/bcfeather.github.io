@@ -22,8 +22,8 @@ The province publishes the list of plants that have signed the agreement. The li
 
 The agreement is a contract rather than a rule. A plant that breaks it loses the discount for the month, and a plant that keeps it receives a payment at the end of the year. The enforcement is done by the meter, which is why the scheme works.
 
-The demand response has grown every year since the first pilot. The next step is to include the households, which means a smart meter, a signal, and a payment for a thermostat that goes up by a degree. The technology exists and the market does not yet.
-
 The tariff is published a year ahead so that a plant can plan. A manager who wants to move a furnace buys the schedule and works out the difference for each hour of the day. The calculation is simple and the decision is not, because the crew has to agree.
 
 The night shift has a social cost that the balance sheet ignores. A worker who starts at eleven in the evening cannot take a child to school in the morning. A plant in a county town recruits from the villages around it, and a village that loses its evenings loses its football team. The pilot scheme pays a plant for a capacity that it does not use, which is a contract that an accountant finds harder to explain than a discount.
+
+The demand response has grown every year since the first pilot. The next step is to include the households, which means a smart meter, a signal, and a payment for a thermostat that goes up by a degree. The technology exists and the market does not yet.

@@ -22,8 +22,8 @@ The cost of the venue is the objection. A temporary park built for twelve days c
 
 The medal table is read differently by different countries. A country that counts golds first ranks a small delegation high. A country that counts the total ranks a large one high. The two tables are published side by side and neither settles the argument.
 
-The events that nobody practises still produce a champion. A person who has spent ten years on a discipline that few people watch stands on a podium in front of a crowd that has come for the ceremony. The medal is the same size as the one in the pool.
-
 The qualification is the hard part. A climber who wants a place has to earn it at a continental event, and the quota is allocated to the country rather than to the person. A national federation with one good athlete and no depth may not be able to use the place it was given.
 
 The television contract covers the main stadium and the pool. A sport staged in a temporary park is filmed by a crew that the broadcaster hires separately, and the rate for the coverage is a fraction of the main one. The exposure follows the money, which is why the new sports fight for a place on the schedule. The next host has already proposed its own additions, and the list will be read by the same committee that read this one.
+
+The events that nobody practises still produce a champion. A person who has spent ten years on a discipline that few people watch stands on a podium in front of a crowd that has come for the ceremony. The medal is the same size as the one in the pool.

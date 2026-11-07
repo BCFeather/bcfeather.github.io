@@ -20,10 +20,10 @@ The tutoring industry has changed shape. The large classes were closed by regula
 
 The county schools are the ones that lose. A strong pupil from a county town is recruited by a school in the provincial capital, which offers a dormitory and a fee waiver. The county keeps the building and loses the cohort, and its results decline in the following year.
 
-The results were released on the same evening. The portals crashed for twenty minutes. A family that had prepared a celebration postponed it. A family that had prepared nothing found a place in a programme it had not considered.
+The physical test is sat in May. A run, a jump, a throw, each worth a few points that are added to the total. A pupil who is good at sport can gain enough to cross the line, which is the reason the gyms are full in April and empty in June.
 
 The papers are marked by teachers from other districts. Each script is scanned and cut into blocks, and each block is marked twice. A school that produces a sudden jump in results attracts a moderation visit, which is the mechanism that keeps the scores comparable between counties.
 
-The physical test is sat in May. A run, a jump, a throw, each worth a few points that are added to the total. A pupil who is good at sport can gain enough to cross the line, which is the reason the gyms are full in April and empty in June.
+The results were released on the same evening. The portals crashed for twenty minutes. A family that had prepared a celebration postponed it. A family that had prepared nothing found a place in a programme it had not considered.
 
 The pupils who reach a vocational programme will sit a different examination in three years. The line that sorted them will not appear on any record they carry.

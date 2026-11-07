@@ -20,10 +20,10 @@ The cable car is the second bottleneck. A cabin that holds eight people and runs
 
 The staff have learned to manage it. A queue that reaches a fixed point is announced on the app with an estimated wait, and a visitor who sees ninety minutes often leaves. The announcement is the cheapest capacity tool the site owns.
 
-The mountain itself is the reason for the limit. A trail that carries two thousand people a day erodes at a rate that the park measures every autumn. The limit was set from that measurement, and it is the number that the ticket office enforces.
-
-The visitors who plan a trip now plan it around a booking. A family that wants a weekend in August chooses the site by the slot it can get, which has changed which mountains are crowded.
-
 The ticket is also a data source. A site that sells by the hour knows how many people will arrive at eleven and how many will leave at four. The knowledge is used to staff the car park, to schedule the shuttle bus and to warn the restaurants on the summit.
 
 The village at the foot of the mountain has mixed feelings about the limit. A shop that sells noodles to a queue of tourists earns less than it did five years ago, and it earns more reliably, because the crowd now arrives in a steady stream instead of in a single wave. The park publishes the number at the gate every evening, which is how a resident can tell whether the day was a good one without looking at the till.
+
+The visitors who plan a trip now plan it around a booking. A family that wants a weekend in August chooses the site by the slot it can get, which has changed which mountains are crowded.
+
+The mountain itself is the reason for the limit. A trail that carries two thousand people a day erodes at a rate that the park measures every autumn. The limit was set from that measurement, and it is the number that the ticket office enforces.

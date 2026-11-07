@@ -22,8 +22,8 @@ The sediment is the slow problem. A river carries silt into the reservoir and th
 
 The drought years put the same table under strain in the other direction. A reservoir that is asked to supply irrigation in a dry spring enters the wet season with less reserve than the table wants, and the operator has to choose between a smaller flood margin and a smaller harvest.
 
-The summer passes with the level in a band that nobody notices. The work is done in the numbers. Those numbers are reviewed in a room that the public never sees.
-
 The dam is inspected every year by a team that walks the galleries inside it. A crack of a tenth of a millimetre is measured and recorded. A seep that was not there last year is mapped and watched. The record is a book of measurements that goes back to the year the concrete was poured.
 
 The downstream levee is the part that people see. A bank of earth that was raised in the last century protects a town of fifty thousand. The levee is inspected in April, repaired in May, and watched in July by a team that walks it with a torch at night.
+
+The summer passes with the level in a band that nobody notices. The work is done in the numbers. Those numbers are reviewed in a room that the public never sees.

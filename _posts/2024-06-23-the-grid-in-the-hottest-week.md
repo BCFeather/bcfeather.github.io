@@ -22,8 +22,8 @@ Outdoor work is suspended between noon and four in several provinces. The rule i
 
 The hospitals see the consequence. Heat stroke is rare and heat exhaustion is common, and the wards that treat it fill in the second day of a wave. The patients are old people who live alone and who did not turn on the machine.
 
-The grid will hold this summer, as it held the last one. The margin is small and the reserve is thinner than the annual report suggests, which is the reason the operator publishes a warning before every wave.
-
 The river temperature is part of the calculation. A plant that draws water for cooling cannot return it above a limit, so a hot week limits its output as well as its fuel. The operator watches two numbers, the air and the water, and the lower of them sets the ceiling.
 
 The meters in the apartments are read once a month and billed on a rising scale. A household that uses twice the baseline pays several times the price for the second block, which is the reason the thermostat goes up by a degree in poor neighbourhoods before it goes up in rich ones.
+
+The grid will hold this summer, as it held the last one. The margin is small and the reserve is thinner than the annual report suggests, which is the reason the operator publishes a warning before every wave.

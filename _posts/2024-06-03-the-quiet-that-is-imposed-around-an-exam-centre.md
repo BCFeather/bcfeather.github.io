@@ -10,6 +10,8 @@ In the week before the university entrance exam a city suspends construction nea
 
 The measures are specific. A site within a set distance of a centre stops work for the days of the exam. A market that opens at dawn is told to keep the noise under a level that an inspector can measure. The rules are published a fortnight ahead so that contractors can move their schedules.
 
+The scale of it is what makes the quiet expensive. More than thirteen million candidates sat the exam this year, spread across thousands of centres, and each centre needs invigilators, a sealed room and a working speaker. The city that closes a road for three days is protecting a procedure that runs on printed paper, at a fixed hour, for a single national cohort. Every part of that procedure has to work at the same time in every province, which is why the notice about noise is issued nationally rather than left to a head teacher.
+
 The reason is the listening paper. The foreign language test includes a section played from a recording, and the recording is heard through a speaker in a room with thirty desks. A truck passing outside can make one sentence inaudible. The candidate hears it once and the paper moves on.
 
 Enforcement varies by district. An office with staff closes the sites. An office without staff posts the notice and hopes. The difference shows in the complaints that parents file and in the reports that inspectors write. A parent who has paid for a room near a centre is sensitive to a drill that starts at nine in the morning.
@@ -21,5 +23,3 @@ The quiet has a meaning beyond acoustics. A city that stops its building for thr
 The candidates notice less than their parents. A student who has prepared for a year is looking at the paper. The parent who waits at the gate hears the truck. The quiet is built for the second person as much as for the first.
 
 The week shows what a city can switch off when it chooses to. Construction, traffic and a loudspeaker are the ordinary noise of a place that is being rebuilt. The exam suspends all three at once, on a date that the calendar fixed long ago. The arrangement repeats every year without much argument.
-
-The scale of it is what makes the quiet expensive. More than thirteen million candidates sat the exam this year, spread across thousands of centres, and each centre needs invigilators, a sealed room and a working speaker. The city that closes a road for three days is protecting a procedure that runs on printed paper, at a fixed hour, for a single national cohort. Every part of that procedure has to work at the same time in every province, which is why the notice about noise is issued nationally rather than left to a head teacher.

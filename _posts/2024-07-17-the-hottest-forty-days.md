@@ -22,8 +22,8 @@ The drinks market responds. A bottle of water that costs two yuan at a kiosk cos
 
 The elderly are the group that the rules do not reach. A person who lives alone and who has an air conditioner may not turn it on, because the bill arrives at the end of the month and the pension is fixed. The community office that visits such households does so in the afternoon, which is the hour when the risk is highest.
 
-The period ends at the end of August. The calendar calls the next one the beginning of autumn, and the temperature does not read the calendar.
-
 The construction schedule is rewritten around the heat. A site that poured concrete at noon in April pours at six in the morning in July. The change adds an hour to the day and it removes the worst of the exposure, which the project manager counts as a saving on insurance.
 
 The air conditioner is the household's answer and it is also the grid's problem. A block of flats where every window unit runs at once draws more than the transformer was built for, and the meter room is the first place to fail.
+
+The period ends at the end of August. The calendar calls the next one the beginning of autumn, and the temperature does not read the calendar.

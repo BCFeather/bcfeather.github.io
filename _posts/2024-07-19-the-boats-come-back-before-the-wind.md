@@ -22,8 +22,8 @@ The port repairs what it can before the next one. A quay that lost a section of 
 
 The forecast has improved and the losses have not fallen as fast. A storm that is tracked accurately still closes a port for three days. The cost of three days is counted in a season that has forty weeks in it.
 
-The boats go back out when the signal is lowered. The crews who stayed aboard for two days wash the decks, check the nets, and leave on the evening tide.
-
 The insurance is sold by the season. A boat that stays in port for a storm collects nothing and pays nothing. The premium is calculated on the days at sea. A skipper who goes out on the third day pays for the risk that he took.
 
 The cooperative keeps a list of the boats that are at sea when the notice is issued. A boat that does not answer the radio is reported to the marine police, and the police send a cutter. The list is written by hand on a board in the office, and the board is photographed and sent to the county. A port that has lost a season to a single storm remembers the date, and the board in the office is kept from year to year.
+
+The boats go back out when the signal is lowered. The crews who stayed aboard for two days wash the decks, check the nets, and leave on the evening tide.

@@ -20,6 +20,6 @@ Cities have tried to cap the rate in some years. A notice that limits the price 
 
 The three nights produce their own routine. A family arrives on the evening before the first paper and leaves after the last one. Breakfast is eaten early. The corridor is quiet by nine. The hotel that hosts these guests each June keeps the lift free in the morning without being asked.
 
-The price says something about scarcity in a narrow window. The same street in July offers a room for a fifth of what it cost in June. The difference is the calendar. The market reads the calendar and takes its profit in three days.
-
 Schools make their own arrangements beside the hotels. A centre opens its canteen for the candidates who live far away, provides a hall for the wait between papers, and lets a family sit on a bench in the shade. The service is free and it is uneven. A school with a large staff does more of it. A school with a small one does less. The family that cannot afford the room depends on which of the two it was assigned, and the assignment is made by a computer that has never seen the street.
+
+The price says something about scarcity in a narrow window. The same street in July offers a room for a fifth of what it cost in June. The difference is the calendar. The market reads the calendar and takes its profit in three days.

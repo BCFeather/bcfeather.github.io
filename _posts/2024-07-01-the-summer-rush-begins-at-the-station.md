@@ -22,8 +22,8 @@ The luggage is the visible sign of the season. A family of four with three suitc
 
 The heat inside the hall is the part that the timetable does not address. A waiting room with ten thousand people in it is warmer than the street. The air conditioning runs at full capacity and the temperature still climbs through the afternoon.
 
-The season ends when the last student train arrives. The extra paths are withdrawn. The temporary fence comes down, and the timetable returns to the shape it had in June.
-
 The station staff work the season as overtime. A ticket inspector who normally checks two trains a shift checks five. A cleaner who has a fixed round is moved to the platform that the late train uses. The payments are made in August, and the staff who take them plan a holiday in September.
 
 The station also sells the journey. A shop that sells a neck pillow, a cup of instant noodles and a phone charger earns more in July than in the rest of the year, because the passenger who is about to sit for six hours buys all three.
+
+The season ends when the last student train arrives. The extra paths are withdrawn. The temporary fence comes down, and the timetable returns to the shape it had in June.
