@@ -314,7 +314,7 @@ window.__HOME_STATS = {
     var dayWrap = el('div', 'side-day');
     if (same.length) {
       var it = same[0];
-      dayWrap.appendChild(el('p', 'side-label', 'On this day · ' + it.y));
+      dayWrap.appendChild(el('p', 'side-label', 'On this day | ' + it.y));
       var a = el('a', 'side-title', it.p.t);
       a.href = it.p.u;
       dayWrap.appendChild(a);
