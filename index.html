@@ -60,6 +60,16 @@ ref: home
   .home-readmore .btn{ display:inline-block; padding:.62rem 2rem; border-radius:999px; font-weight:600; letter-spacing:.08em; text-transform:uppercase; font-size:.78rem; text-decoration:none; border:1px solid var(--link-color,#0056b2); color:var(--link-color,#0056b2); background:transparent; transition:background .18s ease, color .18s ease, transform .18s ease; }
   .home-readmore .btn:hover{ background:var(--link-color,#0056b2); color:#fff; transform:translateY(-1px); }
 
+  /* ---------- Sidebar extra panels ---------- */
+  .side-panel{ margin-top:2.2rem; }
+  .side-panel ul{ list-style:none; padding:0; margin:.7rem 0 0; }
+  .side-panel li{ font-size:.86rem; line-height:1.95; }
+  .side-panel a{ color:var(--link-color,#0056b2); text-decoration:none; }
+  .side-panel a:hover{ text-decoration:underline; }
+  .side-panel .side-quote{ margin:.8rem 0 0; padding-left:.85rem; border-left:3px solid var(--link-color,#0056b2); font-size:.9rem; font-style:italic; line-height:1.75; color:var(--main-text-color,#3a3a42); }
+  .side-panel .side-quote cite{ display:block; margin-top:.45rem; font-style:normal; font-size:.76rem; line-height:1.5; color:var(--text-muted-color,#8a8f98); }
+  .side-panel .side-facts li{ font-variant-numeric:tabular-nums; }
+
   @media (max-width:576px){
     .home-hero{ padding:3rem 1rem 2.6rem; }
     .home-hero h1{ font-size:2.4rem; }
@@ -80,6 +90,7 @@ ref: home
     .carousel-btn:disabled{ opacity:.35; box-shadow:none; }
     .carousel-btn:disabled:hover{ background:#1c1f26; border-color:#2d313a; color:#e8e8ea; }
     .carousel-dots .dot{ background:#2d313a; }
+    .side-panel .side-quote{ color:#c3c6cc; }
   }
 </style>
 
@@ -224,6 +235,105 @@ window.__FEATURED = [
   wrap.addEventListener('mouseleave', startAuto);
   render();
   startAuto();
+})();
+</script>
+
+<script>
+window.__HOME_STATS = {
+  posts: {{ site.posts.size }},
+  cats: {{ site.categories.size }},
+  first: "{{ site.posts.last.date | date: '%Y' }}",
+  last: "{{ site.posts.first.date | date: '%Y' }}"
+};
+(function () {
+  var MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  var QUOTES = [
+    ['Verba volant, scripta manent.', 'Latin proverb'],
+    ['Sapere aude.', 'Horace'],
+    ['Nullius in verba.', 'Motto of the Royal Society'],
+    ['Festina lente.', 'Latin proverb'],
+    ['Per aspera ad astra.', 'Latin proverb'],
+    ['Amor fati.', 'Friedrich Nietzsche'],
+    ['Veritas lux mea.', 'Latin motto'],
+    ['Cogito, ergo sum.', 'René Descartes']
+  ];
+  function el(tag, cls, text) {
+    var e = document.createElement(tag);
+    if (cls) { e.className = cls; }
+    if (text) { e.textContent = text; }
+    return e;
+  }
+  function makeSection(title, id) {
+    var s = el('section', 'side-panel');
+    if (id) { s.id = id; }
+    s.appendChild(el('h2', 'panel-heading', title));
+    return s;
+  }
+  function linkItem(label, href) {
+    var li = el('li');
+    var a = el('a', null, label);
+    a.href = href;
+    li.appendChild(a);
+    return li;
+  }
+  function build() {
+    var aside = document.getElementById('panel-wrapper');
+    if (!aside) { return; }
+    var access = aside.querySelector('.access');
+    if (!access) { return; }
+    var data = window.__FEATURED || [];
+    var stats = window.__HOME_STATS || {};
+    var today = new Date();
+    var day = today.getDate();
+    var mon = MONTHS[today.getMonth()];
+    var year = today.getFullYear();
+
+    var same = [];
+    data.forEach(function (p) {
+      var parts = String(p.d || '').split(' ');
+      if (parts.length === 3 && parts[0] === String(day) && parts[1] === mon && Number(parts[2]) < year) {
+        same.push({ p: p, y: Number(parts[2]) });
+      }
+    });
+    same.sort(function (a, b) { return b.y - a.y; });
+
+    var onday = makeSection('On this day', 'side-onthisday');
+    var ul = el('ul');
+    if (same.length) {
+      same.slice(0, 2).forEach(function (it) {
+        ul.appendChild(linkItem(it.p.t + ' (' + it.y + ')', it.p.u));
+      });
+    } else if (data.length) {
+      var r = data[Math.floor(Math.random() * data.length)];
+      ul.appendChild(linkItem('Nothing filed for ' + day + ' ' + mon + '. Read a random piece', r.u));
+    }
+    onday.appendChild(ul);
+    access.appendChild(onday);
+
+    var q = QUOTES[(year * 372 + today.getMonth() * 31 + day) % QUOTES.length];
+    var quote = makeSection('Quote of the day', 'side-quote-panel');
+    var bq = el('blockquote', 'side-quote', q[0]);
+    bq.appendChild(el('cite', null, q[1]));
+    quote.appendChild(bq);
+    access.appendChild(quote);
+
+    var glance = makeSection('At a glance', 'side-glance');
+    var facts = el('ul', 'side-facts');
+    facts.appendChild(el('li', null, (stats.posts || data.length) + ' posts'));
+    if (stats.first && stats.last) {
+      facts.appendChild(el('li', null, stats.first + '–' + stats.last));
+    }
+    if (stats.cats) {
+      facts.appendChild(el('li', null, stats.cats + ' categories'));
+    }
+    glance.appendChild(facts);
+    access.appendChild(glance);
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', build);
+  } else {
+    build();
+  }
 })();
 </script>
 
