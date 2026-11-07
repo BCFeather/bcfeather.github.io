@@ -30,4 +30,4 @@ The balance sheet is the other instrument. The central bank has been letting its
 
 The other central banks are moving differently. The European bank has cut once and the Japanese bank has raised, which means that the currency market is being driven by three policies rather than by one.
 
-The speech will be quoted for a year. A phrase that describes a judgment rather than a rule is the one that the market remembers, and the phrase about the time having come is already in the textbooks.
+The speech will be quoted for a year. A phrase that describes a judgment rather than a rule is the one that the market remembers, and the phrase about the time having come is already in the first draft of the textbooks.
