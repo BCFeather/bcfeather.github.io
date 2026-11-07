@@ -22,12 +22,16 @@ article .content {
   font-family: "Cormorant Garamond", Garamond, Georgia, serif;
   font-style: italic;
   font-weight: 500;
-  font-size: clamp(0.95rem, 4.4vw, 1.25rem);
-  line-height: 1.45;
-  letter-spacing: 0.03em;
+  font-size: clamp(0.85rem, 3.9vw, 1.1rem);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: var(--bs-secondary-color);
-  padding: 0 0.5rem;
-  margin: 0 0 0.75rem 0;
+  display: block;
+  max-width: 100%;
+  white-space: normal;
+  overflow-wrap: break-word;
+  padding: 0 0.75rem;
+  margin: 0.25rem 0 0.75rem 0;
 }
 
 /* Give the footer more breathing room */
@@ -35,11 +39,13 @@ footer[aria-label="Site Info"] {
   padding-top: 2rem;
   padding-bottom: 2rem;
   gap: 0.5rem 1rem;
+  overflow: visible;
 }
 
 @media (min-width: 992px) {
   .latin-motto {
     font-size: 1.4rem;
+    letter-spacing: 0.03em;
     flex-basis: 100%;
     flex-grow: 0;
     flex-shrink: 0;
