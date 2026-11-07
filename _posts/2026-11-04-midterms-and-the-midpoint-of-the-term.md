@@ -3,10 +3,10 @@ title: "Midterms and the midpoint of the term"
 date: 2026-11-04 09:40:00 +0800
 tags: [university, rhythm, season, study]
 categories: [culture]
-description: "By the first week of November the semester has crossed its midpoint, and the exams that go by the name of midterms arrive not as an event but as a collective state. They divide the term into two halves the way a cut divides a film, and they do something to the rhythm of the weeks that no syllabus quite accounts for."
+description: "By the first week of November the semester has crossed its midpoint, and the exams that go by the name of midterms arrive as a collective state. They divide the term into two halves the way a cut divides a film, and they do something to the rhythm of the weeks that no syllabus quite accounts for."
 ---
 
-By the first week of November the semester has crossed its midpoint, and the exams that go by the name of midterms arrive not as an event but as a collective state. They divide the term into two halves the way a cut divides a film, and they do something to the rhythm of the weeks that no syllabus quite accounts for. Before the midpoint, the weeks feel like open material; after it, they feel like the run-up to something. The syllabus does not change, the lectures do not slow down, and yet the atmosphere in the reading room shifts, because the calendar now has a visible end.
+By the first week of November the semester has crossed its midpoint, and the exams that go by the name of midterms arrive as a collective state. They divide the term into two halves the way a cut divides a film, and they do something to the rhythm of the weeks that no syllabus quite accounts for. Before the midpoint, the weeks feel like open material; after it, they feel like the run-up to something. The syllabus does not change, the lectures do not slow down, and yet the atmosphere in the reading room shifts, because the calendar now has a visible end.
 
 The strange thing about midterms is how little they measure. They are, by design, a partial examination, meant to catch problems early rather than to settle a course. The grades they produce are weighted lightly, and everyone knows it. Yet the week or two around them behaves as if they mattered enormously: the library fills earlier in the evening, the conversations on the path between buildings turn to what is on the paper, and the ordinary pace of university life compresses into a short, shared spike of attention. The point is not the score. The point is the rhythm.
 
