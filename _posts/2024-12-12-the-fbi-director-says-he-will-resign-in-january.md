@@ -1,0 +1,18 @@
+---
+title: "The FBI director says he will resign in January"
+date: 2024-12-12 08:45:00 +0800
+categories: [news]
+description: "Christopher Wray told FBI employees on 11 December that he would leave at the end of the Biden administration, ten days after the president-elect named a replacement who has promised to restructure the bureau."
+---
+
+Christopher Wray told employees of the Federal Bureau of Investigation on the eleventh of December that he would resign at the end of the Biden administration in January, ending a tenure of seven and a half years that began with a presidential appointment and ended with a president-elect's demand for a change. Remarks were delivered in an internal address and were confirmed by the bureau. Wray said he had concluded the agency was best served by a single orderly transition rather than by a dismissal after the inauguration.
+
+Context of the decision was known to everyone in the building. Donald Trump had said before the election that he would replace Wray, and in late November he named Kash Patel, a former national security official and a fierce critic of the bureau, as his nominee. Patel has written that the bureau should be reduced in size and that its intelligence functions should be moved elsewhere, and he has spoken of prosecuting officials he regards as having acted politically. Nomination made it plain that the director would not be retained.
+
+Record of the outgoing director is a mixture. Wray took office in 2017 after the firing of James Comey and spent much of his tenure defending the bureau's independence from the White House that had appointed him. Investigations into Russian interference in the 2016 election were concluded under his watch, as were prosecutions arising from the attack on the Capitol on the sixth of January 2021 and a series of espionage and ransomware cases. He also presided over a period in which domestic terrorism became the bureau's stated priority, and he testified repeatedly that Chinese espionage and election security were the threats he worried about most.
+
+Friction with the incoming administration was personal as well as institutional. Federal agents searched Mar-a-Lago in August 2022 for classified documents, an operation that the former president blamed on the bureau's leadership, and the indictment that followed became the centre of a political argument about the justice department. Wray defended the search in public and refused to say whether he had discussed it with the attorney general, which is the position a director is expected to take and which made him a target of the campaign that followed.
+
+Departure leaves the bureau in an unusual position. A nominee who has promised structural change will arrive at an agency whose budget, field offices and investigative priorities were set by his predecessor, and whose senior staff were appointed during the previous administration. Career agents have said privately that the transition will be harder than the change of directors itself, because the bureau's work depends on relationships with foreign services and with local police that are built over years.
+
+Senate will take up the nomination in January, and the hearing will be the first test of how much of the proposed restructuring is pursued. Wray, for his part, will leave with a public statement and without a press conference, which is the way directors usually go when the change is political. Institution he led will be judged in the years that follow on whether the independence he defended in office survives the change of leadership, and that question will be answered by what the new director does in his first hundred days.
