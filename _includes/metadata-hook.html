@@ -7,3 +7,18 @@
   href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600&display=swap"
   rel="stylesheet"
 />
+
+<style>
+  /* Keep the mobile top bar, and its sidebar trigger, reachable while scrolling. */
+  @media all and (max-width: 849px){
+    #topbar-wrapper{
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0 !important;
+      transform: none !important;
+      z-index: 1030;
+      background-color: var(--main-bg, #fff) !important;
+      border-bottom: 1px solid var(--main-border-color, #e9ecef);
+    }
+  }
+</style>
