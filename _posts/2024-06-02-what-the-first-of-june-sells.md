@@ -1,0 +1,25 @@
+---
+title: "What the first of June sells"
+date: 2024-06-02 20:40:00 +0800
+tags: [retail, children, festivals, china]
+categories: [business]
+description: "The first of June is a retail date as much as a school one. The spending around it splits into a gift, an outing and a treat, and each of the three follows its own logic."
+---
+
+The first of June is a retail date as much as a school one. The toys that were ordered in May arrive at the end of the month. The restaurants put a children's menu on the table for the week. The cinemas schedule an animated film for the morning slot.
+
+The spending splits into three parts and each behaves differently. The gift is bought by a parent for a child. The outing is bought by a family for itself. The treat is small enough that a child can ask for it in a shop and receive it without an argument. A shopkeeper who watches the counter for a week can tell which of the three is being bought.
+
+The licensed toy is where the price goes. A figure with a picture from a film costs several times what an unlicensed figure of the same size costs. The manufacturer pays for the licence and the price carries it through to the shelf. A parent comparing two boxes is paying for the cardboard.
+
+The platforms have moved the timing. A promotion that ends on the first of June begins in the middle of May. The discount is advertised for a fortnight before it applies to anything. The parent who buys on the day pays the number that the platform set for the day, and the parent who bought two weeks earlier paid less for the same object.
+
+The shops have responded by selling an hour rather than an object. A bookshop runs a reading in the morning. A toy shop runs a building session in the afternoon. The session costs the shop very little and it puts a family in front of the stock. The sale that follows is the point of the session and both sides understand the arrangement.
+
+The schools run their own version. A performance that the children rehearse for three weeks. A costume that the parents buy for one afternoon. A photograph that the class takes on the day. The adults remember the performance and the household remembers the costume.
+
+The date also carries an older meaning that the retail has not erased. The day was set aside by a body that wanted the welfare of children discussed in public. The campaigns about nutrition, about road safety and about children who work instead of study still run in the same week. The discounts run beside them on the same screens.
+
+The first of June shows how a commemorative date becomes a market. The reason for the day is a statement about children. The machinery around it is a statement about spending. Both are visible before noon, and a family that joins one of them usually joins the other.
+
+The factories behind the goods work on a different calendar. A plush toy that reaches a shelf in June was sampled in February, tested against the safety standard in March, shipped from a port in April. An order placed by a retailer in January decides how much of the range exists at all. A design that misses the sampling window waits twelve months for the next one, which is why the shelves in a bad year look like the shelves of the year before.
