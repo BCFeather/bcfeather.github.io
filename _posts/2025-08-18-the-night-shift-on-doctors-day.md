@@ -16,6 +16,6 @@ The reason the schedules have not changed faster is not ignorance. A hospital th
 
 What has changed in the last few years is the public conversation. Patients and families have become more willing to ask whether the person treating them has slept, and hospitals have become more willing to say. Some provinces have introduced caps on consecutive hours and there is a monitoring system for the worst cases, and the caps are enforced unevenly because enforcement requires staff who are not on a shift.
 
-The doctors' day ceremony is a small thing. It is also the only scheduled moment in which a hospital says out loud that the work is hard. The gratitude is genuine and it is directed at individuals who chose a profession that is difficult in ways the public only sees in a corridor at night, and whose families mostly hear about it afterwards.
+The doctors' day ceremony is a small thing. It is also the only scheduled moment in which a hospital says out loud that the work is hard, and the card that carries the message is printed by the hospital itself. The gratitude is genuine and it is directed at individuals who chose a profession that is difficult in ways the public only sees in a corridor at night, and whose families mostly hear about it afterwards.
 
 What would change the night shift is not gratitude. It is a rota with more people on it, and that is a line in a budget that somebody has to sign. The flowers are a fine gesture and the schedule is the substance, and the distance between the two is the distance this holiday has not yet closed.
