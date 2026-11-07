@@ -30,4 +30,4 @@ The port is the place where the storm is measured. A harbour master records the 
 
 The frequency is the question that the climate scientists argue about. A warmer sea holds more energy, and the storms that reach the highest category are expected to become more common even if the total number of storms falls.
 
-The reconstruction is the long part. A bridge that is rebuilt takes a year. A plantation takes four. The money for both arrives in a budget that was written before the storm, and the county that spent it in September borrows against the next year.
+The reconstruction is the long part. A bridge that is rebuilt takes a year. A plantation takes four. The money for both arrives in a budget that was written before the storm, and the county that spends it in September borrows against the revenue of the next year.
