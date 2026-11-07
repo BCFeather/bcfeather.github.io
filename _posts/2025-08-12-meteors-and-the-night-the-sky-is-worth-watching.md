@@ -18,4 +18,4 @@ What the shower provides, more than the meteors, is an occasion. A family that w
 
 The science that comes out of it is modest and steady. Amateur networks count meteors and report them, the counts feed models of the dust trail, and the models allow a prediction of which years will be strong. The predictions have been reliable for two decades, which is one of the quieter successes of observational astronomy.
 
-The shower will be over by the twenty-fourth, and the newspapers will not mention it again until next year, and the comet will return in 2126, when nobody currently alive will be watching. That is the arithmetic of the thing, and it is the reason people stand in a field at two in the morning for a light that is already gone by the time the eye registers it.
+The shower will be over by the twenty-fourth, and the newspapers will not mention it again until next year, and the comet will return in 2126, which is a date nobody reading this will see, and the arithmetic is the reason people stand in a field at two in the morning for a light that is already gone by the time the eye registers it.
