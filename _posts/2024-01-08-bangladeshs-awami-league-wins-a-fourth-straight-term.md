@@ -1,5 +1,5 @@
 ---
-title: "A fourth term in Dhaka"
+title: "Bangladesh's Awami League wins a fourth straight term"
 date: 2024-01-08 20:15:00 +0800
 categories: [news]
 description: "Bangladesh's general election on 7 January gave Sheikh Hasina's Awami League 223 of 300 seats on a turnout of 41.8 per cent, with the main opposition party boycotting and international observers questioning the result's legitimacy."

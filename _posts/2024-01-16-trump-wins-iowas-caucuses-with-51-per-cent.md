@@ -1,5 +1,5 @@
 ---
-title: "Fifty-one per cent in the cold"
+title: "Trump wins Iowa's caucuses with 51 per cent"
 date: 2024-01-16 22:07:00 +0800
 categories: [news]
 description: "Iowa's Republican caucuses on 15 January gave Donald Trump 51.1 per cent of the vote in wind chills near minus thirty, with Ron DeSantis second on 21.2 and Nikki Haley third on 19.1, and a turnout of about 110,000."

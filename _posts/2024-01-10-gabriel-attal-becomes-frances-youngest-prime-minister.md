@@ -1,5 +1,5 @@
 ---
-title: "A prime minister of thirty-four"
+title: "Gabriel Attal becomes France's youngest prime minister"
 date: 2024-01-10 22:14:00 +0800
 categories: [news]
 description: "Emmanuel Macron appointed Gabriel Attal, thirty-four, as prime minister on 9 January, making him the youngest head of government in the history of the Fifth Republic and handing him the task of holding a parliament without a majority."

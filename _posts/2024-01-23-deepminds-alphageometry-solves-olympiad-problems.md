@@ -1,5 +1,5 @@
 ---
-title: "A machine that proves geometry"
+title: "DeepMind's AlphaGeometry solves olympiad problems"
 date: 2024-01-23 21:14:00 +0800
 categories: [science]
 description: "AlphaGeometry, published in Nature on 17 January, solved twenty-five of thirty olympiad geometry problems without human demonstrations, matching the average gold medallist by pairing a language model with a symbolic deduction engine."

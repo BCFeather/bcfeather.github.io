@@ -1,5 +1,5 @@
 ---
-title: "Rebuilding trust in the snow"
+title: "Davos ends with a warning about trust"
 date: 2024-01-19 21:26:00 +0800
 categories: [news]
 description: "The World Economic Forum's annual meeting in Davos ran from 15 to 19 January under the theme of rebuilding trust, with wars in Gaza and Ukraine, the Red Sea attacks and the governance of artificial intelligence dominating an agenda that had little room for economics."

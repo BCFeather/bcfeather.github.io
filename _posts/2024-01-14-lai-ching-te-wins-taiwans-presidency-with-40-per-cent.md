@@ -1,5 +1,5 @@
 ---
-title: "A minority president in Taipei"
+title: "Lai Ching-te wins Taiwan's presidency with 40 per cent"
 date: 2024-01-14 21:33:00 +0800
 categories: [news]
 description: "Lai Ching-te won Taiwan's presidential election on 13 January with about 40 per cent of the vote, while his party lost its majority in the legislature, leaving a president who must govern without a chamber that supports him."

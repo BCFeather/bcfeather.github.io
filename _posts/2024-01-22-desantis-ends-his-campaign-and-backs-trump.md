@@ -1,5 +1,5 @@
 ---
-title: "The campaign that ended before New Hampshire"
+title: "DeSantis ends his campaign and backs Trump"
 date: 2024-01-22 21:48:00 +0800
 categories: [news]
 description: "Ron DeSantis suspended his presidential campaign on 21 January, two days after a distant second place in Iowa, and endorsed Donald Trump, leaving Nikki Haley as the only remaining challenger before the New Hampshire primary."

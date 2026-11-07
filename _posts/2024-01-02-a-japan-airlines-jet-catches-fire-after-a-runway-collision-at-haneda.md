@@ -1,5 +1,5 @@
 ---
-title: "Five minutes on a runway at Haneda"
+title: "A Japan Airlines jet catches fire after a runway collision at Haneda"
 date: 2024-01-02 23:18:00 +0800
 categories: [news]
 description: "A Japan Airlines Airbus A350 landing at Haneda on the evening of 2 January collided with a coast guard aircraft that had entered the runway, and the five crew members of the smaller plane died while all 379 people on the airliner escaped."

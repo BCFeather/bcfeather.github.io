@@ -1,5 +1,5 @@
 ---
-title: "The first night of the Red Sea campaign"
+title: "American and British aircraft strike Houthi targets in Yemen"
 date: 2024-01-12 22:58:00 +0800
 categories: [news]
 description: "American and British aircraft and warships struck more than sixty Houthi targets across Yemen on the night of 11 January, the first direct military response to a campaign against shipping that has diverted trade around the Cape of Good Hope."

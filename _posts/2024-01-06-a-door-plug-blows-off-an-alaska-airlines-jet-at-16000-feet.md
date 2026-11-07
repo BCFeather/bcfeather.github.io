@@ -1,5 +1,5 @@
 ---
-title: "A door plug falls off at sixteen thousand feet"
+title: "A door plug blows off an Alaska Airlines jet at 16,000 feet"
 date: 2024-01-06 18:37:00 +0800
 categories: [news]
 description: "An Alaska Airlines 737 MAX 9 lost a door plug minutes after take-off from Portland on 5 January, leaving a hole in the fuselage at cruising altitude with 177 people aboard and no serious injuries, and grounding 171 aircraft for inspection."
