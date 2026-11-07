@@ -61,6 +61,9 @@ ref: home
   .home-readmore .btn:hover{ background:var(--link-color,#0056b2); color:#fff; transform:translateY(-1px); }
 
   /* ---------- Sidebar extra panels ---------- */
+  @media (min-width:1200px){
+    #panel-wrapper{ position:sticky; top:4.5rem; align-self:flex-start; }
+  }
   .side-panel{ margin-top:2.2rem; }
   .side-panel ul{ list-style:none; padding:0; margin:.7rem 0 0; }
   .side-panel li{ font-size:.86rem; line-height:1.95; }
@@ -297,6 +300,18 @@ window.__HOME_STATS = {
     });
     same.sort(function (a, b) { return b.y - a.y; });
 
+    var glance = makeSection('At a Glance', 'side-glance');
+    var facts = el('ul', 'side-facts');
+    facts.appendChild(el('li', null, (stats.posts || data.length) + ' posts'));
+    if (stats.first && stats.last) {
+      facts.appendChild(el('li', null, stats.first + '–' + stats.last));
+    }
+    if (stats.cats) {
+      facts.appendChild(el('li', null, stats.cats + ' categories'));
+    }
+    glance.appendChild(facts);
+    access.appendChild(glance);
+
     var onday = makeSection('On This Day', 'side-onthisday');
     var ul = el('ul');
     if (same.length) {
@@ -316,18 +331,6 @@ window.__HOME_STATS = {
     bq.appendChild(el('cite', null, q[1]));
     quote.appendChild(bq);
     access.appendChild(quote);
-
-    var glance = makeSection('At a Glance', 'side-glance');
-    var facts = el('ul', 'side-facts');
-    facts.appendChild(el('li', null, (stats.posts || data.length) + ' posts'));
-    if (stats.first && stats.last) {
-      facts.appendChild(el('li', null, stats.first + '–' + stats.last));
-    }
-    if (stats.cats) {
-      facts.appendChild(el('li', null, stats.cats + ' categories'));
-    }
-    glance.appendChild(facts);
-    access.appendChild(glance);
   }
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', build);
