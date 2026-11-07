@@ -1,0 +1,18 @@
+---
+title: "South Korea's parliament impeaches its acting president"
+date: 2024-12-29 20:35:00 +0800
+categories: [news]
+description: "The National Assembly voted 192 to nothing on 27 December to impeach Prime Minister Han Duck-soo, who had been acting as president for two weeks, and suspended his powers in the first such action against an acting president in South Korea."
+---
+
+National Assembly voted on the twenty-seventh of December to impeach Han Duck-soo, the prime minister who had been acting as president since the suspension of President Yoon Suk Yeol two weeks earlier. Motion passed with 192 votes in favour and none against in the three-hundred-seat chamber, well above the 151 needed, and the speaker declared it carried in a session that the governing party had abandoned. Han's duties were suspended immediately, and Deputy Prime Minister and Finance Minister Choi Sang-mok took over the powers of both president and prime minister.
+
+Boycott defined the day as much as the vote did. Members of the People Power Party, the president's party, left the chamber before the ballot and then surrounded the speaker's podium, chanting that the vote was invalid and demanding the speaker's resignation. Dispute concerned the threshold: the opposition argued that a majority of the assembly was enough for an acting president, while the governing party insisted that the two-thirds requirement for a president applied. Speaker rejected the objection and proceeded, and no injuries were reported.
+
+Grounds for the motion were set out in the days before the vote. Opposition accused Han of refusing to appoint three justices to the Constitutional Court, which is due to rule on Yoon's impeachment, and of blocking special counsel investigations into the first lady and into the martial law episode. Han said in his own statement that he had acted to protect the constitutional order and that appointments made under a disputed mandate would be improper. His party called the impeachment a pre-emptive strike against the court.
+
+Crisis that produced it began on the third of December, when Yoon declared martial law and sent troops towards the assembly before legislators climbed into the chamber and voted the declaration down within six hours. Impeachment of Yoon followed on the fourteenth of December, and the Constitutional Court has until June to decide whether to remove him or restore him. Han, a career official who had served in several administrations, became acting president at that point and held the office for thirteen days.
+
+Financial markets had been watching the succession closely. Won fell to a two-year low in the week of the martial law declaration and recovered only partially, and the finance ministry had been issuing daily statements to reassure investors. Choi, who now holds the finance portfolio as well as the acting presidency, said on his first day that the government would run an emergency economic response team and that the country's credit standing would not be allowed to suffer.
+
+Constitutional Court dismissed the impeachment of Han in March 2025, holding that the assembly's procedure had been lawful but that the grounds were too thin to justify removing a prime minister, which restored his duties and left the suspended presidency with Yoon's case still pending. Decision of the twenty-seventh of December therefore stands as a precedent rather than a removal: it established that an acting president can be impeached, and it left the question of what an acting president may properly do, especially in appointments to the court judging his predecessor, to be settled later and elsewhere.
