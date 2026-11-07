@@ -60,14 +60,6 @@ ref: home
   .home-readmore .btn{ display:inline-block; padding:.62rem 2rem; border-radius:999px; font-weight:600; letter-spacing:.08em; text-transform:uppercase; font-size:.78rem; text-decoration:none; border:1px solid var(--link-color,#0056b2); color:var(--link-color,#0056b2); background:transparent; transition:background .18s ease, color .18s ease, transform .18s ease; }
   .home-readmore .btn:hover{ background:var(--link-color,#0056b2); color:#fff; transform:translateY(-1px); }
 
-  /* ---------- Sidebar extra panels ---------- */
-  .side-panel{ margin-top:2.2rem; }
-  .side-panel .side-text{ font-size:.86rem; line-height:1.75; margin:.65rem 0 .75rem; color:var(--main-text-color,#5a5d66); }
-  .side-panel ul{ list-style:none; padding:0; margin:.65rem 0 0; }
-  .side-panel li{ font-size:.86rem; line-height:2; }
-  .side-panel a{ color:var(--link-color,#0056b2); text-decoration:none; }
-  .side-panel a:hover{ text-decoration:underline; }
-
   @media (max-width:576px){
     .home-hero{ padding:3rem 1rem 2.6rem; }
     .home-hero h1{ font-size:2.4rem; }
@@ -88,8 +80,6 @@ ref: home
     .carousel-btn:disabled{ opacity:.35; box-shadow:none; }
     .carousel-btn:disabled:hover{ background:#1c1f26; border-color:#2d313a; color:#e8e8ea; }
     .carousel-dots .dot{ background:#2d313a; }
-    .side-panel .side-text{ color:#c3c6cc; }
-    .side-panel a{ color:#7fb2ff; }
   }
 </style>
 
@@ -234,71 +224,6 @@ window.__FEATURED = [
   wrap.addEventListener('mouseleave', startAuto);
   render();
   startAuto();
-})();
-</script>
-
-<script>
-window.__HOME_STATS = { posts: {{ site.posts.size }} };
-(function () {
-  function el(tag, cls, text) {
-    var e = document.createElement(tag);
-    if (cls) { e.className = cls; }
-    if (text) { e.textContent = text; }
-    return e;
-  }
-  function makeSection(title, id) {
-    var s = el('section', 'side-panel');
-    if (id) { s.id = id; }
-    s.appendChild(el('h2', 'panel-heading', title));
-    return s;
-  }
-  function makeList(items) {
-    var ul = el('ul');
-    items.forEach(function (it) {
-      var li = el('li');
-      var a = el('a', null, it[0]);
-      a.href = it[1];
-      li.appendChild(a);
-      ul.appendChild(li);
-    });
-    return ul;
-  }
-  function build() {
-    var aside = document.getElementById('panel-wrapper');
-    if (!aside) { return; }
-    var access = aside.querySelector('.access');
-    if (!access) { return; }
-    var stats = window.__HOME_STATS || { posts: 0 };
-
-    var about = makeSection('About', 'side-about');
-    about.appendChild(el('p', 'side-text', 'A personal record of current affairs, social phenomena and advances in science and technology, written slowly and cross-referenced where possible.'));
-    var more = el('a', null, 'More about me');
-    more.href = '/about/';
-    about.appendChild(more);
-    access.appendChild(about);
-
-    var browse = makeSection('Browse', 'side-browse');
-    var items = [['All posts (' + stats.posts + ')', '/archives/'], ['FAQ', '/faq/']];
-    var picks = window.__FEATURED || [];
-    if (picks.length) {
-      var r = picks[Math.floor(Math.random() * picks.length)];
-      items.push(['Read something else', r.u]);
-    }
-    browse.appendChild(makeList(items));
-    access.appendChild(browse);
-
-    var follow = makeSection('Follow', 'side-follow');
-    follow.appendChild(makeList([
-      ['RSS feed', '/feed.xml'],
-      ['GitHub', 'https://github.com/BCFeather/BCFeather.github.io']
-    ]));
-    access.appendChild(follow);
-  }
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', build);
-  } else {
-    build();
-  }
 })();
 </script>
 
