@@ -297,7 +297,7 @@ window.__HOME_STATS = {
     });
     same.sort(function (a, b) { return b.y - a.y; });
 
-    var onday = makeSection('On this day', 'side-onthisday');
+    var onday = makeSection('On This Day', 'side-onthisday');
     var ul = el('ul');
     if (same.length) {
       same.slice(0, 2).forEach(function (it) {
@@ -311,13 +311,13 @@ window.__HOME_STATS = {
     access.appendChild(onday);
 
     var q = QUOTES[(year * 372 + today.getMonth() * 31 + day) % QUOTES.length];
-    var quote = makeSection('Quote of the day', 'side-quote-panel');
+    var quote = makeSection('Quote of the Day', 'side-quote-panel');
     var bq = el('blockquote', 'side-quote', q[0]);
     bq.appendChild(el('cite', null, q[1]));
     quote.appendChild(bq);
     access.appendChild(quote);
 
-    var glance = makeSection('At a glance', 'side-glance');
+    var glance = makeSection('At a Glance', 'side-glance');
     var facts = el('ul', 'side-facts');
     facts.appendChild(el('li', null, (stats.posts || data.length) + ' posts'));
     if (stats.first && stats.last) {
