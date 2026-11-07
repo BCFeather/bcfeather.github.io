@@ -33,7 +33,7 @@ ref: home
   /* ---------- Carousel ---------- */
   .home-carousel{ position:relative; margin:0 1rem 2.2rem; }
   .carousel-viewport{ overflow:hidden; border-radius:16px; }
-  .carousel-track{ display:flex; height:13rem; transition:transform .55s cubic-bezier(.22,.61,.36,1); }
+  .carousel-track{ display:flex; height:15rem; transition:transform .55s cubic-bezier(.22,.61,.36,1); }
   .home-featured-card.carousel-slide{ flex:0 0 100%; height:100%; margin:0; }
   .carousel-btn{ position:absolute; top:50%; transform:translateY(-50%); width:2.6rem; height:2.6rem; border-radius:50%; border:1px solid var(--main-border-color,#e9ecef); background:var(--card-bg,#fff); color:var(--heading-color,#1a1a1a); cursor:pointer; display:flex; align-items:center; justify-content:center; font-size:1.15rem; line-height:1; box-shadow:0 2px 8px rgba(0,0,0,.08); z-index:2; padding:0; transition:background .18s ease, color .18s ease, border-color .18s ease; }
   .carousel-btn:hover{ background:var(--link-color,#0056b2); border-color:var(--link-color,#0056b2); color:#fff; }
@@ -94,6 +94,14 @@ ref: home
 </section>
 
 {% if site.posts.size > 0 %}
+{% assign all_posts = site.posts %}
+<script>
+window.__FEATURED = [
+{% for post in all_posts %}
+{"u":{{ post.url | relative_url | jsonify }},"t":{{ post.title | jsonify }},"d":{{ post.date | date: "%-d %b %Y" | jsonify }},"s":{{ post.description | default: "" | markdownify | strip_html | strip_newlines | truncate: 160 | jsonify }}}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+];
+</script>
 <section class="home-block">
   <div class="home-block-head">
     <span class="home-eyebrow">Selected |</span>
@@ -101,23 +109,11 @@ ref: home
   </div>
   <div class="home-carousel" id="featuredCarousel">
     <div class="carousel-viewport">
-      <div class="carousel-track">
-        {% for post in site.posts limit:3 %}
-        <a class="home-featured-card carousel-slide" href="{{ post.url | relative_url }}">
-          <div class="meta">Featured | {{ post.date | date: "%-d %b %Y" }}</div>
-          <h3>{{ post.title }}</h3>
-          {% if post.description %}<p class="desc">{{ post.description | markdownify | replace: '<p>', '' | replace: '</p>', '' }}</p>{% endif %}
-        </a>
-        {% endfor %}
-      </div>
+      <div class="carousel-track"></div>
     </div>
     <button class="carousel-btn prev" type="button" aria-label="Previous featured post">&#10094;</button>
     <button class="carousel-btn next" type="button" aria-label="Next featured post">&#10095;</button>
-    <div class="carousel-dots" aria-label="Featured post selection">
-      {% for post in site.posts limit:3 %}
-      <button class="dot{% if forloop.first %} active{% endif %}" type="button" aria-label="Featured post {{ forloop.index }}"></button>
-      {% endfor %}
-    </div>
+    <div class="carousel-dots" aria-label="Featured post selection"></div>
   </div>
 </section>
 {% endif %}
@@ -126,7 +122,65 @@ ref: home
 (function () {
   var wrap = document.getElementById('featuredCarousel');
   if (!wrap) { return; }
+  var data = window.__FEATURED || [];
+  var SLOTS = 7;
+
+  // deterministic seed from local date, so the set is fixed for the day
+  var now = new Date();
+  var seed = now.getFullYear() * 10000 + (now.getMonth() + 1) * 100 + now.getDate();
+  function mulberry32(a) {
+    return function () {
+      a |= 0; a = a + 0x6D2B79F5 | 0;
+      var t = Math.imul(a ^ a >>> 15, 1 | a);
+      t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
+      return ((t ^ t >>> 14) >>> 0) / 4294967296;
+    };
+  }
+  var rnd = mulberry32(seed);
+
+  var pool = data.slice();
+  var n = Math.min(SLOTS, pool.length);
+  var picked = [];
+  for (var i = 0; i < n; i++) {
+    var j = i + Math.floor(rnd() * (pool.length - i));
+    var tmp = pool[i]; pool[i] = pool[j]; pool[j] = tmp;
+    picked.push(pool[i]);
+  }
+
   var track = wrap.querySelector('.carousel-track');
+  var dotsWrap = wrap.querySelector('.carousel-dots');
+  track.innerHTML = '';
+  dotsWrap.innerHTML = '';
+
+  picked.forEach(function (p, k) {
+    var a = document.createElement('a');
+    a.className = 'home-featured-card carousel-slide';
+    a.setAttribute('href', p.u);
+
+    var meta = document.createElement('div');
+    meta.className = 'meta';
+    meta.textContent = 'Featured | ' + p.d;
+    a.appendChild(meta);
+
+    var h3 = document.createElement('h3');
+    h3.textContent = p.t;
+    a.appendChild(h3);
+
+    if (p.s) {
+      var ds = document.createElement('p');
+      ds.className = 'desc';
+      ds.textContent = p.s;
+      a.appendChild(ds);
+    }
+    track.appendChild(a);
+
+    var dot = document.createElement('button');
+    dot.className = 'dot' + (k === 0 ? ' active' : '');
+    dot.type = 'button';
+    dot.setAttribute('aria-label', 'Featured post ' + (k + 1));
+    dotsWrap.appendChild(dot);
+  });
+
   var dots = Array.prototype.slice.call(wrap.querySelectorAll('.dot'));
   var prevBtn = wrap.querySelector('.carousel-btn.prev');
   var nextBtn = wrap.querySelector('.carousel-btn.next');
@@ -134,6 +188,7 @@ ref: home
   var idx = 0;
   var timer = null;
   var AUTO_MS = 5000;
+  if (count === 0) { return; }
 
   function render() {
     track.style.transform = 'translateX(-' + (idx * 100) + '%)';
