@@ -1,0 +1,19 @@
+---
+title: "IEEE retracts 1,417 papers in a single day"
+date: 2026-11-01 09:40:00 +0800
+tags: [publishing, integrity, conferences, paper-mills]
+categories: [news]
+description: "On 23 October IEEE withdrew 1,417 conference papers at once, the largest single retraction by any academic publisher, and confirmed the decision on 28 October. The papers were tied to paper mills that sell authorship on conference submissions: first-author slots were advertised at $43 to $400, last-author slots at $11 to $200, and 95 of the 109 affected IEEE-sponsored conferences were held in India."
+---
+
+The retraction notices arrived in a batch, which is the part worth pausing on. On 23 October the Institute of Electrical and Electronics Engineers withdrew 1,417 of its conference papers in one action, and on 28 October it confirmed the decision publicly. It is the largest single retraction by any academic publisher on record. By *Nature*'s count, 1,522 of the 2,062 papers flagged by outside researchers have now been pulled, and IEEE's total withdrawals for 2026 stand at close to 3,000.
+
+The trigger was an integrity investigation published in October in *Accountability in Research*. Its authors found 4,407 advertisements offering authorship on conference papers, posted across more than 200 channels on Telegram, WhatsApp, Facebook and similar platforms. They matched the titles in those advertisements against IEEE's publication records and found that, between 2021 and 2026, 2,062 papers in 366 IEEE conference proceedings carried titles identical or near-identical to the ones being sold.
+
+The prices are the detail that makes the whole thing legible. A first-author position was advertised at between $43 and $400; a last-author position at $11 to $200. Authorship, in other words, was being sold as a commodity with a price list, and the list ran cheap because the supply was organized. The study also found that of the 109 IEEE-sponsored conferences with at least five suspected paper-mill papers, 95 were held in India.
+
+Why conferences rather than journals? The structure answers it. IEEE sponsors more than 2,000 academic conferences a year, producing roughly 350,000 conference papers. Conference papers publish faster than journal articles, and their integrity checks are thinner. Submission handling and peer review are largely delegated to local organizing committees, which is precisely the gap that a paper mill can occupy. IEEE has been here before: an investigation into a 2024 conference found fabricated papers and fake peer-review reports, raised the suspicion that the entire meeting had been run by a mill, and ended with 309 retractions.
+
+The larger question is whether retraction is the right instrument at all. Pulling 1,417 papers removes them from the record, but the authors who paid for the slots keep whatever credit the papers had already earned them, and the conferences that hosted them keep their place in the calendar. IEEE says it reviewed the papers after the external study and confirmed that they violated its publication principles, and its notices describe the papers as having possibly been sold. What remains unresolved is the incentive: as long as a conference paper counts toward a degree, a promotion or a funding application, someone will sell one, and someone will buy it.
+
+The episode is also a reminder of how much of the scholarly record is produced at the margins of scrutiny. Journal articles go through a visible editorial process with named editors and public review policies. Conference proceedings often go through a process that is invisible from outside and staffed by volunteers with limited time. The 1,417 papers were not hidden. They were published, indexed, and citable, and they sat in the record for as long as five years before anyone counted them.
