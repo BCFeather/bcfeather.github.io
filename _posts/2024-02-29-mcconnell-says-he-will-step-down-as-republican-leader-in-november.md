@@ -1,0 +1,18 @@
+---
+title: "McConnell says he will step down as Republican leader in November"
+date: 2024-02-29 21:36:00 +0800
+categories: [news]
+description: "The Senate Republican leader announced on 28 February that he would leave the leadership post after the November election, ending an era in which he shaped the chamber and the federal judiciary for nearly two decades."
+---
+
+Mitch McConnell announced on the twenty-eighth of February that he would step down as the Republican leader in the Senate at the end of the year, after the November election, and would finish his term as a senator from Kentucky. Announcement came in a speech on the floor that he had been preparing for months, and he was visibly emotional at its end. At eighty-two he has held the post since 2007, longer than any Republican in the Senate's history, and he has been the central figure in the chamber for most of that time.
+
+Record is mostly a judicial one. In 2016 he refused to hold hearings on Barack Obama's nomination of Merrick Garland, on the argument that a vacancy in an election year should be left to the voters, and the seat went to Neil Gorsuch the following year. In 2020 he confirmed Amy Coney Barrett eight days before the election that Donald Trump lost, an act that reversed the principle he had announced six years earlier. Three justices of the current Supreme Court were confirmed under his leadership, along with more than two hundred lower court judges, and the federal bench will bear his imprint for a generation.
+
+On legislation he was a tactician rather than an ideologue. Bills he did not want were blocked by his refusal to bring them to the floor, and bills he did want passed by keeping his conference together. Tax cut of 2017, the pandemic relief packages of 2020 and the bipartisan infrastructure law of 2021 all passed through a chamber he controlled, in very different political conditions. He also broke with Trump on several occasions, including on the certification of the 2020 election and on the failed effort to repeal the Affordable Care Act.
+
+Timing of the announcement was deliberate. Two episodes in which he froze during public appearances in 2023 had made his health a standing item in the Capitol press corps. Announcing in February, rather than in November, gave his conference time to organise a succession fight before the election, and gave him a year in which he could still set the agenda without being treated as a lame duck. Three senators most often mentioned as successors had already begun to position themselves.
+
+What the change means for the chamber is uncertain and probably significant. Style of the departing leader was to defend the Senate as an institution whose rules protect the minority, and he used the filibuster and the procedural calendar to that end. His successor will face a conference that has moved towards Trump's position on procedure as well as on policy, and a Democratic majority that has its own views about the filibuster. Senate will still be the Senate, and the way it works will change, and the change will be visible first in what the leadership brings to the floor.
+
+Personal history explains some of the style. McConnell grew up in Louisville, contracted polio as a child and spent a month in hospital, and he has described the experience as the reason he became interested in politics: he wanted to know who had decided that a vaccine was available and who had not. He was first elected to the Senate in 1984, and he built his career on committee work on appropriations and on foreign policy rather than on national campaigns. He has said he will serve out his term, which ends in January 2027, and that he intends to speak on defence and on Ukraine from the back benches.

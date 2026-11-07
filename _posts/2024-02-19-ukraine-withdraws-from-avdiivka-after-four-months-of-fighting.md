@@ -1,0 +1,18 @@
+---
+title: "Ukraine withdraws from Avdiivka after four months of fighting"
+date: 2024-02-19 21:40:00 +0800
+categories: [news]
+description: "Ukrainian forces pulled out of the eastern city of Avdiivka on 17 February, the first settlement of any size to fall to Russia since Bakhmut in May 2023, and the new commander said the withdrawal had prevented an encirclement."
+---
+
+Ukrainian forces withdrew from Avdiivka on the seventeenth of February, ending a fight for a city that had been reduced to rubble over four months and giving Russia its first significant gain since the capture of Bakhmut in May 2023. Order was issued by the newly appointed commander-in-chief, Oleksandr Syrskyi, who said the withdrawal had been taken to avoid encirclement and to preserve the lives of soldiers. Russian forces took control of the city and its ruined coke plant within a day. Ukrainian officials said the retreat had been to prepared positions, and Russian military bloggers published photographs of the city centre.
+
+Battle had been costly for both sides since October. Avdiivka sits a few kilometres north of Donetsk, and Ukrainian control of it had kept artillery within range of the city for a decade. Russia had been attacking the flanks of the salient for months with infantry waves, armoured columns and guided bombs, and the Ukrainian garrison had been supplied by a single road that came under fire. By the middle of February the road was cut and the two pincers were within a kilometre of each other, which is what made the position untenable rather than merely difficult.
+
+Timing of the withdrawal was connected to the change of command. Syrskyi had been in charge for nine days when he gave the order, and his predecessor had been criticised for holding positions too long. Decision was defended as a trade of ground for lives, and it was criticised by some Ukrainian commentators as too late, given that the city had been effectively surrounded for a week. Third Assault Brigade, which covered the withdrawal, reported that it had pulled back under fire and that some soldiers were captured.
+
+Political significance went beyond the map. Russia had been trying to take Avdiivka since 2014 and had failed repeatedly until now, and the capture was presented in Moscow as evidence that the war was going according to plan. For Ukraine, the fall of a city held for a decade came at the end of a winter in which American aid had stopped arriving and European aid had only just been agreed. Ammunition shortages were visible on the front and openly discussed by soldiers.
+
+Ground that was lost matters less than the positions behind it. Ukrainian forces withdrew to a line of villages and heights west of the city, where the terrain is more open and the defensive works were built during the previous year. Whether that line holds depends on the supply of shells, and the shell shortage was the thing both sides had been talking about since the autumn. Avdiivka was the first test of the new command and the first test of what the Russians can do while the Ukrainian army waits for the American package to move through Congress.
+
+Russian advance did not stop at the city limits. Within a week of the fall, Russian forces were pressing the villages west of Avdiivka and had taken the settlement of Lastochkyne, and Ukrainian units were reported to be withdrawing from positions they had held for years. Cost of the battle for the Russian army was heavy in vehicles and in infantry, and Western officials estimated that the Russian losses in the sector had been among the highest of the war. Whether that buys Ukraine time is the question the spring will answer, and the answer depends on whether the ammunition arrives before the ground dries.
