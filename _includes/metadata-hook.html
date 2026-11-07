@@ -9,16 +9,44 @@
 />
 
 <style>
-  /* Keep the mobile top bar, and its sidebar trigger, reachable while scrolling. */
+  /* Mobile-only floating button: opens the sidebar at any scroll position,
+     without pinning the top bar over the page content. */
   @media all and (max-width: 849px){
-    #topbar-wrapper{
-      position: -webkit-sticky;
-      position: sticky;
-      top: 0 !important;
-      transform: none !important;
-      z-index: 1030;
-      background-color: var(--main-bg, #fff) !important;
-      border-bottom: 1px solid var(--main-border-color, #e9ecef);
+    #mobile-nav-fab{
+      position: fixed;
+      left: 1rem;
+      bottom: 1.25rem;
+      z-index: 1055;
+      width: 2.9rem;
+      height: 2.9rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+      border-radius: 50%;
+      border: 1px solid var(--main-border-color, #e9ecef);
+      background: var(--card-bg, #fff);
+      color: var(--text-color, #34343c);
+      box-shadow: 0 2px 10px rgba(0, 0, 0, .12);
+      cursor: pointer;
     }
+    #mobile-nav-fab:active{ transform: scale(.96); }
+  }
+  @media all and (min-width: 850px){
+    #mobile-nav-fab{ display: none; }
   }
 </style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    if (document.getElementById('mobile-nav-fab')) { return; }
+    var trigger = document.getElementById('sidebar-trigger');
+    if (!trigger) { return; }
+    var btn = document.createElement('button');
+    btn.id = 'mobile-nav-fab';
+    btn.type = 'button';
+    btn.setAttribute('aria-label', 'Open navigation');
+    btn.innerHTML = '<i class="fas fa-bars"></i>';
+    btn.addEventListener('click', function () { trigger.click(); });
+    document.body.appendChild(btn);
+  });
+</script>
