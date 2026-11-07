@@ -1,0 +1,19 @@
+---
+title: "The last draft before the defence"
+date: 2025-06-04 20:30:00 +0800
+tags: [university, research, education, june]
+categories: [society]
+description: "Early June is defence season in Chinese universities. A four-year project is compressed into fifteen minutes of speaking and twenty minutes of questions, and everything that happens afterwards depends on how those thirty-five minutes go."
+---
+
+The corridors of a science building in early June are full of people carrying bound copies. The printing shop near the north gate runs out of a particular shade of cover paper every year at this time, and the queue at eight in the morning is mostly students who have been awake since three. It is defence season, and the whole apparatus of a degree converges on a small seminar room with a projector that half works.
+
+The format is fixed, and it has been fixed for so long that nobody in the room can remember who designed it. Fifteen minutes of presentation, usually delivered faster because the candidate has rehearsed it eleven times and the committee is already late. Then the questions. A member of the panel asks why the second experiment used the concentration it did. Another asks what the study would have shown if the control group had been chosen differently. The candidate answers, or does not, and the panel writes something down.
+
+What the panel is actually deciding is narrower than the ceremony suggests. By the time a thesis reaches a defence it has already passed an advisor, a blind review and often a pre-defence. The formal defence rarely fails anyone. It is a verification of authorship, a check that the person in the room understands the work that carries their name, and it is the last point at which anyone with authority asks a question about the method rather than the formatting.
+
+The formatting is the part that consumes the most emotion. Margins, fonts, the numbering of figures, the reference style, the placement of the acknowledgements. Every university publishes a template and every university's template is internally inconsistent, and the office that checks the bound copies will reject a submission over a two-millimetre margin in a document nobody will read. Students find this absurd while they are doing it and remember it fondly ten years later.
+
+Then there is the copy that must be signed. The committee signs the approval page, the advisor signs the submission form, the library takes a copy and gives a receipt. The signed page is the physical evidence that a piece of research was assessed and accepted, and it survives in an archive while the digital file survives on a server that will be migrated twice before anyone looks at it again.
+
+The advisor's role in all of this is easy to underestimate. Supervisors who have read four drafts of the same chapter know exactly which sentence is load-bearing and which is padding, and the questions they ask in the pre-defence are usually the ones the committee will ask afterwards. The students who do well are rarely the ones with the best data. They are the ones who have been told, repeatedly, that the panel will ask about the second experiment and that the answer has to fit in forty seconds. Afterwards the laboratory empties. The bench that was occupied for four years is cleaned, the samples are handed to whoever comes next or thrown away, and the group photograph is taken on the steps outside. A project that took the better part of a decade of a person's life ends in a room with a projector, in thirty-five minutes, on an afternoon in June, and then everybody goes to eat. The restaurant is booked in advance and the bill is split unevenly, and by nine in the evening the corridor that was full of bound copies in the morning is empty again until next June.
