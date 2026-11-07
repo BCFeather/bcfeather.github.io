@@ -18,4 +18,4 @@ The industry's own solution is a division of the menu. The dishes that survive f
 
 What the box changes is the labour that the festival used to require. The dinner was a demonstration of a household's skill as much as a meal, and the dish that took three hours was a gift of three hours. A household that buys the slow dishes is trading that gift for time, and the trade is honest even if the gift is smaller.
 
-For the cook who wants to keep the tradition, the box is a tool rather than a replacement. The soup from the box and the vegetable from the wok make a dinner that is half assembled and half cooked, and the household that can tell the difference is the household that still knows how the dish should taste.
+For the cook who wants to keep the tradition, the box is a tool rather than a replacement. The soup from the box and the vegetable from the wok make a dinner that is half assembled and half cooked, and the household that can tell the difference is the household that still knows how the dish should taste. That knowledge is the thing the box cannot deliver, and it is also the thing that a guest remembers a week after the meal.
