@@ -28,4 +28,4 @@ The teachers meet the cohort in the first week and not again until the exam. A l
 
 The homesickness arrives in the third week. A student who has never lived away from home calls every evening for a fortnight and then stops, and the ones who do not call are usually the ones who are fine.
 
-The term settles by October. The lines are gone, the uniforms are folded away, and the campus is the place it will be for the next eight months, until the graduation photographs in June.
+The term settles by October. The lines are gone, the uniforms are folded into a cupboard for the next year, and the campus is the place it will be for the next eight months, until the graduation photographs in June.
