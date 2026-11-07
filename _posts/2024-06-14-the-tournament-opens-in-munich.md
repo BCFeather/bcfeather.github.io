@@ -16,9 +16,9 @@ The tickets were sold in phases through a portal. The cheapest group-stage seat 
 
 The fan zones are the part that costs the cities money. A square closed for a month, a screen, a stage, a set of toilets, a security contract. Munich expects a million visitors in the zone over the tournament. The city earns it back in beer and hotel tax, or it does not.
 
-The squads are young this year. Several of the favourites brought players who are twenty-one. A tournament played at the end of a long club season rewards a squad with fresh legs, and the coaches have noticed.
+The squads are young this year. Several of the favourites brought players who are twenty-one. A tournament played at the end of a long club season rewards a squad with fresh legs. The coaches have noticed, which is why several squads carry six substitutes who can run.
 
-The football itself has become more controlled. A team that wins the ball high up the pitch scores within eight seconds or gives it back. The statistics that the broadcasters show have changed to match, and the number of passes in the final third is now printed beside the score.
+The football itself has become more controlled. A team that wins the ball high up the pitch scores within eight seconds or gives it back. The statistics that the broadcasters show have changed to match. The number of passes in the final third is now printed beside the score.
 
 The first match set a tone that the tournament will struggle to repeat. The host scored in the first ten minutes, the crowd sang for an hour, and the opposition was beaten by four goals. The second match is tomorrow afternoon.
 
