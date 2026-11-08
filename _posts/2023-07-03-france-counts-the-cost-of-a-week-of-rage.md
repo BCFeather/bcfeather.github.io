@@ -1,0 +1,18 @@
+---
+title: "France counts the cost of a week of rage"
+date: 2023-07-03 22:35:00 +0800
+categories: [news]
+description: "Rioting across France after a police officer shot dead a seventeen-year-old in Nanterre on 27 June produced more than three thousand arrests, the deployment of forty-five thousand police and insured losses estimated at around a billion euros."
+---
+
+Nanterre, the suburb west of Paris where a traffic stop ended in a police bullet on the morning of 27 June, is a short train ride from the glass towers of La Defense and a long way from the way the state usually talks about itself. Nahel Merzouk, seventeen, was driving a rented Mercedes without a licence when two motorcycle officers pulled him over. A video recorded by a bystander shows one officer leaning across the car with his weapon drawn and firing at close range as the vehicle pulls away. The officer has been detained and placed under formal investigation for voluntary homicide, and his lawyers say he feared being dragged.
+
+The nights that followed were the worst urban unrest in France since 2005. Cars were burned in Nanterre, Clichy-sous-Bois and Marseille, supermarkets and schools were looted, a police station was rammed, and a mayor's house in L'Hay-les-Roses was attacked with a burning car while his family slept inside. The interior ministry put forty-five thousand officers and gendarmes on the streets, sent armoured vehicles and helicopters to Marseille and Lyon, and by 4 July had recorded 3,625 arrests, of whom 1,124 were minors. The average age of those detained was seventeen.
+
+Political language has been careful and divided. Macron called the killing inexplicable and inexcusable, then called the rioters unacceptable, and cancelled a state visit to Germany that was to have begun on 2 July. Marine Le Pen blamed the parents of the children involved and asked for a return to authority. On the left, Jean-Luc Melenchon blamed the police. Darmanin, the interior minister, asked mayors to stop talking about the shooting while the investigation runs, a request that treated the video as a distraction from the disorder it had caused.
+
+Money is the part that will outlast the anger. Insurers and employers' federations put the damage to shops and public buildings at more than a billion euros, with some estimates nearer two. Paris's transport operator alone counted twenty million euros of losses, and several towns in the Paris region face bills they cannot meet without help. The state has promised to compensate municipalities and shopkeepers, and the bill will be paid by taxpayers who mostly live nowhere near the housing estates where the cars burned.
+
+Deeper arguments are being rehearsed in public for the first time in years. Police unions defend a doctrine of engagement that they say keeps officers alive in neighbourhoods where they are hated, and critics point to a rising number of fatal shootings at traffic stops since a 2017 law loosened the rules on when a weapon may be used. Both sides agree that the estates are segregated, that youth unemployment there runs at twice the national rate, and that the drug economy sets the terms of daily life in some of them.
+
+A funeral was held in Nanterre, and a police officer awaits a judge. The cars have been towed away, the shops swept out, and the arguments have moved to the television studios. What happens to a country whose poorest suburbs burn this easily, and what it plans to do about the conditions that make them burn, will be answered in budgets and laws over the next few years.
