@@ -1,0 +1,18 @@
+---
+title: "Niger's guards detain the president and take power"
+date: 2023-07-28 23:10:00 +0800
+categories: [news]
+description: "Soldiers of Niger's presidential guard detained President Mohamed Bazoum on 26 July and announced the removal of his government, and on 28 July General Abdourahamane Tchiani declared himself head of a new military council."
+---
+
+The presidency had been surrounded since the morning of 26 July, when members of the presidential guard blocked the entrances and cut the building off from the rest of Niamey. President Mohamed Bazoum, elected in 2021 in the country's first peaceful transfer of power, was inside with his family. By that evening a group of officers appeared on state television to announce that his government had been removed, the constitution suspended and the borders closed, and they warned against any foreign intervention.
+
+Two days later the guard's commander named himself the head of the new council. General Abdourahamane Tchiani, who had led the unit since 2011 and had been kept in the post by Bazoum, declared that he would run a transitional authority and justified the takeover by the deterioration of security and the failure of the government's approach to it. He is the fifth officer to seize power in the Sahel in three years, after Mali, Burkina Faso, Mali again and Guinea.
+
+Niger had been the exception in that sequence. It is the poorest country in the world on the United Nations' index, and it has been fighting two jihadist insurgencies, one spilling over from Mali and one from Nigeria, with an army that Western partners had been training and equipping for a decade. France kept a base, the United States kept another, and the European Union had made Niamey a hub for its military missions in the region. The coup removed the government those partners had built their presence around. Two American drone bases and a French garrison sat inside the country, and the officers who moved knew it.
+
+The reactions were quick and contradictory. The United States warned that it would reconsider its cooperation, the European Union suspended security and budget support worth hundreds of millions of euros, and France suspended aid. At the same time the new authorities in Bamako and Ouagadougou sent congratulations and warned that an intervention would be treated as a declaration of war on them, which is a warning that has been repeated after every coup in the region.
+
+Sanctions are the standard instrument and have not worked anywhere in the Sahel. Mali expelled the French force and turned to Wagner, Burkina Faso has moved closer to Russia, and both remain poor, isolated and violent. Niger's uranium exports give it a strategic importance to France that Mali's gold does not, which is why this coup has been taken more seriously in Paris than its predecessors. The mines, run by a French company, supply a share of Europe's nuclear fuel that is awkward to replace.
+
+Bazoum is under house arrest in the presidential palace, his party has called for his release, and the guards who detained him have not explained what will happen to him. The region has a summit scheduled within days, and its decisions will be written by leaders who came to power by the same method as the men they are judging. Whether the council can govern, and whether it can pay the salaries due at the end of the month, will be settled faster than any mediation.

@@ -1,0 +1,18 @@
+---
+title: "China replaces its foreign minister after a short tenure"
+date: 2023-07-26 22:40:00 +0800
+categories: [news]
+description: "The standing committee of China's legislature removed Qin Gang as foreign minister on 25 July, seven months after appointing him, and reinstated Wang Yi, a former foreign minister who had moved to the party's foreign affairs office."
+---
+
+The announcement was a paragraph long and offered no explanation. China's National People's Congress standing committee decided on 25 July to remove Qin Gang from the foreign ministry and to appoint Wang Yi in his place, publishing the decision with the formality reserved for routine personnel matters. Qin had held the post since December, when he replaced Wang, and had not been seen in public since 25 June, when he met foreign visitors in Beijing and then stopped appearing at meetings he was scheduled to attend. The ministry's calendar kept listing events at which he did not appear.
+
+Absences in Beijing are usually explained, and this absence went unexplained. Qin missed a meeting with the Association of Southeast Asian Nations in Jakarta in mid-July, an event at which his ministry was represented by Wang, and a visit by the American treasury secretary was handled without him. The ministry's website kept his biography up and then quietly edited it. Foreign correspondents in Beijing spent the month asking questions that officials declined to answer, which is an unusual silence even in a system that prefers it. A ministry spokesman said twice that he had no information.
+
+His tenure had been eventful and short. Qin came from the ministry's protocol department, served as ambassador to the United States, and arrived in the job with a reputation for blunt public appearances and for defending the government's positions on Taiwan and Ukraine with unusual force. He was seen as a close associate of Xi Jinping, and his appointment broke a tradition of promoting from within the ministry's regional bureaus. Seven months later he was gone without a stated reason.
+
+Wang's return restores continuity rather than experimenting further. He spent a decade as foreign minister, moved to the party's central foreign affairs commission last year at an age when officials usually retire, and is identified with the style that produced the agreement with Iran, the balancing act over Ukraine and the consolidation of ties with Russia. Diplomats who deal with China know him and know his methods, and the machinery he left behind has not changed. Diplomats in Beijing read the appointment as a signal that the ministry will be run by someone whose authority inside the system is already established.
+
+The same session replaced the governor of the central bank, removing Yi Gang and appointing Pan Gongsheng, a career official who had run the foreign exchange regulator. The two changes were announced together, which is how the system handles a reshuffle that it does not wish to discuss.
+
+A foreign minister has been replaced in the middle of a year in which China's diplomacy has more work than usual: a war in Europe, a contested American election campaign ahead, and an economy that needs exports. Wang will do the job with the authority of someone who has done it before, and Qin's absence will remain unexplained for as long as the system chooses. His name stays on the state council's list of members, which is the only public statement anyone has made about where he stands.
