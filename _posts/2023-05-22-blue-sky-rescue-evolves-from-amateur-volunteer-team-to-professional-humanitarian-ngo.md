@@ -1,6 +1,6 @@
 ---
 title: "Blue Sky Rescue evolves from amateur volunteer team to professional humanitarian NGO"
-date: 2023-05-22 21:20:00 +0800
+date: 2023-05-22 14:14:00 +0800
 categories: [society]
 description: "Blue Sky Rescue, China's major volunteer rescue NGO, gained international recognition for its Türkiye earthquake mission. It provides free disaster search and rescue while working to standardize training and tackle funding shortages."
 ---
