@@ -1,0 +1,18 @@
+---
+title: "Azerbaijan moves into Nagorno-Karabakh"
+date: 2023-09-19 23:55:00 +0800
+categories: [news]
+description: "Azerbaijan launched what it called an anti-terrorist operation against the Armenian enclave of Nagorno-Karabakh on 19 September 2023, and the region's authorities surrendered within twenty-four hours."
+---
+
+Artillery and drones began striking targets around Stepanakert at about one in the afternoon on 19 September, and the Azerbaijani defence ministry described the operation as a response to a mine explosion that had killed two of its soldiers. The enclave's authorities said the bombardment hit civilian areas as well as military positions, and that at least two hundred people had been killed, including children. Within a day the region's president had agreed to a ceasefire proposed by the Russian peacekeeping force and to the dissolution of the armed units.
+
+The enclave had been blockaded for nine months. Since December, Azerbaijan had closed the road that connects Nagorno-Karabakh to Armenia, and the Lachin corridor was opened only intermittently, which produced shortages of food, medicine and fuel. Armenia's government said the blockade was a form of coercion and asked for international monitors; Azerbaijan said the road was being used for military supplies. The population of about a hundred and twenty thousand people had been living on rations for most of the year, with hospitals reporting shortages of insulin and infant formula.
+
+Great powers had little to offer. Russia has peacekeepers in the region and a defence agreement with Armenia, and it mediated the ceasefire rather than preventing the attack. Turkey, which has trained and equipped the Azerbaijani army, supported the operation. The European Union and the United States, both of which have been mediating talks between Armenia and Azerbaijan, issued statements calling for restraint while the fighting was under way.
+
+Legal argument will run for years. Nagorno-Karabakh has been recognized as part of Azerbaijan since the Soviet Union dissolved, and the Armenian population that governed it has never accepted that status. Azerbaijan says it has restored its sovereignty; Armenia says an ethnic population has been forced out of its homes by military pressure. The ceasefire agreement includes provisions for talks on the rights of the Armenians who remain, and it says nothing about who will police them, who will pay for them, or how the talks will be conducted, leaving all three to the Russian force that is scheduled to withdraw in 2025.
+
+Consequences arrived within days. Convoys of cars began moving towards Armenia, the airport at Stepanakert filled with people waiting for flights, and the enclave's own institutions announced that they would cease to exist by the start of next year, a decision that its president signed during a session broadcast on local television. Armenia's prime minister said his country had not sent troops and would not, and that Russian peacekeepers were responsible for the road out, which is a statement that his opponents have described as capitulation and his supporters as the only choice available.
+
+A blockade became a bombardment, the bombardment became a surrender within twenty-four hours, and the state that had governed the enclave for three decades has announced that it is ending. The Armenians who lived there are leaving, and the terms of their departure will be negotiated by the countries that did not fight, in a process that has no agreed timetable.
