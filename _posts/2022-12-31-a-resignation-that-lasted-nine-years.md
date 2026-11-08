@@ -1,5 +1,5 @@
 ---
-title: "A resignation that lasted nine years"
+title: "Benedict XVI dies at ninety-five in the monastery his resignation built"
 date: 2022-12-31 22:30:00 +0800
 categories: [news]
 description: "Benedict XVI dies at ninety-five in the monastery where he had lived since he became the first pope to resign in six centuries."

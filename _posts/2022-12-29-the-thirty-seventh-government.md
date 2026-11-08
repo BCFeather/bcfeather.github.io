@@ -1,5 +1,5 @@
 ---
-title: "The thirty-seventh government"
+title: "Israel swears in its thirty-seventh government with sixty-four seats"
 date: 2022-12-29 22:00:00 +0800
 categories: [news]
 description: "Israel swears in a coalition of sixty-four seats, with Ben-Gvir at national security and Smotrich at the treasury."

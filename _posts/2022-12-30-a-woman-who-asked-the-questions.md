@@ -1,5 +1,5 @@
 ---
-title: "A woman who asked the questions"
+title: "Barbara Walters dies at ninety-three, after making the interview a form of news"
 date: 2022-12-30 23:30:00 +0800
 categories: [culture]
 description: "Barbara Walters dies at ninety-three, after a career that made the television interview a form of news."
