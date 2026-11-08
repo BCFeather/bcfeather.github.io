@@ -1,0 +1,18 @@
+---
+title: "Heat records fall across three continents"
+date: 2023-07-20 22:45:00 +0800
+categories: [news]
+description: "Temperature records broke in Arizona, Xinjiang and southern Europe in the third week of July, as wildfires forced the evacuation of thousands from Rhodes and heat alerts covered cities from Rome to Beijing."
+---
+
+Death Valley recorded 53.3 degrees Celsius on 16 July, the highest reliably measured temperature on earth that day and close to the highest ever recorded anywhere. The same weekend, a weather station in the Turpan basin of Xinjiang registered 52.2 degrees, and the Italian health ministry put twenty-three cities under red alert as the anticyclone that forecasters named Cerberus sat over the Mediterranean. Greece closed the Acropolis during the hottest hours, Spain issued warnings across its interior, and Phoenix endured a nineteenth consecutive day above 43 degrees.
+
+The maps tell a story of a single pattern. A high-pressure ridge parked over the American south-west, another over North Africa and the eastern Mediterranean, and a heat dome over northern China, all in the same fortnight, all feeding on sea surface temperatures that have been at record highs since spring. Weeks of marine heat in the North Atlantic have left the water more than a degree above the average for the date, and the ocean's stored warmth is what keeps nights from cooling. Scientists are careful about attributing any single event, and they are less careful about the trend, which is the one their models have predicted for thirty years.
+
+Wildfires followed the heat. On Rhodes, a blaze that began in the mountains above the tourist resorts forced the evacuation of some nineteen thousand people by land and sea in the last week of July, the largest such operation Greece has conducted. Corfu and Euboea burned as well. In Canada, a record season had already consumed more than ten million hectares by mid-July, sending smoke across the Atlantic and into American cities for the second time in six weeks.
+
+Cities are where the damage is counted. Heat kills more people than floods, storms and wildfires together in most years, and it kills the elderly, the poor and the outdoor workers first. Municipal plans that open cooling centres and check on vulnerable residents exist in many places and are underfunded in most. In Phoenix, the medical examiner's office has reported a rising number of deaths among people found outdoors, and the city's homeless population has grown as housing costs have risen.
+
+The economics are less visible and just as real. Power grids strain under air conditioning, railways impose speed limits when rails expand, crops ripen early or fail, and insurers begin to recalculate what a summer is worth. Southern Europe's tourism industry, which depends on pleasant weather, has spent the season learning what unpleasant weather costs. Hotels on Rhodes reported cancellations after the evacuations, and tour operators in Italy began offering refunds for days when the authorities advised against going outside.
+
+July will end as the hottest month ever measured, according to the European Union's climate service, though the confirmation came in August. The number matters less than the pattern it belongs to, which is a run of records set in a run of years. Heat is the least photogenic of the consequences of a warming climate, and it is the one most likely to be felt in the body before it is noticed in the news.
