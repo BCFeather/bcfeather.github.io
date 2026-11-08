@@ -1,7 +1,7 @@
 ---
 title: "The tree planting day and the arithmetic of a forest"
 date: 2025-03-12 19:20:00 +0800
-categories: [environment]
+categories: [science]
 description: "The twelfth of March is the tree planting day, and the country has planted an extraordinary number of trees in the last four decades. The arithmetic of what those trees do is more complicated than the arithmetic of how many were planted."
 ---
 

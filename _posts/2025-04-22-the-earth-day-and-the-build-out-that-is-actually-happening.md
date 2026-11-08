@@ -1,7 +1,7 @@
 ---
 title: "The earth day and the build out that is actually happening"
 date: 2025-04-22 20:50:00 +0800
-categories: [environment]
+categories: [science]
 description: "The twenty-second of April is the earth day, and the theme this year is the electricity system. The build out of renewables has become the largest construction programme in the world, and the argument about it has moved from whether to how fast."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Europe sweats through its hottest June on record"
 date: 2026-07-02 08:24:00 +0800
-categories: [environment]
+categories: [science]
 description: "The last week of June brought the hottest temperatures western Europe has seen in decades, with France's national mean reaching 30°C on two consecutive days. Schools closed, trams stopped and nuclear reactors throttled back. The death toll will take weeks to count."
 ---
 
