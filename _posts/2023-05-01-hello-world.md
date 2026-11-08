@@ -1,7 +1,7 @@
 ---
 title: "Hello, world!"
 date: 2023-05-01 15:38:00 +0800
-categories: [blog]
+categories: [essay]
 description: "The first post on this blog, and what I hope to write here."
 ---
 
