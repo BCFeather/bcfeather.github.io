@@ -1,5 +1,5 @@
 ---
-title: "Sixty dollars a barrel, and a fleet to police it"
+title: "Sixty dollars a barrel: the G7 caps Russian oil and leans on the insurers"
 date: 2022-12-02 22:30:00 +0800
 categories: [economy]
 description: "The European Union and the G7 agree a price cap on Russian seaborne oil at sixty dollars a barrel, three days before an embargo begins."

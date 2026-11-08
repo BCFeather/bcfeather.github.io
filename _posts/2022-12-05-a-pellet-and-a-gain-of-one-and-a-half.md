@@ -1,5 +1,5 @@
 ---
-title: "A pellet the size of a peppercorn and a gain of one and a half"
+title: "A fusion reaction produces more energy than the lasers delivered to it"
 date: 2022-12-05 21:00:00 +0800
 categories: [science]
 description: "The National Ignition Facility produces more energy from a fusion reaction than the laser delivered to the target, a result announced a week later."

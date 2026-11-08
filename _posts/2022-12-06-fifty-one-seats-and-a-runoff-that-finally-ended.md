@@ -1,5 +1,5 @@
 ---
-title: "Fifty-one seats and a runoff that finally ended"
+title: "Warnock wins the Georgia runoff and the Senate settles at fifty-one"
 date: 2022-12-06 23:30:00 +0800
 categories: [news]
 description: "Raphael Warnock wins the Georgia runoff, and the Senate settles at fifty-one seats for the Democratic caucus."

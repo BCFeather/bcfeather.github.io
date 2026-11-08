@@ -1,5 +1,5 @@
 ---
-title: "A star torn apart and a jet pointed at us"
+title: "The most distant star torn apart by a black hole, caught in visible light"
 date: 2022-11-30 19:30:00 +0800
 categories: [science]
 description: "Astronomers report the most distant tidal disruption ever seen, and the first one found with visible light."

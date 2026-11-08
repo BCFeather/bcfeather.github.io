@@ -1,5 +1,5 @@
 ---
-title: "Twelve hours from a speech to a cell"
+title: "Twelve hours from a speech to a cell: Peru's president is removed"
 date: 2022-12-07 23:30:00 +0800
 categories: [news]
 description: "Peru's president dissolves congress, is removed within hours, and is sworn out of office as his vice president takes the oath."

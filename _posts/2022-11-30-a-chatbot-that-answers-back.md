@@ -1,5 +1,5 @@
 ---
-title: "A chatbot that answers back"
+title: "OpenAI releases ChatGPT and the answers start circulating in group chats"
 date: 2022-11-30 23:30:00 +0800
 categories: [technology]
 description: "OpenAI releases a conversational model called ChatGPT as a free research preview, and within a week people are pasting its answers into group chats."
