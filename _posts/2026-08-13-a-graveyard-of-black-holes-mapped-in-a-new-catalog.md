@@ -17,4 +17,4 @@ The scale of the operation is worth pausing on. Across four observing runs the n
 
 There is a humility built into the numbers. A 128-event catalog is a big jump from the first dozen, yet most events are still black-hole mergers, which emit no light and leave no electromagnetic counterpart to study in detail. Neutron-star mergers, the rare ones that also glow, remain precious. The graveyard is well mapped; the luminous side of the story is still a trickle.
 
-For all that, the catalogue is the deliverable a decade of detector engineering was building toward. Each new event is another data point on how stars die, how black holes assemble, and how spacetime itself responds when the two meet. The census is far from complete, but it is finally dense enough to read.
+For all that, the catalogue is the deliverable a decade of detector engineering was building towards. Each new event is another data point on how stars die, how black holes assemble, and how spacetime itself responds when the two meet. The census is far from complete, but it is finally dense enough to read.

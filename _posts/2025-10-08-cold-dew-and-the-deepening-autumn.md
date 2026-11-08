@@ -2,7 +2,7 @@
 title: "Cold Dew and the deepening autumn"
 date: 2025-10-08 20:40:00 +0800
 categories: [essay]
-description: "On 8 October the solar term of Cold Dew arrives, the seventeenth station of the old calendar, and the autumn crosses the threshold from pleasant to cold: the dew that gathered in September now carries the weight of the season's end. A short essay on the term, the chrysanthemums it brings out, and the year's long turn toward winter."
+description: "On 8 October the solar term of Cold Dew arrives, the seventeenth station of the old calendar, and the autumn crosses the threshold from pleasant to cold: the dew that gathered in September now carries the weight of the season's end. A short essay on the term, the chrysanthemums it brings out, and the year's long turn towards winter."
 ---
 
 The solar terms have a way of arriving exactly when the season changes its mood, and Cold Dew, which falls this year on 8 October, is one of the most accurate of them. The name marks the next step in the sequence that White Dew began a month earlier: the nights have grown cold enough that the morning dew feels genuinely cold to the touch, and the word carries the season's next grade of chill. The autumn that began in September as a pleasant relief from summer has crossed a line; from Cold Dew onward, the season's business is the approach of winter.

@@ -2,7 +2,7 @@
 title: "A tandem solar cell crosses twenty-eight per cent"
 date: 2026-08-28 13:52:00 +0800
 categories: [technology]
-description: "A team at the Institute of Chemistry in Beijing has built a perovskite-organic tandem cell that reaches a certified steady-state efficiency of 28.04 per cent and keeps ninety per cent of it after 625 hours of light. Lightweight, printable photovoltaics just moved a step toward usefulness."
+description: "A team at the Institute of Chemistry in Beijing has built a perovskite-organic tandem cell that reaches a certified steady-state efficiency of 28.04 per cent and keeps ninety per cent of it after 625 hours of light. Lightweight, printable photovoltaics just moved a step towards usefulness."
 ---
 
 Silicon solar cells have crept past twenty-six per cent efficiency, but they are heavy, rigid and hard to print on a flexible sheet. The newer thin-film routes, perovskite and organic cells, are light and roll-to-roll printable, but each on its own hits an efficiency wall well below silicon. Stacking the two into a tandem, so that a wide-bandgap perovskite front cell and a narrow-bandgap organic rear cell split the spectrum, is the obvious way around the wall. A paper in *Nature*, published online on 13 July 2026, by a team led by Li Yongfang and Meng Lei, pushes these tandem cells to a certified steady-state efficiency of 28.04 per cent.

@@ -25,7 +25,7 @@ Then there is the food, the fullest expression of cultural identity. Anhui cuisi
 
 The tragedy of modern development is forgetting the old while learning the new. In the age of artificial intelligence we train machines to understand hundreds of languages while we let human tongues fall silent. If an algorithm can recognize Cantonese, Wu, or Shehua, surely a society can let its people speak them without shame.
 
-That brings us to artificial intelligence. We live in an era obsessed with optimization, efficiency, and standardization. We train AI models to write essays, diagnose diseases, and drive cars. But look at what we feed these machines. Mostly English, sometimes Mandarin, generally the narratives of the global north and coastal elites. The dataset for a farmer's dialect in Fuyang is missing. The folk songs of the She people are absent from the training sets. No algorithm understands why a village in Anhui points its houses toward a specific direction.
+That brings us to artificial intelligence. We live in an era obsessed with optimization, efficiency, and standardization. We train AI models to write essays, diagnose diseases, and drive cars. But look at what we feed these machines. Mostly English, sometimes Mandarin, generally the narratives of the global north and coastal elites. The dataset for a farmer's dialect in Fuyang is missing. The folk songs of the She people are absent from the training sets. No algorithm understands why a village in Anhui points its houses towards a specific direction.
 
 If we are not careful, AI becomes a tool of homogenization. It will speak perfect Mandarin, but it will never grasp why a Chizhou native hesitates before saying 'I love you' directly, preferring to show affection through a bowl of soup.
 

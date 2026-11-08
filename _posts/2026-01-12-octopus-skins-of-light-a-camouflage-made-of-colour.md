@@ -2,7 +2,7 @@
 title: "Octopus skins of light: a camouflage made of colour"
 date: 2026-01-12 09:35:00 +0800
 categories: [science]
-description: "In the 8 January issue of *Nature*, researchers report soft photonic skins whose texture and colour can be changed on demand, drawing on the same principle octopuses use: not pigment alone, but the manipulation of light itself. The materials point toward displays, camouflage and robots that can signal without electronics."
+description: "In the 8 January issue of *Nature*, researchers report soft photonic skins whose texture and colour can be changed on demand, drawing on the same principle octopuses use: not pigment alone, but the manipulation of light itself. The materials point towards displays, camouflage and robots that can signal without electronics."
 ---
 
 An octopus does not change colour the way a screen does. A screen produces colour by emitting light; an octopus manipulates light that already exists, using layers of muscle-controlled cells to change how its skin reflects, scatters and absorbs the light falling on it. The distinction matters, because it is the reason a cephalopod's camouflage is simultaneously fast, beautiful and cheap to run: it needs no power source beyond the animal itself. A paper in the 8 January issue of *Nature* reports synthetic materials that work on the same principle, soft photonic skins whose texture and colour can be switched on demand, and the result is more than a curiosity.

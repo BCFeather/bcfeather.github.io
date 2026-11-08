@@ -13,7 +13,7 @@ The commercial logic of the arrangement is straightforward for both sides. For t
 
 The strategic logic is less straightforward. If the purpose of the controls is to slow the development of Chinese computing capacity, then selling working accelerators, even degraded ones, works against that purpose. If the purpose has shifted to extracting value while the domestic industry catches up, then the arrangement is coherent. The two purposes have been stated at different times by different officials, and the policy reflects both.
 
-The Chinese response has been to discourage purchases. Regulators have told the large platform companies that they should not buy the H20, and the reasoning is a mixture of security concern and a desire to direct demand toward domestic parts. Whether the advice becomes a rule is unresolved, and a rule would change the arithmetic for both firms.
+The Chinese response has been to discourage purchases. Regulators have told the large platform companies that they should not buy the H20, and the reasoning is a mixture of security concern and a desire to direct demand towards domestic parts. Whether the advice becomes a rule is unresolved, and a rule would change the arithmetic for both firms.
 
 What the arrangement demonstrates is the extent to which the export control regime has become a bargaining instrument. A licence that can be negotiated is a licence that can be repriced, and every firm now knows that the price is a percentage rather than a prohibition. That is a durable change in how the rules work, and it will outlast this particular chip and probably the next three, because the precedent is now on the record and the next negotiation will start from it.
 

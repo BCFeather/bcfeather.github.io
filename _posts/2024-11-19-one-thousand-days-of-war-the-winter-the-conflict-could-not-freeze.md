@@ -2,7 +2,7 @@
 title: "One thousand days of war: the winter the conflict could not freeze"
 date: 2024-11-19 21:33:00 +0800
 categories: [news]
-description: "The war in Ukraine passed its thousandth day on November 19, and the day itself brought the escalation that the milestone had been building toward: Ukraine fired American long-range missiles into Russian territory for the first time, and the Kremlin answered within days with a new missile of its own. The thousand days have changed the conflict's shape, and the winter is the test."
+description: "The war in Ukraine passed its thousandth day on November 19, and the day itself brought the escalation that the milestone had been building towards: Ukraine fired American long-range missiles into Russian territory for the first time, and the Kremlin answered within days with a new missile of its own. The thousand days have changed the conflict's shape, and the winter is the test."
 ---
 
 The war in Ukraine turned one thousand days old on November 19, and the date, which the calendar produced without drama, arrived in the middle of the conflict's most dangerous fortnight in months. The escalation had been building through the autumn: the American decision, made after the election, to permit the use of its long-range missiles against targets inside Russia; the Ukrainian strikes that followed within days, the first American weapons to hit Russian soil in the war's history; and the Russian response, a new intermediate-range missile fired at a Ukrainian city, announced by the president in a television address as the proof that the escalation would be met in kind. The thousandth day was marked by the milestones that no one had wanted to celebrate.

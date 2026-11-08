@@ -2,7 +2,7 @@
 title: "A commercial rocket's first flight, a new road to orbit"
 date: 2026-03-31 09:20:00 +0800
 categories: [news]
-description: "On the evening of 30 March, the Lijian-2 rocket made its first flight from the Dongfeng commercial space testing zone, carrying three satellites and a prototype of the Qingzhou spacecraft into orbit. The launch is a step toward a new mode of space logistics, with a reusable vehicle and a cargo ship designed for future stations."
+description: "On the evening of 30 March, the Lijian-2 rocket made its first flight from the Dongfeng commercial space testing zone, carrying three satellites and a prototype of the Qingzhou spacecraft into orbit. The launch is a step towards a new mode of space logistics, with a reusable vehicle and a cargo ship designed for future stations."
 ---
 
 On the evening of 30 March, a rocket that has never flown before lifted off from a launch site that did not exist a few years ago, and the combination of the two is the real story. The Lijian-2 rocket made its first flight from the Dongfeng commercial space testing zone, carrying three satellites, Xinzheng-01, Xinzheng-02 and Tianshi-01, along with a prototype of the Qingzhou spacecraft, into their intended orbits. For the country's commercial space sector, it was the first flight of a launch vehicle designed around a new ambition: routine, frequent, logistics-style access to orbit, with hardware built to be flown again.

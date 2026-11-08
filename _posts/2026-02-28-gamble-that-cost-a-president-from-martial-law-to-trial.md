@@ -5,7 +5,7 @@ categories: [news]
 description: On the night of 3 December 2024 South Korea's president declared martial law; within eighteen months he had been removed by impeachment and was on trial for insurrection. A commentary on how the system absorbed the shock.
 ---
 
-On the night of 3 December 2024, South Korea's president Yoon Suk-yeol declared emergency martial law. He cited the need to root out what he called anti-state forces, and he sent soldiers toward the National Assembly and the election commission. Within hours the legislature voted to lift the decree, and by the next morning Yoon had backed down. What followed was one of the fastest and most consequential falls of a head of state in modern Asia.
+On the night of 3 December 2024, South Korea's president Yoon Suk-yeol declared emergency martial law. He cited the need to root out what he called anti-state forces, and he sent soldiers towards the National Assembly and the election commission. Within hours the legislature voted to lift the decree, and by the next morning Yoon had backed down. What followed was one of the fastest and most consequential falls of a head of state in modern Asia.
 
 The timeline tells the story by itself. Parliament impeached Yoon on 14 December. He became the first sitting president in the country's constitutional history to be arrested, on 15 January 2025. The Constitutional Court removed him from office by an 8–0 vote on 4 April, making him the second president, after Park Geun-hye, to be dismissed by impeachment. The criminal cases then followed: he was sentenced to life imprisonment in February 2026 on charges of leading an insurrection, and separately to seven years for obstructing his own arrest.
 

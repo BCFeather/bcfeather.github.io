@@ -2,7 +2,7 @@
 title: "A billion journeys home"
 date: 2026-02-05 20:40:00 +0800
 categories: [essay]
-description: "In early February the Spring Festival travel season begins again, and for a few weeks the country performs its annual act of collective logistics: hundreds of millions of people moving at once, toward the same word, home. A short essay on what the migration reveals about the country that stages it."
+description: "In early February the Spring Festival travel season begins again, and for a few weeks the country performs its annual act of collective logistics: hundreds of millions of people moving at once, towards the same word, home. A short essay on what the migration reveals about the country that stages it."
 ---
 
 Every year, in the weeks around the Spring Festival, the country performs an act of collective logistics with no real equivalent anywhere else: hundreds of millions of people travel at the same time, in the same direction, for the same reason. The official name is the Spring Festival travel rush, and its scale is routinely described in numbers so large that they lose meaning, the way a census loses meaning. Behind the numbers is a simpler fact. For a few weeks, the normal rules of the calendar are suspended, and the entire country reorganises itself around one destination, which is home.
