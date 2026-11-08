@@ -1,5 +1,5 @@
 ---
-title: "A decree that closed the lecture halls"
+title: "The Taliban closes the universities to women, and the last door shuts"
 date: 2022-12-20 23:00:00 +0800
 categories: [news]
 description: "The Taliban ministry of higher education suspends university education for women, closing the last partially open door."

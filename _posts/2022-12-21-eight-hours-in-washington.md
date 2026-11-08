@@ -1,5 +1,5 @@
 ---
-title: "Eight hours in Washington"
+title: "Zelensky leaves Ukraine for the first time and spends eight hours in Washington"
 date: 2022-12-21 23:30:00 +0800
 categories: [news]
 description: "Zelensky leaves Ukraine for the first time since the invasion, meets Biden and addresses a joint session of Congress."

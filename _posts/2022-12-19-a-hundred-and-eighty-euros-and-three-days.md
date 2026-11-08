@@ -1,5 +1,5 @@
 ---
-title: "A hundred and eighty euros and three days"
+title: "Europe agrees a gas price cap of 180 euros and a trigger nobody expects"
 date: 2022-12-19 21:00:00 +0800
 categories: [economy]
 description: "European Union energy ministers agree a gas price cap of 180 euros per megawatt hour, with a trigger that few expect to be hit."

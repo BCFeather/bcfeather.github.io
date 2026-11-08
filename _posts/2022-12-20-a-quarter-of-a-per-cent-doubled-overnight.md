@@ -1,5 +1,5 @@
 ---
-title: "A quarter of a per cent doubled overnight"
+title: "The Bank of Japan doubles its yield band and leaves its policy rate alone"
 date: 2022-12-20 22:00:00 +0800
 categories: [economy]
 description: "The Bank of Japan widens its yield band from plus or minus 0.25 per cent to 0.5 per cent while leaving its policy rate alone."

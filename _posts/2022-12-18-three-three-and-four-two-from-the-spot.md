@@ -1,5 +1,5 @@
 ---
-title: "Three three and four two from the spot"
+title: "Argentina beat France on penalties after a final that turned twice"
 date: 2022-12-18 23:30:00 +0800
 categories: [sport]
 description: "Argentina beat France on penalties in the World Cup final in Lusail, after a match that finished three goals each."

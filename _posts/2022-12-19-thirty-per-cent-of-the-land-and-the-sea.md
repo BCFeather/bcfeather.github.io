@@ -1,5 +1,5 @@
 ---
-title: "Thirty per cent of the land and the sea"
+title: "Nearly two hundred countries adopt the Kunming-Montreal targets for 2030"
 date: 2022-12-19 20:00:00 +0800
 categories: [science]
 description: "Nearly two hundred parties adopt the Kunming-Montreal framework, with twenty-three targets for 2030 and a long argument about money."
