@@ -8,6 +8,9 @@
   rel="stylesheet"
 />
 
+<!-- "Today" panel styles, versioned so a build never leaves a stale copy cached -->
+<link rel="stylesheet" href="{{ '/assets/css/side-today.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+
 <style>
   /* Mobile: once the auto-hiding top bar is out of view, the theme's own sidebar
      trigger reappears as a compact chip, so the drawer stays one tap away. */
