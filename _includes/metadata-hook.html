@@ -45,6 +45,25 @@
 </script>
 
 <script>
+  /* The category cards' chevron is the theme's collapse trigger. Categories with no
+     child pages mark it disabled, so tapping that side of the card does nothing.
+     Let the whole header follow the category link instead. */
+  document.addEventListener('DOMContentLoaded', function () {
+    var headers = document.querySelectorAll('.card.categories .card-header');
+    Array.prototype.forEach.call(headers, function (head) {
+      var link = head.querySelector('a[href]');
+      var trigger = head.querySelector('.category-trigger');
+      if (!link || !trigger || !trigger.classList.contains('disabled')) { return; }
+      head.style.cursor = 'pointer';
+      head.addEventListener('click', function (ev) {
+        if (ev.target.closest('a')) { return; }
+        window.location.href = link.href;
+      });
+    });
+  });
+</script>
+
+<script>
   /* Sidebar "Today" panel: built on every page from one static index and filtered
      in the browser by the local date, so it turns over daily without a rebuild. */
   (function () {
