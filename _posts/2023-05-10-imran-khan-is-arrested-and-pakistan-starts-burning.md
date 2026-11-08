@@ -1,0 +1,18 @@
+---
+title: "Imran Khan is arrested and Pakistan starts burning"
+date: 2023-05-10 23:00:00 +0800
+categories: [news]
+description: "Paramilitary police took Imran Khan into custody on 9 May at the Islamabad high court, and within hours crowds had attacked military buildings and the homes of officers. The army that had stayed out of politics for four years was suddenly back in the middle of it."
+---
+
+Imran Khan was arrested on 9 May as he arrived at the Islamabad high court to answer a corruption complaint, taken away by paramilitary rangers who broke through the gates of the building and bundled him into a vehicle. The arrest was on a case brought by the election commission over gifts he received as prime minister and did not declare, a charge that his party calls trivial and his opponents call a matter of law. Within three hours the country had erupted.
+
+Crowds were the surprise and the point. Supporters of Khan's Pakistan Tehreek-e-Insaf took to the streets in Lahore, Peshawar, Karachi and Rawalpindi, and then did something that no crowd in Pakistan's recent history had done: they attacked the symbols of the army. The corps commander's residence in Lahore was set on fire, the gate of the general headquarters in Rawalpindi was stormed, and military installations in at least four cities were damaged. The army, which had spent a decade insisting that it was above politics, found itself the target of a political movement it had helped to remove from office.
+
+Its sequence is a year and a half long. Khan was removed by a vote of no confidence in April 2022, after a constitutional crisis that ended with the Supreme Court ordering the vote to proceed. He spent the following year campaigning for early elections, survived an assassination attempt in November, was convicted of contempt, and was facing dozens of cases filed after he accused a senior intelligence officer of plotting to kill him. The current arrest was the second attempt in a week; the first ended with a court order that he be released.
+
+The government's response was to shut down the internet and to deploy the army in the capital and in Punjab, which is a measure that the constitution allows in limited circumstances and which the courts have repeatedly narrowed. More than three thousand people were arrested in the following days, and the authorities said they were considering trying civilians in military courts, a practice that the Supreme Court has struck down before. The interior minister accused the protesters of acting on orders from abroad, which is the standard explanation offered by governments in the region.
+
+The army's own calculation is the one that matters. Its commanders have been attacked by a party that they had courted and then abandoned, and the institution's public standing, which polls had put far above that of any politician, has taken damage that will be difficult to repair. The chief of army staff has said that the events of 9 May would be answered with restraint under the law, which is a formula that leaves open how much the military intends to involve itself in the politics it has spent four years pretending to leave.
+
+What happens next depends on the courts and on the calendar. Elections are due by the autumn, and Khan's party, which dissolved the provincial assemblies it controlled in January, has been demanding that they be held immediately rather than after a caretaker arrangement. A Supreme Court that has intervened twice in the past year is being asked to intervene again. Pakistan is a country with a nuclear arsenal, an economy on the edge of default and a political class that has lost the habit of accepting defeat, and the arrest of one man has exposed all three at once.
