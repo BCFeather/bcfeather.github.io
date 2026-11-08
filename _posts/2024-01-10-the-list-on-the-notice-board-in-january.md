@@ -11,7 +11,7 @@ Twenty classes had been formed in September almost on no principle at all except
 
 My choice was physics, chemistry and biology. That combination keeps medicine and most of engineering open, which is the reason half the year gave for choosing it, and it suits anybody who can tolerate a laboratory bench and a diagram. Three years of it means six papers in June 2026, and the arithmetic of whether that load is bearable is done by every family in the province at fifteen.
 
-The examination went badly. I misread a question and lost twelve marks before I noticed, ran short of time on the chemistry calculation, and wrote a definition in biology that I had memorised in October and half forgotten by January. Each of those was ordinary, but added together they put me a little below the line. In the corridor afterwards four of us compared answers and found that we had made different mistakes, which is the only consolation that corridor has ever offered.
+The examination went badly. I misread a question and lost twelve marks before I noticed, ran short of time on the chemistry calculation, and wrote a definition in biology that I had memorized in October and half forgotten by January. Each of those was ordinary, but added together they put me a little below the line. In the corridor afterwards four of us compared answers and found that we had made different mistakes, which is the only consolation that corridor has ever offered.
 
 The list went up online several days later, roughly 50 names to a sheet. My name was in an ordinary class on the second floor, with many teacher I had never met and some 50 others who had missed the line by a margin. Two friends from September went into a key class, and we agreed to keep in touch.
 
