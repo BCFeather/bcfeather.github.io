@@ -1,5 +1,5 @@
 ---
-title: "Two dead in a village on the border"
+title: "A missile kills two in Poland and for a night nobody knows who fired it"
 date: 2022-11-16 21:00:00 +0800
 categories: [news]
 description: "A missile falls inside Poland, two men are killed, and for a night nobody in Warsaw or in Brussels knows who fired it."

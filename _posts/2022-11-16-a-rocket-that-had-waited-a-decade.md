@@ -1,5 +1,5 @@
 ---
-title: "A rocket that had waited a decade"
+title: "Artemis I lifts off on its fourth attempt and points a capsule at the Moon"
 date: 2022-11-16 23:00:00 +0800
 categories: [science]
 description: "Artemis I lifts off from Cape Canaveral on its fourth attempt, sending an uncrewed capsule around the Moon and back."

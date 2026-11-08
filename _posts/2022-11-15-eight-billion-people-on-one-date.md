@@ -1,5 +1,5 @@
 ---
-title: "Eight billion people on one date"
+title: "Eight billion people, twelve years after the seventh billion"
 date: 2022-11-15 20:00:00 +0800
 categories: [news]
 description: "The United Nations puts the world's population at eight billion, a milestone reached twelve years after the seventh billion."

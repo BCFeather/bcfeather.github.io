@@ -1,5 +1,5 @@
 ---
-title: "The corridor after the bell"
+title: "The corridor empties after the bell on an autumn evening at school"
 date: 2022-11-13 21:30:00 +0800
 categories: [essay]
 description: "An autumn evening in the last year of middle school, with the mid-term papers still in a bag and the corridor slowly emptying."

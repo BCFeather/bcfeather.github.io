@@ -1,5 +1,5 @@
 ---
-title: "A corridor agreed again for one hundred and twenty days"
+title: "The Black Sea grain deal is extended two days before it lapses"
 date: 2022-11-17 18:00:00 +0800
 categories: [economy]
 description: "The grain deal across the Black Sea is extended for a further four months, two days before it was due to lapse."
