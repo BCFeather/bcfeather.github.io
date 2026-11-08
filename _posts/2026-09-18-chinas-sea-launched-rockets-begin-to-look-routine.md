@@ -1,7 +1,7 @@
 ---
 title: "China's sea-launched rockets begin to look routine"
 date: 2026-09-18 06:29:00 +0800
-categories: [space]
+categories: [science]
 description: "On 16 September, the Gravity-1 rocket lifted off from the East China Sea and placed nine satellites into orbit, including the next batch of the Qianfan megaconstellation. The launch, the rocket's fourth flight, shows how China's commercial launch industry has turned sea launch and rideshare into an assembly line for the satellite constellations it is building."
 ---
 

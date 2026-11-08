@@ -1,7 +1,7 @@
 ---
 title: "Artemis II is home: the quiet proof that NASA can still send people to the Moon"
 date: 2026-04-12 09:25:00 +0800
-categories: [space]
+categories: [science]
 description: "Four astronauts circled the Moon and returned in April 2026, the first crewed lunar mission in half a century. The return to the Moon is no longer a promise; it is now a fact."
 ---
 
