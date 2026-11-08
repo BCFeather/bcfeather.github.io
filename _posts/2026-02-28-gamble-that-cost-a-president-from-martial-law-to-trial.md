@@ -1,7 +1,7 @@
 ---
 title: "Gamble that cost a president: from martial law to trial in South Korea"
 date: 2026-02-28 19:42:00 +0800
-categories: [politics]
+categories: [news]
 description: On the night of 3 December 2024 South Korea's president declared martial law; within eighteen months he had been removed by impeachment and was on trial for insurrection. A commentary on how the system absorbed the shock.
 ---
 

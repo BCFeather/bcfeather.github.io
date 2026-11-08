@@ -1,7 +1,7 @@
 ---
 title: "Trump wins a second term: the comeback that defied the polls"
 date: 2024-11-10 08:47:00 +0800
-categories: [politics]
+categories: [news]
 description: On 5 November 2024 Donald Trump defeated Kamala Harris to return to the White House, winning the popular vote for the first time for a Republican since 2004. Here is what the result meant and why it happened.
 ---
 
