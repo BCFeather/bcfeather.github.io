@@ -1,0 +1,17 @@
+---
+title: "A law signed on the south lawn"
+date: 2022-12-13 22:30:00 +0800
+categories: [culture]
+description: "President Biden signs the Respect for Marriage Act, which requires federal recognition of same-sex marriages performed in states that allow them."
+---
+Signing took place on the south lawn of the White House at five past four in the afternoon, in front of several thousand invited guests. The president spoke about the vote in Congress and about the couples in the audience, and he signed with a set of pens that were handed out afterwards. The law had passed the Senate by sixty-one votes to thirty-six and the House by two hundred and fifty-eight to one hundred and sixty-nine, with majorities from both parties in each chamber. Guests had begun arriving three hours earlier, and the queue at the security gate ran along the fence.
+
+What the act does is narrower than the name suggests, and its supporters were careful to say so. It repeals the Defence of Marriage Act of 1996, which had allowed the federal government to refuse recognition of marriages that a state had already performed. It requires federal recognition of a marriage that is valid in the state where it was celebrated, and it protects the tax, benefit and immigration consequences that follow from that recognition. Couples who marry in one state and move to another will keep the federal treatment they had on the day of the wedding.
+
+Its second half concerns religion, and it was the price of the Republican votes. Churches and religious organizations cannot be required to provide goods or services for a wedding, and the law says explicitly that it does not change the tax status of any institution. Faith groups that had lobbied against earlier versions of the bill endorsed this one, and their lawyers said the protections were adequate. The text also confirms that the federal government will not penalize a religious body for the marriages it declines to celebrate.
+
+Passage through the Senate was unusual, because it required ten Republicans to break with their party's leadership. Two senators, one Democrat and one Republican, had negotiated the text for months, and they presented it as a compromise that both sides could defend. The vote was delayed until after the midterm elections, a decision that its sponsors described as tactical and its critics described as cowardly. The House then took it up on the last day of its session, and the result was never seriously in doubt.
+
+Behind the vote lay the decision in June that overturned the constitutional right to abortion and, in the opinion concurring with it, invited a reconsideration of the marriage cases. Twenty-nine states still have constitutions that define marriage as a union of a man and a woman, and the new law does not require any of them to issue a licence. It only guarantees that a marriage performed elsewhere will be treated as real by the federal government. That guarantee is worth a great deal to the couples who live in states that would refuse them.
+
+In the crowd on the lawn were couples who had been together for decades and who had married in the years when the question was unsettled. The president said that the law was a step and that more remained to be done, and the guests applauded the sentence about the step more loudly than the one about the remainder. A band played afterwards, and the last guests left as the light went out of the trees.
