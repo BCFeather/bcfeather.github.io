@@ -2,7 +2,7 @@
 title: "A snap election confirms the same answer"
 date: 2023-12-17 22:50:00 +0800
 categories: [news]
-description: "Serbia held early parliamentary elections on 17 December 2023, two years ahead of schedule, and the party of President Aleksandar Vucic won again, in a vote that international observers criticised for the advantage the state gave the incumbent."
+description: "Serbia held early parliamentary elections on 17 December 2023, two years ahead of schedule, and the party of President Aleksandar Vucic won again, in a vote that international observers criticized for the advantage the state gave the incumbent."
 ---
 
 Serbia voted on 17 December in parliamentary elections called two years early, alongside local elections in Belgrade and 64 other municipalities, and the Serbian Progressive Party of President Aleksandar Vucic won with about 46 per cent of the vote. The coalition around it, which includes the Socialist Party and the pensioners' party, secured a majority in the 250-seat assembly with roughly 129 seats. Turnout was about 59 per cent, and the result was declared by the state election commission late on the night of the count.
