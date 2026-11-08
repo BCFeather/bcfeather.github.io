@@ -40,3 +40,103 @@
     window.addEventListener('resize', update);
   });
 </script>
+
+<script>
+  /* Sidebar "Today" panel: built on every page from one static index and filtered
+     in the browser by the local date, so it turns over daily without a rebuild. */
+  (function () {
+    var QUOTES = [
+      ['Verba volant, scripta manent.', 'Latin proverb'],
+      ['Sapere aude.', 'Horace'],
+      ['Nullius in verba.', 'Motto of the Royal Society'],
+      ['Festina lente.', 'Latin proverb'],
+      ['Per aspera ad astra.', 'Latin proverb'],
+      ['Amor fati.', 'Friedrich Nietzsche'],
+      ['Veritas lux mea.', 'Latin motto'],
+      ['Cogito, ergo sum.', 'René Descartes']
+    ];
+
+    function el(tag, cls, text) {
+      var e = document.createElement(tag);
+      if (cls) { e.className = cls; }
+      if (text) { e.textContent = text; }
+      return e;
+    }
+
+    function build(data) {
+      var aside = document.getElementById('panel-wrapper');
+      if (!aside) { return; }
+      var access = aside.querySelector('.access');
+      if (!access || document.getElementById('side-today')) { return; }
+
+      var today = new Date();
+      var day = today.getDate();
+      var mon = today.getMonth() + 1;
+      var year = today.getFullYear();
+
+      var same = [];
+      (data.p || []).forEach(function (p) {
+        var v = Number(p.d);
+        var y = Math.floor(v / 10000);
+        var m = Math.floor((v % 10000) / 100);
+        var dd = v % 100;
+        if (dd === day && m === mon && y < year) {
+          same.push({ p: p, y: y });
+        }
+      });
+      same.sort(function (a, b) { return b.y - a.y; });
+
+      var q = QUOTES[(year * 372 + mon * 31 + day) % QUOTES.length];
+      var panel = el('section', 'side-panel');
+      panel.id = 'side-today';
+      panel.appendChild(el('h2', 'panel-heading', 'Today'));
+      panel.appendChild(el('p', 'side-date', today.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })));
+
+      var bq = el('blockquote', 'side-quote', q[0]);
+      bq.appendChild(el('cite', null, q[1]));
+      panel.appendChild(bq);
+
+      var dayWrap = el('div', 'side-day');
+      if (same.length) {
+        var it = same[0];
+        dayWrap.appendChild(el('p', 'side-label', 'On this day | ' + it.y));
+        var a = el('a', 'side-title', it.p.t);
+        a.href = it.p.u;
+        dayWrap.appendChild(a);
+      } else if (data.p && data.p.length) {
+        var r = data.p[Math.floor(Math.random() * data.p.length)];
+        dayWrap.appendChild(el('p', 'side-label', 'On this day'));
+        var a2 = el('a', 'side-title', 'Nothing filed for this date. Read a random piece');
+        a2.href = r.u;
+        dayWrap.appendChild(a2);
+      }
+      panel.appendChild(dayWrap);
+
+      var meta = (data.n || (data.p || []).length) + ' posts';
+      if (data.a && data.b) {
+        meta += ' | ' + data.a + '–' + data.b;
+      }
+      if (data.c) {
+        meta += ' | ' + data.c + ' categories';
+      }
+      panel.appendChild(el('p', 'side-meta', meta));
+
+      access.appendChild(panel);
+    }
+
+    function load() {
+      if (window.innerWidth < 1200) { return; }
+      if (!document.querySelector('#panel-wrapper .access')) { return; }
+      fetch('{{ "/assets/data/posts-index.json" | relative_url }}')
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .then(function (data) { if (data) { build(data); } })
+        .catch(function () {});
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', load);
+    } else {
+      load();
+    }
+  })();
+</script>

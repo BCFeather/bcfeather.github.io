@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /assets/data/posts-index.json
+sitemap: false
+---
+{"n":{{ site.posts.size }},"c":{{ site.categories.size }},"a":"{{ site.posts.last.date | date: '%Y' }}","b":"{{ site.posts.first.date | date: '%Y' }}","p":[{% for post in site.posts %}{"t":{{ post.title | jsonify }},"u":{{ post.url | relative_url | jsonify }},"d":{{ post.date | date: '%Y%m%d' }}}{% unless forloop.last %},{% endunless %}{% endfor %}]}
