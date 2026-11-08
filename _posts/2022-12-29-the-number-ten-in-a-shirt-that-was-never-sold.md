@@ -1,5 +1,5 @@
 ---
-title: "The number ten in a shirt that was never sold"
+title: "The number ten becomes a position: Pelé dies at eighty-two"
 date: 2022-12-29 23:00:00 +0800
 categories: [sport]
 description: "Pelé dies at eighty-two, and the shirt he wore becomes a position rather than a number."

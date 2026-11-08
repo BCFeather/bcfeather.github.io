@@ -1,5 +1,5 @@
 ---
-title: "Fifteen thousand cancellations"
+title: "Fifteen thousand flights in a week: Southwest's scheduling system gives way"
 date: 2022-12-26 23:30:00 +0800
 categories: [business]
 description: "Southwest cancels more than fifteen thousand flights in a week as its crew scheduling system fails under the volume of a winter storm."

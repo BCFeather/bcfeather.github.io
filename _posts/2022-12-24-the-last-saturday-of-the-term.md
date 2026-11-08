@@ -1,5 +1,5 @@
 ---
-title: "The last Saturday of the term"
+title: "The last Saturday of the term, with a short paper and a class photograph"
 date: 2022-12-24 21:00:00 +0800
 categories: [essay]
 description: "A last school Saturday before the holidays, with a short paper, a class photograph and a building that empties room by room."
