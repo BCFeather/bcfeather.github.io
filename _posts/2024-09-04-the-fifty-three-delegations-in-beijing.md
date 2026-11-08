@@ -1,7 +1,7 @@
 ---
 title: "The fifty-three delegations in Beijing"
 date: 2024-09-04 22:00:00 +0800
-categories: [world]
+categories: [news]
 description: "The Forum on China-Africa Cooperation met in Beijing for three days. The pledge was counted in yuan, the projects in kilometres, and the debt that is already owed was the subject that the communique handled carefully."
 ---
 

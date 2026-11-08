@@ -1,7 +1,7 @@
 ---
 title: "The runoff that decided the next premier"
 date: 2024-09-27 21:40:00 +0800
-categories: [world]
+categories: [news]
 description: "The ruling party of Japan chose a new leader in a runoff on the twenty-seventh. The winner is a veteran who has run for the post four times, and the party he inherits has lost its majority in two elections."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The verdict of two eastern states"
 date: 2024-09-02 21:20:00 +0800
-categories: [world]
+categories: [news]
 description: "Two eastern states voted on the first of September and the far-right party finished first in one of them. The arithmetic of coalitions, rather than the vote, is what decides who governs."
 ---
 
