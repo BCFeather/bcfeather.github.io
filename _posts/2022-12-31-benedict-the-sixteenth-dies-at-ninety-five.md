@@ -4,7 +4,7 @@ date: 2022-12-31 22:30:00 +0800
 categories: [news]
 description: "Benedict XVI dies at ninety-five in the monastery where he had lived since he became the first pope to resign in six centuries."
 ---
-Vatican announcement of the death came at 9.34 in the morning on 31 December, in a statement that was shorter than the obituaries that followed. He died in the monastery inside the Vatican gardens where he had lived since 2013, and he was ninety-five. Pope Francis had visited him days earlier and had spoken about him at a general audience. The funeral was set for 5 January, and Francis said he would preside. Flowers were laid at the gate of the monastery within an hour of the announcement, and the square outside was full by noon.
+Vatican announcement of the death came at 9:34 in the morning on 31 December, in a statement that was shorter than the obituaries that followed. He died in the monastery inside the Vatican gardens where he had lived since 2013, and he was ninety-five. Pope Francis had visited him days earlier and had spoken about him at a general audience. The funeral was set for 5 January, and Francis said he would preside. Flowers were laid at the gate of the monastery within an hour of the announcement, and the square outside was full by noon.
 
 His resignation in February 2013 was the act that defined him. No pope had resigned since 1415, and the decision took the church and the world by surprise. He announced it in Latin, in a consistory that had been called to discuss something else, and he said that his strength was no longer equal to the task. He was eighty-five at the time, and the last years of his pontificate had been marked by a scandal over documents and by a sense that the machinery of the Vatican had outgrown him.
 
