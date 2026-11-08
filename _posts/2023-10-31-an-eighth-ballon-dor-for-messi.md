@@ -2,10 +2,10 @@
 title: "An eighth Ballon d'Or for Messi"
 date: 2023-10-31 22:50:00 +0800
 categories: [sport]
-description: "Lionel Messi won his eighth Ballon d'Or in Paris on 30 October 2023, beating Erling Haaland and Kylian Mbappe, and Aitana Bonmati took the women's award after Spain won the World Cup."
+description: "Lionel Messi won his eighth Ballon d'Or in Paris on 30 October 2023, beating Erling Haaland and Kylian Mbappé, and Aitana Bonmati took the women's award after Spain won the World Cup."
 ---
 
-Lionel Messi collected the Ballon d'Or for the eighth time on 30 October, extending a record that he has held alone since 2021, and the vote was closer than the margin suggests. He finished ahead of Erling Haaland, who scored 52 goals in a season that ended with a treble at Manchester City, and Kylian Mbappe, who was third. The award recognizes the 2022-23 season, which for Messi ended with a World Cup winner's medal and for Haaland ended with three trophies.
+Lionel Messi collected the Ballon d'Or for the eighth time on 30 October, extending a record that he has held alone since 2021, and the vote was closer than the margin suggests. He finished ahead of Erling Haaland, who scored 52 goals in a season that ended with a treble at Manchester City, and Kylian Mbappé, who was third. The award recognizes the 2022-23 season, which for Messi ended with a World Cup winner's medal and for Haaland ended with three trophies.
 
 The voting rules explain part of the result. The jury of journalists from the hundred countries that vote weighs individual performance, team achievement and fair play, and the World Cup sits at the top of that hierarchy. Messi's tournament in Qatar, with seven goals and the decisive performance in the final, dominates a comparison with a club season in which he played in a weaker league and his team exited the Champions League early. That hierarchy has been criticized for weighting a four-week tournament above nine months of club football.
 
