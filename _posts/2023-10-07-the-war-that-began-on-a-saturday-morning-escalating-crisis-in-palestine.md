@@ -1,5 +1,5 @@
 ---
-title: "The war that began on a Saturday morning"
+title: "The war that began on a Saturday morning: escalating crisis in Palestine"
 date: 2023-10-07 23:50:00 +0800
 categories: [news]
 description: "Hamas fighters broke through the Gaza perimeter on 7 October 2023 and killed about 1,200 people in southern Israel, the deadliest day in the country's history, and Israel declared war and began a bombardment of the strip."
