@@ -1,5 +1,5 @@
 ---
-title: "Two one in Lusail"
+title: "Saudi Arabia beat Argentina and end a thirty-six match unbeaten run"
 date: 2022-11-22 23:30:00 +0800
 categories: [sport]
 description: "Saudi Arabia beat Argentina 2-1 at the World Cup, ending a thirty-six match unbeaten run and turning the group upside down."

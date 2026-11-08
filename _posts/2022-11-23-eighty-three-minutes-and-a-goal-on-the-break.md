@@ -1,5 +1,5 @@
 ---
-title: "Eighty-three minutes and a goal on the break"
+title: "Japan come from behind and beat Germany in eighty-three minutes"
 date: 2022-11-23 23:30:00 +0800
 categories: [sport]
 description: "Japan come from behind to beat Germany 2-1, one day after Argentina had lost to Saudi Arabia."

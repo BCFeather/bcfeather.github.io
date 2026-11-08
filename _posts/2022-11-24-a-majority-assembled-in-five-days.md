@@ -1,5 +1,5 @@
 ---
-title: "A majority assembled in five days"
+title: "Anwar Ibrahim is sworn in twenty-five years after his dismissal"
 date: 2022-11-24 23:00:00 +0800
 categories: [news]
 description: "Anwar Ibrahim is sworn in as Malaysia's tenth prime minister, twenty-five years after he was dismissed as deputy prime minister."

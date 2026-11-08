@@ -1,5 +1,5 @@
 ---
-title: "A fund that took thirty years to agree"
+title: "COP27 ends with a fund for climate losses and a quarrel about the cause"
 date: 2022-11-20 20:00:00 +0800
 categories: [news]
 description: "COP27 closes in Sharm el-Sheikh with a fund for climate losses, and with very little agreed on the cause of those losses."

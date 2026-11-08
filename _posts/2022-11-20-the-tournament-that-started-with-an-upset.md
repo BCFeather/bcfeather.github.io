@@ -1,5 +1,5 @@
 ---
-title: "The tournament that started with an upset"
+title: "Qatar opens the World Cup and loses the opening match"
 date: 2022-11-20 23:00:00 +0800
 categories: [sport]
 description: "The World Cup opens in Qatar, and the hosts lose their first match to Ecuador in front of a crowd that had waited twelve years."

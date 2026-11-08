@@ -1,5 +1,5 @@
 ---
-title: "A countdown written in chalk"
+title: "The number on the blackboard changed every morning that November"
 date: 2022-11-27 21:40:00 +0800
 categories: [essay]
 description: "Late November in the last year of middle school, when the number on the board was changed every morning and the walk home happened in the dark."

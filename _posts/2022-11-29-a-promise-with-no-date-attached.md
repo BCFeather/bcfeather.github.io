@@ -1,5 +1,5 @@
 ---
-title: "A promise with no date attached: the alliance puts Ukraine's membership on paper"
+title: "NATO puts Ukraine's membership on paper and attaches no date to it"
 date: 2022-11-29 23:00:00 +0800
 categories: [news]
 description: "NATO foreign ministers meet in Bucharest and repeat that Ukraine will join the alliance, without saying when or on what terms."
