@@ -1,6 +1,6 @@
 ---
 title: "Hello, world!"
-date: 2024-01-01 15:38:00 +0800
+date: 2023-05-01 15:38:00 +0800
 categories: [blog]
 description: "The first post on this blog, and what I hope to write here."
 ---
