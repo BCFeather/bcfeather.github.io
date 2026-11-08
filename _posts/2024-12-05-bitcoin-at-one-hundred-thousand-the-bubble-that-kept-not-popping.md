@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin at one hundred thousand: the bubble that kept not popping"
 date: 2024-12-05 18:20:00 +0800
-categories: [economics]
+categories: [business]
 description: "Bitcoin crossed $100,000 in December 2024, a figure that would have seemed absurd a decade ago. The milestone says as much about the money system as about the asset."
 ---
 
