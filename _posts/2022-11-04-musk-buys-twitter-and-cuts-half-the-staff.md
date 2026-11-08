@@ -1,5 +1,5 @@
 ---
-title: "Musk tells half of Twitter's staff their jobs are over after purchasing Twitter"
+title: "Musk tells half of Twitter's staff their jobs are over after the purchase"
 date: 2022-11-04 23:30:00 +0800
 categories: [business]
 description: "Elon Musk completes his purchase of Twitter and, within a week, tells roughly half the staff that their jobs are over."
