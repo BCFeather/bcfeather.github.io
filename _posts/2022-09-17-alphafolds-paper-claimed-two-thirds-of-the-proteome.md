@@ -2,7 +2,7 @@
 title: "AlphaFold's 2021 paper claimed two thirds of the proteome at near-experimental accuracy"
 date: 2022-09-17 21:50:00 +0800
 categories: [science]
-description: "DeepMind’s AlphaFold made a landmark advance in protein structure prediction. The model solved the decades‑old protein folding problem and achieved record results in the CASP14 blind test. Though its predictions are valuable hypotheses, they cannot replace experimental structures. Its open database has reshaped workflows across structural biology."
+description: "DeepMind's AlphaFold made a landmark advance in protein structure prediction. The model solved the decades‑old protein folding problem and achieved record results in the CASP14 blind test. Though its predictions are valuable hypotheses, they cannot replace experimental structures. Its open database has reshaped workflows across structural biology."
 ---
 
 A paper in *Nature* in July 2021, titled 'Highly accurate protein structure prediction with AlphaFold', described a method that predicts the three-dimensional shape of a protein from its sequence of amino acids. The authors were a team at DeepMind led by John Jumper and Demis Hassabis, and the problem they attacked had been open since the 1960s. Assessment came from CASP14, the blind test the community runs every two years, and the model placed first by a margin the organizers called unprecedented.
