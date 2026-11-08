@@ -1,5 +1,5 @@
 ---
-title: "Trade talks resume with the autumn’s deadlines"
+title: "Trade talks resume with the autumn's deadlines"
 date: 2025-10-27 16:42:00 +0800
 categories: [news]
 description: "The trade negotiations resumed in the last week of October with the deadlines that the autumn has fixed and the follow-ups that the summer's frameworks scheduled; the sessions will test whether the year's diplomacy can convert the frameworks into the settlements that the calendar requires. The resumption is the year's trade story in its decisive phase."

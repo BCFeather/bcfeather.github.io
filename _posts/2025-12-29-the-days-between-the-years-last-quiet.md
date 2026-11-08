@@ -1,5 +1,5 @@
 ---
-title: "The days between and the year’s last quiet"
+title: "The days between and the year's last quiet"
 date: 2025-12-29 10:37:00 +0800
 categories: [culture]
 description: "The days between the holiday and the new year arrived with the particular quiet that the calendar reserves for them: the year's business paused, the offices thinning, and the year's record waiting, in the last quiet, for the turning. The days between are the year's threshold, and the threshold's keeping is the pause before the new year."

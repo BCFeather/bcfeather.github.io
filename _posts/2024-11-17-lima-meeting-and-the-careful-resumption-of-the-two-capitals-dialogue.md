@@ -1,5 +1,5 @@
 ---
-title: "Lima meeting and the careful resumption of the two capitals’ dialogue"
+title: "Lima meeting and the careful resumption of the two capitals' dialogue"
 date: 2024-11-17 04:38:00 +0800
 categories: [news]
 description: "On the sidelines of the APEC summit in Lima, the Chinese and American presidents met for their third face-to-face conversation in two years, eleven days after the American election that neither side could ignore. The meeting was conducted with the care of two powers that disagree on everything and must talk about all of it."

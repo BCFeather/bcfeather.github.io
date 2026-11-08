@@ -1,5 +1,5 @@
 ---
-title: "Blue whale’s quiet comeback"
+title: "Blue whale's quiet comeback"
 date: 2026-05-21 15:37:00 +0800
 categories: [science]
 description: "Aerial surveys published this month counted more blue whales in the southern hemisphere than any survey has counted in fifty years, concentrated in the shipping lanes that the region's new speed rules have partially cleared. The recovery is real, and it is being measured in a way that the oceans have rarely allowed before."

@@ -1,5 +1,5 @@
 ---
-title: "Shutdown that almost was: Washington’s week of the spending fight"
+title: "Shutdown that almost was: Washington's week of the spending fight"
 date: 2024-12-21 13:05:00 +0800
 categories: [news]
 description: "In the week before Christmas, Washington took itself to the edge of a government shutdown and then pulled back: a bipartisan funding deal was wrecked in public, a replacement failed in the House, and a stripped-down bill passed just before the deadline, signed by the president on Saturday. The episode was a lesson in how the new politics of the capital will work."

@@ -1,5 +1,5 @@
 ---
-title: "Trade calendar: the summer’s sessions and the autumn’s stakes"
+title: "Trade calendar: the summer's sessions and the autumn's stakes"
 date: 2025-07-07 09:38:00 +0800
 categories: [news]
 description: "The trade negotiations that the year has conducted moved through the first week of July with the calendar that the summer has set: the European-American talks at their decisive stage, the consultations with the other partners continuing, and the autumn's deadlines already casting their shadows. The summer's sessions will determine whether the tariff era produces the settlements that its doctrine promises or the deadlocks that its costs threaten."

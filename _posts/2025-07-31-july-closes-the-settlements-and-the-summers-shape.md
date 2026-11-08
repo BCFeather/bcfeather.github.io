@@ -1,5 +1,5 @@
 ---
-title: "July closes with the settlements and the summer’s shape"
+title: "July closes with the settlements and the summer's shape"
 date: 2025-07-31 21:44:00 +0800
 categories: [culture]
 description: "The month that carried the European deal, the ceasefire and the Washington talks closed with the summer's shape coming into view: the tariff era's settlements accumulating, the war's pause holding, and the autumn's calendar already casting its shadows. July's record is the year's most consequential month so far, and the record's reading is the preparation for the autumn that it sets up."

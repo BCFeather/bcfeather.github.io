@@ -1,5 +1,5 @@
 ---
-title: "Yen’s long summer: Japan’s rate story"
+title: "Yen's long summer: Japan's rate story"
 date: 2026-10-05 18:33:00 +0800
 categories: [news]
 description: "The yen spent the summer of 2026 as the currency the whole world watched, and the watching has paid off in the most uncomfortable way: a currency that finally stopped falling, at the cost of a political argument that Japan has not had in a generation. The Bank of Japan's long, slow normalization is no longer an internal matter; it is the test case for whether an ageing economy can carry a rate cycle."

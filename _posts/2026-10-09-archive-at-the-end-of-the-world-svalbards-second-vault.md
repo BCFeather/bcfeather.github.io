@@ -1,5 +1,5 @@
 ---
-title: "Archive at the end of the world: Svalbard’s second vault"
+title: "Archive at the end of the world: Svalbard's second vault"
 date: 2026-10-09 11:07:00 +0800
 categories: [science]
 description: "The Svalbard Global Seed Vault took in its largest single deposit this week, and beside it a second vault opened that few news cycles will follow: a digital archive of the world's scientific and cultural record, stored on film that is designed to outlast every digital medium it is meant to protect. The island that holds the seeds now holds the code, and the two vaults raise the same question in different languages: what deserves to survive, and who decides."

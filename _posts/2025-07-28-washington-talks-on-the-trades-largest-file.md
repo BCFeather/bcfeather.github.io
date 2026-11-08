@@ -1,5 +1,5 @@
 ---
-title: "Washington talks on the trade’s largest file"
+title: "Washington talks on the trade's largest file"
 date: 2025-07-28 17:31:00 +0800
 categories: [news]
 description: "The negotiations between the world's two largest economies resumed in Washington at the end of July, with the delegations meeting for the sessions that the truce's expiration had made necessary and the summer's diplomacy had been preparing. The talks are the trade conflict's largest file, and the file's outcome will shape the year's remaining trade politics and the global economy that the two countries' trade anchors."
