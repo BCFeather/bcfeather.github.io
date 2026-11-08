@@ -5,7 +5,7 @@ categories: [news]
 description: "The standing committee of China's legislature removed Qin Gang as foreign minister on 25 July, seven months after appointing him, and reinstated Wang Yi, a former foreign minister who had moved to the party's foreign affairs office."
 ---
 
-China's top legislature, the Standing Committee of the National People's Congress, voted on Tuesday to remove Qin Gang from the post of foreign minister and appoint Wang Yi to take over the role. The same session also approved a change at the helm of the People’s Bank of China, replacing Yi Gang with Pan Gongsheng as central bank governor. The decisions were announced in official releases following the meeting.
+China's top legislature, the Standing Committee of the National People's Congress, voted on Tuesday to remove Qin Gang from the post of foreign minister and appoint Wang Yi to take over the role. The same session also approved a change at the helm of the People's Bank of China, replacing Yi Gang with Pan Gongsheng as central bank governor. The decisions were announced in official releases following the meeting.
 
 Qin Gang had assumed the foreign minister portfolio in December 2022, succeeding Wang Yi. A career diplomat with experience in the ministry's protocol division and a prior posting as ambassador to the United States, Qin led diplomatic engagements covering a wide range of bilateral and global issues during his months in office. Wang, by contrast, brings long-standing familiarity with the foreign ministry's work, having served as foreign minister for a decade before moving to the Central Foreign Affairs Commission in 2022.
 
