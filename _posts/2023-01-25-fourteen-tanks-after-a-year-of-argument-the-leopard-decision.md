@@ -1,5 +1,5 @@
 ---
-title: "Leopards: a decision that took a year and an morning"
+title: "Fourteen tanks after a year of argument: the Leopard decision"
 date: 2023-01-25 23:10:00 +0800
 categories: [news]
 description: "Germany announced on 25 January 2023 that it would send fourteen Leopard 2 tanks to Ukraine and allow partner countries to re-export theirs, and the United States announced deliveries of Abrams tanks the same day."

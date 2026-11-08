@@ -1,5 +1,5 @@
 ---
-title: "The Speaker race: fifteen ballots and a gavel without weight"
+title: "Fifteen ballots for one gavel: the Speaker race that ended at midnight"
 date: 2023-01-07 01:40:00 +0800
 categories: [news]
 description: "Kevin McCarthy was elected Speaker of the House on the fifteenth ballot at 12.38 a.m. on 7 January 2023, by 216 votes to 212, after four days in which the chamber could not swear in its own members."

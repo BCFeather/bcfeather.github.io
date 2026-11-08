@@ -1,5 +1,5 @@
 ---
-title: "Brasilia: the buildings that were taken on a Sunday"
+title: "A crowd on the Monumental Axis: the buildings that were taken on a Sunday"
 date: 2023-01-08 23:40:00 +0800
 categories: [news]
 description: "Thousands of supporters of the former Brazilian president overran the Congress, the Supreme Court and the presidential palace in Brasilia on 8 January 2023, and about fifteen hundred people were arrested in the following weeks."

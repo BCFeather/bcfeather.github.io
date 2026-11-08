@@ -1,5 +1,5 @@
 ---
-title: "Peshawar: a mosque inside a police compound"
+title: "A hundred dead at the midday prayer: the mosque inside a police compound"
 date: 2023-01-30 23:55:00 +0800
 categories: [news]
 description: "A suicide bombing at a mosque inside the Police Lines compound in Peshawar on 30 January 2023 killed about a hundred people, most of them police officers, and injured more than a hundred and fifty."

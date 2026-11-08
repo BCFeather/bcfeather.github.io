@@ -1,5 +1,5 @@
 ---
-title: "Six point five: a peak that had passed"
+title: "Six and a half per cent and falling: the peak that had passed"
 date: 2023-01-12 23:10:00 +0800
 categories: [economy]
 description: "United States consumer prices rose 6.5 per cent in the year to December 2022, the sixth consecutive decline from the peak of 9.1 per cent in June, and the lowest rate since October 2021."
