@@ -1,7 +1,7 @@
 ---
 title: "Probe that chased an asteroid across the solar system"
 date: 2026-07-12 09:52:00 +0800
-categories: [space]
+categories: [science]
 description: "Tianwen-2 has reached the asteroid 2016 HO3 after 400 days and about a billion kilometres of travel, taking up position twenty kilometres away and beginning its survey. It is China's first asteroid sample-return mission, and the approach has already paid off in one quiet way: its navigation data has shrunk the uncertainty in the asteroid's orbit by orders of magnitude."
 ---
 
