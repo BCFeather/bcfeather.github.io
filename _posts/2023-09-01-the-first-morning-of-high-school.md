@@ -2,10 +2,10 @@
 title: "The first morning of high school"
 date: 2023-09-01 21:20:00 +0800
 categories: [essay]
-description: "On 1 September 2023 the new first-years arrived at Chizhou No. 1 Middle School, a morning of name lists on notice boards, uniforms bought one size too large, and a building that seemed much bigger than the school they had left in June."
+description: "In late August the new first-years arrived at Chizhou No. 1 Middle School, a morning of name lists on notice boards, uniforms bought one size too large, and a building that seemed much bigger than the school they had left in June."
 ---
 
-The notice boards went up on the wall beside the main gate on the last afternoon of August, and by the morning of 1 September the lists had already been photographed and sent to a dozen group chats. Twelve classes, fifty-odd names in each, arranged in an order that nobody could explain and that every family studied for information about who would be in the same room for the next three years. The first-years arrived in white shirts and dark trousers that had been bought a size too large, on the advice of relatives who understood how fast a fifteen-year-old grows.
+The notice boards went up on the wall beside the main gate on the last few days of August, and by the morning of 1 September the lists had already been photographed and sent to a dozen group chats. Twelve classes, fifty-odd names in each, arranged in an order that nobody could explain and that every family studied for information about who would be in the same room for the next three years. The first-years arrived in white shirts and dark trousers that had been bought a size too large, on the advice of relatives who understood how fast a fifteen-year-old grows.
 
 The building is on a hill, and the walk from the gate to the first-year classrooms takes four minutes if the corridor is empty and ten when it is crowded. On the first morning it was crowded. Parents carried bedding and buckets and mosquito nets up the stairs, older students directed traffic with the confidence of people who had done this once themselves, and the teachers stood at the doors of their rooms with a list in one hand, ticking names. Somewhere on the third floor a boy discovered that his room had a window facing the playground and told everyone within reach.
 
