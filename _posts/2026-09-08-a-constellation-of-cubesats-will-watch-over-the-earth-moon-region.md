@@ -1,7 +1,7 @@
 ---
 title: "A constellation of cubesats will watch over the Earth-Moon region"
 date: 2026-09-08 09:14:00 +0800
-categories: [space]
+categories: [science]
 description: "At the Tiandu International Conference in early September, a Chinese-led team unveiled an international science programme to place thirty 12U cubesats in the Earth-Moon region by 2030, on orbits designed to let a small network do what giant observatories cannot. The payloads include a gamma-ray burst locator and an all-sky survey instrument, and the design is open to international partners."
 ---
 

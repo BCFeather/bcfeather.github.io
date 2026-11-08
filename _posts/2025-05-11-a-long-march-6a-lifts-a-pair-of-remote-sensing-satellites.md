@@ -1,7 +1,7 @@
 ---
 title: "A Long March 6A lifts a pair of remote-sensing satellites"
 date: 2025-05-11 22:10:00 +0800
-categories: [space]
+categories: [science]
 description: "At 21:27 on 11 May a Long March 6A lifted off from Taiyuan carrying the second group of Yaogan-40 satellites. The rocket is China's first medium-lift vehicle to bundle solid boosters with liquid core stages, and its cadence is becoming the quiet measure of a programme."
 ---
 

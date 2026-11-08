@@ -1,7 +1,7 @@
 ---
 title: "Chang'e-6 gives its far-side samples to the United Nations"
 date: 2026-09-16 13:58:00 +0800
-categories: [space]
+categories: [science]
 description: "On 14 September, China handed lunar samples collected from the far side of the Moon by the Chang'e-6 mission to the United Nations at a ceremony in Vienna, where they will be permanently displayed and made available to the world's scientists. The gift is the rarest scientific material any nation has donated, and it carries a diplomatic message about who shares the Moon."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "NASA launches Europa Clipper to look for a habitable ocean under ice"
 date: 2024-10-14 22:15:00 +0800
-categories: [space]
+categories: [science]
 description: "NASA's Europa Clipper lifted off on a Falcon Heavy on 14 October, beginning a five-and-a-half year journey to Jupiter, where it will make about fifty close passes over the moon's ice-covered ocean."
 ---
 
