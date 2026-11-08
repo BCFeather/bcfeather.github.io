@@ -1,0 +1,18 @@
+---
+title: "Eight years of one party end in Warsaw"
+date: 2023-12-13 21:40:00 +0800
+categories: [news]
+description: "Donald Tusk was sworn in as Poland's prime minister on 13 December 2023, ending eight years of rule by Law and Justice, at the head of a coalition that won a majority in October and spent two months waiting for the president to let it govern."
+---
+
+Donald Tusk was sworn in as prime minister on 13 December, two months after an election that his coalition had won and weeks after a vote in the Sejm that the outgoing government tried to avoid losing. The cabinet was formed by Civic Coalition, the Third Way alliance and the Left, which together hold 248 of 460 seats, and it took office with a programme of restoring judicial appointments, unblocking European funds and reversing eight years of institutional change. The outgoing prime minister, Mateusz Morawiecki, had been given the first attempt at forming a government by the president, a courtesy that consumed a month and never had the votes.
+
+An election on 15 October produced the highest turnout since 1989, above 74 per cent, and the largest vote for any opposition bloc in the post-communist period. Law and Justice won more seats than any single party but lost its majority, and its campaign against Tusk as a foreign agent, run on state television until the last week, did not survive contact with the count. The party's control of the public broadcaster, the prosecutors and the state companies had been the substance of its rule, and the vote was largely a judgment on that.
+
+The president, Andrzej Duda, is from the outgoing party and will remain until 2025, which sets the terms of the conflict. He can veto legislation, appoint judges and delay appointments, and he has said he will use those powers to protect what he calls the achievements of the past eight years. The new government's first acts were to take control of the public broadcasters and the state news agency, a step the president called unconstitutional, and the constitutional tribunal that Law and Justice packed will now be asked to judge the legality of the government that replaced it.
+
+European money is the immediate prize. About 110 billion euros of cohesion and recovery funds have been frozen since 2021 over the rule of law dispute, and the new government's first foreign visits were to Brussels, where it promised the judicial milestones the commission has asked for and asked for the funds to be released. Poland spent more on defence than any other NATO member in 2023 as a share of output, and the budget hole left by eight years of spending promises is the constraint on everything the coalition wants to do.
+
+Coalition government, in this case, is an alliance of convenience as much as of programme. Its parties disagree about abortion, about the role of the church and about economic policy, and the agreement that holds them together runs to four pages and 24 points. The Left signed it on condition that abortion law be liberalized within a hundred days, a promise that the president's veto makes difficult, and the agrarian wing will resist the environmental rules that come with European money.
+
+What ended on 13 December was a period in which one party governed alone with a plurality of the vote and a monopoly of state institutions, and did so with the tacit approval of a president from the same camp. What begins is a government that has to govern through a hostile head of state and a captured judiciary, with a majority that will hold only while three parties agree. Polish politics has been a contest of institutions for a decade, and the change of government has moved that contest rather than settled it.

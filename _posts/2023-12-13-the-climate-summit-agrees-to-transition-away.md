@@ -1,0 +1,18 @@
+---
+title: "The climate summit agrees to transition away"
+date: 2023-12-13 23:50:00 +0800
+categories: [science]
+description: "The Dubai climate summit closed on 13 December 2023 with a text that called on countries to transition away from fossil fuels in energy systems, the first such decision in thirty years of negotiations, and with the loss and damage fund finally operational."
+---
+
+Delegates closed the twenty-eighth climate conference in Dubai on 13 December, a day later than scheduled, with a decision that 198 parties accepted and that the presidency named the UAE Consensus. The text calls on countries to transition away from fossil fuels in energy systems in a just, orderly and equitable manner, accelerating action in the critical decade to 2030, and it is the first decision in the history of the process to name the cause of the problem. It does not use the words phase out, which a group of more than a hundred countries had demanded and which the presidency removed after the oil producers refused.
+
+The compromise was assembled in a night of drafting. The first draft, published on 11 December, described reducing consumption and production of fossil fuels as one option among several, a formulation that drew an open protest from the European Union and from the small island states whose survival is the argument for the whole process. The second draft restored the language about fossil fuels but attached it to a list of measures in which coal, oil and gas appear only as an implied target, and replaced phase out with transition away.
+
+Finance changed more than the verbs did. The loss and damage fund, agreed in principle at Sharm el-Sheikh a year earlier, was made operational on the first day of the conference with pledges that passed 700 million dollars by the end, of which the European Union and the United States supplied the largest shares. There were also pledges on methane, on renewable capacity tripling by 2030, on coal financing and on the reform of development banks, and the presidency claimed total finance mobilized above 85 billion dollars.
+
+Science gave the conference its benchmark. The first global stocktake, required by the Paris agreement every five years, concluded that the world is on course for about 2.5 to 2.9 degrees of warming this century, that emissions must fall 43 per cent by 2030 from 2019 levels to keep 1.5 degrees feasible, and that the policies currently legislated deliver a fraction of that. The stocktake is the document that the next round of national pledges must answer, and the text sets out eight headings under which those pledges will be assessed in 2025.
+
+Politics at the summit were regional and familiar. Saudi Arabia and its allies argued through the night that the conference should discuss emissions rather than fuels, the African group wanted language on finance before language on oil, and China described itself as a developing country while installing more renewable capacity than any other country in the world. The United States and the European Union held the line on fossil fuels in the final hours, and the compromise was accepted by the small island states with a speech that said the text was better than nothing and worse than the science.
+
+What the conference settled is that the direction of travel is now written into the process and that the speed remains voluntary. Every country will publish a plan in 2025, and none of those plans will be enforceable. The agreement also leaves the largest question where it began: the money for the transition in countries that cannot borrow at the rates available to the countries that caused the warming, which is the issue every summit has deferred and every summit has promised to solve next time.
