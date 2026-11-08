@@ -1,0 +1,18 @@
+---
+title: "Three billion parameters and a score of ninety-four"
+date: 2026-06-15 22:00:00 +0800
+categories: [science]
+description: "VibeThinker-3B scores 94.3 on AIME26 and 97.1 with test-time scaling, and its authors argue that verifiable reasoning compresses into few parameters."
+---
+
+A technical report posted to arXiv on 15 June describes a dense model with three billion parameters that scores ninety-four point three on AIME26. With a test-time method the authors call claim-level scaling the same model reaches ninety-seven point one, and it takes eighty point two pass at one on LiveCodeBench v6. On recent contests it had never seen it achieved a ninety-six per cent acceptance rate, which is a measure of whether its submissions would have been accepted. The model is called VibeThinker-3B, and it is being compared with systems hundreds of times larger.
+
+The training pipeline is built from three stages rather than one. Curriculum-based supervised fine-tuning introduces problems in an order that moves from easy to hard, so that the model meets the format of a solution before it meets a hard instance. Multi-domain reinforcement learning then rewards correct final answers across mathematics and code, with verifiable checkers supplying the signal. Offline self-distillation collects the model's own good trajectories and trains on them, which is a way of keeping quality without paying for it twice.
+
+Comparisons in the report place the model in the same band as first-tier systems, naming DeepSeek V3.2, GLM-5 and Gemini 3 Pro. Those claims deserve the usual discount, because benchmarks differ in prompting, in sampling budget and in how many attempts are counted. The report also reports ninety-three point four on IFEval, which measures whether a model follows format instructions, and that number is included to answer the obvious worry. A model tuned hard on reasoning often loses the ability to do what it is told.
+
+The paper's interpretation is more interesting than its scores. The authors propose what they call the parametric compression-coverage hypothesis, which separates two kinds of competence. Verifiable reasoning, the kind with a checkable answer, can be compressed into a small core of parameters, which is why three billion is enough to reach these scores. Open-domain knowledge and general competence require coverage, meaning breadth across facts and long-tail cases, and that part does not compress. Under this view small models are complementary to large ones rather than substitutes for them.
+
+That distinction explains a pattern visible across the year's releases. Small models keep posting numbers that belong to much larger systems on mathematics, on code and on anything with a checker, and they keep losing on tasks that need a wide memory of the world. The distinction also predicts where the next gains will come from, which is in the post-training pipeline rather than in scale. Whether the hypothesis survives contact with harder domains is the open question, and the report treats it as a hypothesis rather than a law.
+
+Caveats follow from the size of the claim and the size of the model. Test-time scaling flatters benchmarks where answers can be checked, because the model can generate and filter. Contamination in training data is a permanent risk for contests that appear in public archives, and the report's out-of-distribution test is designed against it rather than in its favour. What the numbers establish is that a three-billion-parameter model can be excellent at questions with right answers, and what they leave open is how far that excellence travels.
