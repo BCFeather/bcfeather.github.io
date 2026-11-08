@@ -1,11 +1,11 @@
 ---
-title: "European Cancer Organization pushes for fairer care across a divided continent"
+title: "European Cancer Organisation pushes for fairer care across a divided continent"
 date: 2023-05-12 03:54:00 +0800
 categories: [society]
-description: "The European Cancer Organization, a federation of clinicians and patient groups, is pressing for narrower gaps in cancer survival across Europe, where outcomes for common tumors can differ by more than 25 per cent between member states."
+description: "The European Cancer Organisation, a federation of clinicians and patient groups, is pressing for narrower gaps in cancer survival across Europe, where outcomes for common tumors can differ by more than 25 per cent between member states."
 ---
 
-Where a person lives in Europe still shapes the odds of surviving a cancer diagnosis, and a federation of clinicians, researchers and patient groups has made that gap the centre of its campaign. The body, known by its initials ECO, brings oncology societies and patient advocates from across the continent into one room and turns their evidence into recommendations for national governments and for the European Commission.
+Where a person lives in Europe still shapes the odds of surviving a cancer diagnosis, and a federation of clinicians, researchers and patient groups has made that gap the centre of its campaign. The body, European Cancer Organisation, known by its initials ECO, brings oncology societies and patient advocates from across the continent into one room and turns their evidence into recommendations for national governments and for the European Commission.
 
 Cancer is the second leading cause of death in Europe, and roughly 40 per cent of cases are considered preventable. The burden is also unevenly distributed: eastern member states record higher mortality for several cancers that western systems treat well, and the difference holds after age and income are taken into account. Prevention has therefore not translated into equal outcomes. Screening uptake, waiting times for scans and access to newer therapies vary sharply between western, eastern and southern member states, and pooled data from the European Cancer Inequalities Registry puts the survival gap for colorectal and breast tumors at more than 25 per cent between the best and weakest performing systems.
 
