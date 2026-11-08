@@ -1,5 +1,5 @@
 ---
-title: "A law signed on the south lawn"
+title: "Biden signs the Respect for Marriage Act on the south lawn"
 date: 2022-12-13 22:30:00 +0800
 categories: [culture]
 description: "President Biden signs the Respect for Marriage Act, which requires federal recognition of same-sex marriages performed in states that allow them."

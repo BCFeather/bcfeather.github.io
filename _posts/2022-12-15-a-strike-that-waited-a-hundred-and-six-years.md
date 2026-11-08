@@ -1,5 +1,5 @@
 ---
-title: "A strike that waited a hundred and six years"
+title: "Nurses in England strike for the first time in their college's history"
 date: 2022-12-15 23:30:00 +0800
 categories: [news]
 description: "Nurses in England, Wales and Northern Ireland walk out for the first time in the history of the Royal College of Nursing."

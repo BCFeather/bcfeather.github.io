@@ -1,5 +1,5 @@
 ---
-title: "Seven point one and a much shorter step"
+title: "Inflation falls to 7.1 per cent, the smallest monthly rise in a year"
 date: 2022-12-13 21:00:00 +0800
 categories: [economy]
 description: "United States inflation falls to 7.1 per cent in November, the smallest monthly rise in nearly a year."

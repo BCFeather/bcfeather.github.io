@@ -1,5 +1,5 @@
 ---
-title: "Six and a half metres of gold: the telescope is the breakthrough of the year"
+title: "Six and a half metres of gold: Science names the Webb telescope its breakthrough"
 date: 2022-12-15 18:00:00 +0800
 categories: [science]
 description: "Science names the James Webb Space Telescope its breakthrough of 2022, after a first year of images and disputed atmosphere results."

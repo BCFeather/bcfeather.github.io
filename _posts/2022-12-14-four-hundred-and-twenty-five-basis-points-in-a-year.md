@@ -1,5 +1,5 @@
 ---
-title: "Four hundred and twenty-five basis points in a year: the Fed slows to fifty"
+title: "The Fed slows to half a point after four hundred and twenty-five in a year"
 date: 2022-12-14 22:00:00 +0800
 categories: [economy]
 description: "The Federal Reserve raises rates by half a point, taking the policy rate to 4.25-4.5 per cent, and signals more to come."

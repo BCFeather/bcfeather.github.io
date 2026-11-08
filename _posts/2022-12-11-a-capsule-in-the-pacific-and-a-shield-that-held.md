@@ -1,5 +1,5 @@
 ---
-title: "A capsule in the Pacific and a shield that held"
+title: "Orion splashes down in the Pacific and the heat shield holds"
 date: 2022-12-11 23:00:00 +0800
 categories: [science]
 description: "Orion splashes down after twenty-five and a half days, and the Artemis I mission ends with a heat shield that did its work."
