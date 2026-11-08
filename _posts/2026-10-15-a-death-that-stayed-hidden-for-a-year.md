@@ -1,7 +1,7 @@
 ---
 title: "A death that stayed hidden for a year: what the Mei case reveals about gene-therapy trials"
 date: 2026-10-15 16:35:00 +0800
-categories: [health]
+categories: [science]
 description: In March 2025 a six-year-old girl died days after an experimental gene therapy in Shanghai. Her death was not made public for more than a year. A look at what the Mei case has exposed about how cutting-edge medicine is tried on patients.
 ---
 
