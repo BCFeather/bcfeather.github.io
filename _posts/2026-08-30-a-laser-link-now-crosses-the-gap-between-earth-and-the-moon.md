@@ -1,7 +1,7 @@
 ---
 title: "A laser link now crosses the gap between Earth and the Moon"
 date: 2026-08-30 16:08:00 +0800
-categories: [space]
+categories: [science]
 description: "On 28 August, a ground station in China and a lunar orbiter exchanged data over a laser link at 1.25 megabits per second up and 100 megabits per second down, the first time the country has run two-way laser communication across the 380,000-kilometre gap. The demonstration points the way to a future in which lunar missions no longer depend on radio alone."
 ---
 

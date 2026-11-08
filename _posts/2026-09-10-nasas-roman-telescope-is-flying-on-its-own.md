@@ -1,7 +1,7 @@
 ---
 title: "NASA's Roman telescope is flying on its own"
 date: 2026-09-10 17:53:00 +0800
-categories: [space]
+categories: [science]
 description: "The Nancy Grace Roman Space Telescope separated from its Falcon Heavy upper stage on 30 August and is now cruising toward the Sun-Earth L2 point, having unfolded its solar panels and sunshield. It carries a promise that is different from James Webb's: not deeper looks at single objects, but a hundred times the sky in one go."
 ---
 
