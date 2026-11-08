@@ -1,7 +1,7 @@
 ---
 title: "The super typhoon that crossed the island"
 date: 2024-09-07 21:30:00 +0800
-categories: [world]
+categories: [news]
 description: "Typhoon Yagi landed on Hainan on the sixth of September as a super typhoon. It crossed the island, hit the mainland, and then went on to the coast of Vietnam, where the damage was worse."
 ---
 

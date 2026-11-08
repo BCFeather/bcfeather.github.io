@@ -1,7 +1,7 @@
 ---
 title: "The fire that ran for three weeks"
 date: 2024-08-10 22:40:00 +0800
-categories: [world]
+categories: [news]
 description: "The Park Fire burned four hundred and thirty thousand acres in northern California. It was the fourth largest fire in the state's recorded history, and it was started by a man pushing a burning car down a slope."
 ---
 
