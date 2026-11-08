@@ -5,7 +5,7 @@ categories: [sport]
 description: "The Asian winter games opened in Harbin on the seventh of February, and the snow on the slopes is a manufactured product as much as a weather event."
 ---
 
-The Asian winter games opened in Harbin on the seventh of February, with a ceremony in a stadium that was built for the event and a schedule that runs for eight days across two clusters of venues. The competition is regional rather than global, and the scale is smaller than the Olympics that the same city hosted in 2009 for the winter universiade, and the local organisers describe it as a test of the infrastructure that the province has built.
+The Asian winter games opened in Harbin on the seventh of February, with a ceremony in a stadium that was built for the event and a schedule that runs for eight days across two clusters of venues. The competition is regional rather than global, and the scale is smaller than the Olympics that the same city hosted in 2009 for the winter universiade, and the local organizers describe it as a test of the infrastructure that the province has built.
 
 The snow is the part of the games that the visitors do not think about. A slope that is prepared for a race needs a base that is several metres deep, and the base is made by machines that spray water into cold air rather than by the sky. The water is pumped from a reservoir, the compressors run on electricity, and the cost of a season of snow is a line in the budget of every ski resort in the world.
 

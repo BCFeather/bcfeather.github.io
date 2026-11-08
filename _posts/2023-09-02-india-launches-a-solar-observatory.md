@@ -2,7 +2,7 @@
 title: "India launches a solar observatory"
 date: 2023-09-02 23:30:00 +0800
 categories: [technology]
-description: "The Indian Space Research Organisation launched Aditya-L1 on 2 September 2023, a spacecraft that will study the sun from a point 1.5 million kilometres from Earth where the view of the solar atmosphere is never interrupted."
+description: "The Indian Space Research Organization launched Aditya-L1 on 2 September 2023, a spacecraft that will study the sun from a point 1.5 million kilometres from Earth where the view of the solar atmosphere is never interrupted."
 ---
 
 A Polar Satellite Launch Vehicle lifted off from Sriharikota at about noon on 2 September with Aditya-L1, a spacecraft of about fifteen hundred kilograms carrying seven instruments. The mission is the space agency's first dedicated solar observatory, and it follows the landing of Chandrayaan-3 on the moon a week earlier, which has made this the most crowded month in the agency's history. The launch vehicle placed the spacecraft in a low orbit, and a series of engine burns over the following weeks will raise it towards its destination.

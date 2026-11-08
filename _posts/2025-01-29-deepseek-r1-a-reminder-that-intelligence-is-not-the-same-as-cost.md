@@ -2,7 +2,7 @@
 title: "DeepSeek R1: a reminder that intelligence is not the same as cost"
 date: 2025-01-29 20:35:00 +0800
 categories: [technology]
-description: "A low-cost reasoning model from a Hangzhou startup triggered a global rout in AI stocks and a sobering realisation. What the R1 moment says about the industry."
+description: "A low-cost reasoning model from a Hangzhou startup triggered a global rout in AI stocks and a sobering realization. What the R1 moment says about the industry."
 ---
 
 At the end of January 2025, a relatively unknown Chinese startup called DeepSeek released a reasoning model, R1, and within days it had done something few AI releases have done: it moved markets. Its cost was a fraction of its American rivals, its open-weights publication let anyone run it locally, and its performance on benchmark reasoning tasks drew comparisons to the leading closed models. The immediate consequence was a rout in technology stocks, with the chip maker NVIDIA alone losing hundreds of billions of dollars in market value in a single session as investors recalibrated what the hardware boom was worth.

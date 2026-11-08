@@ -5,7 +5,7 @@ categories: [business]
 description: "The first half of the year grew by five per cent, on a mix of exports, consumption and a shrinking property sector. The number is the target and the composition is the question."
 ---
 
-Half-year figures came from the statistics office at the end of June. The economy grew by five per cent in the first six months, which is the lower end of the range that the government had set for the year. The growth came from three places. Exports rose, helped by electronics and by electric vehicles. Household consumption rose, helped by travel and by eating out. Investment in factories rose, helped by a scheme that subsidises equipment.
+Half-year figures came from the statistics office at the end of June. The economy grew by five per cent in the first six months, which is the lower end of the range that the government had set for the year. The growth came from three places. Exports rose, helped by electronics and by electric vehicles. Household consumption rose, helped by travel and by eating out. Investment in factories rose, helped by a scheme that subsidizes equipment.
 
 Property shrank again. Investment in residential construction fell by about a tenth. Sales of new flats fell further, by a fifth in the largest cities. The sector used to contribute a fifth of the economy through construction and through the land sales that funded local budgets. The local budgets are the part that the number does not show. A county that sold land for a large share of its revenue three years ago sold very little this year, and it has cut spending on roads and on maintenance. Streets show the cut.
 

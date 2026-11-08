@@ -15,6 +15,6 @@ The counter-argument that gets raised in every school board meeting is that the 
 
 The second counter-argument is about the primary schools. If secondary schools start later, the buses have to serve the two groups in a different order, and the primary children end up starting earlier and waiting at home in the afternoon. The primary schedule matters too, and the research on young children is less clear, and a district that rearranges one bell is rearranging two.
 
-What the debate shows is how a well-established finding survives in a system that is organised around something else. The timetable is not really about learning. It is about the coordination of a few thousand households, and a change to it is a change to the shape of a working day for the whole district.
+What the debate shows is how a well-established finding survives in a system that is organized around something else. The timetable is not really about learning. It is about the coordination of a few thousand households, and a change to it is a change to the shape of a working day for the whole district.
 
 The schools that have moved the bell have not gone back. That is the most useful piece of evidence in the file, because it is the evidence that the disruption is survivable and the benefit is persistent, and districts that have not moved are still arguing about a change that other districts have already absorbed.

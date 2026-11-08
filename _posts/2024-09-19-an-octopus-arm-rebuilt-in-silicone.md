@@ -2,7 +2,7 @@
 title: "An octopus arm, rebuilt in silicone"
 date: 2024-09-19 18:05:00 +0800
 categories: [technology]
-description: "A Beihang and Tsinghua team built a sensorised soft octopus arm that reaches 1.5 times its own length, stretches its liquid-metal wiring by 710 per cent, and obeys one human finger through a wearable glove."
+description: "A Beihang and Tsinghua team built a sensorized soft octopus arm that reaches 1.5 times its own length, stretches its liquid-metal wiring by 710 per cent, and obeys one human finger through a wearable glove."
 ---
 
 An octopus arm is a robotics problem without a good rigid solution. It has no skeleton, infinite bending degrees of freedom, suckers along its full length, and a nervous system that runs mostly in the arm itself rather than the brain. Building a rigid manipulator that can reach into a crevice, wrap around an unknown object, and sense its own deformation is exactly the problem soft robotics exists to solve. On 29 November 2023 a team led by Zhexin Xie, with senior authors Li Wen of Beihang University, Yihui Zhang of Tsinghua University and Cecilia Laschi of the National University of Singapore, published in *Science Robotics* an electronics-integrated soft octopus arm, E-SOAM, that takes the biological model seriously rather than as decoration.

@@ -2,7 +2,7 @@
 title: "A night borrowed from sleep"
 date: 2026-01-24 20:30:00 +0800
 categories: [essay]
-description: "Revenge bedtime procrastination, the habit of staying up late to reclaim a few hours that the day took away, has become a recognised symptom of the always-on schedule. A short essay on the economics of the stolen night, and what the theft says about the day it compensates for."
+description: "Revenge bedtime procrastination, the habit of staying up late to reclaim a few hours that the day took away, has become a recognized symptom of the always-on schedule. A short essay on the economics of the stolen night, and what the theft says about the day it compensates for."
 ---
 
 The phrase is new and the behaviour is ancient: revenge bedtime procrastination, the deliberate postponement of sleep to reclaim a few hours that the day has taken. The person who does it is not insomniac, and not indifferent to rest. They are, by their own account, owed time. The day ran long, the evening was consumed by obligations that were someone else's priorities, and so the night, the only stretch of time that belongs to no one, is paid back by being stolen from the one irreplaceable account, sleep. It is a small act of rebellion, and like most rebellions it is expensive, and the price is paid by the person who staged it.

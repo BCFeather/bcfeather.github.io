@@ -2,14 +2,14 @@
 title: "The General Assembly backs Palestine's bid for full membership"
 date: 2024-05-10 22:55:00 +0800
 categories: [news]
-description: "The United Nations General Assembly voted 143 to 9 on 10 May to recognise that Palestine qualifies for membership and to ask the Security Council to reconsider its application, and to grant it new rights at the assembly."
+description: "The United Nations General Assembly voted 143 to 9 on 10 May to recognize that Palestine qualifies for membership and to ask the Security Council to reconsider its application, and to grant it new rights at the assembly."
 ---
 
-General Assembly voted on the tenth of May to recognise that Palestine meets the conditions for membership in the United Nations and to recommend that the Security Council reconsider its application, which the United States had blocked with a veto in April. Resolution passed with 143 votes in favour, nine against and twenty-five abstentions. Nine states joined the American and Israeli position, among them Hungary, Argentina, Czechia and several small Pacific islands.
+General Assembly voted on the tenth of May to recognize that Palestine meets the conditions for membership in the United Nations and to recommend that the Security Council reconsider its application, which the United States had blocked with a veto in April. Resolution passed with 143 votes in favour, nine against and twenty-five abstentions. Nine states joined the American and Israeli position, among them Hungary, Argentina, Czechia and several small Pacific islands.
 
 Text did more than restate a recommendation. It granted Palestine additional rights in the assembly and its subsidiary bodies, including the right to be seated among member states, to speak on issues relating to the Middle East, and to participate in conferences. It also said that Palestine would not gain the right to vote or to nominate candidates to United Nations bodies, which are reserved for member states, and that the arrangement would be temporary pending a decision on membership.
 
-Effect of the vote is political rather than legal. Membership in the United Nations requires a recommendation from the Security Council, and any such recommendation would be vetoed by the United States as long as it is made. What the resolution did was to demonstrate the isolation of the American and Israeli positions and to give Palestinians a status closer to that of a state in the machinery of the organisation, without changing the charter.
+Effect of the vote is political rather than legal. Membership in the United Nations requires a recommendation from the Security Council, and any such recommendation would be vetoed by the United States as long as it is made. What the resolution did was to demonstrate the isolation of the American and Israeli positions and to give Palestinians a status closer to that of a state in the machinery of the organization, without changing the charter.
 
 Israeli reaction was sharp and immediate. Ambassador called the vote a reward for terrorism and said the assembly had ignored the hostages held in Gaza, and the foreign ministry said the decision would strengthen Hamas and reduce the chance of a negotiated settlement. Palestinian ambassador said the vote was a step towards the recognition that his people have sought for decades, and he described the assembly as the conscience of the world, a phrase that has been used in the chamber many times.
 

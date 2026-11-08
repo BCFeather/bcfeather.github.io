@@ -2,7 +2,7 @@
 title: "Chang'e 6 team wins the world's top space award"
 date: 2025-10-03 09:20:00 +0800
 categories: [news]
-description: "At the opening of the 76th International Astronautical Congress in Sydney on 29 September, the Chang'e 6 mission team received the International Astronautical Federation's World Space Award, the highest honour in the field. The award recognises a mission that returned the first samples from the far side of the Moon, a first in the history of lunar exploration."
+description: "At the opening of the 76th International Astronautical Congress in Sydney on 29 September, the Chang'e 6 mission team received the International Astronautical Federation's World Space Award, the highest honour in the field. The award recognizes a mission that returned the first samples from the far side of the Moon, a first in the history of lunar exploration."
 ---
 
 At the opening ceremony of the 76th International Astronautical Congress in Sydney on 29 September, the team behind the Chang'e 6 mission received the International Astronautical Federation's World Space Award, the highest honour the field's global body bestows. The award went to the mission that, in the summer of 2024, landed on the far side of the Moon, scooped and drilled samples from its surface, and returned them to Earth: the first samples ever brought back from the Moon's hidden hemisphere, and one of the defining achievements of the current lunar era.

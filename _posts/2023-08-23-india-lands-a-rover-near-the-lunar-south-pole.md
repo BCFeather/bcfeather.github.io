@@ -2,7 +2,7 @@
 title: "India lands a rover near the lunar south pole"
 date: 2023-08-23 23:50:00 +0800
 categories: [technology]
-description: "The Indian Space Research Organisation's Chandrayaan-3 mission set its Vikram lander down near the lunar south pole on 23 August 2023, making India the fourth country to land softly on the moon and the first to reach that region."
+description: "The Indian Space Research Organization's Chandrayaan-3 mission set its Vikram lander down near the lunar south pole on 23 August 2023, making India the fourth country to land softly on the moon and the first to reach that region."
 ---
 
 The Vikram lander touched down at 18:04 Indian time on 23 August, after a descent of about nineteen minutes that the space agency broadcast live to an audience of millions. It came to rest on a plain at roughly sixty-nine degrees south, closer to the pole than any spacecraft has landed, and it began sending pictures within hours. India is now the fourth country to put a machine on the moon, after the Soviet Union, the United States and China, and the first to do so at that latitude.

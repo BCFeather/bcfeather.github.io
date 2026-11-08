@@ -2,7 +2,7 @@
 title: "Growth bounced back in the first quarter"
 date: 2026-05-01 09:23:00 +0800
 categories: [news]
-description: "The US economy grew at an annualised 2.0% in the first quarter of 2026, a sharp step up from 0.5% at the end of last year, the Bureau of Economic Analysis said on 30 April. The expansion held up even as the Middle East conflict kept energy markets on edge."
+description: "The US economy grew at an annualized 2.0% in the first quarter of 2026, a sharp step up from 0.5% at the end of last year, the Bureau of Economic Analysis said on 30 April. The expansion held up even as the Middle East conflict kept energy markets on edge."
 ---
 
 On the morning of 30 April, the Bureau of Economic Analysis published its first estimate of how the United States economy performed in the opening months of 2026, and the number was better than almost anyone had dared to expect. Real gross domestic product rose at an annualized rate of 2.0 percent in the first quarter, a sharp acceleration from the 0.5 percent recorded in the final quarter of 2025. In a year when the usual conversation has been about downside risk, a print this strong was a surprise rather than a forecast.

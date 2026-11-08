@@ -2,7 +2,7 @@
 title: "Munich prepares for the argument about security: the alliance's renegotiation"
 date: 2025-02-12 16:03:00 +0800
 categories: [news]
-description: "The Munich Security Conference opened its annual edition with the year's largest questions on the table: the war in Europe, the reliability of the American alliance, the European defence budgets that the war has forced into the open, and the discovery that the continent's security order is being renegotiated in real time. The conference's theme this year was written by events rather than by the organisers."
+description: "The Munich Security Conference opened its annual edition with the year's largest questions on the table: the war in Europe, the reliability of the American alliance, the European defence budgets that the war has forced into the open, and the discovery that the continent's security order is being renegotiated in real time. The conference's theme this year was written by events rather than by the organizers."
 ---
 
 The Munich Security Conference opened its annual edition in the second week of February, and the conference's theme, chosen months in advance by the organizers, had been overtaken by the events of the week: the negotiations over the war in Europe, the new American administration's redefinition of the alliance, and the European capitals' scramble to understand what the redefinition means for their own defence. The conference is the annual gathering where the security order is discussed; this year, the order itself was the question, and the question was being answered, in real time, by the events that the delegates had come to discuss.

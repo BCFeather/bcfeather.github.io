@@ -2,7 +2,7 @@
 title: "The week of the prizes and science's annual roll call"
 date: 2025-10-06 17:09:00 +0800
 categories: [science]
-description: "The scientific prizes opened their annual week in October, and the announcements carried the roll call that the committees have conducted for over a century: the discoveries recognised, the careers honoured, and the fields' direction signalled by the choices. The week is science's annual performance, and the performance's meaning is the measure of the work that the year's coverage otherwise cannot see."
+description: "The scientific prizes opened their annual week in October, and the announcements carried the roll call that the committees have conducted for over a century: the discoveries recognized, the careers honoured, and the fields' direction signalled by the choices. The week is science's annual performance, and the performance's meaning is the measure of the work that the year's coverage otherwise cannot see."
 ---
 
 The scientific prizes opened their annual week in October, and the announcements carried the roll call that the committees have conducted for over a century. The discoveries were recognized in the fields that the prizes cover, the careers were honoured with the citations that the committees prepare, and the fields' direction was signalled by the choices that the announcements made; the week is science's annual performance, and the performance's meaning is the measure of the work that the year's coverage otherwise cannot see. The announcements were made with the formality that the tradition requires, and the formality is the institution's guarantee that the choices will be weighed.

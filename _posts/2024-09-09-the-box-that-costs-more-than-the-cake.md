@@ -9,7 +9,7 @@ Mooncake season begins in August and ends on the day of the festival, the sevent
 
 Rule has changed the box. A tin that used to weigh more than the cakes inside is now a cardboard sleeve. Shelf space that held lacquer boxes in September now holds paper. The price has not changed much. A box of eight cakes sells for a hundred and sixty yuan in a department store and for forty in a supermarket. Difference is in the brand rather than in the cake.
 
-Gift is the transaction that matters. A household buys one box to eat and four to give. Four are chosen for the receiver rather than for the taste. A box that is recognisable is worth more than a box that is good. The corporate order is the largest single item. A company that buys three hundred boxes for its staff orders them in July and has them delivered to the office. Invoice is booked as a welfare cost.
+Gift is the transaction that matters. A household buys one box to eat and four to give. Four are chosen for the receiver rather than for the taste. A box that is recognizable is worth more than a box that is good. The corporate order is the largest single item. A company that buys three hundred boxes for its staff orders them in July and has them delivered to the office. Invoice is booked as a welfare cost.
 
 Vouchers are sold separately. A card that can be exchanged for a box in any store of a chain is the form that a gift takes when the giver does not know the receiver's taste. Card is resold at a discount in the week after the festival. The unsold stock is the part that the industry does not discuss. A cake that is not sold by the day of the festival is sold to a discount channel or returned to the factory. A factory that receives a return can reuse the filling and not the pastry.
 

@@ -5,7 +5,7 @@ categories: [news]
 description: "On 14 August, the World Health Organization declared the mpox outbreak in the Democratic Republic of the Congo and its neighbours a public health emergency of international concern, the second time it has issued its highest alert for the disease in two years. The new strain, clade 1b, is spreading faster and affecting children, and the alarm is the easy part."
 ---
 
-On the fourteenth of August the World Health Organization declared the mpox outbreak in central Africa a public health emergency of international concern. It was the second time in two years that the disease has earned the organisation's highest alarm. A director-general announced the decision after an emergency committee failed to reach a consensus. Declaring an emergency has become the easy half of the work. The world is skilled at the announcement and slow at the funding.
+On the fourteenth of August the World Health Organization declared the mpox outbreak in central Africa a public health emergency of international concern. It was the second time in two years that the disease has earned the organization's highest alarm. A director-general announced the decision after an emergency committee failed to reach a consensus. Declaring an emergency has become the easy half of the work. The world is skilled at the announcement and slow at the funding.
 
 Centre of the storm is the Democratic Republic of the Congo, where the disease has been endemic for decades. This outbreak is not the one that circled the globe in 2022. The country has counted more than twenty thousand suspected cases this year, in provinces where laboratory capacity to confirm them is thin.
 

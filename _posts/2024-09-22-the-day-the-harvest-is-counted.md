@@ -5,7 +5,7 @@ categories: [society]
 description: "The autumn equinox falls on the twenty-second, and since 2018 it has also been the festival of the harvest. The day is a celebration in the counties and a date in the calendar everywhere else."
 ---
 
-Autumn equinox falls on the twenty-second this year, when day and night are the same length. In the calendar of solar terms it is the sixteenth of the twenty-four. It divides the autumn in half. Since 2018 the day has also been the festival of the harvest. Designation was created to recognise the farmers who produce the grain. Ceremonies are held in the counties rather than in the cities.
+Autumn equinox falls on the twenty-second this year, when day and night are the same length. In the calendar of solar terms it is the sixteenth of the twenty-four. It divides the autumn in half. Since 2018 the day has also been the festival of the harvest. Designation was created to recognize the farmers who produce the grain. Ceremonies are held in the counties rather than in the cities.
 
 Harvest runs earlier in the south and later in the north. A rice field in the river valley is cut in September. A field of maize in the northeast is cut in October. Same date is a different task in the two places. The machinery has changed the labour. A combine that cuts and threshes in a day does the work that a village did in a week. Hands that used to be hired for the harvest are now hired for the drying.
 

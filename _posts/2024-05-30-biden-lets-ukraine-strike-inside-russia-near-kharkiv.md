@@ -2,10 +2,10 @@
 title: "Biden lets Ukraine strike inside Russia near Kharkiv"
 date: 2024-05-30 23:15:00 +0800
 categories: [news]
-description: "American officials confirmed on 30 May that President Biden had authorised Ukraine to use American-supplied weapons against military targets inside Russia for the defence of Kharkiv, while long-range missiles remained barred from deep strikes."
+description: "American officials confirmed on 30 May that President Biden had authorized Ukraine to use American-supplied weapons against military targets inside Russia for the defence of Kharkiv, while long-range missiles remained barred from deep strikes."
 ---
 
-American officials confirmed on the thirtieth of May that President Joe Biden had authorised Ukraine to use weapons supplied by the United States against military targets inside Russia, with the purpose limited to the defence of Kharkiv, the country's second city. Permission covers Russian forces massing near the border and artillery firing across it, and it does not extend to long-range missiles such as ATACMS, which remain restricted for strikes deep inside Russian territory.
+American officials confirmed on the thirtieth of May that President Joe Biden had authorized Ukraine to use weapons supplied by the United States against military targets inside Russia, with the purpose limited to the defence of Kharkiv, the country's second city. Permission covers Russian forces massing near the border and artillery firing across it, and it does not extend to long-range missiles such as ATACMS, which remain restricted for strikes deep inside Russian territory.
 
 Decision reversed a policy that had held since the start of the war. The administration had argued that allowing its weapons to be used against targets in Russia would escalate the conflict and invite retaliation against NATO territory, and it had refused repeated requests from Kyiv. Change was made after Russian forces opened a new front north of Kharkiv in early May and began shelling the city from positions just across the border, which Ukrainian commanders said they could see and could not hit.
 

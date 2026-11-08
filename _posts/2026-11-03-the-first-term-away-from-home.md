@@ -2,7 +2,7 @@
 title: "The first term away from home"
 date: 2026-11-03 01:36:00 +0800
 categories: [essay]
-description: "Three months into my first term at Sichuan University in Chengdu, the novelty has worn off and the ordinary days have begun. A short essay on dormitories, dialects, and the slow realisation of what leaving Chizhou actually is."
+description: "Three months into my first term at Sichuan University in Chengdu, the novelty has worn off and the ordinary days have begun. A short essay on dormitories, dialects, and the slow realization of what leaving Chizhou actually is."
 ---
 
 Nearly three months into my first term at Sichuan University, Chengdu has stopped being an event and become a place where I live. The famous landmarks no longer make me look up every time I pass. The metro map is no longer a maze, just a set of lines I have memorized by need. I know which canteen window serves food I can afford and which corner of the library stays quiet in the afternoon. The novelty has worn off, and in its place something more honest has arrived: routine, homesickness and the first evidence of the person I am becoming here.
