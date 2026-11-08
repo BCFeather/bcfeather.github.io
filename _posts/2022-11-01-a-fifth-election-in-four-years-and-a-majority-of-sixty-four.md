@@ -1,5 +1,5 @@
 ---
-title: "A fifth election in four years, and a majority of sixty-four"
+title: "A fifth election in four years, and Israel at last gets a working majority"
 date: 2022-11-01 22:10:00 +0800
 categories: [news]
 description: "Israel votes for the fifth time in less than four years, and the arithmetic at last produces a workable majority for Benjamin Netanyahu."

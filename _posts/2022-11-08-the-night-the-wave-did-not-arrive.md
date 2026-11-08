@@ -1,5 +1,5 @@
 ---
-title: "The night the wave did not arrive"
+title: "The Republican wave that the polls promised fails to reach the shore"
 date: 2022-11-08 23:50:00 +0800
 categories: [news]
 description: "Americans vote in the midterms, and a Republican sweep predicted for months fails to appear in the early counts."

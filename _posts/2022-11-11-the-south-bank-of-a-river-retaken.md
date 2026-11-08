@@ -1,5 +1,5 @@
 ---
-title: "The south bank of a river retaken"
+title: "Ukrainian troops enter Kherson as the Russian army crosses the Dnipro"
 date: 2022-11-11 23:20:00 +0800
 categories: [news]
 description: "Ukrainian troops enter Kherson city eight and a half months after it fell, and the Russian army withdraws across the Dnipro."

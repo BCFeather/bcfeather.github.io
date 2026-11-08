@@ -1,5 +1,5 @@
 ---
-title: "Half of a company leaves in an email"
+title: "Musk buys Twitter and tells half the staff their jobs are over"
 date: 2022-11-04 23:30:00 +0800
 categories: [business]
 description: "Elon Musk completes his purchase of Twitter and, within a week, tells roughly half the staff that their jobs are over."

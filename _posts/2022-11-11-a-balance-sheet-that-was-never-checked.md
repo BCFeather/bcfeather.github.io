@@ -1,5 +1,5 @@
 ---
-title: "A balance sheet that was never checked"
+title: "FTX files for bankruptcy and the trust underneath it disappears"
 date: 2022-11-11 22:00:00 +0800
 categories: [business]
 description: "FTX collapses into bankruptcy in Delaware, its founder resigns, and the largest trust in the crypto industry turns out to have rested on very little."

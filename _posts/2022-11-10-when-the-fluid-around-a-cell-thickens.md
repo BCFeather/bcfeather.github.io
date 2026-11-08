@@ -1,5 +1,5 @@
 ---
-title: "When the fluid around a cell thickens"
+title: "A tumour spreads faster when the fluid around it turns viscous"
 date: 2022-11-10 19:00:00 +0800
 categories: [science]
 description: "A paper in Nature reports that the viscosity of the fluid surrounding a tumour cell acts as a mechanical signal that encourages the steps by which cancers spread."

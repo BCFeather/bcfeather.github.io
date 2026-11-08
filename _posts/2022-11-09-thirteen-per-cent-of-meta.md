@@ -1,5 +1,5 @@
 ---
-title: "Thirteen per cent of Meta"
+title: "Meta cuts eleven thousand jobs as the advertising market cools"
 date: 2022-11-09 20:40:00 +0800
 categories: [business]
 description: "Meta cuts eleven thousand jobs, its first mass layoff, as the advertising market cools and the metaverse bill keeps growing."
