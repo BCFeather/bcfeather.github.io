@@ -4,6 +4,7 @@ date: 2022-11-18 22:00:00 +0800
 categories: [business]
 description: "Elizabeth Holmes is sentenced to more than eleven years in prison for fraud at Theranos, in a courtroom in San Jose."
 ---
+
 She entered the courtroom in the morning and sat with her lawyers while the judge read the reasoning behind the sentence. The count was one hundred and thirty-five months, or eleven years and three months, followed by three years of supervised release. The judge, Edward Davila, had presided over a trial that ran for nearly four months and had heard from patients, doctors and former employees. Sentence was announced on 18 November, in the federal courthouse in San Jose, more than three years after the company had dissolved and its assets had been sold for a fraction of what they cost.
 
 The case rested on a simple claim that turned out to be false. Theranos said its machines could run hundreds of tests on a drop of blood taken from a finger, and the company raised hundreds of millions of dollars from investors on the strength of that claim. The machines could run a handful of tests, and they produced results that were wrong often enough to endanger patients. Two people who had worked inside the company told a journalist what they had seen, and their account began the unraveling. The board, which included two former secretaries of state, had been kept in the dark for years.
