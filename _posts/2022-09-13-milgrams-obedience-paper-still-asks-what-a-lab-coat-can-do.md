@@ -5,7 +5,7 @@ categories: [culture]
 description: "A reading guide to the 1963 study of forty men and the shock machine, and to the archive work that changed how the results are read."
 ---
 
-Forty men in New Haven answered a newspaper advertisement in 1961 that offered four dollars for an hour of research on memory and learning, and the study they joined was published two years later in the Journal of Abnormal and Social Psychology. Stanley Milgram told each of them to give an electric shock to another man when he answered a question wrongly, and the shocks were to rise by fifteen volts with each error. The machine was a prop, the learner was an actor, and the men who obeyed went on to four hundred and fifty volts.
+Forty men in New Haven answered a newspaper advertisement in 1961 that offered four dollars for an hour of research on memory and learning, and the study they joined was published two years later in the *Journal of Abnormal and Social Psychology*. Stanley Milgram told each of them to give an electric shock to another man when he answered a question wrongly, and the shocks were to rise by fifteen volts with each error. The machine was a prop, the learner was an actor, and the men who obeyed went on to four hundred and fifty volts.
 
 Twenty-six of the forty, which is sixty-five per cent, continued to the highest level the dial allowed, and they did so after the learner had stopped answering and had begun to pound on the wall. Variations that Milgram ran afterwards are the more interesting part. The rate fell when the learner was in the same room, and it fell further when the experimenter gave his orders by telephone. Distance between the man who gives the order and the man who carries it out is the variable the study isolates.
 
