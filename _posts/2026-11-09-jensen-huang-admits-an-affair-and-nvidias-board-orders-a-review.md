@@ -1,6 +1,6 @@
 ---
 title: "Jensen Huang admits an affair and NVIDIA's board orders an independent review"
-date: 2026-11-09 18:40:00 +0800
+date: 2026-11-09 11:41:00 +0800
 categories: [business]
 description: "NVIDIA's chief executive told employees on 8 November that he had been unfaithful to his wife, and the same day the directors answered with a committee of independent directors and outside counsel."
 ---
