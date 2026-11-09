@@ -1,0 +1,18 @@
+---
+title: "The British railways stopped for three days"
+date: 2022-06-21 23:20:00 +0800
+categories: [business]
+description: "Forty thousand workers walked out on 21, 23 and 25 June in the biggest rail dispute since 1989, leaving about a fifth of services running while inflation climbed past nine per cent."
+---
+
+Members of the Rail, Maritime and Transport union struck on 21 June, and again on the twenty-third and the twenty-fifth, in a dispute covering Network Rail and thirteen train operating companies. About forty thousand workers took part, including signallers, guards and maintenance staff, and the operators ran roughly a fifth of their normal timetable on the first day. Stations that normally open before six in the morning stayed shut until eight.
+
+Cause of the dispute is pay and staffing. The employers offered a rise of about three per cent, conditional on changes to working practices that the union said would cut jobs and make shifts longer, and Network Rail proposed to shed about two and a half thousand maintenance posts as part of a plan to modernize how track is inspected. Wages in the industry had been held flat for two years during the pandemic.
+
+Inflation made the offer look worse than it was. The consumer price index reached nine point one per cent in May, published on 22 June, which meant that a three per cent rise was a cut in real terms and that the union could describe the offer as a pay reduction without exaggeration. Energy bills for a typical household were projected to double in October, and rail workers were being asked to accept a settlement before that happened.
+
+Disruption extended beyond the railway. Schools in some areas closed because staff could not travel, hospitals rescheduled appointments, and the hospitality industry in city centres reported losses on days when commuters stayed at home. The government's advice was to avoid travel, and businesses that had just recovered from two years of pandemic restrictions counted the cost in a week that also included the summer's first heatwave.
+
+Politics shaped the response. Ministers said the strikes were an attempt to hold the country to ransom and announced that agency staff would be allowed to replace striking workers, a change in the law that the unions said would make disputes harder to settle. The opposition Labour party accused the government of refusing to negotiate, and the two sides traded statistics about the cost of settling against the cost of disruption.
+
+No settlement emerged by the end of the week. The union said further dates would follow unless the employers improved the offer, and the employers said the money available was fixed by the government's spending plans. The dispute became the first of several that summer, involving postal workers, barristers and dockers, and the pattern suggested that a wage-price spiral was forming in sectors where unions retained bargaining power. What the week exposed is a mechanism that has been dormant for a generation. British rail strikes had been rare since the 1990s, and the country had forgotten how much of its daily routine depended on a service that runs on shift work and goodwill; three days of disruption produced a political argument about inflation that neither side could win, and the timetable for the rest of the summer depended on talks that had not yet begun.
