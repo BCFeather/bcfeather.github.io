@@ -1,6 +1,6 @@
 ---
 title: "Hello, world: the birth of BlogFeather"
-date: 2022-02-01 15:38:00 +0800
+date: 2022-01-01 15:38:00 +0800
 categories: [essay]
 description: "The first post on this blog, and an attempt to say plainly what this place is for: a public notebook, kept in the open, with room for three subjects and for being wrong."
 ---
