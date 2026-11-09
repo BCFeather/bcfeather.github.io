@@ -2,7 +2,7 @@
 title: "Hello, world!"
 date: 2022-02-01 15:38:00 +0800
 categories: [essay]
-description: "The first post on this blog, written on 1 May 2023, and an attempt to say plainly what this place is for: a public notebook, kept in the open, with room for three subjects and for being wrong."
+description: "The first post on this blog, and an attempt to say plainly what this place is for: a public notebook, kept in the open, with room for three subjects and for being wrong."
 ---
 
 Every blog has to start somewhere, and this one starts with a small admission: I have wanted a public notebook for years and kept finding reasons to postpone it. The reasons were respectable. A private file is easier to abandon, and an abandoned file leaves no evidence. Writing in public removes that comfort, which is the point. What follows is the first entry, and it is mostly an explanation of why there will be more.
