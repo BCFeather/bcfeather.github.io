@@ -1,0 +1,19 @@
+---
+slug: "breed-explains-only-nine-per-cent-of-a-dogs-behaviour-genomes-show"
+title: "Breed explains only nine per cent of a dog's behaviour, genomes show"
+date: "2022-04-29T23:59:00+08:00"
+categories: [science]
+description: "A study of eighteen thousand dogs and two thousand genomes found behaviour heritable and genetically traceable but barely predictable from breed, which challenges the pedigrees used for adoption, tenancy and insurance."
+---
+
+Dog owners and breed guides share a confident vocabulary about behaviour: retrievers fetch, herders stare, terriers dig. The vocabulary is old and heavily institutionalized, and it underpins the rules that landlords, insurers and trainers use to decide which animals are safe. A study published in *Science* this week tested the vocabulary against data and found that the labels explain much less of the variation than the guides suggest. The survey behind the study was built with behavioural researchers rather than with breeders, and that choice shaped the questions it could answer.
+
+The researchers collected survey responses from the owners of 18,385 dogs, roughly half of them purebred, and genotyped 2,155 of the animals. Owners answered standardized questions about greeting strangers, chasing, howling, retrieving, pointing and burying toys, and the team compared the answers across breeds, across individuals within breeds, and against the genome. The items were drawn from a standard instrument that veterinary researchers have used for two decades.
+
+Breed accounted for about nine per cent of the variance in behaviour. Individual dogs differed far more: many Labradors never retrieved, and about eight per cent of them howled, while a minority of greyhounds buried their toys. Genetic variation explained a larger share than breed did, because breed is only a coarse proxy for the genes that actually matter, and the heritability of most traits was above a quarter. Breed also failed to predict the traits that owners most often attribute to it, such as trainability or aggression towards strangers.
+
+The genomic analysis identified eleven loci associated with behaviour at a strict threshold, and another 136 that were merely suggestive. Several of the strongest sat near genes with known neurological functions, including one involved in the development of the oxytocin system, which is associated with sociability. None of them produced a clean breed signature, and the authors noted that the traits most typical of a breed are often the ones with the weakest genetic signal. The team compared its loci with those from earlier studies of breed differences, and the overlap was partial, which points to how much remains unmapped.
+
+A historical explanation is that modern breeds are young. Most of the recognized breeds were standardized in the past 160 years, and the selection pressure applied in that window, however intense, could not reshape a genome that had already been shaped by thousands of years of village dogs. Breed differences in appearance are the product of a few dozen genes with large effects; behaviour is spread across thousands with small ones. The clearest breed differences had been fixed by selection for work, and that selection also narrowed each breed's gene pool in ways that make causal inference difficult.
+
+Practical consequences are direct and slightly uncomfortable. Breed-specific legislation, insurance premiums that depend on pedigree, and rehoming advice that tells families that a certain breed suits children all rest on the assumption this paper undermines. The authors were careful to say that breeds do differ in tendencies and that a breeder's records still carry information. What the data reject is the notion that a dog's behaviour can be read off its pedigree, which is a claim that institutions have been making for a century.

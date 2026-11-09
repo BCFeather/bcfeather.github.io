@@ -1,0 +1,19 @@
+---
+slug: "reeves-raises-taxes-by-forty-billion-pounds-in-her-first-budget"
+title: "Reeves raises taxes by forty billion pounds in her first budget"
+date: "2024-10-30T22:35:00+08:00"
+categories: [economy]
+description: "The chancellor announced forty billion pounds of tax rises on 30 October, including a higher rate of employer national insurance and a lower threshold, and changed the debt rule to allow more borrowing for investment."
+---
+
+Chancellor Rachel Reeves presented her first budget on the thirtieth of October, and it raised taxes by about forty billion pounds a year by the end of the parliament, the largest increase in a single statement since the early 1990s. Bulk of the money comes from employer national insurance contributions, which rise from 13.8 to 15 per cent next April, and from a cut in the threshold at which employers start to pay, from 9,100 pounds a year to 5,000. Capital gains tax rose, inheritance tax was extended to unused pension pots from 2027, and private school fees will carry value added tax from January.
+
+Argument for the budget was fiscal rather than ideological. Government said it had found a shortfall of twenty-two billion pounds in the public finances left by its predecessor, and that the money was needed to fund hospitals, schools and the investment programme it had promised. Spending plans were set out alongside the tax rises, including capital budgets for housing, transport and energy that will rise by more than a hundred billion pounds over five years, paid for under a revised debt rule that excludes some investment from the measure of borrowing.
+
+Forecasts from the Office for Budget Responsibility were central to the statement and to its credibility. Watchdog said the tax measures and the spending would raise inflation by about half a percentage point at the peak and would add to growth in the near term, while leaving the medium-term outlook barely changed from its March forecast. It also said the budget would raise the tax burden to its highest sustained level since the 1940s, which is a figure the chancellor did not repeat and the opposition did.
+
+Reaction in markets was orderly, which was itself a verdict. Gilt yields rose slightly in the days after the statement and settled, and sterling was little changed. Investors had feared a repeat of the turmoil of 2022, when a previous government announced unfunded tax cuts and the pound fell to a record low. Difference this time was that the tax rises were permanent and the investment was scored by the watchdog, and the debt rule gave the government room without frightening the buyers of its bonds.
+
+Complaints came from the parts of the economy that will pay. Business groups said the national insurance change would fall hardest on retailers, care providers and hospitality, which employ large numbers of people at lower wages, and several said they would respond by cutting hours or slowing hiring. Small companies were partly protected by an increase in the employment allowance, and the Federation of Small Businesses said the help was insufficient for those just above the threshold. Farmers objected to the cap on agricultural property relief, which will bring large estates into inheritance tax from 2026.
+
+Political calculation behind the budget is a bet about time. Government has five years and a large majority, and the chancellor chose to take the difficult decisions early on the argument that they will fade before the next election. Opposition said the budget broke the promises on which the party campaigned, since the manifesto had ruled out increases in national insurance, and it described the threshold cut as a tax on working people by another name. Whether the bet works depends on whether the investment produces visible results before the next election, and on whether voters accept that the tax rises were unavoidable.

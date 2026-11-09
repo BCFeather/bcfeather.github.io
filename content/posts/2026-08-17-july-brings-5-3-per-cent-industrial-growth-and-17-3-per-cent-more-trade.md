@@ -1,0 +1,19 @@
+---
+slug: "july-brings-5-3-per-cent-industrial-growth-and-17-3-per-cent-more-trade"
+title: "July brings 5.3 per cent industrial growth and 17.3 per cent more trade"
+date: "2026-08-17T23:05:00+08:00"
+categories: [economy]
+description: "The National Bureau of Statistics reported on 17 August that industrial value added rose 5.3 per cent in the first seven months and services output 4.7 per cent, while goods trade grew 17.3 per cent. Services retail outpaced goods retail."
+---
+
+The National Bureau of Statistics released its July figures on 17 August, and the headline numbers describe an economy that is holding its line. Industrial value added rose 5.3 per cent in the first seven months from a year earlier, services output 4.7 per cent, and the surveyed urban unemployment rate stood at 5.2 per cent. Consumer prices were 0.9 per cent higher, a rate that officials describe as reasonable and that critics describe as too close to zero.
+
+Trade did the heavy lifting. Goods imports and exports together grew 17.3 per cent in the same period, and machinery and electronic products reached 63.8 per cent of exports, more than three points above last year. That shift in composition is the part that matters: a country selling more equipment and fewer commodities is moving up the value chain, whatever the headline total says. Export volumes to Europe held up despite the tariff schedule that took effect in late July. Exports of electric vehicles and batteries grew fastest of all, and the customs data show shipments to Europe rising even as the tariff schedule tightened.
+
+Consumption shows a similar tilt. Services retail grew 5 per cent, faster than retail sales of goods, and within goods the upgrading categories, communications equipment, office supplies and cosmetics, raised their share of the total by 2.6 points. Households are spending on experiences and on better things rather than on more things, a pattern that has held since the pandemic and that shows up in the travel figures each summer. Retailers have reported that shoppers trade up on durable goods while cutting back on everyday purchases, a pattern that leaves the total roughly flat.
+
+Investment points the same way. High-tech investment and spending on intellectual property both raised their share of the total, by 1.2 and 2.1 points respectively. That is slow-moving capital, committed for years, and it tends to survive a downturn better than a factory extension. Official figures also show spending on equipment growing faster than spending on buildings, which suggests that firms are automating rather than expanding. Private investment, however, has grown more slowly than the state's, and the gap has widened this year, which is why officials keep talking about confidence.
+
+The bureau's own summary is more cautious than the numbers. It notes a complex external environment, strong supply against weaker demand, and difficulties at some enterprises. The phrase supply strong, demand weak has become the standard description of the economy's central imbalance, and it appears in nearly every commentary that follows a release.
+
+What follows from that imbalance is the policy question of the autumn. Officials said they would step up counter-cyclical measures and work harder on domestic demand, which in practice means support for household income, services consumption and investment in things that pay back slowly. The July data buy time for those measures; they do not remove the need for them. Economists outside the government have been more direct, arguing that household demand needs transfers rather than exhortation, and that the current measures are too small to change the savings rate.

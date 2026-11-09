@@ -1,0 +1,44 @@
+baseURL = "https://bcfeather.github.io/"
+languageCode = "en"
+title = "BlogFeather"
+timeZone = "Asia/Shanghai"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+
+[taxonomies]
+  category = "categories"
+
+[permalinks]
+  posts = "/posts/:slug/"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+  page = ["HTML"]
+
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+  baseName = "feed"
+  isPlainText = false
+  rel = "alternate"
+
+[pagination]
+  pagerSize = 10
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[params]
+  tagline = "Your view also matters."
+  intro = "Observing the world, reflecting on current affairs and social phenomena, and sharing recent advances in STEM with a dose of rational thought."
+  socialName = "Caozhe Bao"
+  socialLink = "https://twitter.com/CaozheB72170"
+  email = "baocz2008@outlook.com"
+  github = "BCFeather"
+  twitter = "CaozheB72170"
+  fediverse = ""

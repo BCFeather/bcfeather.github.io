@@ -1,0 +1,19 @@
+---
+slug: "biden-commutes-the-sentences-of-thirty-seven-federal-death-row-prisoners"
+title: "Biden commutes the sentences of thirty-seven federal death row prisoners"
+date: "2024-12-24T09:30:00+08:00"
+categories: [news]
+description: "President Biden announced on 23 December that he had commuted thirty-seven of the forty federal death sentences to life without parole, keeping three men convicted of terrorism or hate-motivated mass murder on death row."
+---
+
+White House announced on the twenty-third of December that President Joe Biden had commuted the sentences of thirty-seven of the forty men on federal death row, converting their punishment to imprisonment for life without the possibility of parole. Three were excluded, and the statement named their categories rather than their names: Dylann Roof, convicted of the murder of nine people at a church in Charleston in 2015; Robert Bowers, convicted of the attack on a synagogue in Pittsburgh in 2018; and Dzhokhar Tsarnaev, convicted over the Boston Marathon bombing in 2013. All three were convicted of terrorism or of mass murder motivated by hatred.
+
+Justification given was consistency with the moratorium the administration imposed on federal executions in 2021. Biden said in the statement that he had dedicated his career to reducing violent crime and that he believed the federal death penalty should be abolished, and he described the commutations as the logical consequence of a policy that had already stopped executions at the federal level. Note added that the three exceptions reflected the category of crime rather than the merits of individual cases.
+
+Scale of the decision made it the largest single act of its kind in American history. Federal death row has been used sparingly, with three executions carried out in the final months of the previous administration, and the men whose sentences were changed had been held for decades while appeals ran their course. Commutations do not affect state death rows, which hold far more prisoners and where executions continue, and they do not amount to pardons, which would have required the release of the prisoners.
+
+Reaction split along lines that were familiar and unusually emotional. Families of victims gave interviews that ranged from acceptance to anger, and several said they had been told nothing before the announcement. Civil rights groups and death penalty opponents welcomed it and said the three exceptions were inconsistent with the argument that the punishment is unjust in every case. Republican legislators called it an abuse of power, and the president-elect said during the following week that his administration would expand the use of federal executions.
+
+Timing was deliberate and was read as such. Announcement came three days before Christmas and four weeks before the inauguration, when a successor who has promised to resume executions takes office. Legal effect is difficult to undo: a commutation is an exercise of the pardon power and cannot be reversed by a later president, so the thirty-seven will serve life sentences regardless of who holds office. What can be undone is the policy, and the machinery of federal executions, which the incoming administration has said it will restart.
+
+Argument about the death penalty in America has narrowed over the past two decades to a question of administration rather than principle. Executions fell to their lowest level in a generation during 2024, most states have either abolished the punishment or stopped carrying it out, and the federal government has now emptied most of its own death row. Decision of the twenty-third of December therefore marks less a change in national opinion than the point at which two consecutive administrations used the same power in opposite directions within four years.

@@ -1,0 +1,12 @@
+{{ $posts := where site.RegularPages "Type" "posts" }}
+{{ $posts = $posts.ByDate.Reverse }}
+{{ if $posts }}
+<section id="access-lastmod">
+  <h2 class="panel-heading">Recently Updated</h2>
+  <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
+    {{ range first 5 $posts }}
+    <li class="text-truncate lh-lg"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

@@ -1,0 +1,19 @@
+---
+slug: "trump-wins-south-carolina-by-about-twenty-points"
+title: "Trump wins South Carolina by about twenty points"
+date: "2024-02-25T21:08:00+08:00"
+categories: [news]
+description: "Donald Trump defeated Nikki Haley in her home state on 24 February, taking about 60 per cent of the vote to her 39.5, and winning all fifty of the state's delegates under its winner-takes-all rules."
+---
+
+Donald Trump won the South Carolina Republican primary on the twenty-fourth of February, defeating Nikki Haley in the state she governed for six years. With ninety-nine per cent of the vote counted, the tally stood at 59.8 per cent for Trump and 39.5 for Haley, according to the figures reported by CNN and confirmed in the state's official returns. Result was called by the networks within minutes of the polls closing, and the state's fifty delegates go to the winner in full. It was Trump's fourth straight victory in the nomination contest and the one his campaign had described as decisive.
+
+Haley had built her campaign around the argument that the party needed a candidate who could win a general election, and she had spent the weeks before the vote travelling the state with the endorsement of its governor and several of its members of Congress. Result showed that the endorsements of the local establishment were worth less than the support of the party's base, which has moved towards Trump over eight years. Exit polling suggested that a majority of primary voters did not believe Trump would be convicted of a crime, and that a large share said the legal cases against him were politically motivated.
+
+Demographic pattern was familiar from the earlier states. Trump won among voters without a college degree, among evangelicals and in the rural counties, and Haley won among college graduates, in the suburbs around Charleston and Columbia, and among voters who described themselves as moderate. Margin was smaller than in Iowa and larger than in New Hampshire, where she had lost by eleven points. Turnout was around the level of the 2016 primary, which is high for a contest that had been effectively settled a month earlier.
+
+Withdrawal did not follow. Haley said in her remarks that the campaign would continue to Super Tuesday on the fifth of March, when fifteen states vote, and she argued that a majority of Republicans wanted an alternative even if a plurality preferred Trump. Mathematics did not support her: the proportional rules of the earlier states had given Trump a large lead, and the winner-takes-all states that followed would extend it. Her calculation appeared to be that a legal event could change the race, and that staying in gave her the option to benefit from one.
+
+Broader significance was the consolidation of the party. In 2016 the Republican establishment spent months trying to stop Trump and failed. In 2024 the same figures either endorsed him or stayed silent, and the one candidate with a national profile and money to spend could not win in her own state. Re-election campaign of the American president, meanwhile, treated the result as evidence that the general election would be a rematch, and began spending on advertising aimed at Haley's voters rather than at Trump's.
+
+Money was the other measure of the result. Haley's campaign had raised substantial sums from donors who had never given to a Republican primary before, and her allied super PAC had spent tens of millions of dollars in South Carolina alone. Trump's operation spent a fraction of that and won by twenty points, which is the arithmetic that donors look at when they decide whether to keep writing cheques. Several of the largest Republican donors had already moved to Trump by the end of the month, and the ones who had not said they would wait for Super Tuesday.

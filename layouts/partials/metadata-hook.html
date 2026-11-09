@@ -1,0 +1,174 @@
+<!-- A placeholder to allow defining custom metadata -->
+
+<!-- Latin motto font: Cormorant Garamond italic -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+  href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600&display=swap"
+  rel="stylesheet"
+/>
+
+<!-- "Today" panel styles, versioned so a build never leaves a stale copy cached -->
+<link rel="stylesheet" href="/assets/css/side-today.css?v={{ now.Unix }}">
+
+<style>
+  /* Mobile: once the auto-hiding top bar is out of view, the theme's own sidebar
+     trigger reappears as a compact chip, so the drawer stays one tap away. */
+  @media all and (max-width: 849px){
+    #sidebar-trigger.nav-float{
+      position: fixed !important;
+      top: .5rem;
+      left: .5rem;
+      z-index: 1055;
+      width: 2.25rem;
+      height: 2.25rem;
+      padding: 0;
+      border-radius: 50%;
+      background: var(--main-bg, #fff);
+      border: 1px solid var(--main-border-color, #e9ecef);
+      box-shadow: 0 1px 6px rgba(0, 0, 0, .12);
+    }
+  }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var trigger = document.getElementById('sidebar-trigger');
+    if (!trigger) { return; }
+    function update() {
+      var show = window.innerWidth < 850 && window.scrollY > 64;
+      trigger.classList.toggle('nav-float', show);
+    }
+    update();
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+  });
+</script>
+
+<script>
+  /* The category cards' chevron is the theme's collapse trigger. Categories with no
+     child pages mark it disabled, so tapping that side of the card does nothing.
+     Let the whole header follow the category link instead. */
+  document.addEventListener('DOMContentLoaded', function () {
+    var headers = document.querySelectorAll('.card.categories .card-header');
+    Array.prototype.forEach.call(headers, function (head) {
+      var link = head.querySelector('a[href]');
+      var trigger = head.querySelector('.category-trigger');
+      if (!link || !trigger || !trigger.classList.contains('disabled')) { return; }
+      head.style.cursor = 'pointer';
+      head.addEventListener('click', function (ev) {
+        if (ev.target.closest('a')) { return; }
+        window.location.href = link.href;
+      });
+    });
+  });
+</script>
+
+<script>
+  /* Sidebar "Today" panel: built on every page from one static index and filtered
+     in the browser by the local date, so it turns over daily without a rebuild. */
+  (function () {
+    var QUOTES = [
+      ['Verba volant, scripta manent.', 'Latin proverb'],
+      ['Sapere aude.', 'Horace'],
+      ['Nullius in verba.', 'Motto of the Royal Society'],
+      ['Festina lente.', 'Latin proverb'],
+      ['Per aspera ad astra.', 'Latin proverb'],
+      ['Amor fati.', 'Friedrich Nietzsche'],
+      ['Veritas lux mea.', 'Latin motto'],
+      ['Cogito, ergo sum.', 'René Descartes']
+    ];
+
+    function el(tag, cls, text) {
+      var e = document.createElement(tag);
+      if (cls) { e.className = cls; }
+      if (text) { e.textContent = text; }
+      return e;
+    }
+
+    function build(data) {
+      var aside = document.getElementById('panel-wrapper');
+      if (!aside) { return; }
+      var access = aside.querySelector('.access');
+      if (!access || document.getElementById('side-today')) { return; }
+
+      var today = new Date();
+      var day = today.getDate();
+      var mon = today.getMonth() + 1;
+      var year = today.getFullYear();
+
+      var same = [];
+      (data.p || []).forEach(function (p) {
+        var v = Number(p.d);
+        var y = Math.floor(v / 10000);
+        var m = Math.floor((v % 10000) / 100);
+        var dd = v % 100;
+        if (dd === day && m === mon && y < year) {
+          same.push({ p: p, y: y });
+        }
+      });
+      same.sort(function (a, b) { return b.y - a.y; });
+
+      var q = QUOTES[(year * 372 + mon * 31 + day) % QUOTES.length];
+      var panel = el('section', 'side-panel');
+      panel.id = 'side-today';
+      panel.appendChild(el('h2', 'panel-heading', 'Today'));
+      panel.appendChild(el('p', 'side-date', today.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })));
+
+      var bq = el('blockquote', 'side-quote', q[0]);
+      bq.appendChild(el('cite', null, q[1]));
+      panel.appendChild(bq);
+
+      var dayWrap = el('div', 'side-day');
+      if (same.length) {
+        var it = same[0];
+        dayWrap.appendChild(el('p', 'side-label', 'On this day | ' + it.y));
+        var a = el('a', 'side-title', it.p.t);
+        a.href = it.p.u;
+        dayWrap.appendChild(a);
+      } else if (data.p && data.p.length) {
+        var r = data.p[Math.floor(Math.random() * data.p.length)];
+        dayWrap.appendChild(el('p', 'side-label', 'On this day'));
+        var a2 = el('a', 'side-title', 'Nothing filed for this date. Read a random piece');
+        a2.href = r.u;
+        dayWrap.appendChild(a2);
+      }
+      panel.appendChild(dayWrap);
+
+      var meta = (data.n || (data.p || []).length) + ' posts';
+      if (data.a && data.b) {
+        meta += ' | ' + data.a + '–' + data.b;
+      }
+      if (data.c) {
+        meta += ' | ' + data.c + ' categories';
+      }
+      panel.appendChild(el('p', 'side-meta', meta));
+
+      access.appendChild(panel);
+    }
+
+    function load() {
+      if (window.innerWidth < 1200) { return; }
+      if (!document.querySelector('#panel-wrapper .access')) { return; }
+      fetch('/assets/data/posts-index.json')
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .then(function (data) { if (data) { build(data); } })
+        .catch(function () {});
+    }
+
+    /* The panel needs a 190 KB index, so wait until the page is idle: the
+       visible page should finish first on a slow connection. */
+    function schedule() {
+      if ('requestIdleCallback' in window) {
+        window.requestIdleCallback(load, { timeout: 2500 });
+      } else {
+        window.setTimeout(load, 1200);
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', schedule);
+    } else {
+      schedule();
+    }
+  })();
+</script>

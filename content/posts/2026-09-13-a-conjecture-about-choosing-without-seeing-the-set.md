@@ -1,0 +1,18 @@
+---
+slug: "a-conjecture-about-choosing-without-seeing-the-set"
+title: "A conjecture about choosing without seeing the whole set"
+date: "2026-09-13T21:00:00+08:00"
+categories: [science]
+description: "A nine-page paper proves the matroid secretary conjecture with an online algorithm that accepts each element of the optimum with probability one quarter."
+---
+A nine-page paper posted to arXiv on 13 September settles a question that has been open since the early 2010s. Its single author, Sahil Singla, gives an online algorithm that accepts each element of the offline optimum with probability at least one quarter. The problem is the matroid secretary conjecture, and the claim in the title is that the conjecture is true. The result is theoretical, has no experiment in it, and is the kind of thing that changes how a family of problems is taught.
+
+The setting comes from the secretary problem, in which candidates arrive one at a time and a decision must be made immediately. In the classic version the goal is to pick the best applicant with a constant probability, and the known answer is one over e. The matroid version adds a feasibility constraint: the chosen set must be independent in a matroid, which is the structure that encodes spanning trees, matching constraints, partitions and a dozen other combinatorial rules. Any subset of the optimum has to remain feasible, and that is what makes the problem hard. Every such structure admits a family of independent sets, and the algorithm has to respect the family it is given.
+
+The conjecture was that the constant survives this generalization, that there is an online algorithm whose ratio against the offline optimum does not degrade as the structure becomes richer. Progress had come in pieces, with bounds for special classes of matroids and with algorithms that assumed a particular oracular model. The new result gives one algorithm, a quarter, and no assumption about the matroid being known in advance. The author's algorithm needs only the number of elements and independence queries on sets that have already arrived.
+
+A quarter is worse than one over e, and that gap is normal for a first proof of a general bound. The value of the result is that the constant is now independent of the structure, which means the online version of these problems is as tractable as the online version of hiring. Applications follow wherever a system must choose under constraints without seeing the whole input: ad allocation under budget rules, spectrum auctions, matching in a market that clears continuously, and any scheduler that commits before the full set arrives.
+
+Work of this shape also resets what counts as a hard question. Once a constant factor is established, the next targets become the exact constant, the query complexity, and the variants where the matroid arrives only as an oracle for independence. Each of those is a place where a quarter might be improved or where the assumption might be weakened further. The paper's proof technique will be borrowed and simplified, which is how a theorem becomes a tool.
+
+What a result like this cannot do is tell anyone what to build. There is no benchmark, no dataset and no implementation, and the constants in the analysis are large enough that the algorithm falls short of a practical recipe. Its value is conceptual, in the claim that a broad class of online decisions has a bounded price. Nine pages with one theorem is the least fashionable unit of computer science, and it is the unit that lasts.

@@ -1,0 +1,28 @@
+<footer aria-label="Site Info" class="d-flex flex-wrap flex-column justify-content-center text-muted flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3">
+  <aside class="site-disclaimer w-100" role="note" aria-label="Site disclaimer" style="flex: 0 0 100%; margin: 0 0 0.9rem; padding: 0.7rem 0.9rem; border-left: 3px solid #0056b2; background: rgba(0, 86, 178, 0.04); text-align: left;">
+    <p style="margin: 0; font-size: 0.78rem; line-height: 1.6; text-align: left;">
+      This site is a personal study journal only, not a news service. Posts here are reading notes, translations and
+      speculative exercises, and some are fiction written as practice. Nothing on this site is a report of fact about
+      any person or institution; please verify against primary sources before citing.
+    </p>
+  </aside>
+  <p class="latin-motto text-center">Verba volant, scripta manent.</p>
+  <p>© <time>{{ now.Year }}</time> <a href="{{ site.Params.socialLink }}">{{ site.Params.socialName }}</a>.
+    <span data-bs-toggle="tooltip" data-bs-placement="top" title="Except where otherwise noted, the blog posts on this site are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.">Some rights reserved.</span>
+    <br>
+    <a href="/license/">Licence</a>
+    <span class="mx-2 text-muted">|</span>
+    <a href="/copyright/">Copyright</a>
+  </p>
+  <p>Using the <a data-bs-toggle="tooltip" data-bs-placement="top" title="v7.6.0" href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a> theme for <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.</p>
+</footer>
+<script>
+  (function () {
+    if ('serviceWorker' in navigator && location.protocol === 'https:') {
+      var swUrl = '/sw.js';
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register(swUrl, { updateViaCache: 'none' }).catch(function () {});
+      });
+    }
+  })();
+</script>

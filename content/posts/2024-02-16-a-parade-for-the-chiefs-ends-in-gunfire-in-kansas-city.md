@@ -1,0 +1,19 @@
+---
+slug: "a-parade-for-the-chiefs-ends-in-gunfire-in-kansas-city"
+title: "A parade for the Chiefs ends in gunfire in Kansas City"
+date: "2024-02-16T20:58:00+08:00"
+categories: [news]
+description: "One person was killed and about twenty were wounded when shots were fired near Union Station at the end of the Kansas City Chiefs' Super Bowl parade on 14 February, and two juveniles were later charged in the case."
+---
+
+Gunfire broke out at the end of the Kansas City Chiefs' Super Bowl parade on the fourteenth of February, killing one person and wounding about twenty, several of them children. Shooting happened near Union Station, where the parade had ended and where the players had spoken from a stage a short time before. A local radio host, Lisa Lopez-Galvan, was killed. Police said the shooting appeared to have started as a dispute between people in the crowd and was not an attack on the parade itself. Two juveniles and two adults were charged later in the week, the adults with murder.
+
+Day had begun as a celebration of the team's third Super Bowl in five years. Hundreds of thousands of people lined the route, and the weather was unusually warm for February. Chiefs had beaten the San Francisco 49ers three days earlier in a game that went to extra time, and the parade was the culmination of a season that had been uneven and ended in the same place as two of the previous four. Players and coaches spoke from the stage, and the crowd was still in the plaza when the shots were fired.
+
+Response was the part that local officials had prepared for and still found difficult. Kansas City police had deployed hundreds of officers along the route, and they were able to move into the crowd within seconds of the first shots. Firefighters and paramedics treated the wounded at the scene, and hospitals in the city took in more than a dozen casualties, including nine children. Crowd that had been celebrating ran in every direction, and videos from the plaza showed people carrying children over barriers and hiding behind pillars. Area was cleared within an hour, and the police had a sequence of events within two days.
+
+Political reaction was immediate and predictable. The mayor said the city had been let down by the state's gun laws, and the governor said the response had been exemplary. Argument that followed was the one that follows every mass shooting in the United States: whether the problem is the availability of weapons or the failure of the systems that are supposed to keep them away from the wrong people. Missouri has among the loosest gun laws in the country, and Kansas City has among the highest rates of gun homicide of any American city of its size.
+
+Small case in a large problem is what the parade turned out to be. A public celebration with a crowd of a million people, ringed by armed police and watched from rooftops, was disrupted by a dispute that began among people who had come to celebrate the same thing. Wounded included a number of children, and the dead was a woman who had come to the parade with her family. Investigation continued into the spring, and the charges against the juveniles were for firearms offences and for resisting arrest, which left the central question of where the weapons came from in the hands of the federal prosecutors.
+
+City has been here before. Kansas City has an unusually high rate of gun violence for a city of its size, and the Missouri legislature has repeatedly loosened the rules on carrying and purchasing firearms, including a 2021 law that removed the requirement for a permit to carry a concealed weapon. Local officials have said for years that they cannot address the problem without state action, and the state has said for years that the problem is federal. The parade put the argument in front of a national audience for a week, and then the audience moved on.

@@ -1,0 +1,19 @@
+---
+slug: "helene-and-the-mountains-that-drowned"
+title: "Helene and the mountains that drowned"
+date: "2024-09-30T18:23:00+08:00"
+categories: [news]
+description: "In the late hours of 26 September, Hurricane Helene came ashore in the Florida Panhandle as a category-four storm and then moved inland with an energy that did not stop at the coastline. The floods that followed destroyed towns across the southern Appalachians, killed more than two hundred people and left the mountains of western North Carolina, a region that believed itself beyond such disasters, under water and cut off from the world."
+---
+
+Helene made landfall on the twenty-sixth of September near Perry, on the Florida Gulf Coast, as a category-four storm with winds of 140 miles an hour. Storms of that strength usually die against the coast. This one kept going, across Georgia and into the mountains of the Carolinas and Tennessee. In the Appalachian valleys it turned creeks into torrents and torrents into walls of water that took out roads, bridges and houses. More than two hundred people died, and most of them died inland rather than at the sea, which makes the storm the deadliest to reach America since Katrina in 2005.
+
+Geography is the lesson of the catastrophe. Western North Carolina is steep slopes and narrow valleys, a landscape that collects water beautifully in a normal week and fatally in a flood. Rain of more than two feet in seventy-two hours ran down those slopes and arrived in the valleys as a surge measured in vertical feet. No road built along a creek survives that.
+
+Chimney Rock was destroyed, its main street buried. Asheville, ninety thousand people in a bowl of mountains that had advertised itself as climate-proof, lost its water system, its roads and its link to the outside world for days. Crews that reached it described the landscape as unrecognisable. A region that had watched coastal hurricanes on television from a safe distance learned in a week what the coast has known for a generation. Mountains are not a refuge from these storms. They are a trap.
+
+Human toll is the part the statistics cannot hold. Among the dead were an infant carried from its mother's arms by the flood and families found in the debris of houses that had stood for generations. A count that passed two hundred kept climbing. It will not be final for months. Rescue teams worked through the mud knowing that every day reduced the chance of finding anyone alive. Helicopters flew where the roads were gone.
+
+Political response arrived with the storm. President Biden declared a major disaster and visited the region. Governors of the affected states coordinated with an efficiency that contradicted the national argument. The former president used a trip to Georgia within days to attack the administration's response and repeat claims about the finances of the Federal Emergency Management Agency that federal officials called false. Disaster relief will become one more front in the election, and the fight will obscure what the storm demonstrated.
+
+Recovery will take years. Appalachian towns that Helene destroyed were not wealthy. They were small communities, tourist economies, old houses, people for whom rebuilding is a question of survival rather than insurance. Inland flooding of this size belongs to a new climate, in which heat in the ocean and in the air arms storms with more water than the infrastructure was built to carry. The storm has gone. The season continues, and the questions it raised will be argued while the debris is cleared. Mountains that drowned are now on the map of the disasters that define this century, and the map, unlike the houses, cannot be rebuilt.

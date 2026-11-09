@@ -1,0 +1,19 @@
+---
+slug: "japans-new-defence-white-paper-runs-to-598-pages-and-loosens-the-guardrails"
+title: "Japan's new defence white paper runs to 598 pages and loosens the guardrails"
+date: "2026-08-05T23:10:00+08:00"
+categories: [news]
+description: "Tokyo published its 2026 defence white paper on 4 August, the first under Takaichi Sanae, in 598 pages that add chapters on new forms of warfare and on the defence industrial base. Beijing answered within a day, calling the document a false narrative and a pretext for rearmament."
+---
+
+Tokyo published its annual defence white paper on 4 August, the first produced under Prime Minister Takaichi Sanae, and the document runs to 598 pages. Two of those pages matter more than the rest: a new chapter on what the ministry calls new forms of warfare, and another on strengthening the defence production and technological base. The language throughout describes a security environment at its most severe since the Second World War, a phrase the previous editions used with more caution.
+
+Beijing answered quickly. The defence ministry spokesman, Chen Xi, said on 4 August that the paper offers a false account of the region and amounts to a thief crying thief, and the foreign ministry spokesman, Lin Jian, added on 5 August that the document smears China, comments on Taiwan affairs and interferes in Chinese internal matters. Both statements said formal representations had been made in Tokyo, and both described the paper as an excuse for military expansion rather than a description of threats. Japanese officials have since confirmed that the document was drafted before the budget submission, so its conclusions and its spending figures were written to match.
+
+The substance behind the rhetoric deserves attention. The paper gives unmanned systems and military applications of artificial intelligence a prominence they have not had before, and it treats sustained combat capacity as a planning assumption rather than a temporary requirement. It also extends capability building into space, cyber and the electromagnetic spectrum, with an explicit aim of cross-domain integration, meaning that a single operation could draw on all three at once. Read together, these commitments move the Self-Defence Forces away from the purely defensive posture that Japanese policy has claimed since 1945.
+
+The industrial chapter carries the money. Tokyo has been subsidizing defence firms, encouraging consolidation and pushing exports, and the paper links the sixth-generation fighter programme with partners in Europe to a wider ambition of selling Japanese equipment abroad. That sets up a loop in which industrial revenue funds further capability, and further capability justifies further revenue. Defence contractors that once lived on domestic orders now have shareholders who expect growth, and growth requires foreign customers.
+
+Politics sits behind the prose. The Takaichi government took office promising a harder line, and the white paper is the first budget argument of that tenure. Reports in late August described plans for three new departments in 2027 and for arming unmanned underwater vehicles with long-range missiles, details that the paper itself only gestures at. A document of this length exists to be cited in budget debates, in parliamentary questions and in the briefing notes that allied governments exchange. Opposition parties in the Diet have questioned the cost of the new capabilities and asked which threats the additional spending is meant to answer.
+
+The regional consequence is the part Tokyo cannot control. A Japan that buys long-range strike weapons, integrates space and cyber into war planning and exports its hardware invites answers from Seoul, Beijing and Moscow, and it gives every government in the region a reason to spend more. That spiral has a name in Japanese debate, and the white paper avoids it.

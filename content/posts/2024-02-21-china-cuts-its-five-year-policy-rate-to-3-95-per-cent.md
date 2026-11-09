@@ -1,0 +1,19 @@
+---
+slug: "china-cuts-its-five-year-policy-rate-to-3-95-per-cent"
+title: "China cuts its five-year policy rate to 3.95 per cent"
+date: "2024-02-21T21:22:00+08:00"
+categories: [news]
+description: "The People's Bank of China lowered the five-year loan prime rate by 25 basis points on 20 February, the largest cut since the mechanism was introduced in 2019, while leaving the one-year rate unchanged at 3.45 per cent."
+---
+
+People's Bank of China cut the five-year loan prime rate by a quarter of a percentage point on the twentieth of February, taking it from 4.20 to 3.95 per cent. One-year rate was left unchanged at 3.45 per cent. It was the first cut to the five-year rate since June 2023 and the largest single reduction since the loan prime rate mechanism was introduced in 2019. The rate is the reference for mortgages and for long-term corporate borrowing, and the reduction applies to new loans immediately and to many existing mortgages at the next repricing date.
+
+Cut was larger than the markets expected and was read as a signal about the priority of the year. Central bank had cut the reserve requirement ratio at the end of January, and the government had been under pressure to support a property market that has been contracting for two years. New home prices in the largest cities have been falling month on month, and the volume of sales has fallen further. Lowering the five-year rate reduces the monthly payment on a mortgage and lowers the cost of funding for local government financing vehicles, where a large share of the country's hidden debt sits.
+
+Deliberate is the asymmetry between the two rates. Cutting the one-year rate would have reduced the cost of short-term borrowing for banks and squeezed their margins, and the central bank has been protecting those margins while asking banks to lend more. Five-year cut is funded by a reduction in bank deposit costs that is expected to follow, and the effect on bank profitability is therefore smaller than the headline number suggests. Banks were told to keep mortgage rates at or above the new floor, which limits how much of the cut reaches borrowers with the best credit.
+
+Necessity of the move came from the economic backdrop. Consumer prices fell in January, producer prices have been falling for more than a year, and the economy grew at about five per cent in 2023 on the strength of exports and infrastructure rather than household consumption. Households have been paying down mortgages early rather than borrowing, and the savings rate has risen. Rate cut is a blunt instrument against that behaviour, and the government has been using others alongside it: subsidies for consumer goods, state purchases of equities, and a slower pace of local government debt reduction.
+
+Market reaction was modest, which is a measure of how much has already been priced in. Chinese equities rose slightly and the currency was stable, and the ten-year bond yield fell. The cut will reduce the interest burden on existing mortgages worth trillions of yuan, and it will not by itself change the decision of a household worried about the value of its home and the security of its job. That decision is the one the policy is trying to reach, and it has not yet been reached.
+
+Timing of the cut also fitted the political calendar. It came after the Spring Festival holiday, when the data on holiday spending had been published and had shown a recovery in travel without a matching recovery in consumption of goods. Officials had been signalling for weeks that support would come, and the loan prime rate is set monthly by a panel of banks quoting their best lending rates to the central bank. The cut was therefore a decision taken with the new year's targets in mind, and the next test will be whether credit demand responds during the spring construction season.

@@ -1,0 +1,19 @@
+---
+slug: "internet-explorer-was-retired-after-twenty-seven-years"
+title: "Internet Explorer was retired after twenty-seven years"
+date: "2022-06-15T21:20:00+08:00"
+categories: [technology]
+description: "Microsoft switched off the desktop browser that once ran on nine of every ten computers, leaving an emulation mode inside Edge for the corporate systems that still depend on it."
+---
+
+Microsoft retired Internet Explorer on 15 June, ending a run of twenty-seven years in which the browser went from an obscure add-on to the most widely used piece of software on earth and then to a cautionary tale. The desktop application stopped launching on versions of Windows that most people use, and links that would once have opened it now open Edge instead. Microsoft said that some government and corporate customers would keep access through a compatibility mode it has promised to maintain until 2029. The company marked the occasion with a short note on a support page and a reminder that Edge carries a mode that renders pages the way the old browser did.
+
+History of the product is the history of the browser wars in miniature. Internet Explorer shipped in August 1995 as part of a bundle, was given away free while its main rival charged for a licence, and by 2003 it held about ninety-five per cent of the market. The United States sued Microsoft in 1998 over the way it had tied the browser to the operating system, and the case established that a dominant firm could not use one product to smother another.
+
+Decline began with competition and ended with neglect. Firefox arrived in 2004 with tabs and better security, Google released Chrome in 2008 with a faster engine, and mobile devices made the desktop browser less central to how people read the web. Versions of Internet Explorer after the sixth were widely disliked by the developers who had to make websites work in them, because each release implemented standards differently and because the older versions refused to die. Reviews in the early years were favourable, and the integration with Windows made the browser the default for a generation of office workers.
+
+Code still carries the legacy. A generation of web pages was written to accommodate the quirks of Internet Explorer 6, and some of those pages still run inside banks, hospitals and tax systems that cannot be replaced quickly. The compatibility mode in Edge exists for exactly those cases, and Microsoft's promise to keep it running reflects an estimate that thousands of internal applications in large organizations still depend on it.
+
+Migration was slowest where procurement is slowest. Japan's government and several of its banks were still using the browser in large numbers in 2021, and the country's statistics showed Internet Explorer handling a share of domestic web traffic many times the global average. South Korean rules required an ActiveX control that ran only in Internet Explorer for online payments, and the requirement survived until 2021, when the country's electronic commerce law was amended.
+
+The retirement marks the end of an assumption. For most of the 1990s and 2000s, a browser came with the machine and the web was something you reached through a program the manufacturer had chosen. Now the browser is the operating system for most of what people do, and the fight over which one runs has moved to phones, where the same antitrust arguments have reappeared.

@@ -1,0 +1,19 @@
+---
+slug: "alabama-s-top-court-rules-that-frozen-embryos-are-children"
+title: "Alabama's top court rules that frozen embryos are children"
+date: "2024-02-18T21:18:00+08:00"
+categories: [news]
+description: "The Alabama Supreme Court held on 16 February, by seven votes to two, that frozen embryos are legally children, opening the way for wrongful-death claims and leading the state's largest hospital to suspend in vitro fertilization."
+---
+
+Alabama's Supreme Court ruled on the sixteenth of February that frozen embryos stored in a clinic are legally children under the state's wrongful death law. Decision, taken by seven votes to two, arose from a case brought by three couples whose embryos were destroyed when a patient entered a storage facility and removed them. Court held that the law's protection does not depend on where the child is located, and that an embryo outside a womb is still an unborn child for the purposes of the statute. Cases were sent back to the lower court for trial.
+
+Consequences were felt within days. The University of Alabama at Birmingham, the state's largest hospital system, suspended in vitro fertilization treatments while its lawyers assessed whether doctors and patients could face criminal or civil liability. Other clinics in the state followed or limited their services. Patients who had embryos in storage were told that their transfers might be postponed indefinitely, and patients in the middle of a cycle were left with drugs already administered and no procedure at the end of them. State's medical association said the ruling had created a situation in which the standard practice of fertility medicine could not be continued.
+
+Legal reasoning turned on wording that had been in the statute since 1872. Wrongful death act allows parents to sue for the death of a minor child, and the court's majority read the term child without a location qualifier. Dissent argued that the legislature had never intended the act to cover embryos and that the court was making a policy choice that belonged to the legislature. Both readings have been made in other states, and no other state supreme court had gone as far.
+
+Political reaction was immediate in both directions. Anti-abortion groups welcomed the ruling and said it recognized the humanity of the embryo from conception. Fertility doctors and patient advocates said it would make the practice of in vitro fertilization impossible in Alabama, because the standard cycle produces more embryos than can be transferred and the rest are either frozen indefinitely or discarded. Majority opinion itself mentioned that the embryos were stored at a facility and that the plaintiffs had wanted them, which made the case about negligence rather than about disposal.
+
+Within a month the state legislature had passed a law granting civil and criminal immunity to providers of in vitro fertilization for damage to or death of embryos, and the governor signed it. Clinics resumed some services, and the lawsuits continued under the original ruling. Courts in other states were asked to consider similar questions during the year, and the Alabama decision became a citation in every brief that touched on the status of an embryo.
+
+What the case exposed is a gap between two ways of describing the same thing. In the language of the statute, an embryo is a child whose death can give rise to a claim, and in the language of medicine it is a cluster of cells that may or may not be transferred. The court chose the first vocabulary and the clinics had to live with the second, and the legislature then wrote a third one that protected the doctors without answering the question the court had decided. That compromise held through the year, and it will be tested the next time a clinic loses a freezer.

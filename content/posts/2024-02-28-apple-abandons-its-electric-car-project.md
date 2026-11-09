@@ -1,0 +1,19 @@
+---
+slug: "apple-abandons-its-electric-car-project"
+title: "Apple abandons its electric car project"
+date: "2024-02-28T21:12:00+08:00"
+categories: [news]
+description: "Apple told staff on 27 February that it was ending the ten-year project to build an electric car, and that most of the team would move to work on generative artificial intelligence instead."
+---
+
+Apple told employees on the twenty-seventh of February that it was cancelling the project to build an electric car, ending a programme that had run for about a decade and had consumed billions of dollars. Decision was reported by several outlets the same day and confirmed by people briefed on it. Most of the roughly two thousand people working on the project were told they would move to the company's artificial intelligence division, and some were told they would be made redundant. News was delivered internally in a meeting that lasted about twelve minutes, and the company declined to comment publicly.
+
+Project, known internally as Titan, had been through several changes of direction. It began around 2014 with the ambition of a fully autonomous vehicle, and was later refocused on a car with driver-assistance features and a conventional steering wheel. Executives came and went, targets slipped, and the launch date moved from the late 2020s to 2028 and then beyond it. Company had never confirmed the project publicly, and its existence was established through hiring patterns, court filings and the testimony of people who had worked on it. Reports over the years put the spending at around ten billion dollars.
+
+Shift to artificial intelligence fits a pattern in which Apple has been slower than its rivals to commit to the technology. Voice assistant has fallen behind competitors in capability, and the company's own generative model work has been largely unpublished. Announcing the change in the same meeting in which the car was cancelled was a way of telling staff that the resources were being redirected rather than cut. AI division has been hiring, and the company has been negotiating with other model providers about the terms on which their technology could be used in its devices.
+
+Strategic logic is straightforward and was contested inside the company. Car is a low-margin, capital-intensive product in an industry with established manufacturers, heavy regulation and a long development cycle, and the market for electric vehicles has cooled in the past year as growth slowed and prices fell. Artificial intelligence is a technology Apple can sell inside hardware it already makes, at margins it already earns. Argument against the shift was that the car project had already absorbed the cost and that a launch was within reach, and that is the argument that lost.
+
+Cancellation says something about the company. It is willing to kill a project that has become too expensive to finish, which is a discipline its shareholders have generally approved of. It is also a reminder that the company's record on new product categories since the death of Steve Jobs is thin. Watch worked, headphones worked, the car did not, and the next attempt at a new category will be judged against a decade in which the most ambitious internal project ended in a meeting of twelve minutes.
+
+Industry reaction was mostly about the Chinese competition. Analysts noted that the company had been trying to build a car in the years when the market became the hardest in the world to enter, with price wars, oversupply and fast model cycles led by manufacturers in Shenzhen and Shanghai. A car priced at the top of the market would have been a small-volume product in a market that rewards scale. The cancellation was read in the trade press as an admission that the economics had never worked, and it was read by investors as a reason to be more interested in the company's software.

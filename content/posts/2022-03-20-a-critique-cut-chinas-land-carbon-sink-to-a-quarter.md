@@ -1,0 +1,19 @@
+---
+slug: "a-critique-cut-chinas-land-carbon-sink-to-a-quarter"
+title: "A critique cut China's land carbon sink to a quarter of the published figure"
+date: "2022-03-20T22:40:00+08:00"
+categories: [science]
+description: "Two years after a *Nature* paper put the sink at about 1,100 million tonnes of carbon a year, a second team added up the forest inventories and the satellites and could find only a quarter of it."
+---
+
+On 16 March 2022, *Nature* carried a paper that took aim at one of its own. Two years earlier, a team led by Wang Jing had used atmospheric measurements and an inversion model to estimate China's land carbon sink at about 1,100 million tonnes of carbon a year for 2010 to 2016, which was at least twice the range of the earlier inversions, between 180 and 510 million tonnes. The new paper, by Wang Yilong, Wang Xuhui and Zhu Dan of Peking University with colleagues in France and Australia, argued that the figure could not stand, and set out what the ground and the satellites said instead.
+
+Arithmetic supplied the first objection. Forests cover 188 million hectares of the country and supply about four-fifths of the sink, so the average forest would have to bury more than 460 grams of carbon per square metre each year, while measurements put net primary production between 567 and 843 grams. Between half and four-fifths of what the trees grow would then have to remain in the ecosystem as net production, and heterotrophic respiration would have to stay far below the litter falling on the floor, which runs against what an undisturbed forest does. The paper called the estimate ecologically implausible and left the arithmetic for the reader to check.
+
+Inventories gave the second objection. The eighth and ninth national forest surveys put the biomass sink at about 190 million tonnes a year, dead wood and soil added 50 million, and grassland, shrubland and cropland added 40 million, which sums to roughly 280 million tonnes. A satellite estimate of aboveground biomass, converted with a root-to-shoot ratio near a fifth and a soil term of 70 million tonnes, came out at about 320 million. Both sat near a quarter of the inversion.
+
+The inversion's weakest link turned out to be a single station. Shangri-La, on the edge of the Tibetan Plateau, sits in terrain that a global transport model with cells four degrees by five degrees cannot resolve, and a simulation at one kilometre found the concentration measured there to be systematically lower than the cell mean, by as much as five parts per million. Choosing a different model level moved the value by about two parts per million. The critique argued that the filter Wang Jing's team used, which discarded observations whose misfit was large, could not remove a bias of that kind, because the bias follows the terrain rather than the day.
+
+After adjusting for the carbon that leaves the country in traded crops, timber and river water, the gap narrowed by about 140 million tonnes and stayed open. The authors asked for a denser network of tall towers and for a routine reconciliation of top-down and bottom-up accounts. Wang Jing's team answered in the same journal that its inversion had assimilated the new stations deliberately and that the terrain error had been overstated, and the exchange closed without agreement on a number.
+
+Read as a methods paper, the critique is an argument about what a figure can carry. A sink inferred from the air depends on a model of how air moves over mountains, and a sink counted from the ground depends on surveys that record what is harvested and what is left standing. Each account is defensible and the gap between them is a factor of four, which is the distance between two ways of measuring the same continent. The pair is worth reading together, because the 2020 figure entered the carbon-neutrality debate within months and the correction has travelled far more slowly.

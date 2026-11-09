@@ -1,0 +1,42 @@
+{{ $current := . }}
+{{ $pool := where site.RegularPages "Type" "posts" }}
+{{ $sameCat := slice }}
+{{ with .Params.categories }}
+  {{ $cat := index . 0 }}
+  {{ $sameCat = where $pool "Params.categories" "intersect" (slice $cat) }}
+{{ end }}
+{{ $related := slice }}
+{{ range $sameCat }}
+  {{ if and (ne .RelPermalink $current.RelPermalink) (lt (len $related) 8) }}{{ $related = $related | append . }}{{ end }}
+{{ end }}
+{{ if lt (len $related) 8 }}
+  {{ range ($pool.ByDate.Reverse) }}
+    {{ if and (ne .RelPermalink $current.RelPermalink) (lt (len $related) 8) (not (in $related .)) }}{{ $related = $related | append . }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ if $related }}
+<aside id="related-posts" aria-labelledby="related-label">
+  <h3 class="mb-4" id="related-label">Further Reading</h3>
+  <nav class="related-scroll mb-4" style="display: flex; flex-wrap: nowrap; gap: 1rem; overflow-x: auto; overflow-y: hidden; padding-bottom: 0.5rem;" aria-label="Related Posts">
+    {{ range $related }}
+    <article class="related-card">
+      <a href="{{ .RelPermalink }}" class="post-preview card h-100">
+        <div class="card-body">
+          <time data-ts="{{ .Date.Unix }}" data-df="D MMM YYYY">{{ .Date.Format "2 Jan 2006" }}</time>
+          <h4 class="pt-0 my-2">{{ .Title }}</h4>
+          <div class="text-muted">
+            <p>{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 120 }}{{ end }}</p>
+          </div>
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </nav>
+</aside>
+<style>
+  .related-scroll { scroll-snap-type: x mandatory; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+  .related-scroll::-webkit-scrollbar { display: none; }
+  .related-scroll .related-card { flex: 0 0 300px; scroll-snap-align: start; }
+  @media (max-width: 576px) { .related-scroll .related-card { flex-basis: 84%; } }
+</style>
+{{ end }}

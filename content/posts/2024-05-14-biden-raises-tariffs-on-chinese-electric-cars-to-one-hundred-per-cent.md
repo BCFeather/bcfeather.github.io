@@ -1,0 +1,19 @@
+---
+slug: "biden-raises-tariffs-on-chinese-electric-cars-to-one-hundred-per-cent"
+title: "Biden raises tariffs on Chinese electric cars to one hundred per cent"
+date: "2024-05-14T23:40:00+08:00"
+categories: [economy]
+description: "The administration announced on 14 May that tariffs on Chinese electric vehicles would rise from 25 to 100 per cent, with increases on solar cells, semiconductors, batteries and steel, affecting about eighteen billion dollars of annual imports."
+---
+
+President Joe Biden announced higher tariffs on a range of Chinese goods on the fourteenth of May, including a quadrupling of the duty on electric vehicles from 25 per cent to 100 per cent. Solar cells will rise to 50 per cent, semiconductors to 50 per cent by 2025, and steel and aluminium products from between zero and 7.5 per cent to 25. Batteries, battery components and critical minerals will rise to 25 per cent, and some medical products including syringes and gloves will also face higher duties.
+
+Coverage of the measures is narrower than the announcement suggested. Affected imports were worth about eighteen billion dollars last year, which is a small fraction of the trade between the two countries, and the tariffs apply to goods that China sends to the United States in limited quantities. Electric vehicles are the clearest example: Chinese carmakers sell almost none in the American market because the existing 25 per cent duty and safety rules already make them uncompetitive there. Prices will therefore rise little, and the measures are unlikely to feed inflation in the way that a broad tariff would.
+
+Timing and purpose were political as much as economic. Announcement came in an election year, in a state where manufacturing jobs matter, and it was framed as a defence of American industry against subsidized competition. Officials said the measures were targeted at strategic sectors and that they would give domestic producers time to build capacity. They also said the review had been under way for two years and had been conducted by the trade representative rather than improvised.
+
+Chinese response was rapid and critical. Commerce ministry said the measures violated World Trade Organization rules and that it would take necessary steps to protect its interests, and state media described the announcement as a continuation of a policy that has failed. Beijing had already been investigating imports of American chemicals and had signalled that it would retaliate in areas where it has leverage, including agricultural products and aircraft.
+
+European allies watched with mixed feelings. The European Union has been investigating Chinese electric vehicles on its own and imposed provisional duties in July, and officials in Brussels said the American action made their case easier to defend politically. Carmakers in Germany, which sell heavily in China and fear retaliation, said the tariffs risked a trade conflict that would cost them more than they gain. Several analysts noted that the American measures cover a smaller share of trade than the European ones are likely to.
+
+Consequence over the next year will be measured in investment rather than in prices. Tariffs of this size change the calculation for any company deciding where to build a factory, and the administration said it expected Chinese firms to respond by moving production rather than by giving up the market. That has already begun in batteries and in solar equipment. Whether the policy produces a domestic industry or simply a more expensive supply chain depends on whether the subsidies in the Inflation Reduction Act and the tariffs work together, which is a question that will take years to answer.

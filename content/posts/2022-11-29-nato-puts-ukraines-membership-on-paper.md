@@ -1,0 +1,18 @@
+---
+slug: "nato-puts-ukraines-membership-on-paper"
+title: "NATO puts Ukraine's membership on paper and attaches no date to it"
+date: "2022-11-29T23:00:00+08:00"
+categories: [news]
+description: "NATO foreign ministers meet in Bucharest and repeat that Ukraine will join the alliance, without saying when or on what terms."
+---
+The meeting was held in the same city where, in 2008, the alliance had declared that Ukraine and Georgia would one day be members. That declaration had no membership action plan attached to it, and in the fourteen years since, the sentence had been quoted in every argument about what the West had promised and when. Bucharest had been chosen for this meeting partly for that reason, and the symbolism was discussed in the corridors before the first session began. Foreign ministers had met in Bucharest once before, in April 2008, and the communique of that summit is the sentence everyone still quotes.
+
+Ministers came together on 29 and 30 November, and their statement began with the war. It condemned the missile attacks on Ukraine's power grid, repeated the pledge of air defence systems, and said that Russia's attacks on civilian infrastructure were an attempt to freeze the country into submission. The text also promised generators, transformers and fuel for the winter, and money for repairs that would have to be done under fire. Vilnius was already being mentioned as the venue for the next full summit, where the question would come back with a different answer or none.
+
+Then it turned to membership. The text said that Ukraine's future lay in the alliance, that its application would be assessed, and that the door remained open. It also said that the alliance would continue to support Ukraine's armed forces for as long as it took, and that the reforms required of a member were being pursued in wartime. Nobody in the room pretended that this amounted to a timetable. Officials said the wording had been negotiated line by line, and that the verb would, rather than could, had been insisted upon by several delegations.
+
+The wording was careful because the members disagree. Some, particularly in the east, want a date and a fast track. Others, particularly in the west, want the question kept in a box until the fighting stops, and they say openly that a country at war cannot be admitted under article five without the alliance becoming a party to the conflict. The compromise was a paragraph that each side could read as a victory. Diplomats described three drafts circulating on the first morning, each with a different adjective in the same paragraph.
+
+Practical help was easier to agree than the politics. There were pledges of more air defence, of training for Ukrainian crews, and of money for the grid. The numbers were smaller than the damage, and the repair crews in Kyiv were already working through the night after each wave of missiles. Officials said that what had been promised would arrive in weeks rather than months. Germany had promised additional systems before the meeting, and its defence ministry published a list that ran to several pages.
+
+Bucharest produced a paper that restates a promise and postpones a decision. For the alliance the value of the promise is that it costs nothing while the war continues. For the government in Kyiv the value of a date would be considerable, and a date was the one thing the meeting did not provide. What Bucharest added was a sentence in a communique, and sentences of that kind are worth exactly what the next summit makes them worth.

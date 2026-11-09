@@ -1,0 +1,19 @@
+---
+slug: "trump-is-charged-over-the-2020-election"
+title: "Trump is charged over the 2020 election"
+date: "2023-08-01T23:50:00+08:00"
+categories: [news]
+description: "A grand jury in Washington returned an indictment against Donald Trump on 1 August 2023 charging him with four counts over his attempts to overturn the 2020 election, the third criminal case brought against him in five months."
+---
+
+The indictment ran to forty-five pages and described a campaign rather than a crime in the ordinary sense. Special counsel Jack Smith charged Donald Trump on 1 August with four counts stemming from his effort to remain in office after losing the 2020 election: conspiracy to defraud the United States, conspiracy to obstruct an official proceeding, obstruction of that proceeding, and conspiracy against the right to vote and to have one's vote counted. The document named six unindicted co-conspirators, identified by their conduct rather than their names, and it described a scheme that ran from election night to the attack on the Capitol.
+
+Evidence inside the filing came mostly from Republicans. The indictment quotes the vice president refusing to accept a plan to return electoral certificates, White House lawyers describing the theory as wrong, and state officials in Arizona and Georgia telling the president that their states had been called correctly. It cites a December 2020 message in which a campaign official told a member of the administration that the legal challenges would fail. The narrative technique is deliberate: the case is built from the testimony of people who worked for the defendant.
+
+Trump answered on the same evening, in a statement and then in posts, calling the prosecution political and predicting that it would help his campaign. He pleaded not guilty at his arraignment in Washington on 3 August, before Magistrate Judge Moxila Upadhyaya, and the case was assigned to Judge Tanya Chutkan, who has sentenced defendants from the Capitol riot and who has shown little sympathy towards the argument that a president cannot be prosecuted. Her courtroom will set the calendar, and the calendar will decide whether a trial happens before the election.
+
+The charges rest on statutes that courts have tested in the riot cases. Obstruction of an official proceeding was used against people who entered the Capitol, and an appeals court in Washington has upheld it in a ruling that the Supreme Court has agreed to review. If the review narrows the statute, part of the indictment would have to be rebuilt, which is why the special counsel has also charged the conspiracy counts that do not depend on it.
+
+Politics and law have become the same argument. Leading Republican candidates were asked at a debate whether they would support a nominee convicted of a felony, and most raised their hands hesitantly. Party officials in early states have said the primary calendar will not be moved for a trial. The six unindicted co-conspirators have been widely identified in the press as lawyers who advised the campaign, and none of them has been charged. The House speaker has described the prosecutions as an abuse of power and has opened an inquiry into the special counsel's funding, which is a constitutional argument conducted with subpoenas.
+
+A former president will now be tried in the city whose voters he tried to overturn, on charges that describe the attempt. The judge, the appellate courts and the election calendar will decide the order in which those things happen, and none of the three can be scheduled by a campaign.

@@ -1,0 +1,19 @@
+---
+slug: "blue-sky-rescue-evolves-from-amateur-volunteer-team-to-professional-humanitarian-ngo"
+title: "Blue Sky Rescue turns a volunteer team into a professional relief force"
+date: "2023-05-22T14:14:00+08:00"
+categories: [society]
+description: "Blue Sky Rescue, China's largest civilian rescue body, sent more than 300 volunteers to the earthquake zone in southern Türkiye in February 2023. The mission showed how far the group has moved from its amateur origins, and exposed the funding and insurance limits that civilian teams still face."
+---
+
+A convoy of volunteers with life detectors and lighting drones arriving in a collapsed city is an unusual sight, and it is what Blue Sky Rescue has become. The group, the largest civilian rescue body in China, sent more than 300 members to the earthquake zone in southern Türkiye in February 2023, where they worked through collapsed buildings alongside official teams and recovered both survivors and the dead. Foreign observers noted that the group's technical level resembled that of state rescue units. What the photographs did not show was the accounting behind the mission, which was paid for almost entirely by the people who went.
+
+Its origins were far less orderly. The movement grew out of the years after the Wenchuan earthquake of 2008, when untrained volunteers reached disaster sites and discovered that enthusiasm without tools or coordination costs lives. That lesson shaped everything that followed, and it explains why members now talk about drills and equipment more than they talk about courage. Members now go through long training in search and rescue, first aid, flood response and urban collapse work, and they carry certified equipment before they are deployed.
+
+Abroad, the February mission also exposed the limits of a civilian model. Volunteers largely paid their own travel and gear costs, insurance cover was thin, and cross-border logistics had to be arranged on the spot, often through contacts made during earlier missions. The team performed well, and the gap between its capability and its financing became visible at the same time.
+
+At home, the group answers calls that official services cannot reach quickly: floods in mountain valleys, missing walkers, wildfires and maritime accidents along stretches of coast where a professional team is hours away. The Henan floods of July 2021 offered the clearest demonstration of that role, when teams from several provinces moved boats and divers into waterlogged districts before outside help could arrive. It works alongside emergency departments rather than instead of them, keeps a neutral and non-profit stance and charges nothing for a rescue.
+
+The wider significance is that a volunteer sector of this size changes how disaster response works in China, and changes it at every level from the village committee to the provincial emergency bureau. Regional teams differ widely in skill and funding, and some branches lose experienced members to paid employment. The group is pressing for national training standards, accident insurance for volunteers and clearer coordination protocols with official agencies, which are precisely the points where a voluntary body runs into public administration. Until those rules exist, the network depends on the reputation of individual team leaders and on equipment donated by members.
+
+What holds the network together is a simple motive that members describe in almost identical words: reaching people who are trapped while there is still time, and doing it with equipment that works. As extreme weather becomes more frequent and more expensive, that capacity will be needed more often, and the question of who pays for it will become harder to postpone.

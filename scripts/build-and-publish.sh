@@ -1,18 +1,26 @@
 #!/usr/bin/env bash
-# Build the site on this machine and publish the finished HTML to the gh-pages
-# branch. GitHub Actions then only copies the artifact; it never runs Jekyll.
+# Build the site on this machine with Hugo and publish the finished HTML to the
+# gh-pages branch. GitHub Actions then only copies the artifact; it never builds.
 set -euo pipefail
 
 cd "$(dirname "$0")/.."
 
 : "${GITHUB_TOKEN:?GITHUB_TOKEN is not set}"
 
-export JEKYLL_ENV=production
-bundle exec jekyll build -d _site
+HUGO_BIN="${HUGO_BIN:-hugo}"
+if ! command -v "$HUGO_BIN" >/dev/null 2>&1; then
+  for candidate in ../toolchain/hugo ./toolchain/hugo; do
+    if [ -x "$candidate" ]; then HUGO_BIN="$candidate"; break; fi
+  done
+fi
+
+rm -rf public
+"$HUGO_BIN" --buildFuture --gc -d public
+python3 scripts/gen-json.py public
 
 work="$(mktemp -d)"
 trap 'rm -rf "$work"' EXIT
-cp -a _site/. "$work"/
+cp -a public/. "$work"/
 touch "$work/.nojekyll"
 
 cd "$work"

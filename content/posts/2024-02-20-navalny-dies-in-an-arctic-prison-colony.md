@@ -1,0 +1,19 @@
+---
+slug: "navalny-dies-in-an-arctic-prison-colony"
+title: "Navalny dies in an Arctic prison colony"
+date: "2024-02-20T22:05:00+08:00"
+categories: [news]
+description: "Alexei Navalny died on 16 February at a penal colony above the Arctic circle, according to the Russian prison service, and his death was reported two months after he was moved there and a year after he was last seen by his family."
+---
+
+Alexei Navalny died on the sixteenth of February at a penal colony in the Yamalo-Nenets region, above the Arctic circle, according to the Russian federal prison service. He was forty-seven. Service said he had fallen ill after a walk and died at the colony, and that the cause was being established. His mother was told of the death the following day and was initially refused access to the body, which was returned to her eight days later and buried in Moscow after a funeral attended by a few hundred people and watched by police.
+
+Move to the colony, known as IK-3 and located in the settlement of Kharp, had happened in December, after months in prisons in the Vladimir region. Transfer took twenty days by train and was announced to his lawyers only after it was complete. Allies had warned at the time that the conditions in the Arctic colony were harsher than anything he had faced, and that the isolation was designed to break contact with the outside world. He had been sentenced in August 2023 to nineteen years on charges of extremism, added to an earlier eleven-year term.
+
+Poisoning in 2020 had nearly killed him, and German and other laboratories identified a nerve agent of the Novichok class. He returned to Russia in January 2021 knowing that he would be arrested at the airport, and was arrested on arrival. Investigations into official corruption were what he built his movement on, published as videos that were watched by millions and that named officials and their property. Most prominent of them, released in January 2021, concerned a palace on the Black Sea coast, and it was followed by a series of films about governors, prosecutors and state contractors.
+
+Reaction outside Russia was fast and nearly unanimous among Western governments. The American president said the death was a consequence of the Russian system, and European leaders said the same thing in different words. Kremlin said it had no information beyond the prison service's statement and that Western statements were unacceptable. Inside Russia, hundreds of people were detained at memorials in cities across the country in the days that followed, and police removed flowers and photographs from the sites where they gathered.
+
+What the death does to the opposition is the open question. Movement had been organized around a single figure for a decade, and his imprisonment had already forced it abroad and into exile. People who worked with him said the structure would survive him, and the structure had been weakened by the charges, the raids and the emigration. His widow, Yulia Navalnaya, said in a statement that she would continue his work. Russian government has not permitted an independent investigation, and the questions about what happened in the colony are likely to remain open for years.
+
+Circumstances of the death have been disputed since the day it was announced. Prison officials said he collapsed after a walk and that resuscitation failed, and a death certificate given to his mother listed the cause as natural. His team said he had been in good health and had appeared in court the previous day, and they published a schedule that showed he had been held in punishment cells repeatedly during the previous months. Independent forensic examination was not permitted, and the body was buried before any could take place. What is known is that he died in a colony where temperatures fall below minus thirty in winter and where visits from lawyers had been restricted for months.

@@ -1,0 +1,18 @@
+---
+slug: "warnock-wins-the-georgia-runoff"
+title: "Warnock wins the Georgia runoff and the Senate settles at fifty-one"
+date: "2022-12-06T23:30:00+08:00"
+categories: [news]
+description: "Raphael Warnock wins the Georgia runoff, and the Senate settles at fifty-one seats for the Democratic caucus."
+---
+Georgia's runoff was a four-week campaign grafted onto a general election, and it ended on the evening of 6 December. Raphael Warnock, the pastor who had first won the seat in another runoff two years earlier, beat Herschel Walker, the former football player who had been persuaded to run by the previous president. The margin was close by the standards of a statewide race and comfortable by the standards of the polls that had preceded it. Both candidates had spent the four weeks of the runoff raising money in other states and buying television time in Atlanta.
+
+The state's rules required the runoff because neither candidate had reached fifty per cent in November. A third-party candidate had taken enough votes to keep both men below the line, and the law does not allow a plurality to settle the matter. Georgia had written that rule into its code decades earlier, with a history of white primary elections behind it, and the runoff has since become the state's most unreliable political instrument. The state's runoff law exists so that a winner can claim a majority, and in practice it has usually produced one.
+
+Turnout fell from the general election, as it always does in a contest held four weeks later. The campaigns concentrated on the cities and on the suburbs that had swung in the previous cycle, and both of them spent most of their money on television. The incumbent used his pulpit and his record, and the challenger used the endorsement of the man who had recruited him. Voters who turned out in the general election stayed home in large numbers, and the ones who came were older and more partisan.
+
+The result changes the arithmetic of the Senate by one seat. A majority of fifty-one means the Democrats can lose a vote and still confirm a judge or pass a budget through reconciliation, because the chamber's tie-break no longer depends on the vice president. It also means one member of the caucus can no longer hold the entire agenda hostage by threatening to vote with the other side. Fifty-one seats gives the Democratic caucus a margin that survives a single defection and not two, which is why the committees were reorganized within a week.
+
+For Georgia the runoff has a cost that its officials have calculated more than once. Two elections in a month means two sets of poll workers, two sets of mailings and two weeks of advertisements after the votes have been counted the first time. Some legislators had promised to change the threshold after the previous runoff, and the promise had not survived the session. Herschel Walker had been recruited by the former president and had campaigned on his name rather than on a platform, and the result suggested the name was no longer enough.
+
+By the following morning the count was complete and the seat had changed hands for the second time in two years. A state that had voted Republican in every presidential election since 1996 had sent two Democratic senators to Washington, and the second of them owed his place to a rule written long before either of them was born. The count was certified in the county offices, and the secretary of state, who had refused pressure two years earlier, signed the paperwork without comment.

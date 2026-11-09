@@ -1,0 +1,17 @@
+---
+slug: "midterms-and-the-midpoint-of-the-term"
+title: "Midterms and the midpoint of the term"
+date: "2026-11-04T09:40:00+08:00"
+categories: [culture]
+description: "By the first week of November the semester has crossed its midpoint, and the exams that go by the name of midterms arrive as a collective state. They divide the term into two halves the way a cut divides a film, and they do something to the rhythm of the weeks that no syllabus quite accounts for."
+---
+
+By the first week of November the semester has crossed its midpoint, and the exams that go by the name of midterms arrive as a collective state. They divide the term into two halves the way a cut divides a film, and they do something to the rhythm of the weeks that no syllabus quite accounts for. Before the midpoint, the weeks feel like open material; after it, they feel like the run-up to something. The syllabus does not change, the lectures do not slow down, and yet the atmosphere in the reading room shifts, because the calendar now has a visible end.
+
+The strange thing about midterms is how little they measure. They are, by design, a partial examination, meant to catch problems early rather than to settle a course. The grades they produce are weighted lightly, and everyone knows it. Yet the week or two around them behaves as if they mattered enormously: the library fills earlier in the evening, the conversations on the path between buildings turn to what is on the paper, and the ordinary pace of university life compresses into a short, shared spike of attention. The point is not the score. The point is the rhythm.
+
+Universities have used this rhythm for as long as they have existed, and it is worth noticing why. A term is a long, undifferentiated stretch of weeks, and without internal markers it is easy to drift. Midterms are the internal marker. They force a review at the moment when review is most useful, halfway through the material, while there is still time to change how the rest of the term goes. They are, in a sense, a piece of calendar design dressed up as assessment. The anxiety they produce is the cost of the design, and the design is sound.
+
+What has changed in recent years is the texture of the spike. A generation ago, midterms meant a library, a set of handwritten notes, and a quiet evening of review. They still mean those things, but they also mean a window of lecture recordings played at twice speed, a shared document of questions passed along a chat group, and a flood of past papers circulated in whatever group the course happens to have. The tools are new; the rhythm is the same. The spike of attention is wider now, and less solitary, and the review itself is partly outsourced to the people around you.
+
+There is a quieter observation underneath the busyness. The midpoint of anything is an odd place to stand. Behind you is the half that has already happened, with its mistakes and its half-understood ideas; ahead is the half that can still be changed, and the strange freedom of it. The exams are the excuse for the review, but the review is the point. After the spike passes, the second half of the term begins, and the material goes on as it did. What changes is the person reading it, because they have just spent a week or two taking stock, and universities have, for centuries, built that taking stock into the calendar on purpose.

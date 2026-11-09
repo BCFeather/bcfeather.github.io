@@ -1,0 +1,18 @@
+---
+slug: "the-g7-caps-russian-oil-at-sixty-dollars"
+title: "Sixty dollars a barrel: the G7 caps Russian oil and leans on the insurers"
+date: "2022-12-02T22:30:00+08:00"
+categories: [economy]
+description: "The European Union and the G7 agree a price cap on Russian seaborne oil at sixty dollars a barrel, three days before an embargo begins."
+---
+The number was agreed in Brussels on 2 December, after weeks in which the member states had argued about where to set it. Sixty dollars a barrel was above the price that Russia had been getting for its Urals blend in recent weeks and below the level at which the budget in Moscow was written. Officials described the figure as a compromise between countries that wanted a hard ceiling and countries that feared a shock to the market. The agreement came late in the evening, and the figure appeared in the final text without any note about when it would be reviewed.
+
+The mechanism is unusual, because it does not control the price at which Russia sells. Instead it controls the services that make a sale possible, since the insurers, shipowners, brokers and banks that move most of the world's oil are European or allied. Anyone who wants those services for Russian crude has to promise that the cargo was bought at or below the cap, and the promise is backed by a record of the price on each voyage. A shipper who signs the attestation and then sells above the cap risk losing the insurance, and the biggest underwriters have said they will check the numbers on the bills of lading.
+
+From 5 December the European Union stops buying Russian crude carried by sea, with a narrow exemption for Bulgaria and for some landlocked refiners. The cap is designed to work alongside that embargo rather than instead of it. Oil that is sold to Asia continues to flow, and the question is how much of it travels on ships that need Western insurance. Greece and Cyprus, whose fleets carry much of Russia's oil, had argued for a higher figure and for a longer transition period, and they signed the text with reservations.
+
+Russia said before the deal was signed that it would refuse to sell to anyone who observed the cap, and that it would cut production rather than accept a lower price. Its deputy prime minister repeated that position in public, and the energy ministry published a statement about markets that it would not sell into. Analysts expected the first weeks to be chaotic, with tankers waiting off ports while buyers worked out what the rules allowed. In Moscow the finance ministry had been writing a budget that assumed a smaller volume of exports at a higher price, and the two assumptions could not both hold.
+
+Two things make the scheme fragile. The first is the review, because the level can be changed and both sides know it, which invites every participant to wait for the next decision. The second is enforcement, since a price cap requires a paper trail across several jurisdictions and a shipping industry that has spent decades finding ways around paperwork. Both problems showed up within days, when a cargo was refused by an insurer in London and reloaded by a company registered in a jurisdiction nobody had heard of.
+
+For the countries that pushed for a lower number the cap is too generous, and they said so in the communiqués they issued afterwards. For the shipping nations the risk is that Russia simply stops loading, which would leave hulls idle and insurance premiums higher. What was agreed is a mechanism with a number in it, and the number will be tested by the first cargoes that sail in January. Ships that sail under the new rules will be watched more closely than any tanker has been watched in years, and the first refusal will settle more than a paragraph of guidance.

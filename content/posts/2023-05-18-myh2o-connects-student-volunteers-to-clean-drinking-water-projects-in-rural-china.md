@@ -1,0 +1,19 @@
+---
+slug: "myh2o-connects-student-volunteers-to-clean-drinking-water-projects-in-rural-china"
+title: "MyH2O links student volunteers to clean water projects in rural China"
+date: "2023-05-18T21:20:00+08:00"
+categories: [society]
+description: "MyH2O, founded in 2015, sends university volunteers to test rural drinking water across China. By 2023 the group had covered more than 1,000 villages in 26 provincial regions and analyzed over 5,500 samples, then installed low-cost purification stations where contamination was confirmed."
+---
+
+A village well can look perfectly ordinary and still carry fluoride at twice the safe level, and that is the kind of fact a laboratory in a distant city will never report. MyH2O exists to go and find it. The grassroots group, founded in 2015, recruits university students to sample rural drinking water, log the results in a national database and follow up with equipment where the numbers come back bad.
+
+The field force is made up almost entirely of undergraduates. Volunteers travel to villages during holidays, collect samples under a standard protocol and send them to partner laboratories for testing, and the same team is expected to explain the result to the village committee in plain words. By 2023 the network had surveyed more than 1,000 villages across 26 provincial-level regions and analyzed over 5,500 samples. The results point to risks that rarely make official summaries: excess fluoride in groundwater, heavy-metal contamination near small workshops and bacterial loads in villages that draw from cellars and shallow wells.
+
+Testing is the beginning of the work rather than the end. Where contamination is confirmed, the group works with the village to install a low-cost purification station and trains residents to run and maintain it. In dry parts of Gansu, those stations have cut reliance on stored rainwater and on wells of uncertain quality. Running costs are the harder problem, and the group now asks villages to set aside a small fee for filters and spare parts rather than depend on a second visit. The design choice is deliberate: villagers learn routine checks and simple repairs, so that a facility keeps working after the students leave.
+
+Water in scattered settlements is easy to overlook. Monitoring networks concentrate on cities and on larger supplies, families cannot afford commercial filters, and a village of forty households generates no data unless someone collects it. Student volunteers fill that gap and get something in return, which is fieldwork in environmental science and a first experience of community work. Several thousand young people have passed through the programme and turned a laboratory exercise into something a village can use.
+
+Funding is the persistent brake. The group lives on foundation grants, small public donations and occasional procurement contracts from county governments, and staff concede that growth is slow because every village needs its own assessment rather than one standard device. Demand has nonetheless risen, with more county education bureaus asking for screening at boarding schools where children drink from a single supply.
+
+Progress here is measured in small units. A school where stomach complaints stop recurring, a household that no longer buys bottled water, a village committee that begins routine testing on its own. Those outcomes describe the role that grassroots groups can play between technical expertise and communities that official systems reach late. As drought and groundwater depletion put more pressure on rural supplies, the value of that work is likely to grow rather than shrink, and the waiting list of villages is already longer than the group can serve.

@@ -1,0 +1,19 @@
+---
+slug: "washington-invokes-the-defense-production-act-to-refill-formula-shelves"
+title: "Washington invokes the Defense Production Act to refill formula shelves"
+date: "2022-05-18T23:50:00+08:00"
+categories: [news]
+description: "With stock rates above forty per cent in some states and specialty formulas gone entirely, the president used wartime purchasing powers on 18 May and began flying in supplies from Europe, while the plant whose recall started the shortage stayed shut until June."
+---
+
+President Biden invoked the Defense Production Act on 18 May and started an airlift called Operation Fly Formula, in an attempt to put infant formula back on shelves that had been emptying since February. The act requires suppliers of ingredients to fill orders from formula manufacturers before any others, and the flights brought in product from European plants that already met American standards. The first delivery arrived at an air base in Indiana on 22 May, carrying about seventy-eight thousand pounds of specialized formula for infants with allergies.
+
+The shortage had been building since February, when Abbott Nutrition recalled several powdered brands made at its plant in Sturgis, Michigan, and stopped production there. Four infants who had consumed formula from the plant fell ill with Cronobacter infection, a bacterium that can cause sepsis and meningitis in newborns, and two of them died. Abbott controlled about forty per cent of the American market, and the plant was the only site that made several metabolic formulas on which children with rare conditions depend, so the recall removed a category of product rather than a brand.
+
+Concentration explains the speed of the collapse. Three companies make most of the formula sold in the United States, and the Special Supplemental Nutrition Program for Women, Infants and Children, which buys formula for about half the infants in the country, awards contracts state by state to a single manufacturer. When one plant goes down, there is no spare capacity to shift to, because the system had been built for efficiency rather than for redundancy, and the import rules that kept European formula out were designed to protect the same manufacturers from competition.
+
+The federal response came in stages that were each a little late. The Food and Drug Administration took months to inspect the plant and to agree the terms of its reopening, the agency's own timeline showing that a whistleblower complaint about conditions there reached it in the autumn and sat there until the recall. A consent decree signed on 16 May set out what Abbott had to fix, and the company said production could restart within two weeks of the agency's approval; it restarted on 4 June, and product needed another six to eight weeks to reach shelves.
+
+Parents spent the spring driving to neighbouring states, trading cans in online groups, and diluting formula against medical advice because the alternative was an empty shelf. Hospitals rationed what they had, and the shortages fell hardest on families covered by the federal programme, who could not simply switch brands because the vouchers they held named one. The administration waived some import restrictions and allowed states to use programme funds more flexibly, measures that helped at the margin and did not manufacture supply.
+
+By the end of May the stock rate had improved from its worst week and remained far below normal, and the episode had produced a straightforward finding: a market with three sellers, one plant per specialty product, and a procurement system that rewards the cheapest bid has no slack in it. Invoking wartime powers to buy ingredients was the correct instrument for the moment, and it also demonstrated how little slack the country had built into the feeding of its infants.

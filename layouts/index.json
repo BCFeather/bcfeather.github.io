@@ -1,0 +1,23 @@
+{{- $posts := where site.RegularPages "Type" "posts" -}}
+{{- $items := slice -}}
+{{- range $posts.ByDate.Reverse -}}
+  {{- $s := "" -}}
+  {{- $c := "" -}}
+  {{- with .Params.categories }}{{ $c = delimit . ", " }}{{ end -}}
+  {{- $g := "" -}}
+  {{- with .Params.tags }}{{ $g = delimit . ", " }}{{ end -}}
+  {{- with .Description }}{{ $s = . | plainify | truncate 120 }}{{ end -}}
+  {{- $x := .Content | plainify | replaceRE "\\s+" " " | truncate 160 -}}
+  {{- $items = $items | append (dict
+      "t" .Title
+      "u" .RelPermalink
+      "c" $c
+      "g" $g
+      "d" (.Date.Format "2006-01-02T15:04:05-07:00")
+      "y" (.Date.Format "2 Jan 2006")
+      "n" (int (.Date.Format "20060102"))
+      "s" $s
+      "x" $x
+  ) -}}
+{{- end -}}
+{{- dict "n" (len $posts) "c" (len site.Taxonomies.categories) "p" $items | jsonify -}}

@@ -1,0 +1,21 @@
+---
+slug: "the-supreme-court-keeps-trump-on-the-ballot-in-a-unanimous-ruling"
+title: "The Supreme Court keeps Trump on the ballot in a unanimous ruling"
+date: "2024-03-04T23:50:00+08:00"
+categories: [news]
+description: "The Supreme Court ruled nine to zero on 4 March that individual states cannot disqualify Donald Trump from the presidency under the fourteenth amendment, ending efforts in Colorado and other states to remove him from the ballot."
+---
+
+Supreme Court ruled unanimously on the fourth of March that individual states cannot remove Donald Trump from the ballot on the ground that he engaged in insurrection, reversing a decision of the Colorado Supreme Court and ending similar efforts in Illinois, Maine and elsewhere. Opinion was issued unsigned and without dissent, which is unusual for a case of this significance, and it was published the day before Super Tuesday, when voters in sixteen states were due to cast ballots.
+
+Reasoning of the court was narrow and institutional. Justices held that a state may not enforce section three of the fourteenth amendment against a candidate for federal office, and that the power to disqualify a person who has taken part in insurrection rests with Congress, which has legislation it could use. Opinion said allowing states to make their own determinations would produce a patchwork in which the same candidate is eligible in one place and barred in another, which the framers of the amendment did not intend.
+
+Consequence for the primary calendar was immediate. Colorado's ballots had already been printed with Trump's name, and the state had been preparing for the possibility that its own courts would be overruled. Maine's secretary of state, who had removed Trump from the ballot, withdrew her decision within hours, and similar proceedings in Illinois and Michigan were dropped. Trump said the ruling had vindicated his position and asked that the cases be treated as an election interference attempt.
+
+Court did not decide whether Trump engaged in insurrection, which is the question the case was nominally about. The opinion assumed for the purposes of argument that the events of the sixth of January 2021 could be described that way, and it decided the case on the question of who has the authority to act on that finding. That leaves the factual question unresolved and available to be argued in other proceedings, including the federal prosecution that was underway in Washington at the time.
+
+Speed of the decision was itself a subject of comment. Court heard arguments on the eighth of February and issued its opinion twenty-five days later, which is unusually fast for a case of this size, and it did so without waiting for the full briefing schedule. Several commentators said the court had clearly wanted to settle the question before the primaries, and that the unanimity was intended to signal that the justices had reached the same conclusion on the law rather than on the politics.
+
+Separate opinions published with the judgment showed how much the justices disagreed about the scope of the ruling. Three liberal justices, Sonia Sotomayor, Elena Kagan and Ketanji Brown Jackson, agreed with the outcome and wrote that the majority had gone further than the case required by deciding that Congress must act before any disqualification can take effect. Amy Coney Barrett wrote separately to say that the court had resolved more than it needed to in order to settle the case before the primaries, and she said the opinion should have been narrower.
+
+Meaning of the fourth of March is that the ballot is settled and the legal argument is not. Trump remained on the ballot in every state, and the amendment's disqualification clause remains in the constitution, unused at the federal level and available to a future Congress. The court's opinion closed one route to removing him and left open the others, which were the criminal cases that were moving slowly through the courts as the campaign began.

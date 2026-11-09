@@ -1,0 +1,17 @@
+---
+slug: "red-sea-war-risk-premiums-halve"
+title: "Red Sea war-risk premiums halve as transits resume"
+date: "2026-05-15T12:05:00+08:00"
+categories: [news]
+description: "Insurance brokers reported on 12 May that the war-risk premium for a container ship crossing the Bab el-Mandeb had fallen to 0.45 per cent of hull value, half the level of March, and the largest carriers have begun restoring Suez routings that they abandoned two years ago."
+---
+
+Insurance brokers reported on 12 May that the war-risk premium charged for a container ship crossing the Bab el-Mandeb has fallen to about 0.45 per cent of hull value for a single voyage, half the level recorded in March and a quarter of the peak. The rate is the number that decides whether a routing is worth taking, because a premium of one per cent on a hull worth a hundred million dollars adds a million dollars to a round trip, which is more than the fuel saving from the shorter route. Two of the largest carriers have told customers that they will restore Suez transits on their east-west services from June.
+
+The collapse in the premium follows a quiet change in the water. Attacks on merchant shipping in the southern Red Sea and the Gulf of Aden, which began in late 2023 and continued through last year, have become rare enough that underwriters are willing to price the residual risk rather than refuse it. Naval escorts in the corridor have been reduced rather than reinforced, which sounds paradoxical and reflects the judgment of the navies involved that the threat has diminished. The insurers are not making a political statement; they are reading the same evidence as everyone else and losing money on the cautious side.
+
+The economic stakes are easy to underestimate. At the height of the disruption, almost all container traffic between Asia and Europe went around the Cape of Good Hope, adding ten to fourteen days and roughly a third more fuel to a voyage, and absorbing a large share of the global fleet's capacity. Egypt lost several billion dollars of Suez Canal revenue in each of the past two years, and European importers paid for the detour in freight rates that never fully returned to normal. A restoration of the shorter route releases ships, lowers fuel bills and refills a canal that a single country's budget depended on.
+
+The caution is warranted all the same. Underwriters are pricing a month of quiet, and the groups that launched the attacks have not been defeated, only constrained. Hull premiums remain above their 2023 levels, and the reinsurers who carry the tail risk have said they will not return to pre-crisis terms until a full year has passed without a successful attack on a commercial vessel. Several carriers have said they will run a small number of services through Suez as a trial, keeping the Cape option in reserve, which is a way of buying information rather than a commitment to the route.
+
+There is a wider lesson in how the market moved before the politics did. Shipping is one of the few industries where risk is priced daily, publicly and in money, and its quotes are a better gauge of the security situation than most official statements. The premium halved because a few hundred voyages arrived without incident, and it will double again after one attack, which is the correct behaviour for an industry that cannot afford to be sentimental. What the numbers say now is that the corridor is usable and expensive, and that normal is a word the underwriters have not yet agreed to use.

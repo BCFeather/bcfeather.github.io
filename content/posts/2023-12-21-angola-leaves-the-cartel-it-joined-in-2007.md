@@ -1,0 +1,19 @@
+---
+slug: "angola-leaves-the-cartel-it-joined-in-2007"
+title: "Angola leaves the cartel it joined in 2007"
+date: "2023-12-21T22:40:00+08:00"
+categories: [economy]
+description: "Angola announced on 21 December 2023 that it would leave OPEC from 1 January, after a dispute over its production quota, in a decision that removes Africa's second-largest oil producer from a group that had held together through two years of cuts."
+---
+
+Angola's government announced on 21 December that the country would leave OPEC at the end of the year, ending sixteen years of membership and removing Africa's second-largest oil producer from the group. The oil minister said the decision followed the quota assigned at the November meeting, which set Angola's production at 1.11 million barrels a day against the 1.18 million the government had proposed. A presidential decree confirmed the exit from 1 January, and the minister described the current membership as offering no benefit.
+
+The quotas are the whole story. OPEC and its partners have been cutting production since 2022 to hold prices, and each member has been given a target that is measured against a baseline from 2016 or from 2023 depending on which paragraph of the agreement applies. Angola produces about 1.1 million barrels a day, less than the quota it was told to hold to, because its older fields are declining faster than the country can develop new ones; being asked to promise output it cannot deliver was the insult, and being asked to cut the output it can deliver was the injury.
+
+Investment is the reason the government gives in private. Angola's oil production has fallen from 1.8 million barrels a day in 2015, the exploring and producing contracts that were signed with international companies in the 2000s are maturing, and the country needs to attract capital for deep-water fields that cost billions before the first barrel. The state oil company is also carrying debt of about 20 billion dollars, most of it owed to Chinese banks against future cargoes, which makes every barrel committed to a quota a barrel that cannot be sold to service the debt.
+
+The exit is small in volume and large in symbolism. Angola produced about three per cent of OPEC's output, and the group's Secretariat in Vienna said it had not been informed in advance and that the country remained welcome. But the departure follows a pattern: Ecuador left in 2020, Qatar in 2019, and both cited the same mismatch between the group's discipline and their own need for revenue. Brazil is joining the wider OPEC+ arrangement as an observer in January, which the group presents as a gain and which its critics present as a substitution.
+
+Prices barely moved on the day. Brent was trading around 79 dollars, supported by the attacks in the Red Sea rather than by anything in Africa, and the market's judgment is that a member producing below its quota added nothing to the constraint on supply. The group's real difficulty is that its largest members, Saudi Arabia and the United Arab Emirates, are holding back millions of barrels of capacity while smaller ones leave, which means the burden of every future cut falls on fewer shoulders.
+
+For Angola the calculation is about what comes after oil, which is a question every producer in the Gulf of Guinea has been asking for a decade. Oil provides about ninety per cent of export earnings and sixty per cent of government revenue, the population is 36 million and growing, and the country has not diversified the way its neighbours have. Leaving the cartel buys the freedom to sell every barrel it can pump, which is a strategy for the next five years and not for the next twenty.

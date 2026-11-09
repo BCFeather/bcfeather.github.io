@@ -1,0 +1,17 @@
+---
+slug: "erdogan-is-sworn-in-for-a-third-term"
+title: "Erdogan is sworn in for a third term"
+date: "2023-06-03T20:10:00+08:00"
+categories: [news]
+description: "Recep Tayyip Erdogan took the oath of office in Ankara on 3 June after winning the 28 May runoff, extending a rule that began in 2003 and appointing a finance minister who is expected to move policy back towards orthodoxy."
+---
+
+Recep Tayyip Erdogan was sworn in at the presidential palace in Ankara on 3 June, beginning a third term under the executive presidency that he created, after defeating Kemal Kilicdaroglu in the runoff of 28 May. His inauguration came with a cabinet reshuffle that was read in the markets as a signal of intent: Mehmet Simsek, a former deputy prime minister who spent years at Merrill Lynch and who is associated with conventional monetary policy, was named minister of finance and treasury. The lira, which had weakened through the campaign, steadied briefly on the news.
+
+The election itself was the closest of Erdogan's career and the first in which he needed a second round. He took 52.2 per cent in the runoff against 47.8, and his alliance held a majority in parliament, which gives him the legislative cover to govern without coalition partners. Turnout was above eighty-four per cent, and the result was accepted by the opposition without the street confrontations that many had feared. The campaign was fought against a background of inflation that had peaked above eighty per cent, a currency that had lost more than half its value in two years, and the aftermath of the earthquake in February that killed more than fifty thousand people in the south-east.
+
+The economic inheritance is the hard part. Turkey has spent years defending the lira through a mixture of unorthodox rate-setting, foreign currency interventions and regulations on banks, and the cost of that defence has been a depletion of reserves and a widening current account gap. Erdogan has described high interest rates as the cause of inflation rather than its cure, and his previous finance ministers were chosen for their willingness to say so. Appointing Simsek is a recognition that the model has run out of room, and the question now is whether the president will tolerate the recession that a return to orthodoxy would require.
+
+Foreign policy is the other ledger. Turkey sits on the fault line between Russia and the West, has blocked and then permitted Swedish and Finnish accession to NATO, holds the keys to the Black Sea grain corridor, and has used its position to extract concessions from everyone. Erdogan enters this term with more leverage than most European leaders and less goodwill than he would like from his nominal allies, and the balance he strikes over the next year will decide whether Turkey is treated as a difficult partner or an indispensable one.
+
+What the election also settled is the durability of his personal hold on the country. He has now won more elections than any Turkish politician of the republican era, and he has done it while the economy was in its worst shape in two decades, which is a measure of how much of the electorate trusts him rather than his numbers. The opposition's consolation is that the result was close, that the cities it governs remain its strongest base, and that the next election is only five years away. Erdogan's consolation is that he has five years to prove the trust was deserved.

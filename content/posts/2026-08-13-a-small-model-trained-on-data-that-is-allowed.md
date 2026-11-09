@@ -1,0 +1,18 @@
+---
+slug: "a-small-model-trained-on-data-that-is-allowed"
+title: "A small model trained on data that is allowed"
+date: "2026-08-13T22:00:00+08:00"
+categories: [science]
+description: "Mimir reaches the top of the sub-two-billion class using a curated mixture of permissible data rather than a web-scale corpus."
+---
+A paper posted to arXiv on 13 August describes a language model of one point seven eight billion parameters that was trained without a web-scale corpus. The constraint was governance rather than compute, because the data had to satisfy explicit permissibility rules, and most of the open web does not. The authors built a curated mixture from a hundred and sixty-one datasets, with synthetic replacements wherever a source failed the criteria. The model is called Mimir, and its architecture is the unusual part.
+
+Mimir uses the Hierarchical Reasoning Model Text architecture, a recurrent-depth transformer whose layers are split into two stacks. One stack handles low-level processing, the other handles the abstract work, and the two are applied repeatedly in an interleaved schedule rather than once in a fixed order. Computation therefore scales with the number of applications rather than with the number of layers. The first version trained on seventy point five billion tokens per epoch, and a continuation called v1.5 used a hundred and three billion.
+
+Results across twenty benchmarks in English, Danish and mathematics and code place it at the top of the sub-two-billion class in every domain. It beats the architecture it was built from and it beats two looped transformer baselines, and on the English and Danish averages it matches or exceeds models of up to nine billion parameters. Danish is the interesting column, because it is a low-resource language with about six million speakers and most training mixtures give it almost nothing. The model was trained from random initialization, with no pretrained parent to inherit from.
+
+Two memorization audits accompany the results, and their presence is a sign of what the constraint was for. Training for multiple epochs on a small mixture raises the risk that a model reproduces passages rather than learning from them, and the audits test for that directly. Both report low risk, which the authors present as evidence that the mixture is general rather than evocative. A second finding concerns the two stacks, because removing applications of the low-level stack degrades the model gracefully while changing the high-level count breaks it outright. Those audits are the part of the report a data regulator would read first, because they test the risk the constraint was meant to remove.
+
+The governance argument runs beneath the benchmarks. A lab that cannot use the open web, whether for licensing, for privacy or for institutional reasons, has had no route to a competitive model at this size. The report's claim is that the route exists, and that a curated mixture with synthetic substitutes can stand in for the corpus that everybody else uses. If that holds, the barrier to entry for a serious model becomes a data policy rather than a data volume.
+
+Limits are stated plainly enough to be useful. The benchmarks are small-model comparisons, the mixture is fixed and the audits are two rather than twenty. A model trained this way inherits the gaps in its curation, and the synthetic data carries whatever biases its generator had. What the paper shows is a proof of principle at a size where training is affordable, which is exactly the size at which most institutions can actually work.

@@ -1,0 +1,19 @@
+---
+slug: "the-three-days-in-the-middle-of-june"
+title: "The three days in the middle of June"
+date: "2023-06-15T22:40:00+08:00"
+categories: [essay]
+description: "Between 14 and 16 June 2023, the ninth-graders of Chizhou sat the provincial high school entrance examination, or the zhongkao, three days that decide which of the city's schools a child will attend and that end, for most of them, with a walk out of a gate into an ordinary afternoon."
+---
+
+On the morning of 14 June, the streets around Chizhou No. 16 Middle School, among many other middle schools in Anhui, filled earlier than they do on a school day. I came from a different school, though my exam room stood in this one. Parents parked wherever the traffic officers allowed, and the ones who could not find a space stood on the pavement holding bottles of water and bags of snacks they would not hand over for three hours. The candidates went in through a side gate with their admission cards in plastic sleeves, and the teachers who had taught them for three years stood along the fence and said the same sentence to each of them as they passed.
+
+Inside, the rooms had been rearranged weeks earlier. Thirty desks to a room, numbered, with a clock on the wall and a camera above the blackboard, and a metal detector at the entrance that beeped for watches and keys. The first paper was Chinese, two and a half hours, and the invigilators read the rules aloud twice before the envelope was opened. Outside, the city carried on with its morning: buses, motorcycles, a shop on the corner pulling up its shutter.
+
+The afternoon brought physics and chemistry in one paper, and the second day brought mathematics in the morning and the two social subjects, history and political sciences, in the afternoon. The heat arrived on the second day, the kind that builds in a classroom with the windows open and no wind, and the invigilators walked the aisles handing out the spare answer sheets and adjusting the fans. Somebody's pen ran out. Somebody asked for a ruler. The clock on the wall was the only object in the room that everyone looked at.
+
+The third morning was English, shorter than the others, and it ended at half past ten. The gate opened and the crowd that had waited through three days moved forward, and the first children out were grinning because it was over, and the ones behind them were quieter, doing the arithmetic that everyone does in the week that follows: the marks they were sure of, the marks they had guessed, the difference between the two. The teachers asked how it went and got the answer they always get.
+
+What follows is a different kind of waiting. The papers go to a provincial centre and are marked by teachers who never see the names, and the scores come back in a list available online. Then comes the choosing, which in Chizhou is a negotiation about which school a family can reach and which one it believes in, and it takes less time than the three days did. The admission notices will arrive in July, printed on paper with a red seal.
+
+By the middle of August, the summer has a shape. The children who will go to Chizhou No. 1 Middle School have started to hear from cousins and neighbours about the flats their parents had begun to rent along Shengjinhu Lu, the size of the teaching building, the teachers who give too much homework in September. The ones who will go elsewhere have stopped asking. Either way, the three days in June are already being remembered as a single long event rather than three separate mornings, and the details that survive are small: the water bottle, the fan, the sentence at the gate. I am from Chizhou No. 10 Middle School, and I know I'll be graduating.

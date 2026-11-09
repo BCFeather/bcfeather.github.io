@@ -1,0 +1,19 @@
+---
+slug: "putin-revises-russias-nuclear-doctrine"
+title: "Putin revises Russia's nuclear doctrine"
+date: "2024-11-20T21:20:00+08:00"
+categories: [news]
+description: "President Putin signed a revised nuclear doctrine on 19 November that treats an attack by a non-nuclear state supported by a nuclear power as a joint attack, lowering the threshold for a nuclear response."
+---
+
+President Vladimir Putin signed a revised nuclear doctrine on the nineteenth of November, two days after the United States authorized Ukraine to strike inside Russia with long-range missiles. Document replaces a version adopted in 2020 and broadens the circumstances in which nuclear weapons may be used. Its publication was timed to be read alongside the decision in Washington, and Russian officials made the connection explicit at a briefing the same afternoon.
+
+Changes are concentrated in the conditions for use. New text says aggression by a non-nuclear state with the participation or support of a nuclear state will be treated as a joint attack, which brings Ukrainian strikes with American and British weapons inside the scope of the doctrine. It also extends the nuclear guarantee to Belarus, where Russia has stationed tactical weapons, and it says a massive launch of aircraft, drones or missiles across the border could be met with a nuclear response. Previous version had spoken of a nuclear attack on Russia or an attack that threatened the existence of the state.
+
+Language of the doctrine matters because it is the document Russian officers are expected to follow. It defines the conditions rather than the decision, and the decision remains with the president, which leaves a wide space between what the text permits and what the leadership chooses. Analysts said the revision was designed to be read by foreign capitals as a warning and by domestic audiences as resolve, and that its practical effect is to raise the estimate of risk rather than to change the mechanics of command.
+
+Western response was cautious. State department spokesman said the change was expected and irresponsible, and NATO said it saw no indication that Russia was preparing to use nuclear weapons. Officials noted that Russian officials have issued nuclear warnings at intervals since 2022 without moving weapons, and that the American intelligence assessment had not changed. Several European governments said the revision confirmed the need to continue supplying air defence rather than to adjust their own posture. Analysts at research institutes in London and Washington described the document as a messaging instrument, and they noted that its publication coincided with the first reports of American missiles being used across the border.
+
+Ukrainian reaction was dismissive. Officials said the document was an attempt to influence opinion in capitals that are hesitating, and that it would not change the fact that Russia's conventional forces are stretched. They also pointed out that the timing coincided with the first use of American missiles against a target in Bryansk, which suggests the doctrine is a response to a specific event rather than a general shift.
+
+Consequence for the war is likely to be incremental. Thresholds in doctrine are read by planners on both sides, and the new text gives Russia a wider menu of threats to issue when it wants to deter a particular kind of support. It does not give Russia a new weapon, and the weapons it does have remain under the same command. What has changed is the political cost of ignoring a Russian warning, which is higher now than it was a week before, and that is the effect the document was written to produce.

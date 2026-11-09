@@ -1,0 +1,19 @@
+---
+slug: "leo-varadkar-resigns-as-irelands-prime-minister"
+title: "Leo Varadkar resigns as Ireland's prime minister"
+date: "2024-03-21T22:50:00+08:00"
+categories: [news]
+description: "Leo Varadkar announced on 20 March that he would step down as leader of Fine Gael and as prime minister, citing personal and political reasons, and Simon Harris was chosen to succeed him a week later."
+---
+
+Leo Varadkar announced on the twentieth of March that he would resign as leader of Fine Gael and as prime minister of Ireland, a decision that took his party and his coalition partners by surprise and that ended a tenure of seven years as party leader and two as head of government in his second term. He made the announcement outside the government buildings in Dublin and said the reasons were both personal and political, and he gave no date for his departure beyond the party process.
+
+Timing of the resignation was the part that his colleagues found hardest to explain. Government was midway through its term, with an election due by February 2025, and it had just lost two referendums and a series of by-elections. Varadkar said he had lost the confidence that he could lead the party into another election, and he denied that any scandal had prompted the decision. Several ministers said they had been told only hours before the public announcement.
+
+Record of his second term was a mixture of the popular and the unpopular. He led the government through the later stages of the pandemic and through the arrival of more than a hundred thousand Ukrainian refugees, which was widely praised. He also presided over a housing crisis that became the central political issue of the decade, with rents in Dublin rising by more than a third during his time in office and with the government's targets for new homes consistently missed.
+
+Coalition that he leaves behind is a three-party arrangement between Fine Gael, Fianna Fáil and the Green Party, which has a comfortable majority and a fixed term. Partners said they expected the government to continue, and Micheál Martin, the leader of Fianna Fáil and the deputy prime minister, said the arrangement would run to its scheduled end. Green Party ministers said their support depended on the new leader's commitment to the climate legislation that the coalition had agreed.
+
+Succession was settled within a week. Simon Harris, the minister for higher education, was elected leader of Fine Gael on the twenty-fourth of March with no opponent after several senior figures declined to stand, and he became prime minister on the ninth of April. At thirty-seven he is the youngest person to hold the office, and he had built a profile through his handling of the pandemic as health minister and through a social media operation that is unusual in Irish politics.
+
+Consequence of the twentieth of March is an election that may come earlier than planned. Harris said he intended to serve the full term, and the arithmetic allows it. His party faces a different problem, which is that the government has been in office since 2020 and that the opposition has had four years to prepare its case on housing and on health. Varadkar's resignation was the clearest sign that the coalition's era was ending. Whether it ends with an orderly election next year or with a collapse in the autumn depends on whether the new leader can persuade voters that the government has anything left to offer.

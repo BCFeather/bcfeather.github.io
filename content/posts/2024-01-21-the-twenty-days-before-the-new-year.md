@@ -1,0 +1,17 @@
+---
+slug: "the-twenty-days-before-the-new-year"
+title: "The twenty days before the new year"
+date: "2024-01-21T19:26:00+08:00"
+categories: [essay]
+description: "A quiet essay about the last stretch of the lunar year in Chizhou, when the cured meat comes down from the rafters, the shop windows fill with red paper and the town begins the long, patient work of getting ready."
+---
+
+About twenty days remain in the lunar year when the town starts to change, and this week it began. First came the sound of it, which is the sound of things being knocked against other things. Bamboo poles taken down from the back of the shed, the frame of the awning over the pork stall, the big steamer borrowed from a neighbour and carried across the road by two men who had to stop twice. Then came the smell, which is soy sauce and star anise and the smoke of a stove that has been burning all afternoon. Preserved meat that was hung up in the cold of December is now ready, and it comes down from the rafters in the same week every year.
+
+Cleaning is the part nobody enjoys and everybody does. Windows are washed, the tops of the cupboards are cleared, the old newspapers under the sink are thrown away and replaced with new ones. Behind it is the idea that the year's dust should not be carried into the next one, and the practice survives in households that could not explain the reasoning if asked. In our building the whole staircase is swept on the same Sunday by whoever is at home, and the broom goes down four floors and up again, and by the end of it the building smells of wet stone and dust and the particular soap that is used only for this.
+
+Red paper appears on the doors at about the same time. The couplets are written by the man in the shop near the bridge who has been doing it for forty years, and his hand is steady in a way that suggests it has been steady for longer than that. He sets up a table on the pavement, a brush and a bottle of ink, and people come with the paper they have bought and the lines they want, and he writes them out while they wait. Some of the lines are old and some are new and several of them are about money and exams, which is what most of the people in this town are thinking about in January.
+
+Shopping is done in stages rather than all at once. Dry goods come first, the rice and the oil and the bags of sweets for the children who will visit. Then the gifts, which are boxes of tea and boxes of fruit, and which are given to people one does not know well enough to give money to. Then the fresh food, which has to wait until the last week because there is nowhere cold enough to keep it. The supermarket on the market road has been playing the same songs since the middle of the month, and the staff have begun to look tired in the way that people look tired when they have been standing for eleven hours.
+
+What is strange about this period is that it is both busy and slow. Nothing that has to be done is urgent, and all of it has to be done by a date that everyone knows and no one can move. The trains that will carry people home have been sold out for weeks, the factories in the cities have begun to wind down, and the town is waiting for its children to come back. In twenty days the streets will be full of people who have been away, the shops will close, the noise will change completely, and this patient, dusty, soap-smelling preparation will seem like the quietest part of the whole thing.

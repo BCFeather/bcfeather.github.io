@@ -1,0 +1,40 @@
+{{ define "main" }}
+{{ $month := printf "%v" .Params.month }}
+{{ $year := substr $month 0 4 }}
+<div id="archives" class="pl-xl-3">
+  <div class="mb-3"><a class="small text-muted" href="/archives/{{ $year }}/">Back to Archive {{ $year }}</a></div>
+  <ul class="list-unstyled" id="month-archive-list">
+    {{ range where site.RegularPages "Type" "posts" }}
+      {{ if eq (.Date.Format "2006-01") $month }}
+      <li>
+        <span class="date day" data-ts="{{ .Date.Unix }}" data-df="DD">{{ .Date.Format "02" }}</span>
+        <span class="date month small text-muted ms-1" data-ts="{{ .Date.Unix }}" data-df="MMM">{{ .Date.Format "Jan" }}</span>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+  <div class="mt-4 text-center">
+    <button type="button" class="btn btn-outline-primary" id="load-more-btn">Load more</button>
+  </div>
+</div>
+<script>
+  (function () {
+    var list = document.getElementById('month-archive-list');
+    if (!list) { return; }
+    var btn = document.getElementById('load-more-btn');
+    if (!btn) { return; }
+    var items = list.querySelectorAll('li');
+    var step = 10;
+    var shown = Math.min(step, items.length);
+    if (items.length <= shown) { btn.classList.add('d-none'); return; }
+    for (var i = shown; i < items.length; i++) { items[i].classList.add('d-none'); }
+    btn.addEventListener('click', function () {
+      var next = Math.min(shown + step, items.length);
+      for (var i = shown; i < next; i++) { items[i].classList.remove('d-none'); }
+      shown = next;
+      if (shown >= items.length) { btn.classList.add('d-none'); }
+    });
+  })();
+</script>
+{{ end }}

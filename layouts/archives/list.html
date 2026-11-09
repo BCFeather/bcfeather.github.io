@@ -1,0 +1,26 @@
+{{ define "main" }}
+{{ $posts := where site.RegularPages "Type" "posts" }}
+<div id="archives" class="pl-xl-3">
+  <h1 class="dynamic-title">Archives</h1>
+  {{ range $posts.GroupByDate "2006" }}
+    <section class="archive-summary-year mb-5">
+      <div class="border-bottom pb-2 mb-3" style="position: relative;">
+        <h2 class="year lead mb-0"><a href="/archives/{{ .Key }}/">{{ .Key }}</a></h2>
+        <span class="small text-muted" style="position: absolute; right: 1rem; top: 50%; transform: translateY(-50%); font-size: 0.9375rem; white-space: nowrap;">{{ len .Pages }} posts</span>
+      </div>
+      <ul class="list-unstyled">
+        {{ range first 5 .Pages }}
+        <li>
+          <span class="date day" data-ts="{{ .Date.Unix }}" data-df="DD">{{ .Date.Format "02" }}</span>
+          <span class="date month small text-muted ms-1" data-ts="{{ .Date.Unix }}" data-df="MMM">{{ .Date.Format "Jan" }}</span>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+      <div class="mt-2">
+        <a class="small" href="/archives/{{ .Key }}/">View all {{ .Key }} posts</a>
+      </div>
+    </section>
+  {{ end }}
+</div>
+{{ end }}
