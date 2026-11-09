@@ -2,7 +2,7 @@
 title: "A critique cut China's land carbon sink to a quarter of the published figure"
 date: 2022-03-20 22:40:00 +0800
 categories: [science]
-description: "Two years after a Nature paper put the sink at about 1,100 million tonnes of carbon a year, a second team added up the forest inventories and the satellites and could find only a quarter of it."
+description: "Two years after a *Nature* paper put the sink at about 1,100 million tonnes of carbon a year, a second team added up the forest inventories and the satellites and could find only a quarter of it."
 ---
 
 On 16 March 2022, *Nature* carried a paper that took aim at one of its own. Two years earlier, a team led by Wang Jing had used atmospheric measurements and an inversion model to estimate China's land carbon sink at about 1,100 million tonnes of carbon a year for 2010 to 2016, which was at least twice the range of the earlier inversions, between 180 and 510 million tonnes. The new paper, by Wang Yilong, Wang Xuhui and Zhu Dan of Peking University with colleagues in France and Australia, argued that the figure could not stand, and set out what the ground and the satellites said instead.
