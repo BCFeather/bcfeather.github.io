@@ -1,7 +1,7 @@
 ---
 title: "Mortgages run to forty years as the central bank rewrites the credit rules"
 date: 2026-08-28 23:35:00 +0800
-categories: [economy, business]
+categories: [economy]
 description: "The People's Bank of China and the financial regulator issued a joint opinion on 28 August reforming real estate credit, raising the maximum term on personal housing loans from thirty years to forty and establishing a main-bank system for project loans."
 ---
 

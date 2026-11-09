@@ -1,7 +1,7 @@
 ---
 title: "America's debt passes forty trillion dollars as thirty-year yields reach a nineteen-year high"
 date: 2026-08-19 23:30:00 +0800
-categories: [economy, news]
+categories: [economy]
 description: "The Treasury said on 19 August that the federal debt had passed forty trillion dollars, and that it would double the size of its long-bond buybacks. Two days earlier the thirty-year yield touched 5.31 per cent, its highest in nineteen years."
 ---
 

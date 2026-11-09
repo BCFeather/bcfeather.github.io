@@ -1,7 +1,7 @@
 ---
 title: "Washington widens its sanctions on Iran to five industries and sixty targets"
 date: 2026-08-24 23:15:00 +0800
-categories: [news, economy]
+categories: [news]
 description: "The Treasury designated about sixty entities, individuals and vessels on 24 August in what officials called a campaign of economic isolation, extending penalties to aviation, digital assets, gold, shipping and technology. The rial fell to a record low the same day."
 ---
 

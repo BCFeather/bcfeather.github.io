@@ -1,7 +1,7 @@
 ---
 title: "Foreign investors stop buying cheap and start buying capable, a ministry says"
 date: 2026-08-25 23:30:00 +0800
-categories: [business, economy]
+categories: [business]
 description: "At a press conference on 25 August the Ministry of Commerce described three shifts in foreign investment in China: from cost advantage to value advantage, from filling gaps in supply chains to building strengths, and from independent operation to joint development."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "A container ship leaves Ningbo for Felixstowe in twenty days as the Arctic run goes weekly"
 date: 2026-08-15 23:25:00 +0800
-categories: [economy, business]
+categories: [economy]
 description: "On 15 August a container ship began loading at Ningbo-Zhoushan for the first regular weekly service along the Northern Sea Route, with a scheduled twenty days to Felixstowe instead of forty through Suez. The cargo is electric cars, lithium batteries and solar panels."
 ---
 

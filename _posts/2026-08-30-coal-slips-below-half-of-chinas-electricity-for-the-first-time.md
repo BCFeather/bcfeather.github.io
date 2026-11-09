@@ -1,7 +1,7 @@
 ---
 title: "Coal slips below half of China's electricity for the first time"
 date: 2026-08-30 23:10:00 +0800
-categories: [economy, science]
+categories: [economy]
 description: "Half-year figures show coal-fired plants producing about 2.5 trillion kilowatt-hours, or 49.7 per cent of total generation, the first time the share has fallen below half. Renewables reached 41.2 per cent, and digital industry revenue grew 13.6 per cent to 20.71 trillion yuan."
 ---
 

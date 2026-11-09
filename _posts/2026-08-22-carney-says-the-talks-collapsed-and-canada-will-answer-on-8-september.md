@@ -1,7 +1,7 @@
 ---
 title: "Carney says the talks collapsed and Canada will answer on 8 September"
 date: 2026-08-22 23:45:00 +0800
-categories: [news, economy]
+categories: [news]
 description: "In a televised address on 22 August the Canadian prime minister said trade talks with Washington had broken down at the last minute and that matching tariffs on 20 billion dollars of American goods would take effect on 8 September."
 ---
 
