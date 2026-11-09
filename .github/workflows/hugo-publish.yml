@@ -22,7 +22,10 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the sources
@@ -40,18 +43,11 @@ jobs:
       - name: Generate the JSON indexes
         run: python3 scripts/gen-json.py public
 
-      - name: Upload the artifact
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
           path: public
 
-  deploy:
-    needs: build
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
