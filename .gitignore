@@ -5,4 +5,4 @@ vendor/
 .jekyll-metadata
 public/
 resources/
-.hugo_build.lock/
+.hugo_build.lock
