@@ -1,7 +1,7 @@
-{{ $label := "Home" }}
+{{ $label := "Homepage" }}
 {{ $crumbs := slice }}
 {{ if .IsHome }}
-  {{ $label = "Home" }}
+  {{ $label = "Homepage" }}
 {{ else if eq .Type "posts" }}
   {{ $label = "Post" }}
 {{ else if eq .Kind "taxonomy" }}
