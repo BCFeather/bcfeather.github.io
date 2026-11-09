@@ -27,12 +27,12 @@ Written content, including blog posts and pages, is licensed under the [Creative
 
 ## Components used by this website
 
-This website is built on open-source software and is hosted by [GitHub Pages](https://pages.github.com). The main components and their licences are listed below; for any specific dependency, the licence shipped with that component is authoritative.
+This website is built with [Hugo](https://gohugo.io) and hosted by [GitHub Pages](https://pages.github.com). Its page structure follows the Chirpy theme, and the compiled Chirpy stylesheet and front-end scripts are reused under that theme's licence; the templates themselves are written for Hugo. The main components and their licences are listed below, and for any specific dependency the licence shipped with that component is authoritative.
 
 | Component | Role | Licence |
 | --- | --- | --- |
-| [Jekyll](https://jekyllrb.com) | Static site generator | MIT |
-| [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) | Site theme | MIT |
+| [Hugo](https://gohugo.io) | Static site generator | Apache License 2.0 |
+| [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) | Theme stylesheet and scripts, reused in a Hugo port of the layout | MIT |
 | [Bootstrap](https://getbootstrap.com) | CSS framework | MIT |
 | [Lato](https://fonts.google.com/specimen/Lato), [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+3) | Web fonts | SIL Open Font License 1.1 |
 | [Font Awesome](https://fontawesome.com) | Icons | Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT |
@@ -40,3 +40,7 @@ This website is built on open-source software and is hosted by [GitHub Pages](ht
 | [Glightbox](https://biati-digital.github.io/glightbox/) | Lightbox | MIT |
 | [MathJax](https://www.mathjax.org) | Mathematics rendering | Apache 2.0 (loaded on pages that use mathematics) |
 | [utterances](https://utteranc.es) | Comments | MIT |
+| [dayjs](https://day.js.org) | Date formatting in the browser | MIT |
+| [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search) | Search over the generated index | MIT |
+| [clipboard.js](https://clipboardjs.com) | Copy buttons on code blocks | MIT |
+| [loading-attribute-polyfill](https://github.com/mfranzke/loading-attribute-polyfill) | Lazy-loading fallback | MIT |
