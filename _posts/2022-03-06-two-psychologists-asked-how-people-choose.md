@@ -5,7 +5,7 @@ categories: [business]
 description: "Thirty pages from 1979 replace the smooth utility curve with a reference point, a kink where the losses start, and a tendency to overweight what is unlikely."
 ---
 
-Some papers are read for their results and some for the shape of the argument. The one that Daniel Kahneman and Amos Tversky published in Econometrica in 1979 belongs to the second kind: it takes the standard model of choice apart with a set of questions that a student can answer in a lecture hall, and it puts in its place a curve that bends the other way on either side of a reference point. Economists had assumed for a century that a person values a gain by its size alone.
+Some papers are read for their results and some for the shape of the argument. The one that Daniel Kahneman and Amos Tversky published in *Econometrica* in 1979 belongs to the second kind: it takes the standard model of choice apart with a set of questions that a student can answer in a lecture hall, and it puts in its place a curve that bends the other way on either side of a reference point. Economists had assumed for a century that a person values a gain by its size alone.
 
 Their experiments used simple lotteries. In one, people chose between a certain 3,000 and an 80 per cent chance of 4,000, and most took the certain sum even though the arithmetic favours the gamble. In another, the same sums framed as losses produced the reverse: the same people preferred the gamble to a certain loss. The pattern held across groups of students and of experienced decision makers, which is what made it interesting rather than a curiosity about undergraduates.
 
