@@ -54,3 +54,39 @@ artifact. GitHub Actions never renders the site.
 `_posts/`, `_layouts/`, `_includes/`, `_tabs/`, `archives/`, `_config.yml` and
 `Gemfile*` are the Jekyll sources, kept untouched for reference. They are no
 longer read by any build. `_site/` is the last Jekyll output.
+
+## Publishing a post
+
+1. Edit or add a Markdown file under `content/posts/`, either in the GitHub web editor or in a
+   local clone.
+2. Commit to `main` and push.
+3. GitHub Actions takes it from there: `Build the Hugo site` builds, regenerates the three
+   indexes and force-updates the `gh-pages` branch (about a minute); `Publish prebuilt site`
+   is then triggered by that run and deploys the artifact to Pages (another minute). Nothing
+   has to run on your own machine.
+
+Front matter of a new post:
+
+```yaml
+---
+title: "A title that says what happened"
+date: "2026-11-10T09:00:00+08:00"
+slug: "a-title-that-says-what-happened"
+categories: [news]
+---
+```
+
+* `date` must be ISO 8601 with the `+08:00` offset; `--buildFuture` is used so a post dated
+  later today still appears.
+* `slug` is required and must be lowercase ASCII with hyphens, because `hugo.toml` maps posts
+  to `/posts/:slug/` and every old Jekyll URL has to keep working.
+* `categories` takes exactly one lowercase value from the nine in use (`news`, `science`,
+  `technology`, `essay`, `business`, `economy`, `culture`, `society`, `sport`).
+* `tags` is not used anywhere on the site.
+
+Preview before pushing: `hugo server --buildFuture` serves the site at
+`http://localhost:1313/` with live reload.
+
+If you would rather build locally and publish by hand, `scripts/build-and-publish.sh` (bash,
+needs `hugo`, `python3` and `GITHUB_TOKEN`) does the same build, pushes `gh-pages` and
+dispatches the deployment.
