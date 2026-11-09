@@ -1,0 +1,18 @@
+---
+title: "The last week of August: fans, tyres and the smell of rain"
+date: 2026-08-31 23:45:00 +0800
+categories: [news]
+description: "A short piece about the last week of August in a city where the heat broke, the students came back and the streets filled with the sound of a term starting."
+---
+
+August in this city ends with a fan still running at night. The compressor on the balcony clicks off around two in the morning, the room goes quiet for a minute, and then the noise returns because the air outside has not cooled enough to matter. Nobody sleeps through it; everybody has learned to sleep inside it. The fan on the balcony turns at a speed that makes a low hum against the railing, and the hum becomes part of the night the way traffic does. In the morning the flat is cooler than the street, and the walk to the gate is a step into air that has been standing still since dawn.
+
+The heat broke on a Wednesday. Rain came from the west in a grey line that the weather service had promised for three days and that everyone had stopped believing, and it fell hard for twenty minutes and then settled into a steady drizzle that lasted until dark. The streets smelled of dust and hot asphalt and, underneath, of the plane trees that line the older roads. The rain was the first real one in weeks, and the drains filled quickly because the leaves had not been swept since June. Children came out to stand in it, and the older neighbours stood under the awnings and watched them with the pleasure of people who no longer have to get wet.
+
+The students came back the same week. Tyres on wet pavement make a particular sound, a long hiss with a flap in it, and by Thursday morning that sound filled the road outside the school gate. Boys carried boxes of books on the backs of scooters, girls walked in twos with plastic bags of bedding, and the guards at the gate checked uniforms with the weariness of people who have done this every year for twenty years. The guards opened the gate at half past six, and the first arrivals were the ones who live furthest away and who had left home before the light was good. A woman with a cart sold breakfast from the corner, and the queue formed and dissolved in the way it does on the first day of every term.
+
+The first week of a term has its own rituals. The classroom is too hot, the windows are opened, the fans are turned on and then off because the noise makes it hard to hear. Teachers hand out the new books and ask who has done the summer reading, and the same three hands go up in every class. Nobody had the right book for the first lesson, and the teacher lent three copies and wrote the page numbers on the board in a hand that has not changed. The summer reading was discussed for ten minutes, and then the class moved on to the syllabus, which is what happens every year.
+
+By the weekend the streets had returned to their ordinary state, and the rain had become a memory that people mentioned in the past tense. The forecast promised more heat for September, which is normal, and the shops had already moved their displays from iced drinks to pencil cases and shoe polish. Shops near the school had changed their stock in a single weekend, and the man who sells stationery had put the iced drinks at the back. The forecast promised heat for September, and the woman at the fruit stall said the pears would be good this year because August had been dry.
+
+There is no lesson in this, and none is needed. A month ends, a term begins, the fan keeps running, and the city does what it does every year at this time, which is to get on with it. There is no lesson in this, and none is needed. A month ends, a term begins, the fan keeps running, and the city gets on with it.
