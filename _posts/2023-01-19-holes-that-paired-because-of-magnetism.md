@@ -2,10 +2,10 @@
 title: "Holes that paired because of magnetism"
 date: 2023-01-19 23:55:00 +0800
 categories: [science]
-description: "A paper in Nature on 19 January 2023 reported the observation of magnetically mediated pairing between holes in an ultracold gas of fermionic atoms, a simulation of a mechanism proposed for unconventional superconductors."
+description: "A paper in *Nature* on 19 January 2023 reported the observation of magnetically mediated pairing between holes in an ultracold gas of fermionic atoms, a simulation of a mechanism proposed for unconventional superconductors."
 ---
 
-A paper in Nature on 19 January reported that holes moving through an ultracold gas of fermionic atoms paired with one another, and that the pairing was produced by magnetic correlations rather than by the vibration of a lattice. The experiment was done with atoms held in an optical lattice at temperatures of a few billionths of a kelvin above absolute zero, where quantum effects dominate and where the gas can be tuned with magnetic fields. The lattice is made of laser light, and the atoms sit in it the way electrons sit in a crystal, which is why the system is called a quantum simulator.
+A paper in *Nature* on 19 January reported that holes moving through an ultracold gas of fermionic atoms paired with one another, and that the pairing was produced by magnetic correlations rather than by the vibration of a lattice. The experiment was done with atoms held in an optical lattice at temperatures of a few billionths of a kelvin above absolute zero, where quantum effects dominate and where the gas can be tuned with magnetic fields. The lattice is made of laser light, and the atoms sit in it the way electrons sit in a crystal, which is why the system is called a quantum simulator.
 
 Superconductivity requires electrons to pair, and electrons repel each other, so the pairing has to be mediated by something else. In conventional superconductors the mediator is the vibration of the crystal lattice, and the theory that describes it won a Nobel prize in 1972. In the copper-oxide superconductors, which were discovered in 1986 and still resist a complete explanation, the candidate mediator is the magnetic interaction between the spins of the electrons. The theory of the copper oxides has been argued over since 1986, and the argument is about which interaction does the pairing rather than about whether pairing happens.
 

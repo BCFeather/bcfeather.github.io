@@ -2,10 +2,10 @@
 title: "A nanoparticle that carries an editor into the lungs"
 date: 2023-03-30 23:40:00 +0800
 categories: [science]
-description: "Researchers reported in Nature Biotechnology on 30 March 2023 that an inhalable nanoparticle could deliver messenger RNA and a CRISPR editor to the lungs of mice, a step towards gene editing that is given as an aerosol rather than as an injection."
+description: "Researchers reported in *Nature Biotechnology* on 30 March 2023 that an inhalable nanoparticle could deliver messenger RNA and a CRISPR editor to the lungs of mice, a step towards gene editing that is given as an aerosol rather than as an injection."
 ---
 
-Gene editing has been limited by delivery as much as by the editing itself. The editor has to reach the right tissue, enter the right cells and do so without provoking an immune response, and the tools that work in a dish often fail in a body. A paper published in Nature Biotechnology on 30 March described a delivery system for the lungs, which is the tissue that an aerosol reaches most directly. The lung is also the tissue where an aerosol deposits most of its dose, which is why inhalers have been the standard treatment for asthma for fifty years.
+Gene editing has been limited by delivery as much as by the editing itself. The editor has to reach the right tissue, enter the right cells and do so without provoking an immune response, and the tools that work in a dish often fail in a body. A paper published in *Nature Biotechnology* on 30 March described a delivery system for the lungs, which is the tissue that an aerosol reaches most directly. The lung is also the tissue where an aerosol deposits most of its dose, which is why inhalers have been the standard treatment for asthma for fifty years.
 
 The system is a polymer nanoparticle that carries messenger RNA encoding a CRISPR enzyme and a guide molecule, and it is formulated so that it can be inhaled as a mist. The team screened a library of polymers for their ability to deliver cargo to lung cells, and the screening was done in a way that allowed them to compare hundreds of candidates at once. The best candidates were then tested in mice, and the editing was measured in the tissue rather than in a surrogate. The polymer was designed to degrade within days, so that the editing machinery would be cleared rather than persist.
 
