@@ -1,0 +1,18 @@
+---
+title: "Washington calls off its strikes on Iran and agrees to talk on 3 August"
+date: 2026-08-02 23:20:00 +0800
+categories: [news]
+description: "The American air campaign against Iran ended on 1 August with an announcement from the White House, and a day later the same government booked a negotiating table for 3 August. Ten days of strikes, Iranian missiles at bases in Jordan and Bahrain, and then a pause presented as a choice."
+---
+
+The air campaign that began in July ended on 1 August with an announcement from the White House, and within a day the same government had booked a negotiating table for 3 August. Ten days of strikes on Iranian targets, Iranian missiles fired at American bases in Jordan and Bahrain, and then a pause announced as a decision. The order of events said more about the war than any briefing from either capital, because it showed a government that had tried the easy instrument and found the bill larger than expected.
+
+The American motives were plain enough. A campaign that follows an Iranian closure of the Strait of Hormuz has to restore the credibility of American deterrence in the Gulf, and it also has to produce leverage for the talks that follow. Neither aim came cheaply. Strikes on scattered targets rarely force a government to surrender a nuclear programme, and the stockpile arithmetic has become awkward: more than a thousand Tomahawk cruise missiles and about 1,100 stand-off missiles fired, against a refill cycle measured in years. The commander of American forces in the region has said in public that the campaign's returns were diminishing, and the Pentagon's own inventory reports make the constraint hard to hide.
+
+Iran answered with what its army spokesman called retaliatory deterrence, matching each attack with a proportionate one while keeping a diplomatic channel open. That combination has a logic of its own. A full escalation would invite the destruction of what remains of the Iranian economy, while silence would invite more strikes. The threat to shipping in the strait sits in the middle: cheap to make, expensive for everyone else, and useful precisely because it never has to be carried out in full.
+
+Israel entered the war with three aims and has achieved none of them: a change of government in Tehran, the removal of the nuclear programme, and the demolition of the missile force. The gap between those aims and the results has made the American and Israeli positions visibly different, with Washington now looking for a negotiating track while Israeli ministers press for a larger campaign. An Israeli election adds its own momentum to that argument, and a prime minister who has campaigned on security has every reason to keep the war in the news.
+
+What the talks can cover is narrow. The June memorandum of understanding left the nuclear file, regional security and control of the strait unresolved, and a three-day interval does not create the trust that those questions need. American officials have described the coming meeting as a chance to test Iranian intentions rather than to settle anything, and Iranian officials have said the same about American ones. The likely outcome is a further memorandum, a partial reopening of the waterway and a promise of more talks, which is how the previous round ended.
+
+The pattern of the past month, strike and talk and strike again, has a cost that does not appear in the communiqués. Oil prices carry a risk premium that reaches every importer, insurers reprice the Gulf, and the crews of merchant ships decide whether the wages justify the route. A pause announced on 1 August buys time for all three, and it buys nothing more than time.
