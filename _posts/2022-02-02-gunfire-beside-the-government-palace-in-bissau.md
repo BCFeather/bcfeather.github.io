@@ -1,6 +1,6 @@
 ---
 title: "Gunmen attack the government palace in Bissau and eleven people are killed"
-date: 2022-02-01 23:40:00 +0800
+date: 2022-02-02 23:40:00 +0800
 categories: [news]
 description: "Heavy fire lasts more than five hours around the building where the president and his cabinet are meeting, and the government later blames the drug trade."
 ---
