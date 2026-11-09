@@ -3,7 +3,7 @@
    (bypassing the browser's HTTP cache), so a freshly deployed build is
    visible on the next refresh without the user having to clear the cache.
    Cached copies are kept only as an offline fallback. */
-const CACHE_NAME = 'bf-site-v1';
+const CACHE_NAME = 'bf-site-v2';
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
@@ -46,6 +46,26 @@ self.addEventListener('fetch', (event) => {
           const cached = await cache.match(request);
           return cached || Response.error();
         }
+      })()
+    );
+    return;
+  }
+
+  /* Assets and data files: stale-while-revalidate. A cached copy is served
+     immediately and refreshed in the background, so the 190 KB post index and
+     the stylesheet cost a network round trip only once per version. */
+  if (url.pathname.startsWith('/assets/')) {
+    event.respondWith(
+      (async () => {
+        const cache = await caches.open(CACHE_NAME);
+        const cached = await cache.match(request);
+        const network = fetch(request).then((fresh) => {
+          if (fresh && fresh.ok) {
+            cache.put(request, fresh.clone());
+          }
+          return fresh;
+        });
+        return cached || network;
       })()
     );
     return;

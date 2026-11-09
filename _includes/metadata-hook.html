@@ -155,10 +155,20 @@
         .catch(function () {});
     }
 
+    /* The panel needs a 190 KB index, so wait until the page is idle: the
+       visible page should finish first on a slow connection. */
+    function schedule() {
+      if ('requestIdleCallback' in window) {
+        window.requestIdleCallback(load, { timeout: 2500 });
+      } else {
+        window.setTimeout(load, 1200);
+      }
+    }
+
     if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', load);
+      document.addEventListener('DOMContentLoaded', schedule);
     } else {
-      load();
+      schedule();
     }
   })();
 </script>
