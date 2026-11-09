@@ -2,10 +2,10 @@
 title: "Eighteen hundred variants among half a million people"
 date: 2023-01-19 23:40:00 +0800
 categories: [science]
-description: "Two studies published in Nature on 19 January 2023 reported the analysis of genome and health data from 224,737 Finnish participants, identifying 1,838 genetic variants associated with 681 diseases."
+description: "Two studies published in *Nature* on 19 January 2023 reported the analysis of genome and health data from 224,737 Finnish participants, identifying 1,838 genetic variants associated with 681 diseases."
 ---
 
-Two papers in Nature on 19 January reported the largest genetic association study yet conducted in a single national population, using genome and health data from 224,737 people in Finland. The studies identified 1,838 genetic variants associated with 681 diseases, including 702 associations involving low-frequency variants that the authors described as likely to be new. The project is a partnership between universities, hospitals, the national institute for health and welfare and three pharmaceutical companies, and it began in 2017.
+Two papers in *Nature* on 19 January reported the largest genetic association study yet conducted in a single national population, using genome and health data from 224,737 people in Finland. The studies identified 1,838 genetic variants associated with 681 diseases, including 702 associations involving low-frequency variants that the authors described as likely to be new. The project is a partnership between universities, hospitals, the national institute for health and welfare and three pharmaceutical companies, and it began in 2017.
 
 The population is the reason the study was possible. Finland was settled in stages, and the settlers who moved north and east carried a subset of the variation present elsewhere, so that certain variants are far more common there than in the rest of Europe and others are absent. The country also keeps registries of diagnoses, prescriptions and deaths that go back decades, and linking them to a biobank is a matter of law rather than of persuasion. The country's genetic structure is the result of migrations that happened over the last few thousand years, and the variants that arrived with them are still visible in the genomes of people whose ancestors stayed in one region.
 

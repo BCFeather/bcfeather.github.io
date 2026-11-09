@@ -2,10 +2,10 @@
 title: "A tumour spreads faster when the fluid around it turns viscous"
 date: 2022-11-10 19:00:00 +0800
 categories: [science]
-description: "A paper in Nature reports that the viscosity of the fluid surrounding a tumour cell acts as a mechanical signal that encourages the steps by which cancers spread."
+description: "A paper in *Nature* reports that the viscosity of the fluid surrounding a tumour cell acts as a mechanical signal that encourages the steps by which cancers spread."
 ---
 
-Most descriptions of a tumour treat it as a lump of dividing cells sitting in a bath of liquid. The bath is usually imagined as water, and water is what most laboratory dishes contain. A paper published in Nature on 10 November argues that the thickness of that liquid matters a great deal, and that cancer cells can read it. The claim belongs to a small field that sits between cell biology and fluid mechanics, and that field has been growing quietly for a decade while the tools for measuring it improved.
+Most descriptions of a tumour treat it as a lump of dividing cells sitting in a bath of liquid. The bath is usually imagined as water, and water is what most laboratory dishes contain. A paper published in *Nature* on 10 November argues that the thickness of that liquid matters a great deal, and that cancer cells can read it. The claim belongs to a small field that sits between cell biology and fluid mechanics, and that field has been growing quietly for a decade while the tools for measuring it improved.
 
 The work appeared in volume 611 of the journal, on page 365, and its subject is the viscosity of the fluid outside the cell. Researchers have long known that cells respond to the stiffness of the surface they grow on, and that a stiff surface can push a cell towards the behaviour of a wound or a tumour. Viscosity describes something different, because it measures how readily a fluid flows rather than how firmly a surface resists. Honey and water differ in almost nothing else so much as in that single property, and the difference is felt as drag by anything moving through it.
 
