@@ -1,0 +1,41 @@
+name: "Build the Hugo site"
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the sources
+        uses: actions/checkout@v7
+
+      - name: Install Hugo
+        run: |
+          curl -sSL "https://github.com/gohugoio/hugo/releases/download/v0.152.2/hugo_extended_0.152.2_linux-amd64.tar.gz" | tar -xz -C /tmp hugo
+          sudo install -m 755 /tmp/hugo /usr/local/bin/hugo
+          hugo version
+
+      - name: Build the site
+        run: hugo --buildFuture --gc -d public
+
+      - name: Generate the JSON indexes
+        run: python3 scripts/gen-json.py public
+
+      - name: Publish to the gh-pages branch
+        run: |
+          touch public/.nojekyll
+          cd public
+          git init -q
+          git checkout -q -b gh-pages
+          git config user.name "BCFeather"
+          git config user.email "baoczhe@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Publish site $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git push -q --force origin gh-pages
