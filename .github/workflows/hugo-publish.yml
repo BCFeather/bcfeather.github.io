@@ -1,0 +1,57 @@
+name: "Build and publish with Hugo"
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/**"
+      - "layouts/**"
+      - "static/**"
+      - "hugo.toml"
+      - "scripts/gen-json.py"
+      - ".github/workflows/hugo-publish.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the sources
+        uses: actions/checkout@v7
+
+      - name: Install Hugo
+        run: |
+          curl -sSL "https://github.com/gohugoio/hugo/releases/download/v0.152.2/hugo_extended_0.152.2_linux-amd64.tar.gz" | tar -xz -C /tmp hugo
+          sudo install -m 755 /tmp/hugo /usr/local/bin/hugo
+          hugo version
+
+      - name: Build the site
+        run: hugo --buildFuture --gc -d public
+
+      - name: Generate the JSON indexes
+        run: python3 scripts/gen-json.py public
+
+      - name: Upload the artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
