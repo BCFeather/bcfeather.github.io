@@ -1,0 +1,19 @@
+---
+slug: "a-neutrino-telescope-under-the-mediterranean-sees-its-first-sky"
+title: "A neutrino telescope under the Mediterranean sees its first sky"
+date: "2026-09-11T09:33:00+08:00"
+categories: [science]
+description: "The KM3NeT collaboration has reported its first catalogue of high-energy neutrino candidates, reconstructed from light caught by detectors anchored two miles down in the Mediterranean. The events are few and the angular resolution is coarse, but a neutrino sky seen from the northern hemisphere is a new instrument, not a new result."
+---
+
+Two miles below the surface of the Mediterranean, strung on towers anchored to the seabed, are thousands of glass spheres each holding a photomultiplier. They look for a faint blue light: the Cherenkov radiation produced when a neutrino, having travelled through the Earth, interacts in the water nearby and spawns a shower of particles. The KM3NeT collaboration reported this week its first catalogue of high-energy neutrino candidates from the completed detector arrays, and the point of the catalogue is less the events themselves than the fact that they exist.
+
+Neutrino astronomy is a young field with two working instruments. IceCube, at the South Pole, has been collecting events for more than a decade and published the first map of the neutrino sky in 2022. KM3NeT's advantage is its position: being in the northern hemisphere, it can see the southern sky, and the Earth itself filters the background of atmospheric muons that makes the southern sky inaccessible to IceCube. Between the two, the sky is covered, and the coverage is what turns two experiments into a global observatory.
+
+The events reported are not yet a discovery. The collaboration lists a few dozen candidates above the energy threshold where atmospheric backgrounds fall away, with reconstructed directions good to a couple of degrees at best. That is coarse by the standards of optical astronomy: a two-degree error circle contains thousands of galaxies, so the catalogue cannot yet say which object produced the neutrino. What it can say is that the flux is consistent with what IceCube measured, which is the first independent confirmation that the diffuse signal is real and not an artefact of one detector's calibration.
+
+The technical achievement is in the water. Seawater absorbs and scatters light differently from the Antarctic ice, and the detectors have to be calibrated against the bioluminescence of deep-sea organisms, which produce flashes that look, to a photomultiplier, like physics. The collaboration has developed filtering that uses the timing pattern of the light rather than its brightness to reject the biology, and the calibration runs are done with laser beacons lowered from ships. Building this at two miles depth, with cables that must survive for a decade, is the kind of engineering that rarely makes a press release and always determines whether the physics happens.
+
+The physics target remains the same as ever: identify the sources. Cosmic rays have been observed for a century and their origin is still unresolved at the highest energies, and neutrinos are the only messenger that escapes the magnetic fields that deflect charged particles. A neutrino pointing back to a blazar, a tidal disruption event or a gamma-ray burst would settle a question that photons cannot. The current catalogue has no such association with confidence; a few events lie near known blazars, and the collaboration is careful to say that proximity is not evidence.
+
+The next few years will be about statistics. Both detectors are being upgraded, and the combined sky map should reach the sensitivity at which associations become arguable. In a field where the first detection took decades and the first map took another, a catalogue of a few dozen candidates is a modest step. It is also the step that makes the next one possible, which is how astronomy has always worked.

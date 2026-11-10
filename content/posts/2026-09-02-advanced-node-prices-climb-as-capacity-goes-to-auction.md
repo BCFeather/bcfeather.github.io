@@ -1,0 +1,19 @@
+---
+slug: "advanced-node-prices-climb-as-capacity-goes-to-auction"
+title: "Advanced-node prices climb as capacity goes to auction"
+date: "2026-09-02T07:36:00+08:00"
+categories: [business]
+description: "Foundry customers are being asked to bid for 2-nanometre wafer capacity a year ahead of delivery, and the clearing prices are running well above the list prices of the previous generation. The squeeze is not a shortage of demand; it is a shortage of the machines and the engineers that make the machines work."
+---
+
+The auctions are not public, but their results leak quickly enough. Customers booking 2-nanometre wafer capacity at the leading foundries for the second half of 2027 are being told to name their volume and their price months earlier than they did for the previous generation, and the clearing prices are reported to be running twenty to thirty per cent above the list prices that 3-nanometre wafers commanded at launch. For a product that has always been sold on allocation rather than on price, the shift to something closer to a bidding process is a signal worth taking seriously.
+
+The demand side is easy to explain. Every accelerator, every flagship phone processor and a growing share of the networking silicon in data centres are now chasing the same leading-edge nodes, and the customers who design those chips have learned that missing a capacity slot costs more than paying a premium for it. A custom accelerator that arrives six months late loses a generation of pricing power. That asymmetry pushes buyers to secure capacity early, which is precisely what turns a queue into an auction.
+
+The supply side is harder and more interesting. The constraint is not the number of fab buildings, which are being built at a pace the industry has not seen in a decade. The constraint is the extreme ultraviolet lithography tools that pattern the smallest features, and the engineering capacity to bring a new node into volume production with yields that make it economic. Those tools come from a single supplier, they take months to install and calibrate, and the number available in any given year is set years in advance. A foundry can pour concrete quickly; it cannot conjure scanners.
+
+The consequence is a market that looks like scarcity for longer than the demand cycle would suggest. Analysts have been predicting a correction in leading-edge pricing for two years, and each time the correction has been postponed because the capacity that was supposed to relieve the squeeze arrived late or went to a different customer. The companies that design their own chips, the hyperscalers and the large device makers, can absorb the premium by spreading it across a product line. Smaller customers cannot, and they are the ones being pushed towards older nodes, where the pricing is softer and the performance penalty is now smaller than it used to be.
+
+There is a politics to this as well. Governments that subsidize fab construction want the capacity to serve domestic customers first, and several of the packages signed over the past three years include conditions about allocation. Those conditions do not show up in the auction prices, but they reduce the pool of wafers available to everyone else, which pushes the clearing price higher still. The result is a market in which the visible price is only part of the cost, and the invisible part is measured in queuing time.
+
+None of this is a bubble in the ordinary sense. The demand is real, the chips are being sold, and the fabs under construction will eventually deliver. But the industry has spent a decade learning that capacity is a strategic asset rather than a commodity, and the auction is what that lesson looks like when it reaches the order book. For customers, the practical advice is dull and expensive: book early, pay the premium, and design products that can survive a node behind schedule.
