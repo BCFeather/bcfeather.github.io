@@ -8,9 +8,9 @@ description: "A delivery drone completed 40 landings on a moving boat in a two-m
 
 Landing on a moving platform is a control problem with a one-metre tolerance. A quadcopter completed 40 consecutive landings on the deck of a boat in a two-metre swell this month, and the trial's value is that it worked in conditions where a manual pilot would decline.
 
-The perception stack is a beacon and a camera. The deck carries an infrared beacon and a fiducial marker, and the drone's camera tracks both at 60 frames per second, giving a relative position accurate to 3 centimetres and an estimate of the deck's motion.
+A beacon and a camera make up the perception stack. The deck carries an infrared beacon and a fiducial marker, and the drone's camera tracks both at 60 frames per second, giving a relative position accurate to 3 centimetres and an estimate of the deck's motion.
 
-The controller predicts rather than reacts. Deck motion is measured over the previous two seconds and a Kalman filter extrapolates the position 300 milliseconds ahead, so the drone descends to where the deck will be rather than where it is. That prediction is what turns a 2-metre swell into a manageable problem.
+Prediction drives the controller; reaction does not. Deck motion is measured over the previous two seconds and a Kalman filter extrapolates the position 300 milliseconds ahead, so the drone descends to where the deck will be rather than where it is. That prediction is what turns a 2-metre swell into a manageable problem.
 
 Landing gear is the mechanical part. The drone has a single central leg with a compliant foot and a magnetic coupling that engages a deck socket, which tolerates 8 centimetres of lateral error and 15 degrees of tilt. A flat pad would need the prediction to be perfect.
 
@@ -24,6 +24,6 @@ Certification is the barrier to routine use. A drone operating beyond visual lin
 
 Weather limits are written into the approval rather than into the hardware. The drone flies in up to 15 knots of wind and 1.5 metres of swell, and the operator's manual requires a forecast check before each flight, which is a procedural control on a machine that could otherwise try.
 
-The relative navigation is the technical core. The boat moves in three axes and the drone must match its velocity before contact, and the team's approach estimates the deck's motion from a camera and predicts it 0.8 seconds ahead. The prediction, not the control, is what makes the landing repeatable.
+Technical core of the mission: the relative navigation. The boat moves in three axes and the drone must match its velocity before contact, and the team's approach estimates the deck's motion from a camera and predicts it 0.8 seconds ahead. The prediction, not the control, is what makes the landing repeatable.
 
 For a reader, the pattern is that autonomous delivery has solved the flight and not the handover. The last metre on a moving platform requires prediction, compliance and a named abort condition, and each of those is engineering rather than autonomy.

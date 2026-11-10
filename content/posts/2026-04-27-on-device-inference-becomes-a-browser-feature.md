@@ -8,7 +8,7 @@ description: "A browser has shipped a runtime that gives web pages access to a l
 
 Web applications have run machine learning in JavaScript for a decade, at a fraction of the speed of native code. A browser shipped a runtime this month that exposes the device's neural accelerator to web pages through an API, with a permission model modelled on the camera's.
 
-The API is narrow by design. It accepts a model in a browser-supported format, a maximum memory allocation and a set of input shapes, and it returns a handle that can run inference. The page cannot read the model's memory or the accelerator's state.
+Design keeps the API narrow. It accepts a model in a browser-supported format, a maximum memory allocation and a set of input shapes, and it returns a handle that can run inference. The page cannot read the model's memory or the accelerator's state.
 
 Permission is the interesting choice. A page must request access in a user gesture, the grant is per-site and per-model, and the browser displays the model's size and its publisher. That is closer to an app store's review than to a JavaScript API.
 

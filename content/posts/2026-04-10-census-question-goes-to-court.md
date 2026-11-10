@@ -24,7 +24,7 @@ The agency's testing protocol is the procedural question. Its standard requires 
 
 Timing is the pressure. The census's printing contract has a 90-day lead, and a ruling after that date would force a supplemental questionnaire, which costs 40 million and is what the agency says it cannot afford.
 
-The precedent is narrow on purpose. The court's earlier ruling allowed a question on citizenship and required the agency to explain its purpose, and this case turns on whether the explanation was written before or after the decision. That is a procedural question with a factual answer.
+Drawn narrow on purpose, the precedent settles very little. The court's earlier ruling allowed a question on citizenship and required the agency to explain its purpose, and this case turns on whether the explanation was written before or after the decision. That is a procedural question with a factual answer.
 
 The statistical argument is about differential response. A question that some households answer and others skip changes the composition of the sample, and the agency's own analysis found a 3-point lower response among one group in testing. That is the harm the challengers quantify.
 

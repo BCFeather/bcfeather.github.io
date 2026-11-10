@@ -18,7 +18,7 @@ Customer response is the regulatory question. Dynamic pricing by time of day is 
 
 Technology cost is falling. A label costs 4 dollars and lasts five years, and a store of 12,000 labels costs 48,000 dollars plus 6,000 a year in infrastructure. That is cheap against the margin gain.
 
-The comparison with online retail is the strategic frame. An online store has always changed prices continuously, and a physical store's paper tickets were the last friction in the channel. Removing that friction makes the two channels comparable, which is what the chain says it wanted.
+Comparison with online retail is the strategic frame. An online store has always changed prices continuously, and a physical store's paper tickets were the last friction in the channel. Removing that friction makes the two channels comparable, which is what the chain says it wanted.
 
 Privacy is the emerging constraint. A label that displays a price can also display a message, and two chains are testing a personalised offer shown at the shelf, triggered by a loyalty card. Consumer groups have objected, and one jurisdiction has asked for an opinion on whether that constitutes profiling.
 

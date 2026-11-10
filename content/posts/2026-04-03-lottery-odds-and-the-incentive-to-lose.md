@@ -8,7 +8,7 @@ description: "A league flattened its draft lottery odds, and the first season sh
 
 A draft lottery exists to stop the worst team from being guaranteed the best player, and the mechanism is the odds assigned to each finishing position. A league flattened those odds this season, giving the bottom three teams 14, 13.4 and 12.7 per cent instead of 25, 19.9 and 15.6, and the first season's data show what changed.
 
-The incentive is the product of two numbers: the chance of the first pick and the value of the first pick over the fifth. A team at the bottom traded a 10-point reduction in its chance of the top pick for an unchanged chance at the third, and its expected pick value fell by 4 per cent.
+Two numbers multiply into the incentive: the chance of the first pick and the value of the first pick over the fifth. A team at the bottom traded a 10-point reduction in its chance of the top pick for an unchanged chance at the third, and its expected pick value fell by 4 per cent.
 
 Evidence of intentional losing is what the reform was meant to reduce. The league's audit looks for unusual lineup decisions in the last 20 games of a season, and it found 9 cases this season against 14 last season. The reduction is real and small.
 
@@ -20,7 +20,7 @@ An alternative design is used elsewhere. A lottery weighted by a team's record o
 
 The reform was necessary and insufficient. Intentional losing is now less profitable and still profitable, and the mechanism that would remove it, relegation or a fixed allocation, is not available in a league without promotion and relegation.
 
-The players' incentives are the other side. A team that finishes last keeps its own pick unless it falls in the top three, and a veteran on a one-year contract has no reason to prefer a loss. The league's audit found no evidence of player-level manipulation, which is consistent with the incentive being organisational.
+Other side of the ledger is the players' incentives. A team that finishes last keeps its own pick unless it falls in the top three, and a veteran on a one-year contract has no reason to prefer a loss. The league's audit found no evidence of player-level manipulation, which is consistent with the incentive being organisational.
 
 Tanking is also a coaching decision. A coach who rests a starter in March is protecting a player and losing games, and the two motives are indistinguishable in the record. That ambiguity is why the audit is narrow.
 

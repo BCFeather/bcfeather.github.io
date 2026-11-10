@@ -12,7 +12,7 @@ Trial design was a single subretinal injection at three dose levels. Visual acui
 
 Results are 12 of 14 holding their gain. The average improvement at one year was 12 letters on an acuity chart, and at five years 10 letters, which is a small decline within the measurement's variability. Two patients lost the gain entirely.
 
-The exceptions are informative. Both were in the lowest dose cohort, and both showed a decline in retinal thickness that suggests the transduced cells turned over. The vector's promoter was the same in all patients, and the difference was dose.
+Exceptions carry the useful information. Both were in the lowest dose cohort, and both showed a decline in retinal thickness that suggests the transduced cells turned over. The vector's promoter was the same in all patients, and the difference was dose.
 
 Immunology was monitored and unremarkable. None of the patients developed antibodies against the vector's capsid at levels that would preclude a second dose, which matters because the contralateral eye is a candidate for retreatment.
 
@@ -26,6 +26,6 @@ Cost is the deployment question. The therapy is priced at 850,000 dollars per ey
 
 The surgical route is the delivery constraint. The vector is injected under the retina in a procedure that takes 90 minutes and requires a vitreoretinal surgeon, and the number of surgeons who can perform it limits how many patients can be treated in a year.
 
-The outcome's shape is what the paper emphasizes. Improvement was largest at year one and then held rather than growing, which suggests the vector's expression reached a plateau. A plateau is acceptable for a degenerative disease and is not a cure.
+What the paper emphasizes is the shape of the outcome. Improvement was largest at year one and then held rather than growing, which suggests the vector's expression reached a plateau. A plateau is acceptable for a degenerative disease and is not a cure.
 
 For a reader, the result is the kind of evidence gene therapy needs. A one-year gain is a proof of mechanism; a five-year gain is a proof of durability, and the field's unresolved question is whether a construct can deliver an effect that lasts the patient's lifetime.

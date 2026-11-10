@@ -14,7 +14,7 @@ The legal test differs between jurisdictions, which is why the outcome was negot
 
 Negotiation produced a middle path: no court judgment, a transfer of title by agreement, and a joint statement that both sides could sign. The museum keeps a cast and a long-term loan of two related pieces; the receiving museum gets the original and provides research access. Neither side describes the outcome as a victory.
 
-The interesting variable is time. Restitution cases that run through courts take eight to twelve years on average and cost more in legal fees than the objects are worth at auction. Cases resolved by agreement average three to five years and depend on a fact that courts find hard to establish: whether the holding institution wants the object or wants the dispute to end.
+Time is the variable worth watching. Restitution cases that run through courts take eight to twelve years on average and cost more in legal fees than the objects are worth at auction. Cases resolved by agreement average three to five years and depend on a fact that courts find hard to establish: whether the holding institution wants the object or wants the dispute to end.
 
 For smaller museums, the constraint is capacity. Provenance research on one object consumed the equivalent of a curator's year, and the museum has 6,000 objects acquired before 1990 with incomplete records. Most of them are not from anywhere contested, but the audit cannot say which without doing the same work.
 
