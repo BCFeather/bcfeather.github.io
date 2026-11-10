@@ -1,6 +1,6 @@
 ---
 slug: "a-compiler-that-treats-a-thousand-gpus-as-one-machine"
-title: "A compiler that treats a thousand GPUs as one machine"
+title: "A thousand GPUs, one machine: inside the compiler"
 date: "2026-10-30T09:52:00+08:00"
 categories: [technology]
 description: "A new compiler stack schedules a model's computation across a thousand accelerators automatically, choosing sharding, communication and checkpointing without a hand-written plan. The gain is not raw speed; it is the cost of the engineers who used to write that plan."

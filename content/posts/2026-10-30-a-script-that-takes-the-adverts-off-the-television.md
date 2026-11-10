@@ -1,6 +1,6 @@
 ---
 slug: "a-script-that-takes-the-adverts-off-the-television"
-title: "A script that takes the adverts off the television"
+title: "Stripping the adverts from broadcast television"
 date: "2026-10-30T21:00:00+08:00"
 categories: [technology]
 description: "CleanYourTV strips bloatware from Android and Google TV sets over the network and reaches forty-six thousand stars in its first weeks."

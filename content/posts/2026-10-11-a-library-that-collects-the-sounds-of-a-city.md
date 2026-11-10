@@ -1,6 +1,6 @@
 ---
 slug: "a-library-that-collects-the-sounds-of-a-city"
-title: "A library that collects the sounds of a city"
+title: "A city's sounds, catalogued"
 date: "2026-10-11T10:36:00+08:00"
 categories: [culture]
 description: "A municipal sound archive has been recording the ordinary noises of a city for eleven years: markets, crossings, workshops, dialects. The collection is now being catalogued for public use, and the questions it raises about consent, obsolescence and what a recording actually preserves are more interesting than the recordings themselves."

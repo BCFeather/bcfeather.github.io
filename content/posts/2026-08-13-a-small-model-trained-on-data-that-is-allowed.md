@@ -1,6 +1,6 @@
 ---
 slug: "a-small-model-trained-on-data-that-is-allowed"
-title: "A small model trained on data that is allowed"
+title: "A small model, and data with permission"
 date: "2026-08-13T22:00:00+08:00"
 categories: [science]
 description: "Mimir reaches the top of the sub-two-billion class using a curated mixture of permissible data rather than a web-scale corpus."

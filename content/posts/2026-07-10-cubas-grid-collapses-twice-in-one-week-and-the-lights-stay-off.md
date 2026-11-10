@@ -1,6 +1,6 @@
 ---
 slug: "cubas-grid-collapses-twice-in-one-week-and-the-lights-stay-off"
-title: "Cuba's grid: two collapses in one week"
+title: "Cuba's grid collapses twice in one week"
 date: "2026-07-10T23:45:00+08:00"
 categories: [news]
 description: "The national system failed completely on 10 July, the second time in a week, and the state utility said the repair would take days because a grid that big cannot be restarted from a single plant."

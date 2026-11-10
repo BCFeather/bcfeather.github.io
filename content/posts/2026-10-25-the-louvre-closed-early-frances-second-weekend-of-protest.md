@@ -1,6 +1,6 @@
 ---
 slug: "the-louvre-closed-early-frances-second-weekend-of-protest"
-title: "The Louvre closed early: France's second weekend of protest"
+title: "France's second weekend of protest closes the Louvre early"
 date: "2026-10-25T16:32:00+08:00"
 categories: [news]
 description: On Saturday 24 October the interior ministry counted 410,000 marchers and the unions 800,000. The Louvre, the Opéra and much of Paris's cultural life stayed shut, the shops boarded up, and a week after the worst rioting in years the government's answer was to ban a march it could not stop.

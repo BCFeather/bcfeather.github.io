@@ -1,6 +1,6 @@
 ---
 slug: "a-browser-that-summarizes-pages-without-the-cloud"
-title: "A browser that summarizes pages without the cloud"
+title: "Summaries in the browser, with no cloud in the loop"
 date: "2026-09-03T10:14:00+08:00"
 categories: [technology]
 description: "A European browser maker has shipped an on-device model that condenses long pages locally, with no request leaving the machine. The feature is modest and the reasoning behind it is not: inference that stays on the client changes what a browser can promise about privacy and what a server farm is for."
