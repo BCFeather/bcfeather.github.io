@@ -6,7 +6,7 @@
   {{- with .Params.categories }}{{ $c = delimit . ", " }}{{ end -}}
   {{- $g := "" -}}
   {{- with .Params.tags }}{{ $g = delimit . ", " }}{{ end -}}
-  {{- with .Description }}{{ $s = . | plainify | truncate 120 }}{{ end -}}
+  {{- with .Description }}{{ $s = . | markdownify | plainify | truncate 120 }}{{ end -}}
   {{- $x := .Content | plainify | replaceRE "\\s+" " " | truncate 160 -}}
   {{- $items = $items | append (dict
       "t" .Title

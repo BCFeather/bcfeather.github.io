@@ -1,0 +1,6 @@
+{{- with . -}}
+{{- $html := . | markdownify -}}
+{{- $html = replaceRE "^<p>" "" $html -}}
+{{- $html = replaceRE "</p>$" "" $html -}}
+{{- $html | safeHTML -}}
+{{- end -}}

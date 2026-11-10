@@ -32,6 +32,8 @@ enableRobotsTXT = true
     unsafe = true
   [markup.highlight]
     noClasses = false
+  [markup.goldmark.extensions.typographer]
+    disable = true
 
 [params]
   tagline = "Your view also matters."

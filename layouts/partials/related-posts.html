@@ -25,7 +25,7 @@
           <time data-ts="{{ .Date.Unix }}" data-df="D MMM YYYY">{{ .Date.Format "2 Jan 2006" }}</time>
           <h4 class="pt-0 my-2">{{ .Title }}</h4>
           <div class="text-muted">
-            <p>{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 120 }}{{ end }}</p>
+            <p>{{ with .Description }}{{ partial "desc-inline.html" . }}{{ else }}{{ .Summary | plainify | truncate 120 }}{{ end }}</p>
           </div>
         </div>
       </a>

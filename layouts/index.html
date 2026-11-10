@@ -163,7 +163,7 @@
     <div class="date">{{ .Date.Format "2 Jan 2006" }}</div>
     <div>
       <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-      {{ with .Description }}<p class="desc">{{ . }}</p>{{ end }}
+      {{ with .Description }}<p class="desc">{{ partial "desc-inline.html" . }}</p>{{ end }}
     </div>
   </article>
   {{ end }}
