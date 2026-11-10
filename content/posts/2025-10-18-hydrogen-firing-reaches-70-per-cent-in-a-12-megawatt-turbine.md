@@ -10,17 +10,11 @@ Gas turbines burn a mixture and the mixture's composition determines almost ever
 
 The combustor is the changed component. Hydrogen's flame speed is six times methane's, which makes the flame sit closer to the injector and raises the risk of the combustor's acoustic resonance. The test used a modified injector with a smaller exit area and a liner with acoustic damping holes.
 
-Emissions were the argument for the fuel. Nitrogen oxide output at full load was 18 parts per million at 15 per cent oxygen, against 25 on natural gas, and the drop came from a lower flame temperature that the injector's staging produced.
+Emissions were the argument for the fuel. Nitrogen oxide output at full load was 18 parts per million at 15 per cent oxygen, against 25 on natural gas, and the drop came from a lower flame temperature that the injector's staging produced. Materials held. A turbine blade in the first stage saw a 40-degree higher gas temperature in the hydrogen blend test and showed no measurable oxidation after 800 hours, because the blend lacked the fuel-bound sulphur that the natural-gas case has. The electrical output fell 4 per cent.
 
-Materials held. A turbine blade in the first stage saw a 40-degree higher gas temperature in the hydrogen blend test and showed no measurable oxidation after 800 hours, because the blend lacked the fuel-bound sulphur that the natural-gas case has.
+Hydrogen's lower volumetric energy density means a smaller mass flow for the same volume, and the turbine's output was 11.5 megawatts against 12. The operator recovers that by accepting a lower efficiency. Supply is the real constraint. A plant at full load on a 70 per cent blend needs 8 tonnes of hydrogen a day, and the nearest electrolyzer produces 1. The test was run on delivered hydrogen from three suppliers, and the cost was 5 dollars per kilogram, against a price the plant's economics assume at 2.
 
-The electrical output fell 4 per cent. Hydrogen's lower volumetric energy density means a smaller mass flow for the same volume, and the turbine's output was 11.5 megawatts against 12. The operator recovers that by accepting a lower efficiency.
-
-Supply is the real constraint. A plant at full load on a 70 per cent blend needs 8 tonnes of hydrogen a day, and the nearest electrolyzer produces 1. The test was run on delivered hydrogen from three suppliers, and the cost was 5 dollars per kilogram, against a price the plant's economics assume at 2.
-
-Blending limits are the intermediate step. A 20 per cent blend needs no combustor change and cuts carbon dioxide by 7 per cent, and three utilities have announced they will run at that level while the supply builds.
-
-The combustor is the constraint rather than the fuel. Hydrogen's flame speed is several times methane's, and a premixed flame in a 12-megawatt can's annulus will flash back into the mixer unless the injector is redesigned. The test rig used a modified swirler with a smaller passage.
+Blending limits are the intermediate step. A 20 per cent blend needs no combustor change and cuts carbon dioxide by 7 per cent, and three utilities have announced they will run at that level while the supply builds. The combustor is the constraint rather than the fuel. Hydrogen's flame speed is several times methane's, and a premixed flame in a 12-megawatt can's annulus will flash back into the mixer unless the injector is redesigned. The test rig used a modified swirler with a smaller passage.
 
 Nitrogen oxides rise with hydrogen because the flame is hotter. A dry low-emission combustor that meets 25 parts per million on methane reaches 40 on a 70 per cent blend, and a water injection system recovers the difference at the cost of 2 points of efficiency.
 

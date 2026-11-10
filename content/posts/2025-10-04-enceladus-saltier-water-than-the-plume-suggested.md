@@ -10,13 +10,9 @@ A moon two hundred kilometres across has no business holding an ocean, and the m
 
 Cassini flew through the plume 23 times between 2005 and 2015, and each pass measured the composition of the vapour with a mass spectrometer. The original analysis used a calibration derived from laboratory measurements of water vapour at a single temperature, and the reanalysis replaces it with a temperature-dependent model built from three later experiments.
 
-The revised salt concentration is 1.5 times the earlier figure, which puts the ocean at roughly 2 per cent by mass, comparable to a brackish sea rather than to a freshwater lake. The sodium chloride and sodium bicarbonate ratio also shifts, towards bicarbonate, which indicates more extensive water-rock interaction.
+The revised salt concentration is 1.5 times the earlier figure, which puts the ocean at roughly 2 per cent by mass, comparable to a brackish sea rather than to a freshwater lake. The sodium chloride and sodium bicarbonate ratio also shifts, towards bicarbonate, which indicates more extensive water-rock interaction. Silica is the second thread. The plume carries silica particles of a size that forms only when slightly alkaline water circulates through rock at 90 degrees for years, and the reanalysis's higher salinity changes the estimated circulation time from decades to centuries.
 
-Silica is the second thread. The plume carries silica particles of a size that forms only when slightly alkaline water circulates through rock at 90 degrees for years, and the reanalysis's higher salinity changes the estimated circulation time from decades to centuries.
-
-The ocean's habitability is the question the numbers serve. Liquid water, a rock interface and a chemical gradient are the three conditions that make a subsurface ocean interesting, and the revised chemistry strengthens the case for the third.
-
-Limits are calibration and sampling. The plume samples a fraction of the ocean that rises to the surface, and the relationship between that fraction and the whole is a model. The reanalysis states that explicitly and gives a range rather than a value.
+The ocean's habitability is the question the numbers serve. Liquid water, a rock interface and a chemical gradient are the three conditions that make a subsurface ocean interesting, and the revised chemistry strengthens the case for the third. Limits are calibration and sampling. The plume samples a fraction of the ocean that rises to the surface, and the relationship between that fraction and the whole is a model. The reanalysis states that explicitly and gives a range rather than a value.
 
 Salinity is inferred rather than measured. A plume's water vapour carries salts as droplets and as ions, and a mass spectrometer's count of sodium and potassium ions per unit of water gives a ratio that a model translates into an ocean's concentration. The translation assumes the plume draws from a reservoir that mixes freely with the ocean beneath the ice.
 

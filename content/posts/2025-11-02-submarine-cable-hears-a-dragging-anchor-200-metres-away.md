@@ -10,15 +10,9 @@ A submarine cable is a 10-centimetre tube of steel wire, copper and glass lying 
 
 Rayleigh backscatter supplies the sensing principle. A pulse of light in the fibre scatters from every point, and a vibration changes the phase of the returned light at the point where it occurs. By measuring the delay, the system turns 2,000 kilometres of cable into 2,000 kilometres of microphones.
 
-One event and a set of controls make up the trial data. An anchor drag produced a signal at four points along the cable, and the system's location matched a subsequent survey's finding to 200 metres. A trawler crossing at 500 metres produced a weaker, broader signal.
+One event and a set of controls make up the trial data. An anchor drag produced a signal at four points along the cable, and the system's location matched a subsequent survey's finding to 200 metres. A trawler crossing at 500 metres produced a weaker, broader signal. False alarms are the engineering problem. The seabed carries its own noise from currents and from marine life, and the trial's false-positive rate was 0.4 events per day per cable, which is a number an operator can live with if the classification is good. Bandwidth is the second. The sensing channel uses a separate wavelength and a guard band, and the cost is 2 per cent of the cable's capacity.
 
-False alarms are the engineering problem. The seabed carries its own noise from currents and from marine life, and the trial's false-positive rate was 0.4 events per day per cable, which is a number an operator can live with if the classification is good.
-
-Bandwidth is the second. The sensing channel uses a separate wavelength and a guard band, and the cost is 2 per cent of the cable's capacity. That is a cheap trade for a system that can call a repair ship before a break.
-
-A break's economics argue for the sensor. A repair takes 40 days and costs 15 million dollars, and a ship's mobilisation is half of that. A warning that arrives 6 hours before a break gives the operator a chance to reroute traffic.
-
-Satellite monitoring covers a different layer of the same problem. A satellite can see a vessel's track and a cable's protection zone, and it cannot see a dragging anchor's contact. The fibre sees contact and not intent, which is why the two systems are complementary.
+That is a cheap trade for a system that can call a repair ship before a break. A break's economics argue for the sensor. A repair takes 40 days and costs 15 million dollars, and a ship's mobilisation is half of that. A warning that arrives 6 hours before a break gives the operator a chance to reroute traffic. Satellite monitoring covers a different layer of the same problem. A satellite can see a vessel's track and a cable's protection zone, and it cannot see a dragging anchor's contact. The fibre sees contact and not intent, which is why the two systems are complementary.
 
 The cable's repeater spacing sets the resolution. A commercial system interrogates a fibre at 4,000 points per metre, and a disturbance's acoustic signature is a change in the phase of light returning from a section of fibre. A dragging anchor produces a low-frequency rumble that the system's filtering can separate from a ship's propeller.
 
