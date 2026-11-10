@@ -1,6 +1,6 @@
 ---
 slug: "the-root-dialects-traditions-and-customs"
-title: "The root: dialects, traditions and customs"
+title: "Root: dialects, traditions and customs"
 date: "2025-12-09T09:21:00+08:00"
 categories: [culture]
 description: "Anhui is a mosaic of dialects, traditions and customs. Why protecting them matters, and what they stand to lose in an age of standardization."

@@ -1,6 +1,6 @@
 ---
 slug: "a-first-in-140-years-takaichi-sanae-becomes-japans-prime-minister"
-title: "A first in 140 years: Takaichi Sanae becomes Japan's prime minister"
+title: "Takaichi Sanae becomes Japan's first female prime minister in 140 years"
 date: "2025-10-22T09:15:00+08:00"
 categories: [news]
 description: On 21 October 2025 Takaichi Sanae was elected Japan's 104th prime minister, the first woman to hold the office in the country's 140-year cabinet system. What her victory means, and what it does not.
@@ -8,7 +8,7 @@ description: On 21 October 2025 Takaichi Sanae was elected Japan's 104th prime m
 
 Japan has a female prime minister for the first time. On 21 October, Takaichi Sanae, the leader of the Liberal Democratic Party, was chosen by both houses of the Diet and became the country's 104th prime minister, the first woman to hold the office in the 140 years since the cabinet system was established. In the lower house she won in the first round with 237 of 465 valid votes; in the upper house she fell one vote short of a majority and prevailed in a second round. A few hours later her cabinet was sworn in at the imperial palace.
 
-The milestone had been a long time coming. Japan has had female speakers, ministers and party leaders, but the top office always remained out of reach. Takaichi's own path to it was not straightforward: she lost the party's leadership race in 2021, lost again in 2024, and only won this month after a two-round contest in which she defeated five candidates, beating Shinjiro Koizumi, the early favourite, by 185 votes to 156 in the runoff. At sixty-four, she is now the leader of a party that has governed Japan for most of the post-war era.
+That milestone had been a long time coming. Japan has had female speakers, ministers and party leaders, but the top office always remained out of reach. Takaichi's own path to it was not straightforward: she lost the party's leadership race in 2021, lost again in 2024, and only won this month after a two-round contest in which she defeated five candidates, beating Shinjiro Koizumi, the early favourite, by 185 votes to 156 in the runoff. At sixty-four, she is now the leader of a party that has governed Japan for most of the post-war era.
 
 Her record explains both the enthusiasm and the unease. Takaichi is known as a policy specialist and is widely seen as the most direct heir of the Abe line: revisionist on the constitution, hawkish on security, and committed to a stronger military and tighter control of economic supply chains. She has spoken for years about amending the constitution's pacifist article and about building up the country's deterrent capacity. Her supporters call this clarity. Her critics call it a dangerous agenda, wrapped in a historic breakthrough.
 

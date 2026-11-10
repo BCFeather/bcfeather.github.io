@@ -1,6 +1,6 @@
 ---
 slug: "the-unsubscribe-button-and-the-november-inbox"
-title: "The unsubscribe button and the November inbox"
+title: "Unsubscribe button and the November inbox"
 date: "2025-11-19T09:40:00+08:00"
 categories: [culture]
 description: "By the third week of November the inbox has quietly become a different place. The promotional volume arrives in waves, each one timed to a sale the retailer thinks you cannot afford to miss, and the small link at the bottom of each message that says unsubscribe is doing more work than it was designed for. It has become the last quiet protest left to the reader."

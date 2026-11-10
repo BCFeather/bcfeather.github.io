@@ -1,6 +1,6 @@
 ---
 slug: "a-market-for-used-things"
-title: "A market for used things"
+title: "Used goods market and what the boom reveals"
 date: "2025-11-20T20:15:00+08:00"
 categories: [essay]
 description: "The resale of used goods has grown from a fringe habit into a mainstream market, powered by apps, trust systems and a generation that treats ownership more lightly. A short essay on what the second-hand boom reveals about value, waste and the economics of everything old."
@@ -8,7 +8,7 @@ description: "The resale of used goods has grown from a fringe habit into a main
 
 There was a time when buying something used was a confession. It meant that the new version was out of reach, and the transaction carried a small social tax, an admission made at the counter. That era is over. The resale of used goods has become a mainstream market with its own apps, its own logistics, its own vocabulary of nine-point grading and verified authentication, and its own aesthetic, in which vintage is a style and pre-owned is a virtue. The shift is one of the more quietly consequential changes in how consumption works, and it repays a closer look than it usually gets.
 
-The obvious engine is economic. A phone or a jacket loses a large share of its value the moment it leaves the shop, and the second-hand market lets the seller recover part of that loss and the buyer escape paying it in the first place. The economics are attractive at every price level, which is why the market grew where the old assumptions said it could not: not only for furniture and textbooks but for electronics, luxury goods and collectibles, categories that once carried an almost moral prohibition against being sold twice. The platforms solved the trust problem that held the market back, with escrow payments, inspection and return policies, and in doing so they converted the ancient garage sale into something with the reliability of a store.
+Economics is the obvious engine. A phone or a jacket loses a large share of its value the moment it leaves the shop, and the second-hand market lets the seller recover part of that loss and the buyer escape paying it in the first place. The economics are attractive at every price level, which is why the market grew where the old assumptions said it could not: not only for furniture and textbooks but for electronics, luxury goods and collectibles, categories that once carried an almost moral prohibition against being sold twice. The platforms solved the trust problem that held the market back, with escrow payments, inspection and return policies, and in doing so they converted the ancient garage sale into something with the reliability of a store.
 
 The environmental argument is real but easier to overstate than its advocates admit. Extending the life of a product does displace some new production, and for energy-intensive goods like electronics the saving is substantial. But a vibrant second-hand market can also lubricate consumption: the ability to resell makes people buy more freely in the first place, and the guilt that once attached to overconsumption has been partly laundered into the reassuring phrase that something will find a second life. The circular economy, in practice, is often a rotating economy, more circulation rather than less extraction, and the two are not the same.
 
