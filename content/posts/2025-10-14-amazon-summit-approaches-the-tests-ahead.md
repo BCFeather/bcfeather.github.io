@@ -1,6 +1,6 @@
 ---
 slug: "amazon-summit-approaches-the-tests-ahead"
-title: "Belem climate summit: the finance gap the draft text cannot close"
+title: "Belém climate summit: the finance gap the draft text cannot close"
 date: "2025-10-14T18:19:00+08:00"
 categories: [essay]
 description: "A summit's outcome is largely fixed before any minister speaks: bracketed text records where governments converged, undelivered pledges set the arithmetic, and a consensus rule hands every delegation a veto."

@@ -1,6 +1,6 @@
 ---
 slug: "the-october-light-and-the-seasons-own-pace"
-title: "October light and the season's own pace"
+title: "October light sets the season's own pace"
 date: "2025-10-18T08:55:00+08:00"
 categories: [culture]
 description: "Mid-October brought the light the season reserves for itself, the slant that northern latitudes have always known, and the pace that light seems to set: the shorter days, the slower afternoons, the year's business conducted in the golden intervals. The season's own pace is the counterpoint to the year's headlines, and the counterpoint is worth the noticing."

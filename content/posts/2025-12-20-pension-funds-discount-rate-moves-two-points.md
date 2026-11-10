@@ -16,7 +16,7 @@ Peer assumptions are the reference a board actually uses. A neighbouring fund re
 
 The fund's bond allocation now yields 4.2 per cent, and a portfolio that returns 7 per cent must earn 9 on its equity sleeve, which is above most long-run forecasts. A discount rate is an assumption about the future and a liability is a promise about it, and the two are linked by a member's life expectancy. A 20-year liability's duration is 12 years, and a rate change's effect is proportional to that duration.
 
-Contribution policy is where the change lands. A funded ratio below a threshold triggers a contribution schedule, and a schedule spread over eight years halves the annual increase at the cost of paying more later. A board chooses between a larger bill now and a larger one later.
+The contribution policy is where the change lands. A funded ratio below a threshold triggers a contribution schedule, and a schedule spread over eight years halves the annual increase at the cost of paying more later. A board chooses between a larger bill now and a larger one later.
 
 A fund's assumption is compared with its peers and not with a market. A public plan that discounts at 5 per cent and a private plan that discounts at 4.5 are measuring different promises, and a board that changes its rate is making a statement about its own credibility as much as about its arithmetic.
 

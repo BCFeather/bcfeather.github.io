@@ -1,6 +1,6 @@
 ---
 slug: "the-week-of-the-prizes-sciences-annual-roll-call"
-title: "Prize week and the annual roll call"
+title: "Prize week and its annual roll call"
 date: "2025-10-06T17:09:00+08:00"
 categories: [science]
 description: "The scientific prizes opened their annual week in October, and the announcements carried the roll call that the committees have conducted for over a century: the discoveries recognized, the careers honoured, and the fields' direction signalled by the choices. The week is science's annual performance, and the performance's meaning is the measure of the work that the year's coverage otherwise cannot see."

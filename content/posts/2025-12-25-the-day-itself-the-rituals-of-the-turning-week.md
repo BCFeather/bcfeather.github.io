@@ -1,6 +1,6 @@
 ---
 slug: "the-day-itself-the-rituals-of-the-turning-week"
-title: "Holiday itself and the rituals of the turning week"
+title: "Holiday rituals of the turning week"
 date: "2025-12-25T11:20:00+08:00"
 categories: [culture]
 description: "The holiday arrived with the rituals that the season has fixed, and the rituals carried the year's particular content: the ceremonies held, the meals shared, and the year's quiet weighing conducted in the households that the traditions have gathered. The day is the turning week's centre, and the centre's keeping is the season's gift."

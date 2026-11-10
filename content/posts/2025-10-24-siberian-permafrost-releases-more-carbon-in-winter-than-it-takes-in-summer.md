@@ -14,7 +14,7 @@ Deepening comes first in the mechanism, and the active layer is what deepens. Th
 
 Heterogeneity across the landscape limits the extrapolation. The site is a peat plateau, which holds more carbon than a mineral soil, and three other towers in the region show a smaller net release. The paper reports its result as a site measurement and models the regional total separately.
 
-Winter flux was assumed to be negligible because cold slows decomposition. The tower's data show the opposite, and the mechanism is not biological: as the active layer freezes from the surface down, gas is expelled from the shrinking pore space, and a fraction of it reaches the atmosphere rather than staying in the soil.
+The winter flux was assumed to be negligible because cold slows decomposition. The tower's data show the opposite, and the mechanism is not biological: as the active layer freezes from the surface down, gas is expelled from the shrinking pore space, and a fraction of it reaches the atmosphere rather than staying in the soil.
 
 Snow cover controls the winter's total. A thin snowpack insulates less, the soil freezes deeper and faster, and the expulsion is stronger. A winter with little snow can release more carbon than one with a thick cover, which is a relationship the seasonal record shows clearly. A tower's footprint is a hectare and a region is a million square kilometres, and the gap is the paper's central caveat. A single site's annual balance can be anomalous for reasons of drainage, snow and soil type, and a network of 20 towers is what a regional estimate would need.
 
