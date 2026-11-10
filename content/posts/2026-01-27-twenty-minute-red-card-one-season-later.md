@@ -4,9 +4,7 @@ title: "Twenty-minute red card, one season later"
 date: "2026-01-27T15:20:00+08:00"
 categories: [sport]
 description: "A red card in rugby now removes a player for twenty minutes and allows a replacement, rather than ending his match. One season of data shows the change halved the points a red card costs."
----
-
-Rugby's red card used to end a player's match and leave his side a man down for the rest of it, which made the sanction proportional to the referee's reading of one collision. The twenty-minute red card, trialled last season and now permanent, removes the player for twenty minutes and then allows a replacement.
+---Rugby's red card used to end a player's match and leave his side a man down for the rest of it, which made the sanction proportional to the referee's reading of one collision. The twenty-minute red card, trialled last season and now permanent, removes the player for twenty minutes and then allows a replacement.
 
 The structure of the rule is the interesting part. A red card remains a red card for the disciplinary process, so a citing commissioner can impose a suspension afterwards; what changes is the on-field consequence. A side that loses a player for twenty minutes concedes about 7 points, against 14 for the full-match version.
 
@@ -16,7 +14,7 @@ Referees report a change in behaviour, and it cuts both ways. A decision that no
 
 The unintended consequence is tactical. A side that expects to lose a player for twenty minutes can plan for it, and two coaches have said publicly that they now select a bench assuming a forward will be missing for a quarter. That is a strategy the rule's authors did not anticipate.
 
-Comparison with other sports is the argument for the change. Field hockey uses temporary suspension for a yellow card and a permanent one for a red, and the temporary sanction is the one players describe as fair. Rugby's full-match red was an outlier among collision sports.
+The Comparison with other sports is the argument for the change. Field hockey uses temporary suspension for a yellow card and a permanent one for a red, and the temporary sanction is the one players describe as fair. Rugby's full-match red was an outlier among collision sports.
 
 What remains unresolved is the sanction for a genuinely dangerous act. A twenty-minute removal plus a suspension is a heavier total penalty than the old rule where the citing commissioner acts, and the two mechanisms are not calibrated to each other.
 

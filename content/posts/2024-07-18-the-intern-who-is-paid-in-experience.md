@@ -4,11 +4,9 @@ title: "The intern who is paid in experience"
 date: "2024-07-18T20:40:00+08:00"
 categories: [society]
 description: "Summer internships begin in July. A placement that pays nothing still costs the student a room for two months, which is the part of the arrangement that the advertisements leave out."
----
+---Summer internships begin in July. A student in the second or third year of a degree applies in April, interviews in May and starts in the first week of the holiday. Placement lasts six or eight weeks. The pay varies more than the work. A bank pays a daily rate and provides a canteen card. A media company pays a transport allowance and nothing else. A technology firm pays a proper salary and expects the intern to be productive in the second week.
 
-Summer internships begin in July. A student in the second or third year of a degree applies in April, interviews in May and starts in the first week of the holiday. Placement lasts six or eight weeks. The pay varies more than the work. A bank pays a daily rate and provides a canteen card. A media company pays a transport allowance and nothing else. A technology firm pays a proper salary and expects the intern to be productive in the second week.
-
-Cost of the room is what the advertisements leave out. A student who moves to a city for eight weeks rents a room at a monthly rate that a landlord sets for a year. Rent is a month and a half of a graduate salary, paid by a family. The work is often administrative. A student files documents, formats a spreadsheet, sits in on meetings and takes notes. Tasks that the firm would not give a permanent employee go to the intern, which is the reason the internship exists.
+The Cost of the room is what the advertisements leave out. A student who moves to a city for eight weeks rents a room at a monthly rate that a landlord sets for a year. Rent is a month and a half of a graduate salary, paid by a family. The work is often administrative. A student files documents, formats a spreadsheet, sits in on meetings and takes notes. Tasks that the firm would not give a permanent employee go to the intern, which is the reason the internship exists.
 
 Certificate at the end is the product. A stamped page that says the student worked from this date to that date is what a graduate application asks for. Content of the work matters less than the existence of the paper. The conversion to a job is the hope. A firm that takes ten interns in July makes offers to two in September. The two are chosen by the team they worked with, which is why an intern who is placed badly has a worse chance than an intern who is placed well.
 

@@ -4,9 +4,7 @@ title: "Wastewater surveillance maps resistance genes"
 date: "2026-04-09T11:20:00+08:00"
 categories: [science]
 description: "A year of weekly sampling at 60 treatment plants found resistance genes rising before clinical isolates did, and the correlation gives surveillance a six-month lead. The method is metagenomic sequencing of sewage."
----
-
-Wastewater surveillance became routine during the pandemic, when it tracked a virus' RNA in sewage as an early signal of infection in a population. A study published this month applied the method to antibiotic resistance, sequencing 60 treatment plants weekly for a year, and found the genes rising before clinical isolates did.
+---Wastewater surveillance became routine during the pandemic, when it tracked a virus' RNA in sewage as an early signal of infection in a population. A study published this month applied the method to antibiotic resistance, sequencing 60 treatment plants weekly for a year, and found the genes rising before clinical isolates did.
 
 The measurement is shotgun metagenomics. Each sample is sequenced to 20 million reads, and the reads are matched against a database of resistance genes, giving an abundance for each gene normalized to the total bacterial DNA.
 
@@ -18,7 +16,7 @@ Seasonality shows in the data. Abundance rises in winter, when hospital occupanc
 
 Cost is 400 dollars per sample for the sequencing, which is 1.2 million a year for the network. That is cheap against a single outbreak's cost and expensive against a public health budget that has no line for it.
 
-Comparison with clinical surveillance is not a substitution. A sewage signal says a gene is present in the population and says nothing about which patient has it, which is why the method is an early warning rather than a diagnostic.
+The Comparison with clinical surveillance is not a substitution. A sewage signal says a gene is present in the population and says nothing about which patient has it, which is why the method is an early warning rather than a diagnostic.
 
 Normalization is the technical detail that makes a trend visible. Gene abundance is divided by a marker of total bacterial load, so a plant's dilution or a rain event does not read as a change in resistance. The team validated the normalization against a spiked control in every batch.
 

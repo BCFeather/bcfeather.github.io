@@ -4,11 +4,9 @@ title: "Five-year follow-up on a retinal gene therapy"
 date: "2026-04-06T10:30:00+08:00"
 categories: [science]
 description: "A gene therapy for an inherited retinal degeneration has held its effect for five years in 12 of 14 patients, and the two exceptions show what the durability depends on. The vector's promoter, not the gene, is the variable."
----
+---Gene therapy for inherited retinal disease delivers a functional copy of a gene into photoreceptors with a viral vector, and the question after the first trials was how long the effect lasts. A five-year follow-up published this month reports on 14 patients treated in one cohort, and the answer depends on the construct rather than on the disease.
 
-Gene therapy for inherited retinal disease delivers a functional copy of a gene into photoreceptors with a viral vector, and the question after the first trials was how long the effect lasts. A five-year follow-up published this month reports on 14 patients treated in one cohort, and the answer depends on the construct rather than on the disease.
-
-Design of the trial was a single subretinal injection at three dose levels. Visual acuity, contrast sensitivity and retinal thickness were measured every six months, and the primary outcome was the change in acuity at five years.
+The Design of the trial was a single subretinal injection at three dose levels. Visual acuity, contrast sensitivity and retinal thickness were measured every six months, and the primary outcome was the change in acuity at five years.
 
 Results are 12 of 14 holding their gain. The average improvement at one year was 12 letters on an acuity chart, and at five years 10 letters, which is a small decline within the measurement's variability. Two patients lost the gain entirely.
 

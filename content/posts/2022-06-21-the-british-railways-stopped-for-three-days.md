@@ -4,11 +4,9 @@ title: "The British railways stopped for three days"
 date: "2022-06-21T23:20:00+08:00"
 categories: [business]
 description: "Forty thousand workers walked out on 21, 23 and 25 June in the biggest rail dispute since 1989, leaving about a fifth of services running while inflation climbed past nine per cent."
----
+---Members of the Rail, Maritime and Transport union struck on 21 June, and again on the twenty-third and the twenty-fifth, in a dispute covering Network Rail and thirteen train operating companies. About forty thousand workers took part, including signallers, guards and maintenance staff, and the operators ran roughly a fifth of their normal timetable on the first day. Stations that normally open before six in the morning stayed shut until eight.
 
-Members of the Rail, Maritime and Transport union struck on 21 June, and again on the twenty-third and the twenty-fifth, in a dispute covering Network Rail and thirteen train operating companies. About forty thousand workers took part, including signallers, guards and maintenance staff, and the operators ran roughly a fifth of their normal timetable on the first day. Stations that normally open before six in the morning stayed shut until eight.
-
-Cause of the dispute is pay and staffing. The employers offered a rise of about three per cent, conditional on changes to working practices that the union said would cut jobs and make shifts longer, and Network Rail proposed to shed about two and a half thousand maintenance posts as part of a plan to modernize how track is inspected. Wages in the industry had been held flat for two years during the pandemic.
+The Cause of the dispute is pay and staffing. The employers offered a rise of about three per cent, conditional on changes to working practices that the union said would cut jobs and make shifts longer, and Network Rail proposed to shed about two and a half thousand maintenance posts as part of a plan to modernize how track is inspected. Wages in the industry had been held flat for two years during the pandemic.
 
 Inflation made the offer look worse than it was. The consumer price index reached nine point one per cent in May, published on 22 June, which meant that a three per cent rise was a cut in real terms and that the union could describe the offer as a pay reduction without exaggeration. Energy bills for a typical household were projected to double in October, and rail workers were being asked to accept a settlement before that happened.
 

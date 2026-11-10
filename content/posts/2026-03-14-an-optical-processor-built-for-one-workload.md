@@ -4,9 +4,7 @@ title: "An optical processor built for one workload"
 date: "2026-03-14T11:30:00+08:00"
 categories: [technology]
 description: "A photonic processor performs a fixed matrix multiplication at 40 tera-operations per second using 3 watts, and it cannot do anything else. The single-workload design is the point, and it is a template for how photonics enters computing."
----
-
-Photonic computing has been promised as a general replacement for electronics and has arrived as a fixed-function accelerator. A chip reported this month performs a 64 by 64 matrix multiplication in the optical domain at 40 tera-operations per second, dissipating 3 watts, and its instruction set is one operation.
+---Photonic computing has been promised as a general replacement for electronics and has arrived as a fixed-function accelerator. A chip reported this month performs a 64 by 64 matrix multiplication in the optical domain at 40 tera-operations per second, dissipating 3 watts, and its instruction set is one operation.
 
 The architecture is a Mach-Zehnder mesh. Light from a single laser is split into 64 waveguides, each passing through 64 interferometers whose phase settings encode the matrix, and the output is detected by a photodiode array. The multiplication happens in the interference rather than in a transistor.
 
@@ -18,7 +16,7 @@ Throughput per watt is the selling point. The chip's 40 tera-operations per seco
 
 Scope is narrow by construction. The chip multiplies a fixed matrix; a neural network layer with a different shape needs a different chip or a partitioned mesh, and the vendor sells three sizes covering the attention projections of most transformer models.
 
-Comparison with electronic accelerators is honest in the paper. A photonic multiply does not need a clock, so the energy is spent on the laser and the modulation rather than on switching, and the loss in the mesh, about 0.4 decibels per interferometer, sets a practical ceiling at 128 inputs.
+The Comparison with electronic accelerators is honest in the paper. A photonic multiply does not need a clock, so the energy is spent on the laser and the modulation rather than on switching, and the loss in the mesh, about 0.4 decibels per interferometer, sets a practical ceiling at 128 inputs.
 
 Thermal drift is the accuracy problem. A Mach-Zehnder interferometer's phase depends on the waveguide's temperature, and a 1-degree change shifts the phase by 0.02 radians. The chip carries heaters and thermistors on each interferometer, and a calibration loop holds the phase to 0.005 radians.
 

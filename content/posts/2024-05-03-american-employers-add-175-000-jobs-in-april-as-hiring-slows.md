@@ -4,11 +4,9 @@ title: "American employers add 175,000 jobs in April as hiring slows"
 date: "2024-05-03T22:40:00+08:00"
 categories: [economy]
 description: "The Labor Department reported on 3 May that employers added 175,000 jobs in April, well below the 240,000 forecast, while unemployment rose to 3.9 per cent and annual wage growth slowed to 3.9 per cent."
----
+---Employers in the United States added 175,000 jobs in April, the labour department reported on the third of May, well below the 240,000 that economists had expected and roughly half the pace of the previous month. Unemployment rate rose to 3.9 per cent from 3.8, and average hourly earnings were up 3.9 per cent on the year, the slowest rate since 2021. Report was the first clear evidence that the labour market was cooling after a year in which hiring had repeatedly beaten forecasts.
 
-Employers in the United States added 175,000 jobs in April, the labour department reported on the third of May, well below the 240,000 that economists had expected and roughly half the pace of the previous month. Unemployment rate rose to 3.9 per cent from 3.8, and average hourly earnings were up 3.9 per cent on the year, the slowest rate since 2021. Report was the first clear evidence that the labour market was cooling after a year in which hiring had repeatedly beaten forecasts.
-
-Composition of the gain was narrow. Health care and social assistance added about ninety thousand jobs between them, and transportation and warehousing recovered from a weak March. Construction added a small number, and manufacturing was flat. Temporary help services, which are usually the first to weaken when demand slows, shed jobs for a third month, and the number of people working part time for economic reasons rose.
+The Composition of the gain was narrow. Health care and social assistance added about ninety thousand jobs between them, and transportation and warehousing recovered from a weak March. Construction added a small number, and manufacturing was flat. Temporary help services, which are usually the first to weaken when demand slows, shed jobs for a third month, and the number of people working part time for economic reasons rose.
 
 Household survey told a weaker story than the establishment survey. Employment measured by households fell by about twenty-five thousand, and the labour force was roughly unchanged, which is why the unemployment rate rose even as the number of jobs in the payroll survey increased. Participation among prime-age workers slipped from its recent high, and the number of people who had been unemployed for more than six months edged up, which are the kinds of movements that appear before a slowdown becomes visible in the headline numbers.
 

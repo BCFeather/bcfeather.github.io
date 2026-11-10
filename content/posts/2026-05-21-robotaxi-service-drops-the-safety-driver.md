@@ -4,13 +4,11 @@ title: "Robotaxi service drops the safety driver"
 date: "2026-05-21T11:25:00+08:00"
 categories: [technology]
 description: "A robotaxi operator removed its in-vehicle safety driver from 200 vehicles after 18 months of supervised operation, and the disengagement data behind the decision are the interesting part."
----
-
-A robotaxi service has operated with a safety driver behind the wheel since it launched, and the driver's presence is both a legal condition and a data collection method. An operator removed the driver from 200 vehicles this month after 18 months of supervised service, and its safety report is the evidence a regulator has to weigh.
+---A robotaxi service has operated with a safety driver behind the wheel since it launched, and the driver's presence is both a legal condition and a data collection method. An operator removed the driver from 200 vehicles this month after 18 months of supervised service, and its safety report is the evidence a regulator has to weigh.
 
 Disengagement rate is the headline number. The fleet drove 4.2 million kilometres in supervision with 0.8 disengagements per 1,000 kilometres, of which 0.2 were the driver intervening for safety and 0.6 were the system handing control back for a planned manoeuvre.
 
-Comparison with a human baseline is the regulator's frame. A human driver in the same city has about 0.05 police-reported crashes per million kilometres, and the supervised fleet had 0.03, with the caveat that a safety driver can prevent a crash that the system would have caused.
+The Comparison with a human baseline is the regulator's frame. A human driver in the same city has about 0.05 police-reported crashes per million kilometres, and the supervised fleet had 0.03, with the caveat that a safety driver can prevent a crash that the system would have caused.
 
 The removal is conditional. Vehicles operate in a geofenced area of 40 square kilometres, in daylight and dry weather, and the remote operations centre can send a command that stops the vehicle. Those conditions are written into the permit.
 

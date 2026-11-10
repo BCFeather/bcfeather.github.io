@@ -4,11 +4,9 @@ title: "Bears that hunt from glacier ice"
 date: "2022-06-17T23:30:00+08:00"
 categories: [science]
 description: "A population of polar bears in southeast Greenland lives through more than a hundred ice-free days a year by hunting from chunks of glacier ice, and a paper in *Science* argues the arrangement has kept it genetically apart for centuries."
----
+---A paper in *Science* on 17 June describes a group of polar bears living on the southeast coast of Greenland, between sixty and sixty-four degrees north, that has been isolated long enough to become the most genetically distinct population of the species. The authors, led by Kristin Laidre of the University of Washington, call it the twentieth recognized subpopulation. Roughly a few hundred animals live there, and they occupy a stretch of fjord coastline where sea ice is absent for more than a hundred days a year.
 
-A paper in *Science* on 17 June describes a group of polar bears living on the southeast coast of Greenland, between sixty and sixty-four degrees north, that has been isolated long enough to become the most genetically distinct population of the species. The authors, led by Kristin Laidre of the University of Washington, call it the twentieth recognized subpopulation. Roughly a few hundred animals live there, and they occupy a stretch of fjord coastline where sea ice is absent for more than a hundred days a year.
-
-Absence of sea ice is the problem the species faces everywhere. Polar bears hunt seals at breathing holes and along the edge of floes, and when the ice retreats they fast for months, living on stored fat. In most of the Arctic the ice-free season is shorter than the period a bear can survive without food, and projections for the end of the century assume that in many places it will become longer.
+The Absence of sea ice is the problem the species faces everywhere. Polar bears hunt seals at breathing holes and along the edge of floes, and when the ice retreats they fast for months, living on stored fat. In most of the Arctic the ice-free season is shorter than the period a bear can survive without food, and projections for the end of the century assume that in many places it will become longer.
 
 Bears in southeast Greenland have found a substitute. Icebergs and floes calved from the Greenland ice sheet pile up in the fjords and stay there through the summer, and the bears climb onto this freshwater ice to wait for seals. The paper reports that the ice-free period in their range is more than a hundred days longer than the fasting threshold for the species, and that the animals nonetheless maintain body condition, which is what distinguishes them from bears elsewhere.
 

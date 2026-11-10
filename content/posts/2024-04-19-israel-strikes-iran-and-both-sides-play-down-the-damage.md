@@ -4,9 +4,7 @@ title: "Israel strikes Iran and both sides play down the damage"
 date: "2024-04-19T23:40:00+08:00"
 categories: [news]
 description: "Explosions were reported near Isfahan in central Iran before dawn on 19 April in what American officials described as an Israeli strike, and Iran said its air defences had intercepted the attacks and that no important site had been hit."
----
-
-Explosions were reported near the city of Isfahan in central Iran before dawn on the nineteenth of April, and Iranian state media said air defences had brought down three small drones over the province. American officials, speaking on condition of anonymity, described the attack as an Israeli operation, and they said it had been limited in scope and had been signalled to the region in advance. Israel did not confirm or deny that it had carried out the strike.
+---Explosions were reported near the city of Isfahan in central Iran before dawn on the nineteenth of April, and Iranian state media said air defences had brought down three small drones over the province. American officials, speaking on condition of anonymity, described the attack as an Israeli operation, and they said it had been limited in scope and had been signalled to the region in advance. Israel did not confirm or deny that it had carried out the strike.
 
 Targets described in the accounts were military rather than nuclear. Isfahan is home to a major air base and to facilities associated with Iran's missile and drone production, and to a nuclear research centre that is under international inspection. Iranian officials said the explosions were caused by air defences engaging drones and that no installation of importance was damaged, and the international atomic energy agency said no nuclear site had been affected.
 
@@ -16,6 +14,6 @@ Iranian response was to minimize the event. Officials said the drones had been l
 
 Regional reaction was relief. Oil prices fell, and airline schedules across the region returned to normal after a week of closures. The Group of Seven said it would work on sanctions against Iran's drone and missile programmes, and European governments said they would coordinate measures on the companies that supply the components. Arab governments that had helped to intercept the Iranian attack in April said they had done so to protect their own airspace.
 
-Consequence of the nineteenth of April is a pair of strikes that were calibrated to end at the same point. Both sides attacked the other's territory directly for the first time, and both described the results as minimal, which allowed each government to claim that it had responded without escalating. Whether that settles the confrontation depends on the next incident, and on whether the war in Gaza produces one.
+The Consequence of the nineteenth of April is a pair of strikes that were calibrated to end at the same point. Both sides attacked the other's territory directly for the first time, and both described the results as minimal, which allowed each government to claim that it had responded without escalating. Whether that settles the confrontation depends on the next incident, and on whether the war in Gaza produces one.
 
 What the exchange established was that Iran and Israel can now strike each other directly and that the limits on doing so are political rather than military. Iran's foreign minister said the drones had been flown by people inside the country, and he described the incident as an attempt to provoke a response that Iran chose to ignore. Israeli officials said the strike had shown that the country could reach Iranian territory without starting a general war.
