@@ -8,7 +8,7 @@ description: "Iodine isotopes in marine carbonates record how much oxygen was di
 
 Oxygen in the ancient ocean is inferred rather than measured, and the proxies available are indirect. A study published this month in *Science Advances* used the ratio of iodine-129 to iodine-127 in marine carbonates to reconstruct dissolved oxygen in deep water, and placed a rise in oxygenation 10 million years earlier than the previous estimate.
 
-The proxy rests on chemistry. Iodate is the stable form of iodine in oxygenated seawater, and iodide dominates under low oxygen; the two have different affinities for carbonate minerals, so the iodine concentration in a carbonate encodes the redox state of the water it formed in. Paired with a cosmogenic isotope for dating, the ratio becomes a recorder.
+Proxy rests on chemistry. Iodate is the stable form of iodine in oxygenated seawater, and iodide dominates under low oxygen; the two have different affinities for carbonate minerals, so the iodine concentration in a carbonate encodes the redox state of the water it formed in. Paired with a cosmogenic isotope for dating, the ratio becomes a recorder.
 
 Sampling came from three ocean drilling sites, with carbonate from a 40-million-year interval and independent age control from foraminifera. The team measured 260 samples, and the ratio shifts abruptly at a horizon dated to 430 million years ago, which the paper interprets as a rise in deep-water oxygen.
 

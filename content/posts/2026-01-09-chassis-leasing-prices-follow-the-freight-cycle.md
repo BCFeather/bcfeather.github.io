@@ -8,7 +8,7 @@ description: "Container chassis leases reprice on a multi-year cycle, and the fa
 
 Every container that moves inland rides on a chassis, and almost none of those chassis are owned by the shipping line. They are leased from a small group of intermodal equipment operators, on contracts priced per day and indexed loosely to freight rates. The index has fallen 22 per cent since January, and the leases are following with a lag of two quarters.
 
-The structure of the business explains the lag. A chassis is a steel frame with axles and brakes, costing 9,000 dollars new, with a twenty-year design life. An operator that buys 5,000 units finances them over seven years and prices the lease to cover the debt plus maintenance, so the lease rate is set when the equipment is ordered rather than when it is used.
+Structure of the business explains the lag. A chassis is a steel frame with axles and brakes, costing 9,000 dollars new, with a twenty-year design life. An operator that buys 5,000 units finances them over seven years and prices the lease to cover the debt plus maintenance, so the lease rate is set when the equipment is ordered rather than when it is used.
 
 Utilization is the variable that actually moves. A chassis earns money when it is under a container, and the average turn time at a port is 3.4 days against 2.1 before the pandemic. Longer turns mean fewer revenue days per unit, and operators respond by raising the daily rate or by shrinking the fleet.
 
@@ -20,7 +20,7 @@ Consolidation is the structural story. Three companies control about 70 per cent
 
 Technology is entering slowly. Telematics on a chassis reports location and brake diagnostics, and the operators that have installed it report a 20 per cent reduction in lost units, which is the largest avoidable cost in the business. The hardware costs 40 dollars per unit per year, which is cheap against a lost unit's replacement value.
 
-The pool model is what makes the arithmetic work. A chassis is not assigned to a shipper; it circulates among a pool that any member can draw from, and the pool's operator is paid per use. That pooling is why utilization can be high across a market even when individual shippers are small.
+Pool model is what makes the arithmetic work. A chassis is not assigned to a shipper; it circulates among a pool that any member can draw from, and the pool's operator is paid per use. That pooling is why utilization can be high across a market even when individual shippers are small.
 
 Depot capacity is the constraint on the pool's size. A chassis needs a paved yard and a repair bay, and the depots near the ports are full. The operators report that a new depot takes three years to permit, which is longer than the equipment's delivery time and is the reason the pool has not expanded.
 

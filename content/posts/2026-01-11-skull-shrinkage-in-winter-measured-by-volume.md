@@ -8,7 +8,7 @@ description: "Shrews that overwinter lose up to 20 per cent of their skull volum
 
 Dehnel's phenomenon has been known since 1949: small mammals in the northern hemisphere shrink in winter and regrow in spring, and the shrinkage includes the skull. A study published this month in *Proceedings of the Royal Society B* measured the process in living animals for the first time, using micro-computed tomography at four-week intervals.
 
-The measurement is the technical achievement. A shrew weighs 8 grams, and its skull is 25 millimetres long, which means the scanner must resolve features of 10 micrometres while the animal is under anaesthesia for less than four minutes. The team scanned 36 individuals through a winter and recaptured 21 of them in spring.
+Measurement is the technical achievement. A shrew weighs 8 grams, and its skull is 25 millimetres long, which means the scanner must resolve features of 10 micrometres while the animal is under anaesthesia for less than four minutes. The team scanned 36 individuals through a winter and recaptured 21 of them in spring.
 
 Results separate the structures. Braincase volume fell 18 per cent between October and February, and the reduction was concentrated in the vault rather than the base, which is consistent with resorption of the outer table of the skull. Tooth rows and the jaw did not shrink, so the change is not a general reduction in bone.
 
@@ -24,6 +24,6 @@ For a reader, the result matters beyond shrews. Mammalian bone is usually descri
 
 Thermoregulation is the explanation that fits the numbers. A smaller braincase reduces the surface through which heat is lost, and the reduction correlates with the animal's surface-to-volume ratio rather than with its absolute size. The paper estimates that the change saves 6 per cent of the animal's daily energy budget, which for a creature that must eat most of its body mass each day is substantial.
 
-The brain's own shrinkage is the part that raises questions. Neurons are not lost in proportion to the volume, and the tissue that disappears is largely the extracellular matrix and the vascular bed. Cognitive tests in spring show no deficit, which suggests the reduction is a change in packing rather than in capacity.
+Brain's own shrinkage is the part that raises questions. Neurons are not lost in proportion to the volume, and the tissue that disappears is largely the extracellular matrix and the vascular bed. Cognitive tests in spring show no deficit, which suggests the reduction is a change in packing rather than in capacity.
 
 The medical angle is speculative and worth stating as such. If the photoperiod pathway can be identified in humans, it might offer a route to seasonal bone remodeling, and no clinician would recommend it without a decade of animal work. The paper's contribution is that the phenomenon is measurable and orderly, not that it is transferable.

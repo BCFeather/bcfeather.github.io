@@ -22,4 +22,4 @@ Test economics change with the split. A monolithic die is tested once, at wafer 
 
 Power delivery also splits. Each die needs its own voltage regulation, and the regulators sit on the substrate rather than on the board, which is a second source of packaging cost and a second source of failure.
 
-The interesting claim in the launch is cost, not performance. Chiplet designs have been standard in servers for years because a server package can absorb the packaging premium; a consumer part at 299 dollars has to hold packaging to under a tenth of the silicon cost, and that is what the 18 dollar figure describes. If the number holds at volume, the split design becomes the default for large consumer dies rather than a premium option.
+Cost, not performance, is the interesting claim in the launch. Chiplet designs have been standard in servers for years because a server package can absorb the packaging premium; a consumer part at 299 dollars has to hold packaging to under a tenth of the silicon cost, and that is what the 18 dollar figure describes. If the number holds at volume, the split design becomes the default for large consumer dies rather than a premium option.

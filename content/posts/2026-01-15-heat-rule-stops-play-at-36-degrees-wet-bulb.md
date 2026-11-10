@@ -10,7 +10,7 @@ Heat policies in sport were written in air temperature and now use wet-bulb glob
 
 The physics explains why the measures diverge. Human cooling depends on evaporation, and evaporation depends on how much water vapour the air can still accept. At 34 degrees and 70 per cent humidity, sweat evaporates slowly and core temperature rises even at rest, which is why a wet-bulb reading above 32 is dangerous in a way the air temperature does not convey.
 
-The rule's structure is tiered and that is the practical design. Play proceeds with scheduled breaks above 30.1 wet-bulb, medical timeouts are extended above 32.2, and play is suspended above 34.6. The tiers allow a tournament to continue in conditions that would otherwise cancel a day's schedule.
+Rule's structure is tiered, and the tiering is the practical design. Play proceeds with scheduled breaks above 30.1 wet-bulb, medical timeouts are extended above 32.2, and play is suspended above 34.6. The tiers allow a tournament to continue in conditions that would otherwise cancel a day's schedule.
 
 Player acceptance came from the measurement rather than the rule. The tour introduced on-court sensors that report wet-bulb in the shade and in the sun separately, and players can see the number their own court is reading. A rule that a player can verify is one that a player will accept.
 

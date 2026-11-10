@@ -18,7 +18,7 @@ Countermeasures were tested as a third arm. A subgroup received a bisphosphonate
 
 Comparing with orbit is the point of the analogue. Astronauts lose about 1.5 per cent per month at the hip, faster than the bed-rest rate, because unloading combines with fluid shifts, reduced ultraviolet exposure and a different mechanical loading profile. The study's value is that it isolates one variable cleanly.
 
-The exercise arm is the part that matters for mission planning. Two hours daily on a resistance device is the current orbital protocol, and the ground analogue shows it recovers two-thirds of the loss at best. A three-year Mars mission on that protocol would arrive with hip density in osteoporotic territory.
+Exercise arm is the part that matters for mission planning. Two hours daily on a resistance device is the current orbital protocol, and the ground analogue shows it recovers two-thirds of the loss at best. A three-year Mars mission on that protocol would arrive with hip density in osteoporotic territory.
 
 Muscle follows a parallel curve and a different shape. Lean mass at the thigh fell 14 per cent over the year and did not respond to the resistance protocol, which recovered 4 points of the 14. The paper's authors note that the same unloading produces a larger relative loss in muscle than in bone, and that neither returns without loading.
 

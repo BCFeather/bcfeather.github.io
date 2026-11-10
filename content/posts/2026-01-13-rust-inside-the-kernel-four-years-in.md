@@ -12,7 +12,7 @@ Adoption has followed the driver boundary rather than the subsystem one. Drivers
 
 Toolchain friction was the first obstacle and is largely resolved. The kernel requires a specific compiler version and a specific set of unstable features, and the team now pins both and vendors the standard library subset it needs. A build of the Rust portions takes 40 seconds, which is acceptable in a kernel build that takes minutes.
 
-The second obstacle is maintenance, and it is not resolved. A C driver can be fixed by any of a thousand contributors; a Rust driver needs a reviewer who knows both the language and the subsystem. The maintainers list shows 14 people with that combination, and the bus factor is the number that worries the steering committee.
+Second obstacle is maintenance, and it is not resolved. A C driver can be fixed by any of a thousand contributors; a Rust driver needs a reviewer who knows both the language and the subsystem. The maintainers list shows 14 people with that combination, and the bus factor is the number that worries the steering committee.
 
 The first pure-Rust driver is a network interface for a virtual device, chosen because it has no hardware-specific behaviour and a complete test suite in the kernel's own harness. Its bug rate after six months is zero reported memory errors, which is a sample of one and a signal worth noting.
 
