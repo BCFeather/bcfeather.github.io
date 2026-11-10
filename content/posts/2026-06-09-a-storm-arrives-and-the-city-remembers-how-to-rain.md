@@ -6,7 +6,7 @@ categories: [essay]
 description: "The first real storm of summer arrives without much warning. A short essay on the city in the hour before the rain, the strange communal silence, and the way a downpour resets everything it touches."
 ---
 
-The first storm of the summer comes when nobody is quite ready. One afternoon the sky is the flat, washed-out white of the past weeks, the air heavy enough to lean into, and then, by late afternoon, the light turns a colour that has no name. The clouds bank up over the western blocks, bruised on their undersides, and the streetlights come on by mistake, at four in the afternoon, as if the city itself has decided the day is over.
+First storm of the summer comes when nobody is quite ready. One afternoon the sky is the flat, washed-out white of the past weeks, the air heavy enough to lean into, and then, by late afternoon, the light turns a colour that has no name. The clouds bank up over the western blocks, bruised on their undersides, and the streetlights come on by mistake, at four in the afternoon, as if the city itself has decided the day is over.
 
 You notice it before you hear it. The traffic noise drops, the way it does in a snowstorm, though there is no snow here. The cicadas, which have been running the soundtrack of every evening for a fortnight, fall silent. A wind gets up that is not the usual warm, lazy air but something with direction, flipping the awnings and carrying the dust off the road in little spirals. People on the pavements start to walk faster without quite knowing why. The city behaves like an animal that has sensed something coming before its owners have.
 

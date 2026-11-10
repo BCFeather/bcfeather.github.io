@@ -6,7 +6,7 @@ categories: [sport]
 description: "The World Cup opens in Mexico City on 20 June with forty-eight teams, twelve groups and a knockout round that admits the best third-placed sides. The format solves a scheduling problem and creates a different one: the incentive to play for a draw."
 ---
 
-The tournament that opens in Mexico City on 20 June is the first World Cup with forty-eight teams, and the format has been argued about since it was approved. Twelve groups of four, the top two from each group advancing, plus the eight best third-placed teams, gives a round of thirty-two and a knockout bracket that is three rounds longer than the old one. The arithmetic is tidy on paper. On the pitch it produces a set of incentives that the previous format did not have.
+Opening in Mexico City on 20 June, the tournament is the first World Cup with forty-eight teams, and the format has been argued about since it was approved. Twelve groups of four, the top two from each group advancing, plus the eight best third-placed teams, gives a round of thirty-two and a knockout bracket that is three rounds longer than the old one. The arithmetic is tidy on paper. On the pitch it produces a set of incentives that the previous format did not have.
 
 Group stage feels the first effect. With four teams in a group and three matches each, the third match is often dead for one side and decisive for another, and the possibility of advancing as a third-placed team changes the calculus for everyone. A team that has lost its first match can still advance with a win and a favourable result elsewhere, which means the final round has more matches with something at stake than the old format did, and fewer dead rubbers.
 
