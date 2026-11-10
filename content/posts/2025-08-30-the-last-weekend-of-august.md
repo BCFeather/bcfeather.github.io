@@ -6,7 +6,7 @@ categories: [essay]
 description: "The final weekend of the month is the one where the season changes in the space of two days. The evenings are cool, the light is different, and the city goes back to the shape it has for the other ten months."
 ---
 
-The last weekend of August is the one where the season changes in the space of two days. On Friday the evening is still warm enough to sit outside, and on Sunday the same hour requires a jacket. The change is not gradual and it does not happen in September. It happens in this weekend, and everyone notices, and everyone says the same thing about the summer having gone quickly.
+Season changes in the space of two days on the last weekend of August. On Friday the evening is still warm enough to sit outside, and on Sunday the same hour requires a jacket. The change is not gradual and it does not happen in September. It happens in this weekend, and everyone notices, and everyone says the same thing about the summer having gone quickly.
 
 The city changes with it, and the change is easiest to see in the small shops. The outdoor tables at the restaurants are still out and nobody is sitting at them. The pool has closed. The supermarket has moved the sun cream to a shelf near the door and the school supplies to the aisle in the middle. The bus at seven in the morning is full of children again, and the driver has to wait at stops he has not waited at since June.
 
