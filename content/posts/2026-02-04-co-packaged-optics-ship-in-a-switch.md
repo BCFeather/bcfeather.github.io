@@ -8,7 +8,7 @@ description: "A switch silicon vendor has shipped a 51.2-terabit switch with opt
 
 A data centre switch connects ports through a front panel of pluggable optical transceivers, each a hot-swappable module with its own laser and driver. A vendor shipped a 51.2-terabit switch this month with the optical engines packaged on the same substrate as the switch die, and the front panel is gone.
 
-The engineering argument is electrical loss. A signal travelling from the switch die to a front-panel module crosses 20 centimetres of printed circuit board, and the loss at 112 gigabits per lane requires a retimer, which costs about 1.5 watts per lane. Co-packaging shortens the path to 2 millimetres and removes the retimer entirely.
+Engineering argument: electrical loss. A signal travelling from the switch die to a front-panel module crosses 20 centimetres of printed circuit board, and the loss at 112 gigabits per lane requires a retimer, which costs about 1.5 watts per lane. Co-packaging shortens the path to 2 millimetres and removes the retimer entirely.
 
 Power per bit falls from 4.2 picojoules to 2.4, measured at the module boundary. On a 51.2-terabit switch running at full load, that is 8 kilowatts per rack unit saved, which in a hall of 200 switches is a substation's worth of capacity.
 

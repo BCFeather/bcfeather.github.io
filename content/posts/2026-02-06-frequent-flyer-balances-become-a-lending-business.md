@@ -8,7 +8,7 @@ description: "An airline sold 4 billion dollars of its loyalty programme's futur
 
 An airline's loyalty programme issues miles that can be redeemed for flights, and it sells those miles to banks that hand them to cardholders. The programme sold 4 billion dollars of future miles to a bank consortium this month, and the transaction is a secured borrowing dressed as a marketing partnership.
 
-The accounting is the reason the structure exists. Miles sold in advance are cash received for a future obligation, and an airline that needs cash can sell more miles at a discount. The discount is set by the redemption rate, the share of miles that are eventually used, which the programme reports as 78 per cent.
+Accounting is the reason the structure exists. Miles sold in advance are cash received for a future obligation, and an airline that needs cash can sell more miles at a discount. The discount is set by the redemption rate, the share of miles that are eventually used, which the programme reports as 78 per cent.
 
 Revenue recognition rules changed the incentive. Accounting standards require an airline to defer revenue on miles sold until they are redeemed, so a large advance sale improves cash without improving reported profit. That is why the deals are announced as partnerships rather than as financings.
 

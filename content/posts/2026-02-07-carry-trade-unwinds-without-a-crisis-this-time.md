@@ -12,7 +12,7 @@ Size of the position is the first variable. Estimates from futures and options d
 
 Composition is the second and more important. Banks once ran this trade on their own balance sheets with leverage; today the position sits in funds that report daily and post collateral. A fund that loses money is marked down and can be closed, which is a mechanism for absorbing a move rather than amplifying it.
 
-The currency's move was the trigger. A 7 per cent depreciation over six weeks made the trade unprofitable for anyone who entered in the past year, and the unwinding happened through the futures market in three waves rather than in one.
+Trigger was the currency's move. A 7 per cent depreciation over six weeks made the trade unprofitable for anyone who entered in the past year, and the unwinding happened through the futures market in three waves rather than in one.
 
 Spillovers were contained. A carry unwind transmits through the funding currency's money market, and the relevant rate rose 40 basis points without a liquidity squeeze. Two central banks issued statements, neither of which intervened.
 
