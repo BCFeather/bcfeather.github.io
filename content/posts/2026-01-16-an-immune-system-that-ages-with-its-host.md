@@ -1,6 +1,6 @@
 ---
 slug: "an-immune-system-that-ages-with-its-host"
-title: "An immune system that ages with its host"
+title: "Immune system ages with the body it defends"
 date: "2026-01-16T09:45:00+08:00"
 categories: [science]
 description: "In the 15 January issue of *Nature*, a mouse study reports that the immune processes which protect younger animals can harm older ones, so that survival from infection depends on age in ways that standard models miss. Disease tolerance, not just pathogen clearance, may be the variable medicine has been overlooking."

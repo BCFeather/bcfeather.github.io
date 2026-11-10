@@ -1,6 +1,6 @@
 ---
 slug: "the-united-states-seizes-venezuelas-president"
-title: "The United States seizes Venezuela's president"
+title: "Arrest of Venezuela's president tests head-of-state immunity"
 date: "2026-01-04T11:20:00+08:00"
 categories: [news]
 description: In the early hours of 3 January 2026, US forces raided Caracas and flew President Nicolás Maduro and his wife to the United States. The arrest of a sitting head of state has no modern precedent.

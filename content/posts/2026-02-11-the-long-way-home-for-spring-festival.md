@@ -1,6 +1,6 @@
 ---
 slug: "the-long-way-home-for-spring-festival"
-title: "The long way home for Spring Festival"
+title: "Spring Festival's long way home"
 date: "2026-02-11T10:54:00+08:00"
 categories: [essay]
 description: "A week before the new year, the city I grew up in puts on its annual dress rehearsal for reunion. A short essay on Spring Festival in Chizhou, and what the holiday asks of a family that is about to send its only child away to university."

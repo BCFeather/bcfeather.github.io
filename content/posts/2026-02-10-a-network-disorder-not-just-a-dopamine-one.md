@@ -1,6 +1,6 @@
 ---
 slug: "a-network-disorder-not-just-a-dopamine-one"
-title: "A network disorder, not just a dopamine one"
+title: "Parkinson's read as a network disorder"
 date: "2026-02-10T09:40:00+08:00"
 categories: [science]
 description: "In the 5 February issue of *Nature*, a Chinese team reports that Parkinson's disease is better understood as a disorder of a somato-cognitive action network than as the simple loss of dopamine it is usually described as, and that intervening in the network directly produced clinical improvement. The finding reframes a disease that has been defined by one molecule for sixty years."

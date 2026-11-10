@@ -1,6 +1,6 @@
 ---
 slug: "the-moons-newest-visitor-a-lander-that-listens"
-title: "The moon's newest visitor: a lander that listens"
+title: "Seismic quiet on the Moon, recorded by a new lander"
 date: "2026-01-29T22:05:00+08:00"
 categories: [science]
 description: "On 27 January a commercial lander touched down in the lunar south pole region carrying the most sensitive seismometer ever placed on the Moon. The mission's science goals are modest; the listening it will do, to the Moon's internal rumble and to the debris that strikes it, is anything but."

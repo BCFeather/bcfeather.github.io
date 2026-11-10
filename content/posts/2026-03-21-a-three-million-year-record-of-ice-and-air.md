@@ -1,6 +1,6 @@
 ---
 slug: "a-three-million-year-record-of-ice-and-air"
-title: "A three-million-year record of ice and air"
+title: "Three million years of ice and air in one core"
 date: "2026-03-21T09:40:00+08:00"
 categories: [science]
 description: "In the 18 March issue of *Nature*, two companion papers reconstruct three million years of the climate record, one tracing atmospheric carbon dioxide and methane, the other tracing ocean heat content. The pair shows how stable the ice-age world was, and how far the present departure from it has already gone."

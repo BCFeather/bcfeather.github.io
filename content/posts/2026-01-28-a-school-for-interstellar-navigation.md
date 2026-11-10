@@ -1,6 +1,6 @@
 ---
 slug: "a-school-for-interstellar-navigation"
-title: "A school for interstellar navigation"
+title: "Teaching interstellar navigation"
 date: "2026-01-28T09:30:00+08:00"
 categories: [news]
 description: "On 27 January the University of Chinese Academy of Sciences opened the country's first school of interstellar navigation, in front of the memorial to the two-bomb-one-satellite programme. The new institute will train specialists in interstellar propulsion, deep-space communication and space science, a quiet bet on a horizon decades away."

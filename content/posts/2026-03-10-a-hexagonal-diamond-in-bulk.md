@@ -1,6 +1,6 @@
 ---
 slug: "a-hexagonal-diamond-in-bulk"
-title: "A hexagonal diamond, in bulk"
+title: "Hexagonal diamond made in bulk"
 date: "2026-03-10T09:40:00+08:00"
 categories: [science]
 description: "In the 4 March issue of *Nature*, a Chinese team reports bulk synthesis of hexagonal diamond, the rarer and theoretically harder form of diamond that until now has appeared only as microscopic traces in meteorite impact sites. Machine-learning-driven simulations played a central role in explaining how it forms."

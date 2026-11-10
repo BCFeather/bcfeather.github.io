@@ -1,6 +1,6 @@
 ---
 slug: "a-benchmark-built-on-a-game-of-pokemon"
-title: "A benchmark built on a game of Pokemon"
+title: "Benchmark built on a Pokemon game"
 date: "2026-03-16T22:00:00+08:00"
 categories: [technology]
 description: "The PokeAgent Challenge turns Pokemon battles and speedruns into an evaluation suite with twenty million trajectories and a hundred competing teams."

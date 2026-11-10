@@ -1,6 +1,6 @@
 ---
 slug: "a-backyard-telescope-finds-a-world-of-its-own"
-title: "A backyard telescope finds a world of its own"
+title: "Backyard telescope finds a planet of its own"
 date: "2026-02-04T18:20:00+08:00"
 categories: [science]
 description: "An amateur astronomer in Chile, using a telescope he built himself, has confirmed the discovery of a gas giant orbiting a dim star forty light-years away, the first planet to be verified by a network of backyard instruments. The discovery itself is modest; the demonstration is not: the planet-hunting business has acquired a new class of worker."

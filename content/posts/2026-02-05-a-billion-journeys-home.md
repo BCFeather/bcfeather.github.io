@@ -1,6 +1,6 @@
 ---
 slug: "a-billion-journeys-home"
-title: "A billion journeys home"
+title: "Billion journeys home"
 date: "2026-02-05T20:40:00+08:00"
 categories: [essay]
 description: "In early February the Spring Festival travel season begins again, and for a few weeks the country performs its annual act of collective logistics: hundreds of millions of people moving at once, towards the same word, home. A short essay on what the migration reveals about the country that stages it."

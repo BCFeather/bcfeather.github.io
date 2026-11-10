@@ -1,6 +1,6 @@
 ---
 slug: "a-currency-called-attention"
-title: "A currency called attention"
+title: "Attention as currency"
 date: "2026-03-08T21:15:00+08:00"
 categories: [essay]
 description: "Every hour of every day, attention is bought, sold, measured and optimized by systems that were built to be profitable before they were built to be good. A short essay on what it means when the scarcest resource in a connected society has a price tag."

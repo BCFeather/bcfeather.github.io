@@ -1,6 +1,6 @@
 ---
 slug: "a-gut-that-brews-its-own-alcohol"
-title: "A gut that brews its own alcohol"
+title: "Gut fermentation: when the body makes its own alcohol"
 date: "2026-01-18T09:25:00+08:00"
 categories: [science]
 description: "In the 8 January issue of *Nature Microbiology*, researchers report that some people's gut microbes convert carbohydrates into ethanol, producing measurable blood alcohol without a single drink. The finding illuminates an old mystery and a new set of questions about why the same diet can ferment differently in different guts."

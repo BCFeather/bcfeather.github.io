@@ -1,6 +1,6 @@
 ---
 slug: "a-handprint-sixty-seven-thousand-years-old"
-title: "A handprint sixty-seven thousand years old"
+title: "Handprint dated to 67,000 years ago"
 date: "2026-02-20T09:40:00+08:00"
 categories: [science]
 description: "In the 19 February issue of *Nature*, a team reports a hand stencil at Liang Metanduno dated to at least 67,800 years ago, which may be the oldest rock art yet found anywhere. The paper pushes the origins of symbolic behaviour into a deeper past than most models allow."

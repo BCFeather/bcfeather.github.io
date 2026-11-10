@@ -1,6 +1,6 @@
 ---
 slug: "a-star-that-went-out-instead-of-exploding"
-title: "A star that went out instead of exploding"
+title: "Failed supernova: a star that dimmed instead of exploding"
 date: "2026-03-02T09:30:00+08:00"
 categories: [science]
 description: "In the 12 February issue of *Science*, De et al. report a supergiant in Andromeda that brightened in the infrared, dimmed over several years, and then vanished. The quietest end a massive star can have may also be the most important one to catch."

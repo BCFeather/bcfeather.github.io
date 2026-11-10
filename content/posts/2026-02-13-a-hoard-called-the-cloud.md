@@ -1,6 +1,6 @@
 ---
 slug: "a-hoard-called-the-cloud"
-title: "A hoard called the cloud"
+title: "Cloud storage and the things we keep"
 date: "2026-02-13T20:40:00+08:00"
 categories: [essay]
 description: "A decade of cheap storage has made keeping everything the default and deleting nothing the norm. A short essay on digital hoarding, the courage it takes to delete, and what we lose when nothing is ever allowed to be forgotten."

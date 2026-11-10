@@ -1,6 +1,6 @@
 ---
 slug: "a-community-experiment-that-delayed-early-marriage"
-title: "A community experiment that delayed early marriage"
+title: "Community programme delayed early marriage"
 date: "2026-03-14T09:35:00+08:00"
 categories: [science]
 description: "In the 12 March issue of *Nature*, researchers report evidence from northern Nigeria that a community-wide programme addressing girls' education and social norms around marriage reduced child marriage among more than a thousand girls studied. The result is a demonstration that local intervention, not legislation alone, can move a deeply entrenched practice."
