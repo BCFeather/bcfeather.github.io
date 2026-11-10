@@ -1,0 +1,19 @@
+---
+slug: "how-a-caretaker-government-becomes-the-default"
+title: "How a caretaker government becomes the default"
+date: "2026-10-05T09:14:00+08:00"
+categories: [news]
+description: "Formation talks in several parliamentary systems have run past the point where a caretaker cabinet stops being a temporary arrangement and becomes the ordinary way of governing. A note on the mechanics: what a caretaker can and cannot do, why formation takes so long, and why the constraint is usually the constitution rather than the arithmetic."
+---
+
+Formation talks in more than one parliamentary democracy have now run long enough that the word 'caretaker' has stopped describing a gap and started describing a government. Belgium holds the record at five hundred and forty-one days in 2010 and 2011. Spain went nearly three hundred days in 2016. The Netherlands took two hundred and ninety-nine in 2021. These are outliers, and they are the useful cases, because they show what the machinery does when the arithmetic refuses to resolve.
+
+The first thing to understand is that a caretaker government is not a weaker version of a normal one. It is a different legal object. In most parliamentary systems the outgoing cabinet stays in office under a convention that limits it to routine administration: it can pay salaries, honour commitments already made and respond to emergencies, and it is expected not to take new policy initiatives or make significant appointments. The exact boundary is rarely written down, which is the source of most of the difficulty.
+
+The second thing is why formation takes so long. The arithmetic of a hung parliament is only the surface. The deeper constraints are institutional. Investiture rules decide whether a government needs a positive vote of a majority or merely the absence of a blocking majority, and those two rules produce very different bargaining dynamics. A constructive vote of no confidence, as in Germany or Spain, makes it harder to remove a government but also harder to install one, because the coalition has to agree on a candidate before it can govern. Party financing rules and the number of parties in the chamber decide how many combinations are arithmetically possible, and federal structures add a second chamber with its own veto points.
+
+The third thing, and the one least discussed, is the cost of the caretaker period itself. Routine administration sounds modest until you notice what counts as routine. Budgets passed on the previous year's baseline, procurement decisions deferred, appointments left vacant, and a civil service that is cautious because it does not know who will be accountable. In a period of two hundred days that is a policy of drift conducted by people who are not accountable for it. In a period of five hundred days it becomes the government's actual programme.
+
+The fourth thing is the constraint that decides the outcome: the constitution. Some systems have a deadline written into the electoral calendar, some have a dissolution mechanism that lets the head of state call a new election, and some have neither, which means the deadlock can persist until the parties decide to resolve it. Where a dissolution is available, the threat of it changes the bargaining, since every party has to weigh a new election against the deal on the table. Where it is not, the parties bargain under a clock that nobody controls.
+
+The comparative lesson is not that one system is better. It is that the same arithmetic produces different durations depending on the rules around it, and that the rules were usually written for a party system that no longer exists. A note like this is not a prediction about any particular country. It is a reminder that 'the government has not been formed' is a statement about institutions, and that the interesting question is always which rule is doing the work.
