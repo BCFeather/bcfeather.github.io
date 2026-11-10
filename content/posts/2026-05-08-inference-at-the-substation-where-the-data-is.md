@@ -4,7 +4,9 @@ title: "Inference at the substation, where the data is"
 date: "2026-05-08T09:30:00+08:00"
 categories: [technology]
 description: "A utility has installed edge accelerators in 40 substations to run fault-detection models locally, cutting the response time from a network round trip to 8 milliseconds. The design is a lesson in where inference belongs."
----A substation's sensors sample current and voltage at 10 kilohertz, and a fault-detection model that runs in a control centre sees the data after a network hop. A utility installed edge accelerators in 40 substations this month and cut the decision time from 200 milliseconds to 8.
+---
+
+A substation's sensors sample current and voltage at 10 kilohertz, and a fault-detection model that runs in a control centre sees the data after a network hop. A utility installed edge accelerators in 40 substations this month and cut the decision time from 200 milliseconds to 8.
 
 The instrumentation is existing. Substations already carry merging units that digitize sensors under a standard, and the accelerator taps that stream rather than adding new sensors. Installation is a rack unit and a network configuration.
 
@@ -16,7 +18,7 @@ Communications architecture changed. The substations send summaries rather than 
 
 The failure mode is a silent one. An accelerator that fails returns no decision, and the protection relays continue, so the system degrades to the previous architecture without an alarm. The utility accepted that and added a heartbeat.
 
-The Comparison with cloud inference is instructive. A cloud model could be larger and see the whole network, and it would add 80 milliseconds of latency and a dependency on a network that a fault may have caused. The trade is capability against availability.
+Comparing with cloud inference is instructive. A cloud model could be larger and see the whole network, and it would add 80 milliseconds of latency and a dependency on a network that a fault may have caused. The trade is capability against availability.
 
 Cyber exposure is the trade the utility accepted. Forty accelerators are forty more devices on the network, and each runs a signed model with no remote update path. The utility's security team insisted on that constraint, which means a model improvement needs a site visit.
 

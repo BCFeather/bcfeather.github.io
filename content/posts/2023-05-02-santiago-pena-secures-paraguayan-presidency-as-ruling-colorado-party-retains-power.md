@@ -4,7 +4,9 @@ title: "Santiago Peña secures the Paraguayan presidency as the Colorado Party h
 date: "2023-05-02T01:02:00+08:00"
 categories: [news]
 description: "Santiago Peña won Paraguay's presidential election on 30 April 2023 with about 43 per cent of the vote, beating Efraín Alegre on 27 per cent. The Colorado Party also took both chambers of Congress and 15 of 17 governorships, while a third-placed populist rejected the tally."
----Paraguay's long-dominant Colorado Party won the general election held on 30 April, and its candidate Santiago Peña was confirmed as president-elect by the electoral authority on the Sunday evening. With almost every ballot counted, the 44-year-old economist held roughly 43 per cent of the vote against 27 per cent for Efraín Alegre, who led the opposition coalition Pact for a New Paraguay. A populist outsider, Paraguayo Cubas, finished third with 23 per cent and did not accept the result.
+---
+
+Paraguay's long-dominant Colorado Party won the general election held on 30 April, and its candidate Santiago Peña was confirmed as president-elect by the electoral authority on the Sunday evening. With almost every ballot counted, the 44-year-old economist held roughly 43 per cent of the vote against 27 per cent for Efraín Alegre, who led the opposition coalition Pact for a New Paraguay. A populist outsider, Paraguayo Cubas, finished third with 23 per cent and did not accept the result.
 
 The single-round ballot also filled both chambers of Congress and chose 17 departmental governors. Colorado won majorities in the Senate and in the lower house, and took 15 of the governorships on offer. That combination matters more than the presidential margin, because it leaves the incoming administration with a working majority rather than the coalition arithmetic that has constrained previous presidents.
 
@@ -14,4 +16,4 @@ Opposition groups had hoped that public anger over corruption, weak health servi
 
 The tally was rejected by Cubas within hours, and he called his followers into the streets to protest against what he described as fraud. Small demonstrations followed in Asunción, and they set the terms for the friction that the new government will face from voters who backed an anti-system candidate. Analysts read his 23 per cent as a warning that a large bloc of the electorate regards the two established camps as a single arrangement.
 
-The Continuity in foreign and economic policy is the likeliest result. Pena inherits the structural problems that no election can settle: a narrow export base built on soy and hydroelectricity, a large informal labour market, and persistent pressure from organized crime and drug trafficking along the borders with Brazil and Bolivia. Whether a stronger congressional position turns into better policy is the question the next five years will answer.
+Continuity in foreign and economic policy is the likeliest result. Pena inherits the structural problems that no election can settle: a narrow export base built on soy and hydroelectricity, a large informal labour market, and persistent pressure from organized crime and drug trafficking along the borders with Brazil and Bolivia. Whether a stronger congressional position turns into better policy is the question the next five years will answer.

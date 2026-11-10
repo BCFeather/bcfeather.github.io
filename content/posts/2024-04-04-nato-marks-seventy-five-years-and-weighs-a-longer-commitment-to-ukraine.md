@@ -4,7 +4,9 @@ title: "NATO marks seventy-five years and weighs a longer commitment to Ukraine"
 date: "2024-04-04T23:20:00+08:00"
 categories: [news]
 description: "Foreign ministers met in Brussels on 4 April for the alliance's seventy-fifth anniversary and discussed a five-year fund for Ukraine worth about one hundred billion dollars, along with a larger role for NATO in coordinating arms deliveries."
----Foreign ministers of the North Atlantic Treaty Organization met in Brussels on the fourth of April to mark the seventy-fifth anniversary of the treaty signed in Washington in 1949 by twelve countries. The alliance now has thirty-two members, after Finland joined in 2023 and Sweden in March, and its secretary general, Jens Stoltenberg, used the meeting to argue for a change in the way the alliance supports Ukraine.
+---
+
+Foreign ministers of the North Atlantic Treaty Organization met in Brussels on the fourth of April to mark the seventy-fifth anniversary of the treaty signed in Washington in 1949 by twelve countries. The alliance now has thirty-two members, after Finland joined in 2023 and Sweden in March, and its secretary general, Jens Stoltenberg, used the meeting to argue for a change in the way the alliance supports Ukraine.
 
 Proposal at the centre of the discussion was a fund of about one hundred billion dollars over five years, to be counted partly against existing national commitments rather than added on top of them. Stoltenberg said the alliance needed a structure that would survive changes of government in member states, and he said the arrangement should be agreed before the summit in Washington in July. Several ministers said the sum was ambitious and that the accounting question was the difficult part.
 
@@ -16,4 +18,4 @@ Members with objections made themselves heard. Hungary's foreign minister repeat
 
 What has stayed the same is the difficulty of persuading democracies to pay for a defence they hope never to use. Officials said the fund would be reviewed at the summit in Washington in July, and that no decision would be taken before then.
 
-The Meaning of the fourth of April is an alliance that has enlarged and rearmed without settling the question of what it is willing to spend. The anniversary produced statements about unity and a proposal that will be negotiated for three months, and it left open whether the fund will be new money or a rearrangement of commitments that already exist. What has changed since 1949 is the number of members and the location of the threat.
+What the fourth of April means is an alliance that has enlarged and rearmed without settling the question of what it is willing to spend. The anniversary produced statements about unity and a proposal that will be negotiated for three months, and it left open whether the fund will be new money or a rearrangement of commitments that already exist. What has changed since 1949 is the number of members and the location of the threat.

@@ -4,7 +4,9 @@ title: "Pruning robot works a vineyard row"
 date: "2026-02-18T09:45:00+08:00"
 categories: [technology]
 description: "A pruning robot completed a full season in a vineyard, cutting 92 per cent of the canes a skilled pruner would remove. The remaining 8 per cent is the interesting part, and it is why the machine runs with a human behind it."
----Winter pruning decides a vine's yield and its shape, and it is done by hand with secateurs at a rate of about 40 vines an hour. A tracked robot that cuts canes with a reciprocating blade completed a full season across 12 hectares this month, and the comparison with the pruning team is the substance of its report.
+---
+
+Winter pruning decides a vine's yield and its shape, and it is done by hand with secateurs at a rate of about 40 vines an hour. A tracked robot that cuts canes with a reciprocating blade completed a full season across 12 hectares this month, and the comparison with the pruning team is the substance of its report.
 
 Perception is where the difficulty sits. The robot images each vine with stereo cameras, builds a depth map, and classifies canes by thickness and orientation against the spur position. A cane that crosses the vine's trunk must be cut; one that will become a spur must be kept.
 
@@ -24,6 +26,6 @@ Data ownership is the quieter issue. The robot records an image and a cut decisi
 
 The economics are within reach of a mid-sized vineyard. The robot costs 180,000 dollars and replaces 2,000 hours of seasonal labor at 22 dollars an hour, and the payback is 4 years at the vineyard's scale. A smaller holding cannot justify it.
 
-The Comparison with a mechanical pruner is the honest baseline. A conventional machine cuts every spur at the same height and leaves 30 per cent of the decisions to a follow-up pass, while the robot makes each cut individually. The gap is in quality rather than in speed.
+Comparing with a mechanical pruner is the honest baseline. A conventional machine cuts every spur at the same height and leaves 30 per cent of the decisions to a follow-up pass, while the robot makes each cut individually. The gap is in quality rather than in speed.
 
 For a reader, the pattern is the one that recurs in agricultural robotics. The machine reaches most of the task at a fraction of the labour and stops short at the cases that require judgement, and the working arrangement that results is a supervisor with a machine rather than a machine alone.

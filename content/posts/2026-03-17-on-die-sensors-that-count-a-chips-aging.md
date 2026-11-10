@@ -4,7 +4,9 @@ title: "On-die sensors that count a chip's aging"
 date: "2026-03-17T09:20:00+08:00"
 categories: [technology]
 description: "A processor with 400 aging sensors reported its own degradation over two years of operation, allowing the clock to be adjusted before a failure. The sensors are ring oscillators, and their drift is the signal."
----Semiconductor aging is managed by design margin: a chip is specified for a voltage and a clock that leave room for degradation over its life. A processor that carries 400 on-die aging sensors reported in a paper this month that it could track its own degradation within 3 per cent, and adjust its operating point accordingly.
+---
+
+Semiconductor aging is managed by design margin: a chip is specified for a voltage and a clock that leave room for degradation over its life. A processor that carries 400 on-die aging sensors reported in a paper this month that it could track its own degradation within 3 per cent, and adjust its operating point accordingly.
 
 The sensor is a ring oscillator, a loop of inverters whose frequency falls as transistors slow. Frequency drift relative to a reference oscillator measures the combined effect of bias temperature instability and hot-carrier injection, which are the two mechanisms that age a logic circuit.
 
@@ -16,7 +18,7 @@ Reliability gain is quantified in the paper. Against a population of 50 chips ru
 
 The cost is area. A sensor occupies 40 square micrometres, and 400 of them plus the readout cost 0.1 per cent of a 400-square-millimetre die. That is small enough to be included in a product and large enough that a cost-sensitive part will not.
 
-The Comparison with external monitoring is instructive. A board-level voltage monitor can catch a supply problem and cannot see transistor drift. The on-die sensor measures the thing that actually determines the chip's life.
+Comparing with external monitoring is instructive. A board-level voltage monitor can catch a supply problem and cannot see transistor drift. The on-die sensor measures the thing that actually determines the chip's life.
 
 Calibration across a wafer is the accuracy limit. Ring oscillators vary with process corner, so each sensor is calibrated at test against a reference, and the calibration data are stored in on-die fuses. An uncalibrated sensor's spread is 4 per cent, which swamps the 2.5 per cent drift it is meant to measure.
 

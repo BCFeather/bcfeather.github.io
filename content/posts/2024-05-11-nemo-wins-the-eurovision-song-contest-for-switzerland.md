@@ -4,7 +4,9 @@ title: "Nemo wins the Eurovision Song Contest for Switzerland"
 date: "2024-05-11T23:45:00+08:00"
 categories: [culture]
 description: "Nemo won the Eurovision Song Contest in Malmö on 11 May with the song The Code, taking Switzerland's third title, at a final held under heavy security and overshadowed by protests over Israel's participation."
----Swiss singer Nemo won the Eurovision Song Contest in Malmö on the eleventh of May with the song The Code, a track that mixes rap, opera and pop and that the performer described as a story about discovering a non-binary identity. Entry took 365 points from the juries and 226 from the public, which put it ahead of the Croatian entry by 42 points. Switzerland had won the contest twice before, in 1956 and 1988.
+---
+
+Swiss singer Nemo won the Eurovision Song Contest in Malmö on the eleventh of May with the song The Code, a track that mixes rap, opera and pop and that the performer described as a story about discovering a non-binary identity. Entry took 365 points from the juries and 226 from the public, which put it ahead of the Croatian entry by 42 points. Switzerland had won the contest twice before, in 1956 and 1988.
 
 Result was close enough to be uncertain until the final set of votes. Croatia's entry, a folk-rock number performed by Baby Lasagna, led the public vote and was considered the favourite, and it finished second. Ukraine took third, and France and Portugal were in the top five. Nordic countries did less well than their delegations had hoped, and the host country finished in the lower half of the table.
 
@@ -16,4 +18,4 @@ Televoting figures were affected by the war in ways that the organizers do not p
 
 Contest also drew its smallest television audience in several years in some markets, which the organizers attributed to the war and to the availability of the show on streaming platforms, and which broadcasters said would be studied before next year's event.
 
-The Meaning of the victory for the contest is a return to a kind of song that has done well in recent years. Winners since 2021 have been acts from outside the traditional centres of European pop, and Nemo is the third Swiss or Italian winner in a decade after a long period in which the contest was dominated by Scandinavian and Eastern European entries. Contest will be held in Switzerland next year, in a city that has not yet been chosen, and the organizers will have to decide how much of the security apparatus of Malmö to reproduce.
+What the victory for the contest means is a return to a kind of song that has done well in recent years. Winners since 2021 have been acts from outside the traditional centres of European pop, and Nemo is the third Swiss or Italian winner in a decade after a long period in which the contest was dominated by Scandinavian and Eastern European entries. Contest will be held in Switzerland next year, in a city that has not yet been chosen, and the organizers will have to decide how much of the security apparatus of Malmö to reproduce.
