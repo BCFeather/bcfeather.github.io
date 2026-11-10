@@ -6,7 +6,7 @@ categories: [technology]
 description: "Ideogram shipped version 3.0 on 1 May and Suno updated its music model the same week, both promising better control rather than better novelty. Six months into a saturated market, the interesting question about generative media is what the upgrades are actually for."
 ---
 
-The first week of May brought two upgrades of the kind that used to be events and are now routine. Ideogram released version 3.0 on 1 May, promising more realistic output, a wider range of styles, and better adherence to a prompt. Suno updated its music model in the same window, with improved vocals and a feature for blending genres. Both announcements were well made, both were covered, and both were forgotten within a week by everyone who was not using them.
+The first week of May brought two upgrades of the kind that used to be events, and both are now routine. Ideogram released version 3.0 on 1 May, promising more realistic output, a wider range of styles, and better adherence to a prompt. Suno updated its music model in the same window, with improved vocals and a feature for blending genres. Both announcements were well made, both were covered, and both were forgotten within a week by everyone who was not using them.
 
 That is the condition generative media has arrived at. Two years ago a single good image was a demonstration of a new capability, and a video with coherent motion was a research result. Now the models are good enough that the interesting differences are narrow: whether the text in a poster comes out spelled correctly, whether a character stays consistent across five frames, whether the same prompt run twice produces the same picture. These are the concerns of a workshop, not of a laboratory.
 

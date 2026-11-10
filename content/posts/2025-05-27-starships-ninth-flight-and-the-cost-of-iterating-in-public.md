@@ -6,7 +6,7 @@ categories: [science]
 description: "SpaceX flew Starship for the ninth time on 27 May and lost both stages, the third consecutive flight to end without a controlled descent. The programme's method is to test in public at full scale, and the ninth flight is what that method looks like when it fails."
 ---
 
-The ninth flight of Starship lifted off on the evening of 27 May and ended, as the previous two had, without a controlled return. The Super Heavy booster flew a deliberately steeper and more stressing descent than earlier flights, and it was lost. The upper stage reached space, then lost attitude control, and contact was lost during re-entry. Nobody was aboard and nothing was destroyed except the vehicle and a stretch of ocean.
+Starship's ninth flight lifted off on the evening of 27 May and ended, as the previous two had, without a controlled return. The Super Heavy booster flew a deliberately steeper and more stressing descent than earlier flights, and it was lost. The upper stage reached space, then lost attitude control, and contact was lost during re-entry. Nobody was aboard and nothing was destroyed except the vehicle and a stretch of ocean.
 
 For an ordinary programme, three consecutive failures of this kind would be a crisis. For this one, they are the method. SpaceX has chosen to develop a fully reusable two-stage rocket at full scale, in flight, with the telemetry made public, and that choice guarantees a high rate of visible failure. The alternative, a slower programme of ground tests with incremental flights, would fail less often in public and take considerably longer. The company has been explicit about which trade it prefers.
 
