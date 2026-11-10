@@ -14,7 +14,7 @@ Damage timing is the mechanism. The reduction appears when warming is applied du
 
 Varietal differences are modest. The three varieties lost 5.2, 6.1 and 7.4 per cent, and the difference correlates with their respiration rate rather than with their maturity group. That is a useful signal for breeding and not a solution.
 
-The comparison with daytime warming changes the conclusion. In a companion experiment, the same 1.5 degree rise applied during the day reduced yield by 3 per cent, half the night-time effect. Most crop models weight day and night equally, which is the error this trial corrects.
+Comparison with daytime warming changes the conclusion. In a companion experiment, the same 1.5 degree rise applied during the day reduced yield by 3 per cent, half the night-time effect. Most crop models weight day and night equally, which is the error this trial corrects.
 
 Field validation is the next step. The trial's warming system is passive and site-specific, and the results are being compared with a network of 40 farm sites where growers recorded night temperature and yield. The correlation holds within 2 per cent.
 

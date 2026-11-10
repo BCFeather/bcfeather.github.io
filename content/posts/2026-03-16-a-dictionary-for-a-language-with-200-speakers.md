@@ -20,7 +20,7 @@ Distribution is a print run of 600 and a digital edition with the audio. The com
 
 What the dictionary does not do is revive the language. It documents it, and documentation is a precondition for any revival attempt. The committee's stated goal is that children should hear the words, which is a smaller ambition than fluency and a more realistic one.
 
-The corpus is the durable asset. The dictionary's 9,000 entries rest on 240 hours of recorded speech, and that corpus is archived with the community's consent and a licence that allows academic use and forbids commercial redistribution.
+Corpus is the durable asset. The dictionary's 9,000 entries rest on 240 hours of recorded speech, and that corpus is archived with the community's consent and a licence that allows academic use and forbids commercial redistribution.
 
 Orthography politics is not settled. A second committee has formed around the missionary convention, and the dictionary's introduction acknowledges the disagreement without resolving it, which is the only honest position a reference work can take.
 

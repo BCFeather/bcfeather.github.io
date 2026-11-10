@@ -8,7 +8,7 @@ description: "A perovskite-silicon tandem module published this month retained 9
 
 Perovskite solar cells have been the most efficient laboratory devices in photovoltaics and the least durable. A paper published this month in *Joule* reports a tandem module that survived the damp-heat test that the industry uses as the gate to commercial qualification: 1,000 hours at 85 degrees Celsius and 85 per cent relative humidity, with 93 per cent of initial efficiency remaining.
 
-The test matters more than the efficiency number. Damp heat is where perovskites fail, because moisture enters the crystal, reacts at the grain boundaries and produces irreversible decomposition, and the standard encapsulant used on silicon modules does not keep it out. Passing the test means the device stack has been engineered so that moisture ingress is slower than the test's timescale.
+What matters more than the efficiency number is the test. Damp heat is where perovskites fail, because moisture enters the crystal, reacts at the grain boundaries and produces irreversible decomposition, and the standard encapsulant used on silicon modules does not keep it out. Passing the test means the device stack has been engineered so that moisture ingress is slower than the test's timescale.
 
 What changed is the contact layer. The team replaced the organic hole-transport material, which is the weak point at the top of the stack, with a doped inorganic layer deposited by sputtering and annealed at low temperature. The layer is hydrophobic, blocks ion migration and does not decompose at 85 degrees.
 

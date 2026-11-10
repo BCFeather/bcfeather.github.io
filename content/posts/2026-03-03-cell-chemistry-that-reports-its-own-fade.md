@@ -20,7 +20,7 @@ Application is stationary storage first. A grid battery has space for the instru
 
 Comparing with impedance spectroscopy is instructive. A full impedance sweep also reveals degradation and needs no extra electrode, and it takes minutes and requires equipment. The embedded sensor gives a continuous reading, which is what a warranty needs.
 
-The reference electrode's own stability is the design problem. A lithium metal reference reacts with the electrolyte and its potential drifts, so the manufacturer coats it with a protective layer and calibrates it against a known plateau at the end of formation. The calibration is repeated at every full charge.
+Design problem is the reference electrode's own stability. A lithium metal reference reacts with the electrolyte and its potential drifts, so the manufacturer coats it with a protective layer and calibrates it against a known plateau at the end of formation. The calibration is repeated at every full charge.
 
 Data volume is small, which is the point. A pack with 200 cells produces 200 voltages per second, and the on-board computer stores a summary rather than a stream. The summary is what a warranty claim can use.
 

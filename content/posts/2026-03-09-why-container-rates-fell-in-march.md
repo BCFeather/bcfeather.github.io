@@ -10,7 +10,7 @@ Freight rates are a price for capacity, and capacity has been arriving. Spot rat
 
 Supply explains the move. Thirty-eight vessels above 15,000 twenty-foot-equivalent capacity were delivered between October and February, adding about 4.5 per cent to the global fleet in five months, and the order book still holds a further 12 per cent. Ships ordered in 2021 at record prices are arriving into a market that did not need them.
 
-The Red Sea effect is unwinding in the opposite direction. Diversions around the Cape of Good Hope absorb capacity, roughly 8 per cent of the effective fleet on the affected routes, and any resumption of Suez transits releases that capacity in a single schedule change. Rates fell before the resumption, which tells you what the market expects.
+Red Sea effect is unwinding in the opposite direction. Diversions around the Cape of Good Hope absorb capacity, roughly 8 per cent of the effective fleet on the affected routes, and any resumption of Suez transits releases that capacity in a single schedule change. Rates fell before the resumption, which tells you what the market expects.
 
 Demand is not the story. Container volume in the first two months was up about 3 per cent year on year, which is consistent with a modest recovery rather than a boom, and the seasonal restocking that usually lifts rates in February was muted because retailers entered the year with high inventory.
 

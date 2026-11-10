@@ -8,7 +8,7 @@ description: "A vaccine that targets the saliva a tick injects while feeding red
 
 Vaccines against tick-borne disease have been difficult because the pathogens vary and because the tick feeds for days before transmission. A study published this month in *Science Translational Medicine* took a different route: it immunized against proteins in the tick's saliva, and reduced transmission of a bacterium by 78 per cent in mice.
 
-The biology of the target is why it works. A tick secretes saliva throughout feeding to suppress the host's haemostasis and immune response, and those proteins are the same for every tick of the species. An immune response against them disrupts feeding and produces a reaction at the bite site.
+Biology of the target is why it works. A tick secretes saliva throughout feeding to suppress the host's haemostasis and immune response, and those proteins are the same for every tick of the species. An immune response against them disrupts feeding and produces a reaction at the bite site.
 
 Protein selection came from a transcriptome of the salivary glands, narrowed to twelve candidates that are expressed early and are conserved across populations. Four were combined in the vaccine, and the combination was more effective than any single antigen.
 
