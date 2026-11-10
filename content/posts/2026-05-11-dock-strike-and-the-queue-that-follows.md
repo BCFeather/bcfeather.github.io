@@ -8,7 +8,7 @@ description: "An eight-day strike at a container terminal cleared without a nati
 
 A strike at a container terminal closed it for eight days, and the terminal's queue of waiting ships peaked at 34 vessels before it cleared. The recovery profile is the analytically interesting part, and it is what port operators plan for.
 
-The throughput arithmetic sets the queue. The terminal moves 4,000 containers a day and the strike stopped 32,000 moves, which is 1.6 days of the network's total capacity and 8 days of the terminal's. A queue forms because ships arrive on schedule regardless of the terminal's state.
+Throughput arithmetic sets the queue. The terminal moves 4,000 containers a day and the strike stopped 32,000 moves, which is 1.6 days of the network's total capacity and 8 days of the terminal's. A queue forms because ships arrive on schedule regardless of the terminal's state.
 
 Recovery is not linear. The terminal reopened at 70 per cent productivity for the first four days because the yard was congested, reached full rate at day six, and cleared the queue at day 34. The tail is the slow part, and it is caused by the yard rather than by the berth.
 
@@ -26,6 +26,6 @@ Communication was the difference from earlier stoppages. The operator published 
 
 The alternative routings absorbed part of the volume. Two nearby terminals took 4,000 containers a day between them, and their dwell times rose 2 days. That redistribution is why the national effect was a delay rather than a shortage.
 
-The comparison with a port that planned for it is instructive. A terminal with a reservation system for truck arrivals recovered its gate queue in four days after a similar stoppage, because the bookings that were cancelled could be reinserted. The terminal in this case had no such system.
+A port that planned for it offers the instructive comparison. A terminal with a reservation system for truck arrivals recovered its gate queue in four days after a similar stoppage, because the bookings that were cancelled could be reinserted. The terminal in this case had no such system.
 
 For a reader, the case shows that a port's resilience is a yard problem. Berth capacity can be restored in a day, and the yard that feeds it takes weeks to restore, which is why a short stoppage has a long tail.

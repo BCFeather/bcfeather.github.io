@@ -8,7 +8,7 @@ description: "A utility has installed edge accelerators in 40 substations to run
 
 A substation's sensors sample current and voltage at 10 kilohertz, and a fault-detection model that runs in a control centre sees the data after a network hop. A utility installed edge accelerators in 40 substations this month and cut the decision time from 200 milliseconds to 8.
 
-The instrumentation is existing. Substations already carry merging units that digitize sensors under a standard, and the accelerator taps that stream rather than adding new sensors. Installation is a rack unit and a network configuration.
+Existing instrumentation is what the method relies on. Substations already carry merging units that digitize sensors under a standard, and the accelerator taps that stream rather than adding new sensors. Installation is a rack unit and a network configuration.
 
 Model size is modest by design. Fault detection on a waveform is a small convolutional model with 200,000 parameters, and the accelerator runs it in 3 milliseconds at 4 watts. A larger model would add accuracy at a latency cost the protection scheme cannot absorb.
 

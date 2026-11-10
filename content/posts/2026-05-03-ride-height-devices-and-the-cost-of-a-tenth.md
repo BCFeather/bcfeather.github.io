@@ -18,7 +18,7 @@ Teams dispute the interpretation. Two manufacturers argue that the falls correla
 
 The ban's effect on performance spread is measurable in advance. A team that cannot develop a device saves 400,000 dollars and loses 0.15 seconds a lap, which is roughly the gap between the first and eighth places on a grid. The ban compresses the field and removes a development race.
 
-The comparison with other equipment bans is the pattern. Formula One's ban on double-diffusers in 2011 removed a device every team had copied within a season, and the field spread widened for two years as the teams that understood the aerodynamics best moved on.
+Comparison with other equipment bans suggests the pattern. Formula One's ban on double-diffusers in 2011 removed a device every team had copied within a season, and the field spread widened for two years as the teams that understood the aerodynamics best moved on.
 
 Enforcement is the practical problem. A device that lives inside the fork is invisible at technical inspection, and the series has responded with a sealed component and a homologation list. Two teams were found with an undeclared version in 2025 and lost their results.
 

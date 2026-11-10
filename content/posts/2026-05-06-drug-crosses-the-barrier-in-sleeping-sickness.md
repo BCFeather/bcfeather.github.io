@@ -8,7 +8,7 @@ description: "A compound that penetrates the blood-brain barrier treated late-st
 
 Late-stage sleeping sickness, caused by a parasite that has crossed into the brain, requires drugs that cross the blood-brain barrier, and most available compounds do not. A trial reported this month tested an oral compound in 28 patients with late-stage disease, and 26 were cured at six months.
 
-The molecule's design is the achievement. It is a small, lipophilic compound with a molecular weight of 340 and a low affinity for the efflux pumps that remove drugs from the brain. The team optimized those two properties across 400 analogues before selecting the candidate.
+Achievement lies in the molecule's design. It is a small, lipophilic compound with a molecular weight of 340 and a low affinity for the efflux pumps that remove drugs from the brain. The team optimized those two properties across 400 analogues before selecting the candidate.
 
 Trial design was single-arm and open-label, with a historical control, because the disease is fatal without treatment and a placebo is not permissible. The cure criterion was the absence of parasites in cerebrospinal fluid at six months.
 
@@ -24,7 +24,7 @@ Resistance is the future constraint. The parasite's transporter can mutate, and 
 
 Diagnosis is the missing link. Most patients present at a stage when the parasite is in the blood and not the brain, and a lumbar puncture is required to stage the disease. A blood-based staging test would let the oral drug be used earlier, and one is in validation.
 
-The dosing schedule is what a health system can manage. One tablet twice a day for ten days is a regimen a clinic can supervise, and the older infusion needed a hospital bed. That change is why the health ministry's cost model fell by 60 per cent in the trial's own projection.
+What a health system can manage is the dosing schedule. One tablet twice a day for ten days is a regimen a clinic can supervise, and the older infusion needed a hospital bed. That change is why the health ministry's cost model fell by 60 per cent in the trial's own projection.
 
 The trial's follow-up is twelve months and incomplete. Relapse in this disease can occur at eighteen, and the paper reports six-month data with a commitment to publish the full follow-up. A cure at six months is a claim about parasites and not about patients.
 

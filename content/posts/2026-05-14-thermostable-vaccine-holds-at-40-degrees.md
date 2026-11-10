@@ -14,13 +14,13 @@ Potency was measured by a plaque assay, which counts infectious particles, and t
 
 Immunogenicity was tested in a small animal study and the response was equivalent to the refrigerated product, which is the number a regulator would want before a human trial.
 
-The cold chain saving is the application. A vaccine that survives 40 degrees can be transported without refrigeration to the last clinic and stored in a cupboard, which removes the refrigerator, the power supply and the monitoring from the delivery cost. That is 20 per cent of the cost per dose in rural settings.
+Application is the saving in the cold chain. A vaccine that survives 40 degrees can be transported without refrigeration to the last clinic and stored in a cupboard, which removes the refrigerator, the power supply and the monitoring from the delivery cost. That is 20 per cent of the cost per dose in rural settings.
 
 Manufacturing compatibility is the open question. The stabilizer is added before lyophilization, and a manufacturer's existing lyophilizer cycle must be revalidated for the new formulation, which is 18 months of work per product.
 
 Regulatory pathway is a variation rather than a new product. A formulation change requires stability data and a comparability study, and two manufacturers have filed. A licensed thermostable measles vaccine would be the first.
 
-The limit is not temperature but time above temperature. A vaccine that tolerates 40 degrees for 30 days still degrades at 55, and the formulation's data show a 50 per cent loss at 55 over 72 hours. The specification would state a controlled-temperature excursion rather than an ambient rating.
+Time above temperature, rather than temperature itself, is the limit. A vaccine that tolerates 40 degrees for 30 days still degrades at 55, and the formulation's data show a 50 per cent loss at 55 over 72 hours. The specification would state a controlled-temperature excursion rather than an ambient rating.
 
 Reconstitution is the second step. A lyophilized vaccine must be mixed with a diluent, and the diluent's temperature and the mixing time affect potency. The trial measured potency after reconstitution and found no loss within two hours.
 
