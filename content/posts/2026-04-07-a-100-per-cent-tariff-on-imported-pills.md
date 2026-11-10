@@ -1,6 +1,6 @@
 ---
 slug: "a-100-per-cent-tariff-on-imported-pills"
-title: "A 100 per cent tariff on imported pills"
+title: "Section 232 puts a 100 per cent tariff on patented medicines"
 date: "2026-04-07T11:40:00+08:00"
 categories: [news]
 description: "On 2 April the White House announced a 100 per cent duty on patented medicines and their ingredients under Section 232, with carve-outs for companies that build domestic supply. The bet behind the border."

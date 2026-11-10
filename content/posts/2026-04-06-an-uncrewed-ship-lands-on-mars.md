@@ -1,6 +1,6 @@
 ---
 slug: "an-uncrewed-ship-lands-on-mars"
-title: "An uncrewed ship lands on Mars"
+title: "Starship touches down on Mars without a crew"
 date: "2026-04-06T07:31:00+08:00"
 categories: [technology]
 description: "Early on 4 April, a Starship descended through the thin Martian sky and set down on the northern plains, the first landing of a spacecraft of its class on another planet. No one was aboard, and that is precisely why the landing matters as much as it does."

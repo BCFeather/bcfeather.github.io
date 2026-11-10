@@ -1,6 +1,6 @@
 ---
 slug: "a-synapse-on-a-chip-switches-a-million-times-lighter"
-title: "A synapse on a chip switches a million times lighter"
+title: "Hafnium-oxide synapse switches a million times lighter"
 date: "2026-05-27T13:26:00+08:00"
 categories: [technology]
 description: "A Cambridge team built a hafnium-oxide memristor that switches at currents roughly a million times lower than silicon, published in Nature Electronics on 22 April. The device mimics a brain synapse and hints at a route to AI hardware that runs on a fraction of today's power."

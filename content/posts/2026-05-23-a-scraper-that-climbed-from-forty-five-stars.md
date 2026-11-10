@@ -1,6 +1,6 @@
 ---
 slug: "a-scraper-that-climbed-from-forty-five-stars"
-title: "A scraper that climbed from forty-five stars to fifty thousand"
+title: "Scrapling reaches fifty thousand stars in eighteen months"
 date: "2026-05-23T21:00:00+08:00"
 categories: [technology]
 description: "Scrapling passes fifty thousand GitHub stars eighteen months after its first commit, as demand for crawling catches up with the tool."

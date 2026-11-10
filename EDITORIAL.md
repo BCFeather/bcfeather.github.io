@@ -48,3 +48,27 @@ The site conventions apply to all of the above: single category per post, no tag
 the body, ISO 8601 dates with `+08:00`, lowercase ASCII slugs, colon titles kept under a fifth of
 a batch, British `towards`, `-ize` spelling, straight quotes with singles outside and doubles
 inside, italic journal and book titles, and official spelling for proper nouns.
+
+## Openings and titles
+
+Two habits spoil a page of otherwise decent prose: every paragraph opening on "The", and every
+headline built from "A something that does something".
+
+Paragraphs. Keep the count of paragraphs whose first word is "The" to about a third of the
+paragraphs in a post, and never let it dominate a month (the months of 2026-07 to 2026-11 were
+brought down to between 24 and 35 per cent). When a paragraph would naturally start with a
+definite subject, front the predicate, the result or the circumstance instead: `Supply is the
+difficult half`, `Worth naming are the limits`, `Where the mission shows its character is the
+engineering`, `Fourth comes the constraint that decides the outcome`. A run of "The first thing
+is ... The second thing is ... The third thing is ..." is a list pretending to be prose; number
+the items explicitly or drop the scaffolding.
+
+Titles. Avoid the "A/The [noun] that [verb]" shape, which reads like a catalogue entry. Prefer a
+plain noun phrase, a verb phrase, or a clause that names the finding. Colons are allowed and
+welcome in moderation, since a colon title can carry both the object and the angle: `Optical
+links in orbit: why satellites stopped calling home`. The ceiling is a fifth of a month's posts,
+and it is a ceiling, not a target.
+
+Grammar. Any rewritten sentence has to be checked against the sentence it replaces: the clause
+that carried the number, the caveat or the attribution must survive the rewrite. Bulk edits are
+verified by comparing word counts per changed line before anything is pushed.

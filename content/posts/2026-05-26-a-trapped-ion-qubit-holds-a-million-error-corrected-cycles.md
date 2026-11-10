@@ -1,6 +1,6 @@
 ---
 slug: "a-trapped-ion-qubit-holds-a-million-error-corrected-cycles"
-title: "A trapped-ion qubit holds a million error-corrected cycles"
+title: "Thirty-two ions hold a logical qubit for a million cycles"
 date: "2026-05-26T16:45:00+08:00"
 categories: [technology]
 description: "A team working on a trapped-ion machine reported on 20 May that a single logical qubit, encoded in thirty-two physical ions, survived more than a million rounds of error correction with a logical error rate of about three in a million."

@@ -1,6 +1,6 @@
 ---
 slug: "a-sodium-battery-yard-starts-feeding-the-grid"
-title: "A sodium battery yard starts feeding the grid"
+title: "Inner Mongolia sodium yard dispatches 200 megawatts"
 date: "2026-05-05T14:10:00+08:00"
 categories: [news]
 description: "A 200 megawatt, 400 megawatt-hour sodium-ion storage yard in Inner Mongolia began dispatching into the regional grid on 30 April, the largest plant of its kind in the world and the first to be paid for its capacity alone rather than for the electricity it moves."

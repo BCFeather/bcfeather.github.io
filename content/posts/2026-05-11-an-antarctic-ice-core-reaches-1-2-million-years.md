@@ -1,6 +1,6 @@
 ---
 slug: "an-antarctic-ice-core-reaches-1-2-million-years"
-title: "An Antarctic ice core reaches 1.2 million years"
+title: "Little Dome C ice reaches 1.2 million years"
 date: "2026-05-11T15:40:00+08:00"
 categories: [science]
 description: "A European consortium reported on 5 May that the ice core drilled at Little Dome C in East Antarctica has been dated continuously to 1.2 million years before the present, the oldest undisturbed climate record ever recovered from ice."

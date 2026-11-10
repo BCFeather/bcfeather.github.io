@@ -1,6 +1,6 @@
 ---
 slug: "a-sheltered-cavity-between-earth-and-the-moon"
-title: "A sheltered cavity between Earth and the Moon"
+title: "Earth's magnetic shadow reaches past the Moon's orbit"
 date: "2026-04-15T13:35:00+08:00"
 categories: [science]
 description: "Analysis of three years of data from China's Chang'e-4 lander, cross-checked with NASA's LRO, reveals a pocket of reduced cosmic-ray flux on the lunar dayside, carved by Earth's magnetic field. Published in Science Advances on 25 March."

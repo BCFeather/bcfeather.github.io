@@ -1,6 +1,6 @@
 ---
 slug: "a-ten-thousand-planet-haul-from-tess-first-light"
-title: "A ten-thousand-planet haul from TESS first light"
+title: "TESS archive yields 10,091 new planet candidates"
 date: "2026-05-03T10:15:00+08:00"
 categories: [science]
 description: "A Princeton-led team mined every full-frame image TESS took in its first cycle and surfaced 10,091 new planet candidates around faint stars, more than doubling the census. The T16 survey is a reminder that the richest discoveries are still hidden in the data already collected."

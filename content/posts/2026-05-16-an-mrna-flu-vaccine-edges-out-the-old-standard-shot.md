@@ -1,6 +1,6 @@
 ---
 slug: "an-mrna-flu-vaccine-edges-out-the-old-standard-shot"
-title: "An mRNA flu vaccine edges out the old standard shot"
+title: "mRNA-1010 beats the standard flu shot in adults over 50"
 date: "2026-05-16T10:49:00+08:00"
 categories: [science]
 description: "A phase 3 trial of Moderna's mRNA-1010 seasonal flu vaccine, reported in the New England Journal of Medicine, beat the standard-dose flu shot in adults over 50 by a modest but real margin, at the cost of more side effects. The first mRNA flu shot is inching towards the clinic."

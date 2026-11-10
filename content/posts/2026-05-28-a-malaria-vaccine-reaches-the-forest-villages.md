@@ -1,6 +1,6 @@
 ---
 slug: "a-malaria-vaccine-reaches-the-forest-villages"
-title: "A malaria vaccine reaches the forest villages"
+title: "Two-dose malaria vaccine reaches forest villages"
 date: "2026-05-28T14:32:00+08:00"
 categories: [news]
 description: "In the last week of May, a two-dose malaria vaccine finished its first full round in the forest regions of three Central African countries, reaching villages that had never seen a routine immunization campaign reach them before. The science took thirty years; the delivery is taking the rest of the decade, and the gap between the two is where the real progress is being made."

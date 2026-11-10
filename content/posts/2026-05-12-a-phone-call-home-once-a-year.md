@@ -1,6 +1,6 @@
 ---
 slug: "a-phone-call-home-once-a-year"
-title: "A phone call home, once a year"
+title: "Calls home, once a year"
 date: "2026-05-12T14:27:00+08:00"
 categories: [essay]
 description: "A short essay on the second Sunday in May, and on the strange formality of a weekly call home that the calendar suddenly insists everyone else is also making. On what we say on these calls, and what we leave out."
