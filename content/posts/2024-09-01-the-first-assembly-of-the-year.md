@@ -6,11 +6,11 @@ categories: [society]
 description: "The school year opened on the first of September with an assembly, a new set of textbooks and a photograph at the gate. The routines that follow are set in the first week and changed rarely afterwards."
 ---
 
-School year opened on the first of September. A primary school holds an assembly in the yard at eight. Children stand in lines that are arranged by class and by height. The assembly is short and it is rehearsed. A head teacher speaks for six minutes, a flag is raised. A pupil reads a paragraph about the summer. Whole ceremony takes twenty minutes and it is the same every year.
+The school year opened on the first of September. A primary school holds an assembly in the yard at eight. Children stand in lines that are arranged by class and by height. The assembly is short and it is rehearsed. A head teacher speaks for six minutes, a flag is raised. A pupil reads a paragraph about the summer. Whole ceremony takes twenty minutes and it is the same every year.
 
 Three subjects have new textbooks. Editions that a province adopts are decided by a national committee. A school that receives a new edition in September has to teach from it in the same week. The class size is the number that parents ask about. A school in a city district runs forty-five pupils to a room. A school in a county runs thirty. Difference is visible in the number of desks and invisible in the exam results.
 
-First contract of the year is the canteen. A district office signs it for the schools it runs. Menu is fixed for a term. A parent who wants a change writes to the office and receives a reply in October. The homework limit is the rule that is hardest to enforce. A policy that caps the written work at ninety minutes a day is measured by a survey of parents. A parent who wants more homework for a child in the final year is not a rare case.
+Contracts for the year begin at the canteen. A district office signs it for the schools it runs. Menu is fixed for a term. A parent who wants a change writes to the office and receives a reply in October. The homework limit is the rule that is hardest to enforce. A policy that caps the written work at ninety minutes a day is measured by a survey of parents. A parent who wants more homework for a child in the final year is not a rare case.
 
 After-school care is the part of the day that has grown. A school that offers a supervised session until half past five charges a small fee and pays the teachers who run it. Session is the reason that a working parent can hold a job. The teachers who are missing are in the counties. A rural school that advertises three posts in the summer fills one. Empty rooms are covered by a teacher who travels between schools.
 

@@ -10,7 +10,7 @@ New students arrive in the second week of September, a month after the admission
 
 Military training begins within three days. A fortnight of drill in the sun is run by officers from a local unit. Issued uniform is the first clothing a student wears on campus. The parents stay for two days and then leave. A hotel near the campus sells its rooms at three times the normal rate in the week of registration. Rooms that are booked are booked in July.
 
-Adjustment is the part nobody prepares for. A student who was the best in a county school meets thirty people who were the best in theirs. October's first exam settles it. The clubs recruit on the same week. A hundred societies set up tables along the main road. Clubs that hand out a form on the first day have the largest intake.
+The adjustment is the part nobody prepares for. A student who was the best in a county school meets thirty people who were the best in theirs. October's first exam settles it. The clubs recruit on the same week. A hundred societies set up tables along the main road. Clubs that hand out a form on the first day have the largest intake.
 
 Money is the constraint discussed quietly. A student from a county household receives a grant that covers the fee and part of the living cost. Those who do not qualify take the work the library advertises. The course selection is a scramble on a website. A general education module that is popular fills in four minutes. A student who misses it takes a course at eight in the morning on a Saturday.
 

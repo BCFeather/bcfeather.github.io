@@ -8,7 +8,7 @@ description: "Typhoon Pulasan landed near Shanghai on the nineteenth, four days 
 
 Typhoon Pulasan landed on the coast south of Shanghai on the evening of the nineteenth. It was the second storm to reach the city in a week. First had been the strongest to make landfall there in seventy-five years. Bebinca had arrived on the sixteenth with a wind that closed the airports and the bridges. City had spent two days clearing fallen trees. Crews were still working when the second warning was issued.
 
-Second storm was weaker and wetter. A typhoon that has lost its structure over the sea carries less wind and more rain. Rainfall in the twelve hours after landfall was the part that flooded the streets. The drainage is built for a storm that returns every few years. A system of pipes and pumps that handles fifty millimetres an hour is overwhelmed by eighty. Water that stands in an underpass is the water that the river cannot take.
+The second storm was weaker and wetter. A typhoon that has lost its structure over the sea carries less wind and more rain. Rainfall in the twelve hours after landfall was the part that flooded the streets. The drainage is built for a storm that returns every few years. A system of pipes and pumps that handles fifty millimetres an hour is overwhelmed by eighty. Water that stands in an underpass is the water that the river cannot take.
 
 Pumps are the constraint. A station that lifts water from a low-lying district runs at capacity for six hours and then fails when the power goes. Generator that is meant to cover it is tested once a year. The schools closed again. A city that had sent its pupils home on the sixteenth did it again on the nineteenth. Term lost four days in the first month.
 

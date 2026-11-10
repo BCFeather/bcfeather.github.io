@@ -6,9 +6,9 @@ categories: [business]
 description: "The main index rose for four sessions after the package was announced, and the turnover on one day was the largest in the history of the exchange. The buyers were domestic, and the sellers were the ones who had waited a year."
 ---
 
-Main index rose for four sessions after the package of the twenty-fourth of September. Turnover on one of those days was the largest that the exchange has recorded. The buying was domestic. A brokerage reported that the accounts opened in the week were mostly retail. Institutional money that had been short of the market for a year was slow to return.
+The main index rose for four sessions after the package of the twenty-fourth of September. Turnover on one of those days was the largest that the exchange has recorded. The buying was domestic. A brokerage reported that the accounts opened in the week were mostly retail. Institutional money that had been short of the market for a year was slow to return.
 
-Foreign investor was a smaller part of the flow than the headline suggests. A fund that had reduced its position in the spring bought back a share of it. Buying was in the large caps rather than in the small ones. The sectors that rose first were the ones the package touched. A broker, a developer and a bank rose on the first day. Order reflects the sequence of the measures rather than the fundamentals of the companies.
+The foreign investor was a smaller part of the flow than the headline suggests. A fund that had reduced its position in the spring bought back a share of it. Buying was in the large caps rather than in the small ones. The sectors that rose first were the ones the package touched. A broker, a developer and a bank rose on the first day. Order reflects the sequence of the measures rather than the fundamentals of the companies.
 
 Turnover is the number traders watch. A market that trades a trillion yuan in a day is a market with a lot of people who want to own it for a week. Same number in a month of falls means nothing. The short seller was restricted during the rally. A rule that limits the sale of borrowed stock when the index moves sharply was applied twice in the week. Effect was to remove a source of selling.
 
