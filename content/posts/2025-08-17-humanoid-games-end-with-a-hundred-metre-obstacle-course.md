@@ -6,7 +6,7 @@ categories: [technology]
 description: "Three days at the Ice Ribbon put 280 teams from 16 countries through sprinting, football, boxing and an obstacle course built to break machines rather than to entertain a crowd."
 ---
 
-The first World Humanoid Robot Games opened at the Ice Ribbon arena in Beijing on the evening of 14 August and closed on the 16th, with 280 teams from 16 countries entered. The events were chosen so that a machine could fail in public: a 100-metre sprint, a 100-metre obstacle course, five-a-side football, boxing, and a set of household tasks. Entry was open to university teams, companies and hobbyist groups, which is why the field ranged from machines costing more than a car to ones assembled in a dormitory.
+Beijing's Ice Ribbon arena opened its doors on the evening of 14 August for the first World Humanoid Robot Games, which closed two days later with 280 teams entered from 16 countries. The events were chosen so that a machine could fail in public: a 100-metre sprint, a 100-metre obstacle course, five-a-side football, boxing, and a set of household tasks. Entry was open to university teams, companies and hobbyist groups, which is why the field ranged from machines costing more than a car to ones assembled in a dormitory.
 
 The obstacle course turned out to be the useful one. It put gravel, a narrow bridge, a knee-high barrier and a spiral staircase in sequence, and a good run took a little over two minutes. The machines that finished did so by walking slowly and re-planning often. The ones that fell did so at the bridge, where the surface gives way under a foot and the balance controller has to decide, in a few milliseconds, whether to trust its own estimate or the contact it can feel.
 

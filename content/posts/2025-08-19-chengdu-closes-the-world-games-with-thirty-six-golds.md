@@ -6,7 +6,7 @@ categories: [sport]
 description: "Eleven days, 116 delegations and 18 world records ended on 17 August with China top of both tables for the first time, and the next Games heading to Karlsruhe."
 ---
 
-The twelfth World Games closed in Chengdu on the evening of 17 August, after eleven days in which about 4,000 athletes from 116 countries and regions competed in sports that mostly sit outside the Olympic programme. The closing ceremony was held at the Chengdu International Friendship Hall in the Expo park, and the flame was put out at 20:50.
+Chengdu closed the twelfth World Games on the evening of 17 August, after eleven days in which about 4,000 athletes from 116 countries and regions competed in sports that mostly sit outside the Olympic programme. The closing ceremony was held at the Chengdu International Friendship Hall in the Expo park, and the flame was put out at 20:50.
 
 China finished with 36 gold, 17 silver and 11 bronze, 64 medals in all. It was the country's best result at the Games and the first time it has led both the gold and the medal tables. The final gold came on the last afternoon, when Qi Xiangyu won the men's breaking competition; Liu Qingyi took silver in the women's event, which Guo Pu won. The breaking team took two golds and a silver from three events, its first medals at the Games, in a discipline that only joined the programme in 2022.
 

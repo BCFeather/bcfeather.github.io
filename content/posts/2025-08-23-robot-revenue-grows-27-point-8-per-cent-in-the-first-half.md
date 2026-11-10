@@ -6,7 +6,7 @@ categories: [business]
 description: "Industry data released at the Beijing congress show double-digit growth in output and a market that is shifting from exhibitions to order books, with service robots carrying much of the volume."
 ---
 
-The Ministry of Industry and Information Technology used the World Robot Conference to publish the half-year figures, and they are strong in a year when many manufacturing sectors are flat. Revenue for robot companies rose 27.8 per cent in the first six months, industrial robot output rose 35.6 per cent and service robot output 25.5 per cent.
+Half-year figures, published by the Ministry of Industry and Information Technology at the World Robot Conference, are strong in a year when many manufacturing sectors are flat. Revenue for robot companies rose 27.8 per cent in the first six months, industrial robot output rose 35.6 per cent and service robot output 25.5 per cent.
 
 China has been the largest industrial robot market for twelve consecutive years, with 302,000 units sold in 2024. Robot density in manufacturing now ranks third in the world, behind Korea and Singapore and ahead of Germany and Japan, a position reached in about a decade from a low base. Density is measured as robots per 10,000 manufacturing workers, and the Chinese figure has roughly doubled since 2019, mostly through small six-axis machines in electronics and automotive parts. Industrial robots are installed in 71 of the 92 industry categories and 236 sub-categories in the national accounts.
 

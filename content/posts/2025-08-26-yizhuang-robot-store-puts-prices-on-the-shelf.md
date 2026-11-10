@@ -6,7 +6,7 @@ categories: [business]
 description: "A 4,000-square-metre showroom in Beijing sells, leases and repairs humanoid robots, and the vouchers handed out with it are a test of whether a consumer market exists at all."
 ---
 
-The world's first robot 4S store opened in Yizhuang in early August, in time for the World Robot Conference, and it is organized like a car dealership: a showroom floor, a service bay, a leasing desk and a parts counter. The space is about 4,000 square metres and carries more than 100 products from more than 40 companies.
+Yizhuang opened the world's first robot 4S store in early August, in time for the World Robot Conference, and it is organized like a car dealership: a showroom floor, a service bay, a leasing desk and a parts counter. The space is about 4,000 square metres and carries more than 100 products from more than 40 companies.
 
 The price list is the interesting document. A full-size humanoid that can walk and carry a load costs between 199,000 and 779,000 yuan depending on the model and the payload. A quadruped for inspection costs less than a small car. A cleaning robot for a shopping centre is sold as a three-year lease with maintenance included, which is how the commercial service robot market has actually worked for a decade. The lease transfers the technology risk to the lessor, who can spread it across a hundred machines and a service team.
 

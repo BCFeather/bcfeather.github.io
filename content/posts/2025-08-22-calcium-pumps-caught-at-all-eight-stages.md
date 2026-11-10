@@ -10,7 +10,7 @@ Cells keep their calcium under tight control, because the ion is used to carry s
 
 A paper in *Nature* on 20 August reports structures of the mammalian PMCA2 pump in eight states of its transport cycle, with and without its auxiliary subunit neuroplastin. The work, from the groups of Bernd Fakler and Stefan Raunser at Freiburg, used cryo-electron microscopy and was paired with whole-cell recordings that measured how quickly calcium leaves a live cell.
 
-The striking detail concerns a lipid. Phosphatidylinositol 4,5-bisphosphate, a membrane lipid that is present in most eukaryotic membranes, binds at a site that moves during the cycle and behaves as a latch: it holds the pump in a conformation that allows calcium to be released quickly, and it opens a path for the counter-ion that has to come in as calcium goes out. Remove the lipid and the pump still works, but slowly.
+One detail in the structures is striking, and it concerns a lipid. Phosphatidylinositol 4,5-bisphosphate, a membrane lipid that is present in most eukaryotic membranes, binds at a site that moves during the cycle and behaves as a latch: it holds the pump in a conformation that allows calcium to be released quickly, and it opens a path for the counter-ion that has to come in as calcium goes out. Remove the lipid and the pump still works, but slowly.
 
 That explains an old puzzle. PMCA had been known to depend on acidic lipids for activity since the 1970s, but the dependence had been treated as a cofactor rather than as part of the mechanism. The structures put the lipid inside the machine, at a site that is empty in the resting state and occupied during turnover.
 
