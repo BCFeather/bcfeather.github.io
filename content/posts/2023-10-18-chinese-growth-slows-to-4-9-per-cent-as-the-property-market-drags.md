@@ -1,0 +1,19 @@
+---
+slug: "chinese-growth-slows-to-4-9-per-cent-as-the-property-market-drags"
+title: "Chinese growth slows to 4.9 per cent as the property market drags"
+date: "2023-10-18T09:20:00+08:00"
+categories: [economy]
+description: "The third quarter was stronger than the forecast, and the September figures showed the factories and the shops improving while the builders kept cutting."
+---
+
+Chinese output grew 4.9 per cent in the third quarter from a year earlier, the statistics bureau said on 18 October, above the 4.5 per cent that the economists had forecast. The quarter grew 1.3 per cent from the previous three months. The figure compares with 6.3 per cent in the second quarter, which was lifted by the reopening, and 4.5 in the first, and the year-to-date growth is 5.2 per cent. The quarter was the second in which the growth was above 4.5 per cent, and the economists had expected a slowdown as the reopening effect faded.
+
+Base effects lifted the quarter. The comparison is with the locked-down summer of 2022, and the economists estimate the underlying pace at about 4 per cent, which is below the government's target of about 5. A base that is weak is a figure that overstates the trend. The stimulus of the summer included the cut in the mortgage rates and the relaxation of the purchase limits in the largest cities, and the effect has been small. The exports fell by about 10 per cent in the quarter in dollar terms, and the shipments to the European Union fell by about 15 as the demand there weakened.
+
+September was the stronger month. The industrial output rose 4.5 per cent, the retail sales 5.5 and the exports fell less than in August, which suggests the stimulus has begun to reach the factories. A month that improves at the end of a quarter is a quarter that carries the momentum forward. The retail sales of the vehicles rose by about 3 per cent, and the restaurants by about 14 as the travel over the holidays was the strongest since 2019. The investment in the manufacturing rose by about 6 per cent, and the spending on the electrical machinery and the computers was the strongest.
+
+Property is still the hole. The investment in the development fell by about 9 per cent in the first nine months, the sales of the new homes by about 5 in floor area, and the completions rose as the builders finished the projects they had promised. A market that completes more than it starts is a market that is shrinking. The developers' borrowings are about 12 trillion yuan, and the government has been encouraging the banks to lend to the projects that are near completion. The completions rose by about 20 per cent, which is the government's policy of delivering the flats that the buyers had paid for before the developers ran out of money.
+
+Official stimulus has been cautious. The stimulus has been aimed at the infrastructure and the manufacturing rather than at the households, and the deficit has been kept at 3 per cent of the output. A stimulus that is targeted is a stimulus that does not create the broad demand. The local governments have issued about 3.5 trillion yuan of the special bonds, most of it for the infrastructure, and the quota for the year is nearly used. The central bank has cut the reserve requirement and the policy rates, and the government has said it will not repeat the large stimulus of the last cycle.
+
+What the quarter shows is that the target is now within reach only with the base effect, and the property is the part that decides whether the improvement lasts. A quarter that beats the forecast on a weak base is a quarter that the statisticians will be asked about, and the question is the measure rather than the number. A growth that depends on the base is a growth that has to be sustained by the demand, and the demand is what the property has taken away.
