@@ -1,0 +1,19 @@
+---
+slug: "eurozone-inflation-slows-to-7-per-cent-as-the-energy-effect-fades"
+title: "Eurozone inflation slows to 7 per cent as the energy effect fades"
+date: "2023-04-28T09:20:00+08:00"
+categories: [economy]
+description: "The flash estimate for April showed the headline falling from 6.9 per cent, while the core measure stayed at 5.6 per cent on the services."
+---
+
+Consumer prices in the eurozone rose by 7 per cent over the year to April, according to the flash estimate, up slightly from 6.9 per cent in March. The economists had expected 7 per cent. The core measure, which strips the energy, the food, the alcohol and the tobacco, eased to 5.6 per cent from 5.7, which is still close to the record. The figure was in line with the forecast, and the index has now been above 5 per cent for the eighteenth month in a row. The four largest economies all reported the rates above the target, and the smallest members were the ones closest to it.
+
+Energy was the line that moved first. The prices of the energy fell by about 0.9 per cent over the year, the first annual decline since the start of 2021, as the gas and the electricity came down from the peak of the autumn. The base of comparison turns much harder in the second half, when the subsidies of 2022 drop out. The gas price in the wholesale market was about 40 euros per megawatt hour, down from about 300 at the peak of the summer of 2022. The households in Germany and Italy are still paying the bills of the winter, and the pass-through to the retail prices is slower than the fall in the market.
+
+Food was the stubborn part of the basket. The prices of the food, the alcohol and the tobacco rose by about 15 per cent over the year, and the one of the fresh vegetables by about 19. The grocery bills have been the most visible part of the inflation for the households, and the governments have been pushing the retailers to hold the prices. The prices of the oils and the fats fell by about 8 per cent over the year, and the one of the sugar rose by about 50. The commission has been monitoring the margins of the retailers, and it has found no evidence of the profiteering that the governments have alleged.
+
+Services carried the core measure. The prices of the services rose by about 5.2 per cent, and the one of the industrial goods by about 4.6 as the supply chains normalized. The wage deals in Germany and the Netherlands have been running at about 6 per cent, and the services prices follow the wages with a lag. The negotiated wages in the eurozone rose by about 4.5 per cent in the fourth quarter, and the bank says the peak is still ahead. The services inflation has been above 4 per cent since the summer, and the bank's own measure of the underlying pressure is about 5.
+
+National figures were uneven. The inflation in Spain was about 3.8 per cent on the harmonized measure, and the one in Germany about 7.6, and the gap is the different weight of the energy in the two baskets. The Baltic states were above 10 per cent, and France was about 6.8. The inflation in Italy was about 8.8 per cent, and the one in Portugal about 6.6, which shows the weight of the energy in the national baskets. The commission's forecast for the year was raised to about 5.8 per cent from 5.6, and the one for the next year was kept at about 2.5.
+
+This report supports the case for a smaller increase at the meeting in May. The deposit rate is at 3.5 per cent, and the hawks have been arguing for another 50 basis points. A core that is stuck at 5.6 per cent while the headline falls is a core that the bank will cite in either direction. The bank has raised the deposit rate by 350 basis points since the summer of 2022, and the next meeting is in early May. The council has been split between the members who want a smaller increase and the ones who want another 50, and the data have not settled it.
