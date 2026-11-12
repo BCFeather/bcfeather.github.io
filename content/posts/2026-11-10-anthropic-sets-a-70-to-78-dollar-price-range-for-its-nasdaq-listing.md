@@ -1,7 +1,7 @@
 ---
 slug: "anthropic-sets-a-70-to-78-dollar-price-range-for-its-nasdaq-listing"
 title: "Anthropic sets a 70 to 78 dollar price range for its Nasdaq listing"
-date: "2026-11-10T09:20:00+08:00"
+date: "2026-11-10T22:05:00+08:00"
 categories: [business]
 description: "The Claude developer opened its roadshow on 10 November with an offer that could raise 90.4 billion dollars."
 ---

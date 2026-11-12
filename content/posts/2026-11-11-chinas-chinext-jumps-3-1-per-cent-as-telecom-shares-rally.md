@@ -1,7 +1,7 @@
 ---
 slug: "chinas-chinext-jumps-3-1-per-cent-as-telecom-shares-rally"
 title: "Chinas ChiNext jumps 3.1 per cent as telecom shares rally"
-date: "2026-11-11T09:20:00+08:00"
+date: "2026-11-11T16:20:00+08:00"
 categories: [economy]
 description: "The start-up board gained most on 11 November as money moved into the parts that link data centres together."
 ---

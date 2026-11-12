@@ -1,7 +1,7 @@
 ---
 slug: "nasdaq-falls-0-7-per-cent-as-a-hot-inflation-report-lifts-yields"
 title: "Nasdaq falls 0.7 per cent as a hot inflation report lifts yields"
-date: "2026-11-10T09:20:00+08:00"
+date: "2026-11-11T05:15:00+08:00"
 categories: [economy]
 description: "The session on 10 November left NVIDIA down more than 9 per cent over two days and about 420 billion dollars of its value gone."
 ---

@@ -1,7 +1,7 @@
 ---
 slug: "hesai-reports-a-34-per-cent-rise-in-revenue-as-robots-pass-half-its-sales"
 title: "Hesai reports a 34 per cent rise in revenue as robots pass half its sales"
-date: "2026-11-11T09:20:00+08:00"
+date: "2026-11-11T21:55:00+08:00"
 categories: [technology]
 description: "The lidar maker said on 11 November that its robotics business supplied more than half of quarterly revenue for the first time."
 ---
