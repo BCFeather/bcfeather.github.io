@@ -12,7 +12,7 @@ Projections were the surprise. The median of the nineteen officials pointed to a
 
 Growth forecasts were raised. The committee now expects the economy to grow by about 1 per cent this year instead of 0.4, and the unemployment to peak at about 4.1 instead of 4.5. The forecast is the one that the soft landing rests on, and the officials said the banking strains had not hurt as much as they feared. The forecast for the inflation was cut to about 3.2 per cent this year, and the one for the next year to about 2.5.
 
-Its chair spoke about the credit. He said the tightening of the credit conditions would do some of the work of the rates, and the committee would take it into account. He declined to say when the next increase would come, and he said the meeting in July was live. He said the labor market was still very tight, and the wage growth was running at about 4.3 per cent.
+Its chair spoke about the credit. He said the tightening of the credit conditions would do some of the work of the rates, and the committee would take it into account. He declined to say when the next increase would come, and he said the meeting in July was live. He said the labour market was still very tight, and the wage growth was running at about 4.3 per cent.
 
 Markets moved both ways. The two-year yield rose by about 15 basis points after the statement and fell back as the chair spoke, and the ten-year was little changed. The traders priced about a 70 per cent chance of a rise in July, up from about 60 before. The dollar fell by about 0.3 per cent against the basket after the press conference, and the stocks were little changed.
 

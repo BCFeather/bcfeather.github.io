@@ -12,7 +12,7 @@ Expectations did the damage. The measure for the next six months fell by about 8
 
 Its present measure held. The measure for the business conditions rose a little, and the one for the employment was about flat. The respondents said the inflation had been the largest concern, and the interest rates were the second. The respondents who said the jobs were plentiful were about 40 per cent, and the ones who said they were hard to get about 14.
 
-Buying plans were weaker. The share of the households planning to buy a car fell to about 10 per cent, and the one planning a home to about 4.5. The appliance plans fell as the prices stopped falling, and the vacation plans held. The share of the households planning a major appliance purchase fell to about 45 per cent, which is the lowest since the pandemic. The share of the households planning a vacation fell to about 45 per cent, and the one planning to buy a vehicle held.
+Buying plans were weaker. The share of the households planning to buy a car fell to about 10 per cent, and the one planning a home to about 4.5. The appliance plans fell as the prices stopped falling, and the holiday plans held. The share of the households planning a major appliance purchase fell to about 45 per cent, which is the lowest since the pandemic. The share of the households planning a holiday fell to about 45 per cent, and the one planning to buy a vehicle held.
 
 A partisan split is smaller than in the sentiment survey. The confidence of the Democrats was about 90, and the one of the Republicans about 120, which is narrower than the gap in the university survey. The independents were about 100. The gap between the parties has been about 30 points, which is narrower than the 50 in the university survey.
 

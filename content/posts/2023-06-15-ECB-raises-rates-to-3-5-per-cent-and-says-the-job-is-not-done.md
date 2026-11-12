@@ -10,7 +10,7 @@ Its deposit rate was raised to 3.5 per cent on 15 June, a quarter-point increase
 
 Forecasts changed. The staff now expects the inflation to be about 5.4 per cent this year instead of 5.3, and about 3 per cent next year. The forecast for the growth was cut to about 0.9 per cent this year from 1.0, and the one for the next year to about 1.5. The staff expects the inflation to fall to about 2.2 per cent in 2025, which is the first time the target has been in sight. The forecast for the core was raised to about 5.1 per cent this year, and the one for the services to about 4.8.
 
-Wages are the concern. The staff said the negotiated pay was rising by about 4.5 per cent, and the unit labor costs had grown by about 5 as the productivity fell. The services inflation was about 5.2 in May, and the bank has said it is the measure that the policy has to change. The unemployment rate was about 6.5 per cent in April, and the employment has grown by about 2 per cent over the year.
+Wages are the concern. The staff said the negotiated pay was rising by about 4.5 per cent, and the unit labour costs had grown by about 5 as the productivity fell. The services inflation was about 5.2 in May, and the bank has said it is the measure that the policy has to change. The unemployment rate was about 6.5 per cent in April, and the employment has grown by about 2 per cent over the year.
 
 Officials also signalled July. The president said another increase in July was the base case unless the data changed, and she declined to say what would happen after the summer. The market had expected the guidance, and the euro rose by about 0.5 per cent against the dollar. The market priced about a 60 per cent chance of a rise in July, and about 4 per cent for the peak of the rate.
 

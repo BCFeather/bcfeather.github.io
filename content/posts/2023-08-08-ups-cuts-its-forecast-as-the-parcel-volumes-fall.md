@@ -12,7 +12,7 @@ Volumes were the problem. The average daily volume fell by about 9.4 per cent, a
 
 Costs came down. The company has cut about 12,000 jobs this year, and the one of the aircraft fleet by about 10 per cent. The operating expenses fell by about 12 per cent, and the productivity was the best in the quarter since 2020. The company said the capital spending would be about 5 billion dollars this year, down from about 5.4.
 
-Labor talks are the risk. The contract with the Teamsters covers about 340,000 workers, and the union has threatened a strike at the end of July. The company said it had reached a tentative agreement, and the cost of it would be about 3 per cent of the wage bill. The agreement includes the wage rises of about 4 per cent a year, and the part-time pay would reach about 21 dollars an hour.
+labour talks are the risk. The contract with the Teamsters covers about 340,000 workers, and the union has threatened a strike at the end of July. The company said it had reached a tentative agreement, and the cost of it would be about 3 per cent of the wage bill. The agreement includes the wage rises of about 4 per cent a year, and the part-time pay would reach about 21 dollars an hour.
 
 Its guidance was cut. The company expects the revenue of about 93 billion dollars for the year, down from 97, and the operating margin of about 11.8 per cent. The market had expected about 95 billion. The company said the peak season would be weaker than a year ago, and the surcharges would be lower. The company said the dividend would rise by about 5 per cent, and the buyback was about 3 billion dollars.
 

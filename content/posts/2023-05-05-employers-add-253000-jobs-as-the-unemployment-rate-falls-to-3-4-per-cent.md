@@ -6,7 +6,7 @@ categories: [economy]
 description: "The April payrolls beat the forecast and the jobless rate matched the lowest since 1969, while the wage growth rose by 4.4 per cent over the year."
 ---
 
-American employers added 253,000 jobs in April, above the forecast of about 180,000 and a faster pace than the winter. The unemployment rate fell to 3.4 per cent from 3.5, which matches the low of January and the lowest reading since 1969. The labor force participation held at 62.6 per cent. The measure of the prime-age participation was about 83.3 per cent, which is the highest since 2008.
+American employers added 253,000 jobs in April, above the forecast of about 180,000 and a faster pace than the winter. The unemployment rate fell to 3.4 per cent from 3.5, which matches the low of January and the lowest reading since 1969. The labour force participation held at 62.6 per cent. The measure of the prime-age participation was about 83.3 per cent, which is the highest since 2008.
 
 Revisions took away the strength of the winter. The jobs created in February and March were cut by about 149,000, which brings the three-month average to about 222,000. The pattern of the overstated winter has been consistent since the turn of the year, and the statisticians have been correcting it month by month. The statisticians have also been adjusting the seasonal factors, and the spring revisions have been larger than usual for three years.
 

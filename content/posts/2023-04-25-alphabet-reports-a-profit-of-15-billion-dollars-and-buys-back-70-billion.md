@@ -6,7 +6,7 @@ categories: [business]
 description: "The search business held the revenue while the cloud narrowed its loss, and the company announced a buyback that lifted the shares."
 ---
 
-Alphabet reported a revenue of 69.7 billion dollars for the quarter to March, up 3 per cent, and a profit of 15.1 billion. The shares rose about 4 per cent after the close. The company also authorized a buyback of up to 70 billion dollars. The earnings per share of 1.17 dollars were above the forecast of 1.09, and the operating margin rose to about 25 per cent from 22. The free cash flow was about 9.5 billion, and the capital spending fell by about 20 per cent as the company slowed the data center build.
+Alphabet reported a revenue of 69.7 billion dollars for the quarter to March, up 3 per cent, and a profit of 15.1 billion. The shares rose about 4 per cent after the close. The company also authorized a buyback of up to 70 billion dollars. The earnings per share of 1.17 dollars were above the forecast of 1.09, and the operating margin rose to about 25 per cent from 22. The free cash flow was about 9.5 billion, and the capital spending fell by about 20 per cent as the company slowed the data centre build.
 
 Search did the work. The revenue from the search and the other properties was 40.4 billion, up about 2 per cent, and the paid clicks grew while the cost per click fell. The advertisers have been buying the cheaper formats, and the volume has carried the line. The retail and the travel were the categories that grew, and the finance and the crypto advertising kept shrinking. The other bets, which include the autonomous driving unit, reported 288 million dollars of revenue and a loss of about 1.2 billion.
 

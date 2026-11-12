@@ -6,7 +6,7 @@ categories: [economy]
 description: "The March payrolls report showed a slower pace of hiring than the winter, with the wage growth easing to 4.2 per cent and the participation rising."
 ---
 
-American employers added 236,000 jobs in March, down from 326,000 in February and close to the pace that the economists had expected. The unemployment rate fell to 3.5 per cent from 3.6, and the number of the unemployed was about 5.8 million. The labor force participation rose to 62.6 per cent. The household survey added about 577,000 jobs in March, which is a bigger number than the payroll one and the reason the unemployment rate fell.
+American employers added 236,000 jobs in March, down from 326,000 in February and close to the pace that the economists had expected. The unemployment rate fell to 3.5 per cent from 3.6, and the number of the unemployed was about 5.8 million. The labour force participation rose to 62.6 per cent. The household survey added about 577,000 jobs in March, which is a bigger number than the payroll one and the reason the unemployment rate fell.
 
 Details were cooler than the headline. The hiring in the health care and the leisure continued, and the construction added about 20,000 jobs despite the higher rates. The temporary help services shed jobs for a sixth month, which is usually the first sign of a slowdown in the demand. The mining and the logging added about 4,000 jobs, and the government shed about 1,000 as the local hiring slowed.
 
@@ -14,6 +14,6 @@ Wage growth eased. Average hourly earnings rose by 0.3 per cent on the month and
 
 Revisions subtracted about 17,000 jobs from the two previous months. The three-month average is now about 345,000, which is still above the level that the Fed considers consistent with the stable prices. The gap between the two numbers is the argument in the committee room. The revisions were the third in a row to lower the winter, and the pattern suggests the peak was in January.
 
-Participation among the prime-age workers rose to the highest since 2007. The women between 25 and 54 returned to the labor force at the fastest rate in the recovery, and the immigrants have filled the openings in the services. A labor force that is growing is a wage pressure that is smaller. The overall participation is still about half a point below the level of February 2020, and that gap is the one the Fed watches.
+Participation among the prime-age workers rose to the highest since 2007. The women between 25 and 54 returned to the labour force at the fastest rate in the recovery, and the immigrants have filled the openings in the services. A labour force that is growing is a wage pressure that is smaller. The overall participation is still about half a point below the level of February 2020, and that gap is the one the Fed watches.
 
 A report that keeps the case for another quarter-point rise in May alive is a report that the committee will read closely. Traders moved the odds of a pause slightly lower after the release, and the two-year yield rose about 10 basis points. A job market that adds 236,000 jobs is a job market that is slowing rather than cracking. The traders priced about a 65 per cent chance of a quarter-point rise in May, and the next report in early May will decide it.
