@@ -1,6 +1,6 @@
 ---
 slug: "the-first-warm-week-and-the-walk-down-to-the-river"
-title: "First warm week, and the walk down to the river"
+title: "First warm week brings the walk down to the river"
 date: "2022-03-19T20:10:00+08:00"
 categories: [essay]
 description: "Six days of sunshine in a city that had forgotten what it felt like, and a note on reading the news from a bench beside a river that does not care."

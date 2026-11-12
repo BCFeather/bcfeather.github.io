@@ -1,6 +1,6 @@
 ---
 slug: "the-queue-on-the-thames-five-miles-of-people"
-title: "Five miles of queue on the Thames wait to walk past a coffin"
+title: "Five-mile queue on the Thames waits to walk past a coffin"
 date: "2022-09-16T23:30:00+08:00"
 categories: [essay]
 description: "A crowd that has been standing for twelve hours for a few seconds in a hall, and the small economy that grew up around it."

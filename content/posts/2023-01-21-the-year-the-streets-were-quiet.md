@@ -1,6 +1,6 @@
 ---
 slug: "the-year-the-streets-were-quiet"
-title: "Year the streets were quiet"
+title: "Streets went quieter than childhood as the fireworks moved out"
 date: "2023-01-21T23:30:00+08:00"
 categories: [essay]
 description: "A note on the last day of the lunar year, on a fifteenth birthday, and on a city that had stopped letting off fireworks."

@@ -1,6 +1,6 @@
 ---
 slug: "the-last-day-of-term"
-title: "Last day of term, and the school gates in July"
+title: "Term ends at the school gates in July"
 date: "2022-07-31T18:20:00+08:00"
 categories: [essay]
 description: "A walk past a school on the afternoon the term ends, and what the noise of the yard says about the year that has just finished."
