@@ -1,6 +1,6 @@
 ---
 slug: "the-last-day-of-january"
-title: "The last day of January"
+title: "Last day of January"
 date: "2023-01-31T22:40:00+08:00"
 categories: [essay]
 description: "A note on the last day of the winter holiday, on the return to school in the final year, and on a countdown that had begun to be visible in ordinary things."

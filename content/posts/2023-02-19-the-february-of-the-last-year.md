@@ -1,6 +1,6 @@
 ---
 slug: "the-february-of-the-last-year"
-title: "The February of the last year"
+title: "February of the last year"
 date: "2023-02-19T22:30:00+08:00"
 categories: [essay]
 description: "A note on the February of the final year at Chizhou No. 10 Middle School, when the countdown on the board passed a hundred and fifteen days and the winter refused to end on schedule."

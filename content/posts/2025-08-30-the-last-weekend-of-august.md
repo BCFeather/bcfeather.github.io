@@ -1,6 +1,6 @@
 ---
 slug: "the-last-weekend-of-august"
-title: "The last weekend of August"
+title: "Last weekend of August"
 date: "2025-08-30T21:50:00+08:00"
 categories: [essay]
 description: "The final weekend of the month is the one where the season changes in the space of two days. The evenings are cool, the light is different, and the city goes back to the shape it has for the other ten months."

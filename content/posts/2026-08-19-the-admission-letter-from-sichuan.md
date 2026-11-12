@@ -1,6 +1,6 @@
 ---
 slug: "the-admission-letter-from-sichuan"
-title: "The admission letter from Sichuan"
+title: "Admission letter from Sichuan"
 date: "2026-08-19T12:47:00+08:00"
 categories: [essay]
 description: "In mid-August the letter came: the College of Life Sciences at Sichuan University, in Chengdu, twelve hundred kilometres from my home city of Chizhou. A short essay on what an admission letter carries when it crosses half the country."

@@ -1,6 +1,6 @@
 ---
 slug: "the-third-sunday-of-june"
-title: "The third Sunday of June"
+title: "Third Sunday of June"
 date: "2025-06-15T20:05:00+08:00"
 categories: [essay]
 description: "Father's Day arrived with a smaller shop window than Mother's Day and the same forwarded messages. A short piece on a holiday that nobody quite knows how to spend, and on the gifts that get bought because the alternative is worse."

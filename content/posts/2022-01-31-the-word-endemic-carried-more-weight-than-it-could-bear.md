@@ -1,6 +1,6 @@
 ---
 slug: "the-word-endemic-carried-more-weight-than-it-could-bear"
-title: "The word endemic carried more weight than it could bear this month"
+title: "Endemic carried more weight than a word could bear this month"
 date: "2022-01-31T23:30:00+08:00"
 categories: [essay]
 description: "Politicians and newspapers spent January using a term from epidemiology as a synonym for over, and the term has never meant that."

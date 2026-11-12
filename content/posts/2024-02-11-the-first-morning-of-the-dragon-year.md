@@ -1,6 +1,6 @@
 ---
 slug: "the-first-morning-of-the-dragon-year"
-title: "The first morning of the dragon year"
+title: "First morning of the dragon year"
 date: "2024-02-11T20:48:00+08:00"
 categories: [essay]
 description: "Notes on the morning after the Spring Festival in a household where the firecrackers are over, the red paper is swept up, and the day has nothing to do but be quiet."

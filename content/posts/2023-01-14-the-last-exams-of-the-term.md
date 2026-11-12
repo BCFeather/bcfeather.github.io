@@ -1,6 +1,6 @@
 ---
 slug: "the-last-exams-of-the-term"
-title: "The last exams of the term"
+title: "Last exams of the term"
 date: "2023-01-14T22:20:00+08:00"
 categories: [essay]
 description: "A note on the January examinations of the final year at Chizhou No. 10 Middle School, and on the particular cold of a classroom in the middle of winter."

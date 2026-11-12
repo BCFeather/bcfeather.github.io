@@ -1,6 +1,6 @@
 ---
 slug: "the-last-quiet-week-of-the-winter-holidays"
-title: "The last quiet week of the winter holidays"
+title: "Winter holidays end with one quiet week"
 date: "2022-02-12T21:10:00+08:00"
 categories: [essay]
 description: "A fortnight of cold mornings, unfinished reading and the sense that a term is waiting on the other side of the holiday."

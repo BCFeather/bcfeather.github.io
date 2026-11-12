@@ -1,6 +1,6 @@
 ---
 slug: "the-week-the-blossom-comes-and-the-city-goes-out-to-see-it"
-title: "The week the blossom comes and the city goes out to see it"
+title: "Week the blossom comes, and the city goes out to see it"
 date: "2025-03-26T20:00:00+08:00"
 categories: [essay]
 description: "The cherry trees in a handful of parks and on one university campus flower for about a week at the end of March, and the city reorganizes itself around the forecast. The blossom is a fortnight of crowds, a booking system and a very old habit of looking at flowers."

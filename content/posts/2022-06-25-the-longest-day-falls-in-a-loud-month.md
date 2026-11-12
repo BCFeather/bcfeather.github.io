@@ -1,6 +1,6 @@
 ---
 slug: "the-longest-day-falls-in-a-loud-month"
-title: "The longest day falls in a loud month"
+title: "Longest day falls in a loud month"
 date: "2022-06-25T23:55:00+08:00"
 categories: [essay]
 description: "At the solstice the light lasts longest and the news arrives fastest, and the two habits of June, staying up and keeping up, are hard to tell apart."

@@ -1,6 +1,6 @@
 ---
 slug: "the-last-april-before-the-exams"
-title: "The last April before the exams"
+title: "Last April before the exams"
 date: "2023-04-09T22:30:00+08:00"
 categories: [essay]
 description: "A note on the April of the final year at Chizhou No. 10 Middle School, when the spring arrived on the same schedule as the revision and the countdown on the blackboard began to be written in a different colour."

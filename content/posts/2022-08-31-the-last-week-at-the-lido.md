@@ -1,6 +1,6 @@
 ---
 slug: "the-last-week-at-the-lido"
-title: "The last week at the lido, when the water is still warm and the light has gone"
+title: "Last week at the lido, when the water is still warm and the light has gone"
 date: "2022-08-31T23:30:00+08:00"
 categories: [essay]
 description: "A municipal outdoor pool closes for the season, and the people who swim there every summer say goodbye in the way that they do."

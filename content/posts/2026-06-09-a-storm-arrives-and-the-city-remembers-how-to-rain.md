@@ -1,6 +1,6 @@
 ---
 slug: "a-storm-arrives-and-the-city-remembers-how-to-rain"
-title: "A storm arrives, and the city remembers how to rain"
+title: "Storm arrives, and the city remembers how to rain"
 date: "2026-06-09T20:42:00+08:00"
 categories: [essay]
 description: "The first real storm of summer arrives without much warning. A short essay on the city in the hour before the rain, the strange communal silence, and the way a downpour resets everything it touches."

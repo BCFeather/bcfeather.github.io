@@ -1,6 +1,6 @@
 ---
 slug: "a-term-measured-in-the-light-after-school"
-title: "A term measured in the light after school"
+title: "Term measured in the light after school"
 date: "2023-11-26T20:30:00+08:00"
 categories: [essay]
 description: "In the last week of November 2023 the first term at Chizhou No. 1 Middle School ended, a term that began in a heat wave and finished with the street lamps along Shengjinhu Road coming on before the last class was out, and with a set of marks that meant something different from the ones in June."

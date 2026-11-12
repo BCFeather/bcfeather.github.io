@@ -1,6 +1,6 @@
 ---
 slug: "the-twenty-days-before-the-new-year"
-title: "The twenty days before the new year"
+title: "Twenty days before the new year"
 date: "2024-01-21T19:26:00+08:00"
 categories: [essay]
 description: "A quiet essay about the last stretch of the lunar year in Chizhou, when the cured meat comes down from the rafters, the shop windows fill with red paper and the town begins the long, patient work of getting ready."

@@ -1,6 +1,6 @@
 ---
 slug: "the-three-days-in-the-middle-of-june"
-title: "The three days in the middle of June"
+title: "Three days in the middle of June"
 date: "2023-06-15T22:40:00+08:00"
 categories: [essay]
 description: "Between 14 and 16 June 2023, the ninth-graders of Chizhou sat the provincial high school entrance examination, or the zhongkao, three days that decide which of the city's schools a child will attend and that end, for most of them, with a walk out of a gate into an ordinary afternoon."

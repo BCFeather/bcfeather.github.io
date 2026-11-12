@@ -1,6 +1,6 @@
 ---
 slug: "the-last-warm-sunday-of-october-and-a-walk-along-the-river"
-title: "The last warm Sunday of October, and a walk along the river"
+title: "October gives one last warm Sunday to the river walk"
 date: "2022-10-23T23:30:00+08:00"
 categories: [essay]
 description: "A clear Sunday in late October, a folding table of mahjong players, and the light that goes an hour before the day does."

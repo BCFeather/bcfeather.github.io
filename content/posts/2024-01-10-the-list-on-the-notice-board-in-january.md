@@ -1,6 +1,6 @@
 ---
 slug: "the-list-on-the-notice-board-in-january"
-title: "The list on the notice board in January"
+title: "List on the notice board in January"
 date: "2024-01-10T20:10:00+08:00"
 categories: [essay]
 description: "In January 2024 the first term at Chizhou No. 1 Middle School ended with a placement examination, a choice of physics, chemistry and biology, and a list on the notice board that put me in an ordinary class rather than one of the key ones."

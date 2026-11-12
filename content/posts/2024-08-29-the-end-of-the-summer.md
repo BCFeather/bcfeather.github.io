@@ -1,6 +1,6 @@
 ---
 slug: "the-end-of-the-summer"
-title: "The end of the summer"
+title: "End of the summer"
 date: "2024-08-29T18:33:00+08:00"
 categories: [essay]
 description: "A quiet essay about the last week of August in Chizhou, when the heat still holds, the cicadas change their note, and the second year of high school begins to feel real."

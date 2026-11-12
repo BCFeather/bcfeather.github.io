@@ -1,6 +1,6 @@
 ---
 slug: "a-new-school-year-begins"
-title: "A new school year begins"
+title: "New school year begins"
 date: "2025-09-01T20:40:00+08:00"
 categories: [essay]
 description: "On the first of September the school gates open again, and the country's mornings change: the streets fill with backpacks, the crossings find their wardens, and the rhythm of millions of families resets to the bell. A short essay on the oldest recurring transition in modern life, and the quiet work it takes to pull off."

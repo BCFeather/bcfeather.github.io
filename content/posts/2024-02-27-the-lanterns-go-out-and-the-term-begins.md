@@ -1,6 +1,6 @@
 ---
 slug: "the-lanterns-go-out-and-the-term-begins"
-title: "The lanterns go out and the term begins"
+title: "Lanterns go out and the term begins"
 date: "2024-02-27T20:38:00+08:00"
 categories: [essay]
 description: "The fifteenth day of the first lunar month marks the end of the festival, and in a small city on the Yangtze the last evening of lanterns is also the last evening before school starts again."

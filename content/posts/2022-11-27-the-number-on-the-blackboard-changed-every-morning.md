@@ -1,6 +1,6 @@
 ---
 slug: "the-number-on-the-blackboard-changed-every-morning"
-title: "The number on the blackboard changed every morning that November"
+title: "Number on the blackboard changed every morning that November"
 date: "2022-11-27T21:40:00+08:00"
 categories: [essay]
 description: "Late November in the last year of middle school, when the number on the board was changed every morning and the walk home happened in the dark."

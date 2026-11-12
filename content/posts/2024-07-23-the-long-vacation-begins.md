@@ -1,6 +1,6 @@
 ---
 slug: "the-long-vacation-begins"
-title: "The long vacation begins"
+title: "Long vacation begins"
 date: "2024-07-23T17:26:00+08:00"
 categories: [essay]
 description: "A quiet essay about the first days of the summer vacation in Chizhou, on the Yangtze: no alarm clock, bicycles before the heat, a half-forgotten bookshop, and evenings on the river embankment."

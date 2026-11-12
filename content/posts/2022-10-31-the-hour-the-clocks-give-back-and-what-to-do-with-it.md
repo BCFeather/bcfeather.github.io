@@ -1,6 +1,6 @@
 ---
 slug: "the-hour-the-clocks-give-back-and-what-to-do-with-it"
-title: "The hour the clocks give back, and what to do with it"
+title: "Clocks give back an hour, and the question is what to do with it"
 date: "2022-10-31T23:30:00+08:00"
 categories: [essay]
 description: "European summer time ends, an hour is handed back, and the last day of October is spent deciding what it was for."

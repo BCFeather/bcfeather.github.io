@@ -1,6 +1,6 @@
 ---
 slug: "the-first-long-weekend-of-the-year"
-title: "The first long weekend of the year"
+title: "First long weekend of the year"
 date: "2025-05-02T18:40:00+08:00"
 categories: [essay]
 description: "The Labour Day holiday gives the country five days off in a row, and the way people spend them says more about the year than the calendar does. A short essay on queues, hotels and the peculiar arithmetic of a break that everyone takes at once."

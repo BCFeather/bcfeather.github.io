@@ -1,6 +1,6 @@
 ---
 slug: "the-last-night-of-a-year-in-a-rented-room"
-title: "The last night of a year in a rented room"
+title: "Last night of a year in a rented room"
 date: "2023-12-31T22:10:00+08:00"
 categories: [essay]
 description: "On 31 December 2023 the year ended in the flat beside Chizhou No. 1 Middle School, with a term of marks and a new class waiting in February, and with the sound of fireworks coming across Shengjinhu Road from the sports ground."

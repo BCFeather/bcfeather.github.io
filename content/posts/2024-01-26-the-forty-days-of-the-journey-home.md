@@ -1,6 +1,6 @@
 ---
 slug: "the-forty-days-of-the-journey-home"
-title: "The forty days of the journey home"
+title: "Forty days of the journey home"
 date: "2024-01-26T20:58:00+08:00"
 categories: [essay]
 description: "A quiet essay about the first days of the spring travel season in China, when the stations fill with people carrying the year's wages in plastic bags and the country remembers how to move several hundred million of its citizens at once."

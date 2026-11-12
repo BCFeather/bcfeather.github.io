@@ -1,6 +1,6 @@
 ---
 slug: "a-new-term-arrives-with-small-rituals"
-title: "A new term arrives with small rituals"
+title: "New term arrives with small rituals"
 date: "2026-09-07T08:23:00+08:00"
 categories: [essay]
 description: "The first week back is not really about the syllabus. It is a week of small rituals, the purchase of a notebook, the choosing of a seat, the negotiation of a timetable that has not yet hardened into habit. A short essay on the performative seriousness of starting again."

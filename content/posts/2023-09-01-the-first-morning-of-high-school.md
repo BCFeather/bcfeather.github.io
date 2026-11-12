@@ -1,6 +1,6 @@
 ---
 slug: "the-first-morning-of-high-school"
-title: "The first morning of high school"
+title: "First morning of high school"
 date: "2023-09-01T21:20:00+08:00"
 categories: [essay]
 description: "In late August the new first-years arrived at Chizhou No. 1 Middle School, a morning of name lists on notice boards, uniforms bought one size too small, and a building that seemed much bigger than the school they had left in June."

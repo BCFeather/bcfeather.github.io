@@ -1,6 +1,6 @@
 ---
 slug: "the-last-week-of-the-term"
-title: "The last week of the term"
+title: "Last week of the term"
 date: "2024-01-13T20:47:00+08:00"
 categories: [essay]
 description: "A quiet essay about the revision week before the January examinations in Chizhou, when the classroom fills with the sound of paper and the winter holidays seem both near enough to touch and far enough to be doubted."

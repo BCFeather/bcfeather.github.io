@@ -1,6 +1,6 @@
 ---
 slug: "the-first-term-away-from-home"
-title: "The first term away from home"
+title: "First term away from home"
 date: "2026-11-03T01:36:00+08:00"
 categories: [essay]
 description: "Three months into my first term at Sichuan University in Chengdu, the novelty has worn off and the ordinary days have begun. A short essay on dormitories, dialects, and the slow realization of what leaving Chizhou actually is."

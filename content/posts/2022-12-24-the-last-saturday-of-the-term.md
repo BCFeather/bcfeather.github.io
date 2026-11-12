@@ -1,6 +1,6 @@
 ---
 slug: "the-last-saturday-of-the-term"
-title: "The last Saturday of the term, with a short paper and a class photograph"
+title: "Last Saturday of the term brings a short paper and a class photograph"
 date: "2022-12-24T21:00:00+08:00"
 categories: [essay]
 description: "A last school Saturday before the holidays, with a short paper, a class photograph and a building that empties room by room."

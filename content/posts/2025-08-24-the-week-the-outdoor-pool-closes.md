@@ -1,6 +1,6 @@
 ---
 slug: "the-week-the-outdoor-pool-closes"
-title: "The week the outdoor pool closes"
+title: "Week the outdoor pool closes"
 date: "2025-08-24T20:05:00+08:00"
 categories: [essay]
 description: "Municipal outdoor pools shut at the end of August, whatever the temperature is doing. The closing date is a staffing decision dressed as a seasonal one, and the people who swim every morning notice the difference for a week."

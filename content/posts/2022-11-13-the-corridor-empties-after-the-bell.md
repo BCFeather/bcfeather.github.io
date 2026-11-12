@@ -1,6 +1,6 @@
 ---
 slug: "the-corridor-empties-after-the-bell"
-title: "The corridor empties after the bell on an autumn evening at school"
+title: "Corridor empties after the bell on an autumn evening at school"
 date: "2022-11-13T21:30:00+08:00"
 categories: [essay]
 description: "An autumn evening in the last year of middle school, with the mid-term papers still in a bag and the corridor slowly emptying."

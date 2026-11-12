@@ -1,6 +1,6 @@
 ---
 slug: "the-drill-and-the-countdown"
-title: "The drill and the countdown"
+title: "Drill and the countdown"
 date: "2023-03-11T22:40:00+08:00"
 categories: [essay]
 description: "A note on the March of the final year at Chizhou No. 10 Middle School, when the countdown on the board reached ninety-five days and the morning drill began to feel like the last of something."

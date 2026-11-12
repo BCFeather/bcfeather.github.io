@@ -1,6 +1,6 @@
 ---
 slug: "the-library-in-the-last-week-of-july"
-title: "The library in the last week of July"
+title: "Library in the last week of July"
 date: "2025-07-26T19:15:00+08:00"
 categories: [essay]
 description: "By the end of July the library belongs to the people preparing for something. The rooms are full, the seats are contested, and the etiquette of the reading room is one of the few social contracts that everyone still honours without a written rule."

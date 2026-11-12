@@ -1,6 +1,6 @@
 ---
 slug: "the-last-year-begins"
-title: "The last year begins"
+title: "Last year begins"
 date: "2025-09-05T21:38:00+08:00"
 categories: [essay]
 description: "In September the classrooms of Chizhou fill again, and for the oldest students the countdown starts in earnest. A short essay on the first month of the final year of school, on countdown boards and morning exercises, and on the strange discipline of living by a deadline you did not choose."

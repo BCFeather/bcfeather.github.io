@@ -1,6 +1,6 @@
 ---
 slug: "the-second-sunday-of-may"
-title: "The second Sunday of May"
+title: "Second Sunday of May"
 date: "2025-05-12T20:15:00+08:00"
 categories: [essay]
 description: "Mother's Day arrived on the eleventh of May this year, carried by the same florists and the same group chats as every year. A short essay on what a fixed date does to a feeling that is otherwise ungovernable by the calendar."

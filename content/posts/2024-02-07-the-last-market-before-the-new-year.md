@@ -1,6 +1,6 @@
 ---
 slug: "the-last-market-before-the-new-year"
-title: "The last market before the new year"
+title: "Last market before the new year"
 date: "2024-02-07T20:12:00+08:00"
 categories: [essay]
 description: "A walk through the last street market before the Spring Festival in a small city on the Yangtze, where the stalls sell out early and the bargaining gets shorter as the afternoon goes on."

@@ -1,6 +1,6 @@
 ---
 slug: "the-start-of-autumn-arrives-while-the-heat-continues"
-title: "The start of autumn arrives while the heat continues"
+title: "Start of autumn arrives while the heat continues"
 date: "2025-08-07T20:50:00+08:00"
 categories: [essay]
 description: "The calendar says autumn begins on the seventh of August, and the thermometer disagrees for another three weeks. The gap between the two is the most reliable thing about this season, and it has its own traditions, its own diet and its own small disappointments."
