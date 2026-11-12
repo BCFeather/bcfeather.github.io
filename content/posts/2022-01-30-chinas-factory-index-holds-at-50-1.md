@@ -1,6 +1,6 @@
 ---
 slug: "chinas-factory-index-holds-at-50-1"
-title: "Chinas factory index holds at 50.1"
+title: "China's factory index holds at 50.1"
 date: "2022-01-30T09:20:00+08:00"
 categories: [economy]
 description: "The survey on 30 January showed the sector barely growing before the holiday."

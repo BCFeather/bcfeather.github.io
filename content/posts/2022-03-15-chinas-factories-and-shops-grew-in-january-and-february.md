@@ -1,6 +1,6 @@
 ---
 slug: chinas-factories-and-shops-grew-in-january-and-february
-title: "Chinas factories and shops grew in January and February"
+title: "China's factories and shops grew in January and February"
 date: "2022-03-15T09:20:00+08:00"
 categories: [economy]
 description: "The figures on 15 March showed output rising 7.5 per cent."

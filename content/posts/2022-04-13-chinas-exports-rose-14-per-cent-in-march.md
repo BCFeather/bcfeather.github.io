@@ -1,6 +1,6 @@
 ---
 slug: chinas-exports-rose-14-per-cent-in-march
-title: "Chinas exports rose 14 per cent in March"
+title: "China's exports rose 14 per cent in March"
 date: "2022-04-13T09:20:00+08:00"
 categories: [economy]
 description: "The figures on 13 April showed trade holding up despite the lockdowns."

@@ -1,6 +1,6 @@
 ---
 slug: "chinas-consumer-prices-rise-0-9-per-cent"
-title: "Chinas consumer prices rise 0.9 per cent"
+title: "China's consumer prices rise 0.9 per cent"
 date: "2022-02-16T09:20:00+08:00"
 categories: [economy]
 description: "The figures on 16 February showed inflation staying low as pork prices fell."

@@ -1,6 +1,6 @@
 ---
 slug: chinas-exports-rose-18-per-cent-in-july
-title: "Chinas exports rose 18 per cent in July"
+title: "China's exports rose 18 per cent in July"
 date: "2022-08-08T09:20:00+08:00"
 categories: [economy]
 description: "The figures on 8 August beat forecasts as the ports cleared their backlog."
