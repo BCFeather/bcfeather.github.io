@@ -2,7 +2,7 @@
 slug: "dartmouths-provost-asked-the-machine-how-much-it-had-written"
 title: "Dartmouth's provost asked the machine how much it had written"
 date: "2026-11-06T09:40:00+08:00"
-categories: [essay]
+categories: [news]
 description: "Dartmouth's provost resigned on 28 October after an inquiry found he had used AI in his academic papers and public writing without adequate disclosure, months after publishing an article urging universities to take AI cheating seriously. The episode is less a scandal about one man than a demonstration of how thin the disclosure rules still are."
 ---
 
