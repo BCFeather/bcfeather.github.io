@@ -1,0 +1,19 @@
+---
+slug: jensen-huang-resigns-as-nvidia-chief-after-33-years
+title: "Jensen Huang resigns as NVIDIA chief after 33 years"
+date: "2026-11-12T09:20:00+08:00"
+categories: [business]
+description: "The board named the finance chief as interim chief executive and appointed its first chair on 12 November."
+---
+
+NVIDIA's board announced on 12 November that Jensen Huang had resigned as president, chief executive and a member of the board, effective immediately. Colette Kress, the executive vice president and chief financial officer, will serve as interim chief executive while the directors search for a permanent successor. Harvey C. Jones, the former chief executive of Synopsys, became the board's first chair. The announcement gave no reason for the resignation, and NVIDIA thanked its founder for 33 years of work without saying whether he would keep any role at the company. The directors said the quarterly results for fiscal 2027 would still be reported on 17 November.
+
+Kress has run NVIDIA's finances since she joined in September 2013, and she will keep the chief financial officer's post while she holds the interim one. Before NVIDIA she spent almost 25 years in finance at technology companies, among them Cisco and Microsoft. The board said it would consider candidates from inside and outside the company, and gave no timetable for the search. Her appointment leaves the finance function and the chief executive's office in the same hands at the moment the company reports its quarter, an arrangement the directors called temporary.
+
+Jones takes a chair that NVIDIA had never had. He has been an entrepreneur, a technology executive and a venture investor for more than 30 years, and he led Synopsys as chief executive and later as executive chairman. In a statement he said Kress had helped lead NVIDIA through a period of extraordinary growth and understood its business, customers, operations and financial position. He said the board had full confidence in her and in the leadership team, and that he expected operations, customer commitments and the product roadmap to continue without interruption.
+
+Days after that disclosure came the resignation, and the order of the two events is what the company must now explain. On 8 November Huang wrote to employees that he had been unfaithful to his wife, and the board answered the same day with an independent review. Reporting since then has described the inquiry as an examination of whether Huang had been the target of a foreign intelligence operation, and the directors said at the outset that they had no reason to believe that national security or company secrets had been compromised. This week the independent directors retained Joon H. Kim, a former acting United States attorney, and the law firm Wachtell, Lipton, Rosen and Katz to conduct the inquiry, and Huang had undertaken to cooperate with it.
+
+Four days ago the same directors said they retained their confidence in Huang and in his leadership team. Nothing in that statement suggested his position was in question, and it promised more when the review could report. The speed of the reversal is the part that will be studied: a founder who had run the company since 1993, and who had become the public face of the artificial-intelligence boom, left within a week of the first public disclosure, and the board moved to a chair it had never needed before.
+
+What happens next turns on the search rather than on the resignation. NVIDIA has promised a new generation of systems on an annual rhythm, and its customers have committed to capacity years ahead on the assumption that the roadmap holds. Kress said the company's strength had always come from its people, and that she and the leadership team were committed to building on the foundation Huang had created. Whether an interim chief executive can hold that rhythm through a quarterly report and a search of unknown length is the question the directors now have to answer.
