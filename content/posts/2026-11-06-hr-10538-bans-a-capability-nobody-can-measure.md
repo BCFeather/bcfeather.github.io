@@ -2,7 +2,7 @@
 slug: "hr-10538-bans-a-capability-nobody-can-measure"
 title: "H.R. 10538 bans a capability nobody can measure and jails those who build it"
 date: "2026-11-06T22:20:00+08:00"
-categories: [essay]
+categories: [news]
 description: "Democrats took both chambers on 3 November, and within a day a co-sponsor of the Ban Artificial Superintelligence Act named a pause and a ban as the party's first order of business. The bill's ceiling is a compute number and its target is a capability nobody can test, which leaves the prison terms as the most concrete part of it."
 ---
 
