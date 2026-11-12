@@ -1,7 +1,7 @@
 ---
 slug: jensen-huang-resigns-as-nvidia-chief-after-33-years
 title: "Jensen Huang resigns as NVIDIA chief after 33 years"
-date: "2026-11-12T09:20:00+08:00"
+date: "2026-11-12T22:20:00+08:00"
 categories: [business]
 description: "The board named the finance chief as interim chief executive and appointed its first chair on 12 November."
 ---
