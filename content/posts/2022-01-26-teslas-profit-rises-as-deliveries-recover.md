@@ -1,6 +1,6 @@
 ---
 slug: "teslas-profit-rises-as-deliveries-recover"
-title: "Teslas profit rises as deliveries recover"
+title: "Tesla's profit rises as deliveries recover"
 date: "2022-01-26T09:20:00+08:00"
 categories: [business]
 description: "The company reported on 26 January a record quarter as prices held."

@@ -1,6 +1,6 @@
 ---
 slug: samsungs-profit-rose-50-per-cent-in-the-first-quarter
-title: "Samsungs profit rose 50 per cent in the first quarter"
+title: "Samsung's profit rose 50 per cent in the first quarter"
 date: "2022-04-06T09:20:00+08:00"
 categories: [technology]
 description: "The company reported on 6 April its best quarter in four years."

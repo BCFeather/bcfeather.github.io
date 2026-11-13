@@ -1,6 +1,6 @@
 ---
 slug: "microsofts-cloud-growth-slows"
-title: "Microsofts cloud growth slows"
+title: "Microsoft's cloud growth slows"
 date: "2022-01-25T09:20:00+08:00"
 categories: [technology]
 description: "The company reported on 25 January a 46 per cent rise for Azure."

@@ -1,6 +1,6 @@
 ---
 slug: apples-revenue-rose-9-per-cent-in-the-quarter
-title: "Apples revenue rose 9 per cent in the quarter"
+title: "Apple's revenue rose 9 per cent in the quarter"
 date: "2022-04-28T09:20:00+08:00"
 categories: [technology]
 description: "The company reported on 28 April a record for the March quarter."

@@ -1,6 +1,6 @@
 ---
 slug: microsofts-revenue-rose-18-per-cent-in-the-quarter
-title: "Microsofts revenue rose 18 per cent in the quarter"
+title: "Microsoft's revenue rose 18 per cent in the quarter"
 date: "2022-04-26T09:20:00+08:00"
 categories: [technology]
 description: "The company reported on 26 April strong cloud growth."
