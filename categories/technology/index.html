@@ -1,0 +1,1876 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f7f7">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e">
+  <meta name="viewport" content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"><meta property="og:title" content="Technology">
+  <meta property="og:locale" content="en">
+  <link rel="canonical" href="https://bcfeather.github.io/categories/technology/">
+  <meta property="og:url" content="https://bcfeather.github.io/categories/technology/">
+  <meta property="og:site_name" content="BlogFeather">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Technology">
+  <meta name="twitter:site" content="@CaozheB72170">
+  <title>Technology | BlogFeather</title>
+  <link rel="icon" type="image/png" href="/assets/img/favicons/favicon-96x96.png" sizes="96x96">
+  <link rel="shortcut icon" href="/assets/img/favicons/favicon-96x96.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+  <link rel="stylesheet" href="/assets/css/jekyll-theme-chirpy.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Source+Sans+Pro:wght@400;600;700;900&display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tocbot@4/dist/tocbot.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2/dist/loading-attribute-polyfill.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox@3/dist/css/glightbox.min.css">
+  <script src="/assets/js/dist/theme.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/combine/npm/simple-jekyll-search@1/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2/dist/loading-attribute-polyfill.umd.min.js,npm/glightbox@3/dist/js/glightbox.min.js,npm/clipboard@2/dist/clipboard.min.js,npm/dayjs@1/dayjs.min.js,npm/dayjs@1/locale/en.js,npm/dayjs@1/plugin/relativeTime.js,npm/dayjs@1/plugin/localizedFormat.js"></script>
+  <script defer src="/assets/js/dist/page.min.js"></script>
+  
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+  href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600&display=swap"
+  rel="stylesheet"
+/>
+
+
+<link rel="stylesheet" href="/assets/css/side-today.css?v=1794591087">
+
+<style>
+   
+  @media all and (max-width: 849px){
+    #sidebar-trigger.nav-float{
+      position: fixed !important;
+      top: .5rem;
+      left: .5rem;
+      z-index: 1055;
+      width: 2.25rem;
+      height: 2.25rem;
+      padding: 0;
+      border-radius: 50%;
+      background: var(--main-bg, #fff);
+      border: 1px solid var(--main-border-color, #e9ecef);
+      box-shadow: 0 1px 6px rgba(0, 0, 0, .12);
+    }
+  }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var trigger = document.getElementById('sidebar-trigger');
+    if (!trigger) { return; }
+    function update() {
+      var show = window.innerWidth < 850 && window.scrollY > 64;
+      trigger.classList.toggle('nav-float', show);
+    }
+    update();
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+  });
+</script>
+
+<script>
+  
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var headers = document.querySelectorAll('.card.categories .card-header');
+    Array.prototype.forEach.call(headers, function (head) {
+      var link = head.querySelector('a[href]');
+      var trigger = head.querySelector('.category-trigger');
+      if (!link || !trigger || !trigger.classList.contains('disabled')) { return; }
+      head.style.cursor = 'pointer';
+      head.addEventListener('click', function (ev) {
+        if (ev.target.closest('a')) { return; }
+        window.location.href = link.href;
+      });
+    });
+  });
+</script>
+
+<script>
+  
+
+  (function () {
+    var QUOTES = [
+      ['Verba volant, scripta manent.', 'Latin proverb'],
+      ['Sapere aude.', 'Horace'],
+      ['Nullius in verba.', 'Motto of the Royal Society'],
+      ['Festina lente.', 'Latin proverb'],
+      ['Per aspera ad astra.', 'Latin proverb'],
+      ['Amor fati.', 'Friedrich Nietzsche'],
+      ['Veritas lux mea.', 'Latin motto'],
+      ['Cogito, ergo sum.', 'René Descartes']
+    ];
+
+    function el(tag, cls, text) {
+      var e = document.createElement(tag);
+      if (cls) { e.className = cls; }
+      if (text) { e.textContent = text; }
+      return e;
+    }
+
+    function build(data) {
+      var aside = document.getElementById('panel-wrapper');
+      if (!aside) { return; }
+      var access = aside.querySelector('.access');
+      if (!access || document.getElementById('side-today')) { return; }
+
+      var today = new Date();
+      var day = today.getDate();
+      var mon = today.getMonth() + 1;
+      var year = today.getFullYear();
+
+      var same = [];
+      (data.p || []).forEach(function (p) {
+        var v = Number(p.d);
+        var y = Math.floor(v / 10000);
+        var m = Math.floor((v % 10000) / 100);
+        var dd = v % 100;
+        if (dd === day && m === mon && y < year) {
+          same.push({ p: p, y: y });
+        }
+      });
+      same.sort(function (a, b) { return b.y - a.y; });
+
+      var q = QUOTES[(year * 372 + mon * 31 + day) % QUOTES.length];
+      var panel = el('section', 'side-panel');
+      panel.id = 'side-today';
+      panel.appendChild(el('h2', 'panel-heading', 'Today'));
+      panel.appendChild(el('p', 'side-date', today.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })));
+
+      var bq = el('blockquote', 'side-quote', q[0]);
+      bq.appendChild(el('cite', null, q[1]));
+      panel.appendChild(bq);
+
+      var dayWrap = el('div', 'side-day');
+      if (same.length) {
+        var it = same[0];
+        dayWrap.appendChild(el('p', 'side-label', 'On this day | ' + it.y));
+        var a = el('a', 'side-title', it.p.t);
+        a.href = it.p.u;
+        dayWrap.appendChild(a);
+      } else if (data.p && data.p.length) {
+        var r = data.p[Math.floor(Math.random() * data.p.length)];
+        dayWrap.appendChild(el('p', 'side-label', 'On this day'));
+        var a2 = el('a', 'side-title', 'Nothing filed for this date. Read a random piece');
+        a2.href = r.u;
+        dayWrap.appendChild(a2);
+      }
+      panel.appendChild(dayWrap);
+
+      var meta = (data.n || (data.p || []).length) + ' posts';
+      if (data.a && data.b) {
+        meta += ' | ' + data.a + '–' + data.b;
+      }
+      if (data.c) {
+        meta += ' | ' + data.c + ' categories';
+      }
+      panel.appendChild(el('p', 'side-meta', meta));
+
+      access.appendChild(panel);
+    }
+
+    function load() {
+      if (window.innerWidth < 1200) { return; }
+      if (!document.querySelector('#panel-wrapper .access')) { return; }
+      fetch('/assets/data/posts-index.json')
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .then(function (data) { if (data) { build(data); } })
+        .catch(function () {});
+    }
+
+    
+
+    function schedule() {
+      if ('requestIdleCallback' in window) {
+        window.requestIdleCallback(load, { timeout: 2500 });
+      } else {
+        window.setTimeout(load, 1200);
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', schedule);
+    } else {
+      schedule();
+    }
+  })();
+</script>
+</head>
+
+  <body>
+    <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
+  <header class="profile-wrapper">
+    <a href="/" id="avatar" class="rounded-circle">
+      <img src="https://github.com/BCFeather.png" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
+    </a>
+    <a class="site-title d-block" href="/">BlogFeather</a>
+    <p class="site-subtitle fst-italic mb-0">Your view also matters.</p>
+  </header>
+  <nav class="flex-column flex-grow-1 w-100 ps-0">
+    <ul class="nav">
+      <li class="nav-item">
+        <a href="/" class="nav-link"><i class="fa-fw fas fa-home"></i><span>HOME</span></a>
+      </li>
+      
+      <li class="nav-item">
+        <a href="/categories/" class="nav-link"><i class="fa-fw fas fa-stream"></i><span>CATEGORIES</span></a>
+      </li>
+      <li class="nav-item">
+        <a href="/archives/" class="nav-link"><i class="fa-fw fas fa-archive"></i><span>ARCHIVES</span></a>
+      </li>
+      <li class="nav-item">
+        <a href="/about/" class="nav-link"><i class="fa-fw fas fa-info-circle"></i><span>ABOUT</span></a>
+      </li>
+      <li class="nav-item">
+        <a href="/faq/" class="nav-link"><i class="fa-fw fas fa-circle-question"></i><span>FAQ</span></a>
+      </li>
+    </ul>
+  </nav>
+  <div class="sidebar-bottom d-flex flex-wrap align-items-center w-100">
+    <div class="btn-group dropup">
+      <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle" data-bs-toggle="dropdown">
+        <i class="fa-regular fa-sun" data-theme-mode="light"></i><i class="fa-regular fa-moon" data-theme-mode="dark"></i><i class="fa-solid fa-display" data-theme-mode="system"></i>
+      </button>
+      <ul class="dropdown-menu rounded-3 mb-1 p-1">
+        <li><button class="dropdown-item d-flex align-items-center" type="button" data-theme-mode="light"><i class="fa-regular fa-sun" data-theme-mode="light"></i>Light</button></li>
+        <li><button class="dropdown-item d-flex align-items-center" type="button" data-theme-mode="dark"><i class="fa-regular fa-moon" data-theme-mode="dark"></i>Dark</button></li>
+        <li><button class="dropdown-item d-flex align-items-center" type="button" data-theme-mode="system"><i class="fa-solid fa-display" data-theme-mode="system"></i>System</button></li>
+      </ul>
+    </div>
+    <span class="icon-border"></span>
+    <a href="https://github.com/BCFeather" aria-label="github" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
+    <a href="https://twitter.com/CaozheB72170" aria-label="twitter" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-x-twitter"></i></a>
+    <a href="javascript:void(location.href = 'mailto:' + ['baocz2008','outlook.com'].join('@'))" aria-label="email"><i class="fas fa-envelope"></i></a>
+    <a href="/feed.xml" aria-label="rss"><i class="fas fa-rss"></i></a>
+  </div>
+</aside>
+
+    <div id="main-wrapper" class="d-flex justify-content-center">
+      <div class="container d-flex flex-column px-xxl-5">
+        
+
+
+  
+
+<header id="topbar-wrapper" class="flex-shrink-0" aria-label="Top Bar">
+  <div id="topbar" class="d-flex align-items-center justify-content-between px-lg-3 h-100">
+    <nav id="breadcrumb" aria-label="Breadcrumb">
+      
+        <span><a href="/">Home</a></span>
+        <span><a href="/categories/">Categories</a></span>
+        <span>Technology</span>
+      
+    </nav>
+    <button type="button" id="sidebar-trigger" class="btn btn-link" aria-label="Sidebar">
+      <i class="fas fa-bars fa-fw"></i>
+    </button>
+    <div id="topbar-title">Category</div>
+    <button type="button" id="search-trigger" class="btn btn-link" aria-label="Search">
+      <i class="fas fa-search fa-fw"></i>
+    </button>
+    <search id="search" class="align-items-center ms-3 ms-lg-0">
+      <i class="fas fa-search fa-fw"></i>
+      <input class="form-control" id="search-input" type="search" aria-label="search" autocomplete="off" placeholder="Search...">
+    </search>
+    <button type="button" class="btn btn-link text-decoration-none" id="search-cancel">Cancel</button>
+  </div>
+</header>
+
+        <div class="row flex-grow-1">
+          <main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4">
+            
+
+
+<div id="page-category">
+  <h1 class="ps-lg-2">
+    <i class="far fa-folder-open fa-fw text-muted"></i>
+    technology
+    <span class="lead text-muted ps-2">245</span>
+  </h1>
+  <ul class="content ps-0">
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/microsoft-365-outage-takes-down-outlook-teams-and-copilot-for-hours/">Microsoft 365 outage takes down Outlook, Teams and Copilot for hours</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1794578100" data-df="D MMM YYYY">13 Nov 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/hesai-reports-a-34-per-cent-rise-in-revenue-as-robots-pass-half-its-sales/">Hesai reports a 34 per cent rise in revenue as robots pass half its sales</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1794405300" data-df="D MMM YYYY">11 Nov 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/six-hundred-thousand-h200s-are-waiting-in-hong-kong/">Six hundred thousand H200s are waiting in Hong Kong</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1794048000" data-df="D MMM YYYY">7 Nov 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-script-that-takes-the-adverts-off-the-television/">Stripping the adverts from broadcast television</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1793365200" data-df="D MMM YYYY">30 Oct 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-compiler-that-treats-a-thousand-gpus-as-one-machine/">A thousand GPUs, one machine: inside the compiler</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1793325120" data-df="D MMM YYYY">30 Oct 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/teaching-a-robot-by-correcting-it-not-by-reward/">Teaching a robot by correcting it, not by reward</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1792662240" data-df="D MMM YYYY">22 Oct 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-rack-that-cools-itself-by-boiling/">Boiling is how this rack cools itself</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1792633260" data-df="D MMM YYYY">22 Oct 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/first-electric-container-ship-crosses-the-pacific/">First electric container ship crosses the Pacific</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1791940320" data-df="D MMM YYYY">14 Oct 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/undersea-cables-learn-to-listen/">Undersea cables learn to listen</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1791937140" data-df="D MMM YYYY">14 Oct 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-phone-that-runs-a-seven-billion-parameter-model/">Seven billion parameters, on a phone</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1791080520" data-df="D MMM YYYY">4 Oct 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/repairing-a-satellite-nobody-designed-to-be-visited/">Repairing a satellite nobody designed to be visited</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1790904360" data-df="D MMM YYYY">2 Oct 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/gpt-6-1-sol-brings-flagship-reasoning-at-half-the-price/">GPT-6.1 Sol brings flagship reasoning at half the price</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1790684460" data-df="D MMM YYYY">29 Sep 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/openai-splits-the-difference-with-gpt-6-sol-and-luna/">OpenAI splits the difference with GPT-6 Sol and Luna</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1790155920" data-df="D MMM YYYY">23 Sep 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/chiplets-get-a-test-standard-everybody-can-run/">Chiplets get a test standard everybody can run</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1789604340" data-df="D MMM YYYY">17 Sep 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/inside-the-refusal-circuit-of-a-large-language-model/">Inside the refusal circuit of a large language model</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1789368720" data-df="D MMM YYYY">14 Sep 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apples-first-foldable-iphone-is-here/">Apple&#39;s first foldable iPhone is here</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1789307220" data-df="D MMM YYYY">13 Sep 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/open-weights-get-a-licence-that-means-something/">Open weights get a licence that means something</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1788999960" data-df="D MMM YYYY">10 Sep 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/light-replaces-copper-between-two-racks/">Light replaces copper between two racks</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1788820860" data-df="D MMM YYYY">8 Sep 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/openai-releases-gpt-6-astra-its-most-capable-model-yet/">OpenAI releases GPT-6 Astra, its most capable model yet</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1788484500" data-df="D MMM YYYY">4 Sep 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-browser-that-summarizes-pages-without-the-cloud/">Summaries in the browser, with no cloud in the loop</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1788401640" data-df="D MMM YYYY">3 Sep 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-tandem-solar-cell-crosses-twenty-eight-per-cent/">A tandem solar cell crosses twenty-eight per cent</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1787896320" data-df="D MMM YYYY">28 Aug 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apples-m6-chip-arrives-on-a-two-nanometre-process/">Apple&#39;s M6 chip arrives on a two-nanometre process</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1787797980" data-df="D MMM YYYY">27 Aug 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/two-thousand-humanoid-robots-hold-their-own-olympics/">Two thousand humanoid robots hold their own Olympics</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1787483820" data-df="D MMM YYYY">23 Aug 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/teach-a-robot-a-task-from-a-single-video/">Teach a robot a task from a single video</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1787383260" data-df="D MMM YYYY">22 Aug 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/summer-of-agentic-work-a-labour-market-reckoning/">Summer of agentic work: a labour market reckoning</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1787301840" data-df="D MMM YYYY">21 Aug 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/samsungs-foldables-grow-an-ultra/">Samsung&#39;s foldables grow an Ultra</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1787056860" data-df="D MMM YYYY">18 Aug 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/deepseek-raises-prices-the-price-war-has-a-price-after-all/">DeepSeek raises prices: the price war has a price after all</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1786628220" data-df="D MMM YYYY">13 Aug 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apple-sues-openai-and-the-ai-hardware-fight-goes-to-court/">Apple sues OpenAI, and the AI hardware fight goes to court</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1785911160" data-df="D MMM YYYY">5 Aug 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nearly-two-hundred-silicon-valley-founders-ask-washington-not-to-ban-chinese-models/">Nearly two hundred Silicon Valley founders ask Washington not to ban Chinese models</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1784735100" data-df="D MMM YYYY">22 Jul 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/shanghai-hosts-the-ai-summit-that-created-a-global-body/">Shanghai hosts the AI summit that created a global body</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1784543700" data-df="D MMM YYYY">20 Jul 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/moonshot-releases-kimi-k3-and-the-open-weight-argument-gets-louder/">Moonshot releases Kimi K3 and the open-weight argument gets louder</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1784217300" data-df="D MMM YYYY">16 Jul 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/waste-heat-as-a-product/">Waste heat as a product: the contract that decides it</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1782782100" data-df="D MMM YYYY">30 Jun 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/openai-previews-gpt-5-6-sol-a-model-aimed-at-the-hardest-work/">OpenAI previews GPT-5.6 Sol, a model aimed at the hardest work</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1782656040" data-df="D MMM YYYY">28 Jun 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/predicting-model-scale-with-fifty-questions-instead-of-ten-trillion/">Predicting model scale with fifty questions instead of ten trillion</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1782191940" data-df="D MMM YYYY">23 Jun 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-model-in-the-router/">A model in the router: where inference is heading</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1782092280" data-df="D MMM YYYY">22 Jun 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/compression-for-the-machines-in-the-loop/">Compression for the machines in the loop</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1781493240" data-df="D MMM YYYY">15 Jun 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/shutting-a-battery-down-before-it-burns/">Shutting a battery down before it burns</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1781317680" data-df="D MMM YYYY">13 Jun 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/optical-links-in-orbit-why-satellites-stopped-calling-home/">Optical links in orbit: why satellites stopped calling home</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1780883220" data-df="D MMM YYYY">8 Jun 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-million-optical-neurons-on-one-chip/">A million optical neurons on one chip</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1780562100" data-df="D MMM YYYY">4 Jun 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/wwdc-makes-apples-devices-the-interface/">WWDC makes Apple&#39;s devices the interface</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1780451820" data-df="D MMM YYYY">3 Jun 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/first-e-fuel-plant-opens-its-doors/">First e-fuel plant opens its doors</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1780397700" data-df="D MMM YYYY">2 Jun 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/inference-at-one-watt/">Resistive memory runs a 14-million-parameter model at 0.8 watts</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1780017600" data-df="D MMM YYYY">29 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-synapse-on-a-chip-switches-a-million-times-lighter/">Hafnium-oxide synapse switches a million times lighter</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1779859560" data-df="D MMM YYYY">27 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-trapped-ion-qubit-holds-a-million-error-corrected-cycles/">Thirty-two ions hold a logical qubit for a million cycles</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1779785100" data-df="D MMM YYYY">26 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/europes-launchers-come-back-in-stages/">Europe&#39;s launchers come back in stages</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1779717840" data-df="D MMM YYYY">25 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-scraper-that-climbed-from-forty-five-stars/">Scrapling reaches fifty thousand stars in eighteen months</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1779541200" data-df="D MMM YYYY">23 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/robotaxi-service-drops-the-safety-driver/">Robotaxi service drops the safety driver</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1779333900" data-df="D MMM YYYY">21 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/risc-v-vector-support-in-two-compilers/">RISC-V vector support lands in two production compilers</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1779093300" data-df="D MMM YYYY">18 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/google-io-bets-that-cheaper-is-the-future/">Google I/O bets that cheaper is the future</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1778319600" data-df="D MMM YYYY">9 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/tsmcs-a16-node-enters-risk-production/">TSMC&#39;s A16 node enters risk production</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1778228400" data-df="D MMM YYYY">8 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/inference-at-the-substation-where-the-data-is/">Inference at the substation, where the data is</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1778203800" data-df="D MMM YYYY">8 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/deepseek-v4-opens-the-million-token-era-at-a-discount/">DeepSeek-V4 opens the million-token era at a discount</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1777692360" data-df="D MMM YYYY">2 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/testing-models-at-the-frontier-of-human-knowledge-humanitys-last-exam/">Testing models at the frontier of human knowledge: Humanity&#39;s Last Exam</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1777529280" data-df="D MMM YYYY">30 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/gpt-5-5-makes-agents-the-product/">GPT-5.5 makes agents the product</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1777461960" data-df="D MMM YYYY">29 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/on-device-inference-becomes-a-browser-feature/">On-device inference becomes a browser feature</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1777256100" data-df="D MMM YYYY">27 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/ten-thousand-stars-in-ten-weeks/">Ten thousand stars in ten weeks</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1777122000" data-df="D MMM YYYY">25 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/dragonfly-is-packed-for-titan/">Dragonfly is packed for Titan</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1776842760" data-df="D MMM YYYY">22 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/chip-controls-tighten-around-the-thinnest-wafers/">Chip controls tighten around the thinnest wafers</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1776314880" data-df="D MMM YYYY">16 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/exoskeleton-tunes-itself-to-a-wearers-gait/">Exoskeleton tunes itself to a wearer&#39;s gait</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1776303300" data-df="D MMM YYYY">16 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/models-are-told-to-name-their-sources/">Models are told to name their sources</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1775712420" data-df="D MMM YYYY">9 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/implant-that-learned-to-listen/">Implant that learned to listen</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1775642700" data-df="D MMM YYYY">8 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/an-uncrewed-ship-lands-on-mars/">Starship touches down on Mars without a crew</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1775431860" data-df="D MMM YYYY">6 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/learning-to-reason-in-13-parameters/">Learning to reason in 13 parameters</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1775179440" data-df="D MMM YYYY">3 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/drone-lands-on-a-boat-in-a-swell/">Drone lands on a boat in a swell</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1775094300" data-df="D MMM YYYY">2 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/march-was-the-month-ai-stopped-being-just-models/">March was the month AI stopped being just models</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1774744860" data-df="D MMM YYYY">29 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/gemini-3-1-ultra-is-googles-answer-to-the-agent-era/">Gemini 3.1 Ultra is Google&#39;s answer to the agent era</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1774256700" data-df="D MMM YYYY">23 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/speech-model-compressed-for-a-hearing-aid/">Speech model compressed for a hearing aid</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1774149000" data-df="D MMM YYYY">22 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/quantum-error-correction-stops-being-a-promise/">Quantum error correction stops being a promise</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1773967620" data-df="D MMM YYYY">20 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/on-die-sensors-that-count-a-chips-aging/">On-die sensors that count a chip&#39;s aging</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1773710400" data-df="D MMM YYYY">17 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-benchmark-built-on-a-game-of-pokemon/">Benchmark built on a Pokemon game</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1773669600" data-df="D MMM YYYY">16 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/brussels-issues-its-first-fine-under-the-ai-act/">Brussels issues its first fine under the AI Act</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1773561720" data-df="D MMM YYYY">15 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/an-optical-processor-built-for-one-workload/">An optical processor built for one workload</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1773459000" data-df="D MMM YYYY">14 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/first-drug-designed-by-an-ai-reaches-the-clinic/">First drug designed by an AI reaches the clinic</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1773322560" data-df="D MMM YYYY">12 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/gpt-5-4-arrives-with-a-million-token-memory/">GPT-5.4 arrives with a million-token memory</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1773020820" data-df="D MMM YYYY">9 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/launch-pads-of-boca-chica-never-go-quiet/">Launch pads of Boca Chica never go quiet</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1772673240" data-df="D MMM YYYY">5 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/cell-chemistry-that-reports-its-own-fade/">Cell chemistry that reports its own fade</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1772506200" data-df="D MMM YYYY">3 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/sharing-spectrum-between-orbit-and-city/">Sharing spectrum between orbit and city</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1772155500" data-df="D MMM YYYY">27 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/quantum-safe-certificates-at-scale/">Quantum-safe certificates at scale</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1772092800" data-df="D MMM YYYY">26 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/battery-swap-at-city-scale/">Battery swap at city scale</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1771900800" data-df="D MMM YYYY">24 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/passkeys-at-a-retail-bank-one-year-later/">Passkeys at a retail bank, one year later</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1771811700" data-df="D MMM YYYY">23 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/translation-on-the-device/">Translation on the device</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1771464900" data-df="D MMM YYYY">19 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/pruning-robot-works-a-vineyard-row/">Pruning robot works a vineyard row</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1771379100" data-df="D MMM YYYY">18 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/high-na-lithography-enters-volume/">High-NA lithography enters volume</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1771316100" data-df="D MMM YYYY">17 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/hbm4-arrives-and-memory-prices-go-through-the-roof/">HBM4 arrives and memory prices go through the roof</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1771228380" data-df="D MMM YYYY">16 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/inverters-that-hold-the-grid-up/">Inverters that hold the grid up</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1770859200" data-df="D MMM YYYY">12 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-third-more-capacity-per-fibre-pair/">32 terabits per fibre pair on a new cable</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1770774300" data-df="D MMM YYYY">11 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/co-packaged-optics-ship-in-a-switch/">Co-packaged optics ship in a switch</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1770175200" data-df="D MMM YYYY">4 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/two-nanometre-silicon-in-a-phone/">Two-nanometre silicon in a phone</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1770084600" data-df="D MMM YYYY">3 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/battery-passport-reaches-every-pack-sold-in-the-eu/">Battery passport reaches every pack sold in the EU</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1769736900" data-df="D MMM YYYY">30 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-licence-for-web-crawlers/">Crawling licence priced per thousand pages</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1769650200" data-df="D MMM YYYY">29 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/liquid-cooling-for-the-general-rack/">Liquid cooling for the general rack</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1769480400" data-df="D MMM YYYY">27 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-robot-arm-from-one-demonstration/">Robot arm learns a bin-picking task from one demonstration</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1769392200" data-df="D MMM YYYY">26 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/solid-state-transformer-replaces-an-iron-core/">Solid-state transformer replaces an iron core</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1769217900" data-df="D MMM YYYY">24 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/optical-links-inside-a-rack/">Optical links inside a rack</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1768785300" data-df="D MMM YYYY">19 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/one-year-of-the-ai-safety-board-what-the-first-rulings-settled/">One year of the AI safety board: what the first rulings settled</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1768653720" data-df="D MMM YYYY">17 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/rust-inside-the-kernel-four-years-in/">Rust inside the kernel, four years in</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1768273500" data-df="D MMM YYYY">13 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/chiplets-reach-a-consumer-package/">Chiplets reach a consumer package</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1768183500" data-df="D MMM YYYY">12 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-desktop-operating-system-on-a-tablet/">Desktop operating system in a tablet shell</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1767774000" data-df="D MMM YYYY">7 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/electrolysis-stack-at-a-steel-plant-takes-its-first-load/">Electrolysis stack at a steel plant takes its first load</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1767666000" data-df="D MMM YYYY">6 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/solid-state-cells-ship-in-a-phone/">Solid-state cells ship in a phone</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1767577200" data-df="D MMM YYYY">5 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/battery-recycling-recovers-96-per-cent-of-the-lithium/">Battery recycling recovers 96 per cent of the lithium</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1766281200" data-df="D MMM YYYY">21 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/navigation-without-satellites-a-quantum-compass/">Navigation without satellites: a quantum compass</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1765766700" data-df="D MMM YYYY">15 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/solar-site-robot-lays-90-panels-a-day-against-a-crews-60/">Solar-site robot lays 90 panels a day against a crew&#39;s 60</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1765503900" data-df="D MMM YYYY">12 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/seawater-loop-brings-a-data-centre-to-1-09-pue/">Seawater loop brings a data centre to 1.09 PUE</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1765247400" data-df="D MMM YYYY">9 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/optical-clock-survives-a-600-kilometre-drive/">Optical clock survives a 600-kilometre drive</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1764555600" data-df="D MMM YYYY">1 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/mixture-of-experts-twice-the-throughput-four-times-the-memory/">Mixture-of-experts: twice the throughput, four times the memory</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1763861400" data-df="D MMM YYYY">23 Nov 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/landslide-sensors-missed-8-of-11-fatal-slopes/">Landslide sensors missed 8 of 11 fatal slopes</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1763430000" data-df="D MMM YYYY">18 Nov 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/pool-heat-recovery-pays-back-in-four-years/">Pool heat recovery pays back in four years</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1763209800" data-df="D MMM YYYY">15 Nov 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/tidal-turbine-runs-four-years-and-meets-a-12-metre-sea/">Tidal turbine runs four years and meets a 12-metre sea</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1762480200" data-df="D MMM YYYY">7 Nov 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/submarine-cable-hears-a-dragging-anchor-200-metres-away/">Submarine cable hears a dragging anchor 200 metres away</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1762047000" data-df="D MMM YYYY">2 Nov 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/solid-state-cells-spend-a-year-in-a-city-bus/">Solid-state cells spend a year in a city bus</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1761441900" data-df="D MMM YYYY">26 Oct 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/photonic-sampling-pushes-a-radar-converter-past-40-gigahertz/">Photonic sampling pushes a radar converter past 40 gigahertz</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1761097500" data-df="D MMM YYYY">22 Oct 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-year-the-robots-stood-up-humanoid-machines-meet-the-factory-floor/">Humanoid robots reach the factory floor, with an invoice attached</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1760946000" data-df="D MMM YYYY">20 Oct 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/hydrogen-firing-reaches-70-per-cent-in-a-12-megawatt-turbine/">Hydrogen firing reaches 70 per cent in a 12-megawatt turbine</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1760751300" data-df="D MMM YYYY">18 Oct 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/high-na-lithography-the-pellicle-decides-the-defect-count/">High-NA lithography: the pellicle decides the defect count</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1760517900" data-df="D MMM YYYY">15 Oct 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/sodium-ion-cells-take-a-substations-evening-peak/">Sodium-ion cells take a substation&#39;s evening peak</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1759802700" data-df="D MMM YYYY">7 Oct 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/photonic-6g-system-covers-half-a-gigahertz-to-115/">Photonic 6G system covers half a gigahertz to 115</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1756430400" data-df="D MMM YYYY">29 Aug 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/flow-matching-for-robots-one-backbone-every-body/">Flow matching for robots: one backbone, every body</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1755729420" data-df="D MMM YYYY">21 Aug 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/humanoid-games-end-with-a-hundred-metre-obstacle-course/">Humanoid games end with a 100-metre obstacle course</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1755393600" data-df="D MMM YYYY">17 Aug 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-chip-licence-with-a-fee-attached/">A chip licence with a fee attached</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1755174900" data-df="D MMM YYYY">14 Aug 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/robot-congress-ends-with-a-price-list-for-the-public/">Robot congress ends with a price list for the public</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1755134400" data-df="D MMM YYYY">14 Aug 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/one-model-one-router-what-gpt-5-unification-says-about-the-frontier/">One model, one router: what GPT-5&#39;s unification says about the frontier</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1754651700" data-df="D MMM YYYY">8 Aug 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-ai-act-reaches-its-second-deadline/">The AI Act reaches its second deadline</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1754055000" data-df="D MMM YYYY">1 Aug 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-electricity-bill-of-a-data-centre/">The electricity bill of a data centre</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1753362600" data-df="D MMM YYYY">24 Jul 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/robotaxis-try-a-city-they-have-not-mapped/">Robotaxis try a city they have not mapped</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1752888000" data-df="D MMM YYYY">19 Jul 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/data-centres-move-west-for-the-air/">Data centres move west for the air</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1750555200" data-df="D MMM YYYY">22 Jun 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-release-calendar-nobody-can-keep-up-with/">The release calendar nobody can keep up with</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1749825600" data-df="D MMM YYYY">13 Jun 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/huawei-puts-a-one-inch-sensor-in-a-phone/">Huawei puts a one-inch sensor in a phone</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1749604800" data-df="D MMM YYYY">11 Jun 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apple-changes-its-numbering-and-redraws-its-surfaces/">Apple changes its numbering and redraws its surfaces</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1749483000" data-df="D MMM YYYY">9 Jun 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/claude-4-arrives-with-a-claim-about-coding/">Claude 4 arrives with a claim about coding</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1747964100" data-df="D MMM YYYY">23 May 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/xiaomi-puts-a-three-nanometre-chip-in-a-phone/">Xiaomi puts a three-nanometre chip in a phone</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1747963200" data-df="D MMM YYYY">23 May 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/at-io-video-generation-learns-to-speak/">At I/O, video generation learns to speak</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1747755600" data-df="D MMM YYYY">20 May 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/harmonyos-reaches-the-laptop/">HarmonyOS reaches the laptop</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1747704000" data-df="D MMM YYYY">20 May 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/what-an-image-model-upgrade-is-worth-now/">What an image model upgrade is worth now</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1746497700" data-df="D MMM YYYY">6 May 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-last-mile-is-the-expensive-mile/">Last mile is the expensive mile</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1744420800" data-df="D MMM YYYY">12 Apr 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-hardware-around-a-quantum-chip-costs-more-than-the-chip/">Hardware around a quantum chip costs more than the chip</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1743902400" data-df="D MMM YYYY">6 Apr 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/an-open-instruction-set-becomes-an-industrial-policy-question/">Open instruction set becomes an industrial policy question</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1742779200" data-df="D MMM YYYY">24 Mar 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-roadmap-announced-before-the-current-chip-ships/">Roadmap announced before the current chip ships</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1742433600" data-df="D MMM YYYY">20 Mar 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/agents-that-use-a-browser-raise-a-new-class-of-risk/">Agents that use a browser raise a new class of risk</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1741656000" data-df="D MMM YYYY">11 Mar 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/sodium-ion-batteries-find-the-market-lithium-ignored/">Sodium-ion batteries find the market lithium ignored</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1741310400" data-df="D MMM YYYY">7 Mar 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/recycling-plants-wait-for-batteries-to-arrive/">Recycling plants wait for batteries to arrive</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1741137600" data-df="D MMM YYYY">5 Mar 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-topological-qubit-arrives-with-a-definition-attached/">Topological qubit arrives with a definition attached</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1740014400" data-df="D MMM YYYY">20 Feb 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-cheap-car-that-now-steers-itself/">The cheap car that now steers itself</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1739711400" data-df="D MMM YYYY">16 Feb 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-declaration-that-two-governments-would-not-sign/">The declaration that two governments would not sign</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1739279700" data-df="D MMM YYYY">11 Feb 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-model-that-runs-on-the-phone-and-the-server-it-replaces/">The model that runs on the phone and the server it replaces</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1739018100" data-df="D MMM YYYY">8 Feb 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/inference-becomes-the-bill-that-matters/">Inference becomes the bill that matters</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1738545600" data-df="D MMM YYYY">3 Feb 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/deepseek-r1-a-reminder-that-intelligence-is-not-the-same-as-cost/">DeepSeek R1: a reminder that intelligence is not the same as cost</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1738154100" data-df="D MMM YYYY">29 Jan 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/export-controls-take-aim-at-memory-and-tools/">Export rules reach down to the memory stack</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1737422400" data-df="D MMM YYYY">21 Jan 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/app-that-the-court-could-not-save/">App that the court could not save</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1737288300" data-df="D MMM YYYY">19 Jan 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/northpole-puts-memory-beside-compute/">NorthPole puts memory beside compute</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1736991360" data-df="D MMM YYYY">16 Jan 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-show-opens-and-the-hall-decides-what-a-gadget-is/">The show opens and the hall decides what a gadget is</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1736259300" data-df="D MMM YYYY">7 Jan 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-day-before-the-show-the-halls-of-las-vegas/">The day before the show, the halls of Las Vegas</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1736167200" data-df="D MMM YYYY">6 Jan 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/google-willow-chip-a-step-towards-quantum-machines-that-matter/">Google&#39;s Willow chip: a step towards quantum machines that matter</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1733887200" data-df="D MMM YYYY">11 Dec 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/chip-export-list-adds-memory-to-the-controlled-stack/">Chip export list adds memory to the controlled stack</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1733793600" data-df="D MMM YYYY">10 Dec 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/mamba-linear-time-language-models-without-attention/">Mamba: linear-time language models without attention</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1733379720" data-df="D MMM YYYY">5 Dec 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/intels-chief-executive-retires-after-three-years-of-losses/">Intel&#39;s chief executive retires after three years of losses</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1733146800" data-df="D MMM YYYY">2 Dec 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/australia-bans-social-media-accounts-for-children-under-sixteen/">Australia bans social media accounts for children under sixteen</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1732889700" data-df="D MMM YYYY">29 Nov 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/intels-chip-award-arrives-with-a-factory-but-no-customers/">Intel&#39;s chip award arrives with a factory but no customers</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1732670400" data-df="D MMM YYYY">27 Nov 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nvidia-reports-a-ninety-four-per-cent-rise-in-revenue/">NVIDIA reports a ninety-four per cent rise in revenue</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1732282500" data-df="D MMM YYYY">22 Nov 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/samsungs-memory-roadmap-meets-buyers-who-want-hbm-only/">Samsung&#39;s memory roadmap meets buyers who want HBM only</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1732065600" data-df="D MMM YYYY">20 Nov 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/quantum-annealing-shows-a-scaling-edge-on-spin-glasses/">Quantum annealing shows a scaling edge on spin glasses</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1729742280" data-df="D MMM YYYY">24 Oct 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/tesla-unveils-a-two-door-robotaxi-and-promises-production-in-2026/">Tesla unveils a two-door robotaxi and promises production in 2026</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1728657000" data-df="D MMM YYYY">11 Oct 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/phone-that-folds-twice-sells-out-in-minutes/">Phone that folds twice sells out in minutes</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1726795200" data-df="D MMM YYYY">20 Sep 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/an-octopus-arm-rebuilt-in-silicone/">An octopus arm, rebuilt in silicone</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1726740300" data-df="D MMM YYYY">19 Sep 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/europes-top-court-orders-apple-to-pay-thirteen-billion-euros-in-taxes/">Europe&#39;s top court orders Apple to pay thirteen billion euros in taxes</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1725931200" data-df="D MMM YYYY">10 Sep 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/fab-in-the-desert-runs-into-a-shrinking-river/">Fab in the desert runs into a shrinking river</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1724980800" data-df="D MMM YYYY">30 Aug 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/french-judges-charge-a-platform-founder-and-restrict-his-travel/">French judges charge a platform founder and restrict his travel</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1724635200" data-df="D MMM YYYY">26 Aug 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-ruling-that-google-had-been-waiting-for/">The ruling that Google had been waiting for</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1722949200" data-df="D MMM YYYY">6 Aug 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/faulty-update-from-one-vendor-grounds-airlines-around-the-world/">Faulty update from one vendor grounds airlines around the world</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1721352000" data-df="D MMM YYYY">19 Jul 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nvidia-reports-a-262-per-cent-rise-in-revenue-and-splits-its-shares/">NVIDIA reports a 262 per cent rise in revenue and splits its shares</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1716473400" data-df="D MMM YYYY">23 May 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/transcribing-speech-on-an-analogue-chip/">Transcribing speech on an analogue chip</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1714467060" data-df="D MMM YYYY">30 Apr 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/teaching-a-model-to-grade-its-own-homework/">Teaching a model to grade its own homework</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1711506360" data-df="D MMM YYYY">27 Mar 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nvidia-unveils-blackwell-and-promises-a-new-chip-every-year/">NVIDIA unveils Blackwell and promises a new chip every year</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1710944100" data-df="D MMM YYYY">20 Mar 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-house-votes-to-force-a-sale-or-ban-of-tiktok/">The House votes to force a sale or ban of TikTok</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1710342900" data-df="D MMM YYYY">13 Mar 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/preference-learning-without-the-reward-model/">Preference learning without the reward model</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1705277820" data-df="D MMM YYYY">15 Jan 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/xiaomi-unveils-its-first-electric-car/">Xiaomi unveils its first electric car</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1703726400" data-df="D MMM YYYY">28 Dec 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-watch-disappears-from-the-shelves/">A watch disappears from the shelves</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1703079000" data-df="D MMM YYYY">20 Dec 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/google-puts-gemini-in-front-of-its-cloud/">Google puts Gemini in front of its cloud</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1701876000" data-df="D MMM YYYY">6 Dec 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/amd-launches-the-chip-it-hopes-will-challenge-nvidia/">AMD launches the chip it hopes will challenge NVIDIA</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1701825600" data-df="D MMM YYYY">6 Dec 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/tesla-delivers-the-truck-it-promised-four-years-too-early/">Tesla delivers the truck it promised four years too early</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1701357000" data-df="D MMM YYYY">30 Nov 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-board-that-fired-its-chief-executive-had-to-take-him-back/">The board that fired its chief executive had to take him back</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1700234100" data-df="D MMM YYYY">17 Nov 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-ai-pin-arrives-without-a-screen/">The AI Pin arrives without a screen</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1699533900" data-df="D MMM YYYY">9 Nov 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/openais-developer-day-a-marketplace-for-bots/">OpenAI&#39;s developer day: a marketplace for bots</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1699266600" data-df="D MMM YYYY">6 Nov 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apple-puts-its-fastest-chips-in-the-mac/">Apple puts its fastest chips in the Mac</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1698676800" data-df="D MMM YYYY">30 Oct 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/california-takes-the-robotaxis-off-the-road/">California takes the robotaxis off the road</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1698162000" data-df="D MMM YYYY">24 Oct 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/america-tightens-the-rules-that-govern-ai-chips/">America tightens the rules that govern AI chips</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1697555400" data-df="D MMM YYYY">17 Oct 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/amazon-invests-up-to-four-billion-dollars-in-anthropic/">Amazon invests up to four billion dollars in Anthropic</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1695604800" data-df="D MMM YYYY">25 Sep 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/googles-search-monopoly-goes-on-trial/">Google&#39;s search monopoly goes on trial</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1694619300" data-df="D MMM YYYY">13 Sep 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apple-puts-titanium-and-a-new-chip-in-the-iphone-15/">Apple puts titanium and a new chip in the iPhone 15</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1694481600" data-df="D MMM YYYY">12 Sep 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/europe-names-its-digital-gatekeepers/">Europe names its digital gatekeepers</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1694013000" data-df="D MMM YYYY">6 Sep 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/india-launches-a-solar-observatory/">India launches a solar observatory</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1693668600" data-df="D MMM YYYY">2 Sep 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/huaweis-new-phone-unnerves-washington/">Huawei&#39;s new phone unnerves Washington</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1693496400" data-df="D MMM YYYY">31 Aug 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/india-lands-a-rover-near-the-lunar-south-pole/">India lands a rover near the lunar south pole</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1692805800" data-df="D MMM YYYY">23 Aug 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/india-launches-a-lander-bound-for-the-lunar-south-pole/">India launches a lander bound for the lunar south pole</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1689428400" data-df="D MMM YYYY">15 Jul 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/meta-launches-threads-and-bets-against-its-rival/">Meta launches Threads and bets against its rival</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1688652000" data-df="D MMM YYYY">6 Jul 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/twitter-caps-how-many-posts-its-users-may-read/">Twitter caps how many posts its users may read</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1688292600" data-df="D MMM YYYY">2 Jul 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/europe-launches-a-telescope-built-to-see-the-dark-universe/">Europe launches a telescope built to see the dark universe</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1688226000" data-df="D MMM YYYY">1 Jul 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-european-parliament-sets-its-terms-for-the-ai-act/">The European Parliament sets its terms for the AI Act</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1686832200" data-df="D MMM YYYY">15 Jun 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apple-unveils-a-headset-it-calls-spatial-computing/">Apple unveils a headset it calls spatial computing</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1685975400" data-df="D MMM YYYY">5 Jun 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nvidia-joins-the-trillion-dollar-club-on-the-strength-of-ai-demand/">NVIDIA joins the trillion-dollar club on the strength of AI demand</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1685460300" data-df="D MMM YYYY">30 May 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nvidia-forecasts-eleven-billion-dollars-of-revenue-as-the-ai-orders-surge/">NVIDIA forecasts 11 billion dollars of revenue as the AI orders surge</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1684891200" data-df="D MMM YYYY">24 May 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-private-company-tries-to-land-on-the-moon/">A private company tries to land on the moon</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1682523000" data-df="D MMM YYYY">26 Apr 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apple-opens-a-pay-later-service-in-the-united-states/">Apple opens a pay-later service in the United States</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1679966400" data-df="D MMM YYYY">28 Mar 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nvidia-offers-cloud-access-to-its-own-systems/">NVIDIA offers cloud access to its own systems</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1679361600" data-df="D MMM YYYY">21 Mar 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/baidu-shows-a-chatbot-that-it-had-promised-for-march/">Baidu shows a chatbot that it had promised for March</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1678929600" data-df="D MMM YYYY">16 Mar 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-model-that-answers-in-sentences/">The model that answers in sentences</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1678807800" data-df="D MMM YYYY">14 Mar 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/openai-releases-a-model-that-writes-and-reasons/">OpenAI releases a model that writes and reasons</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1678670400" data-df="D MMM YYYY">13 Mar 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/mobile-world-congress-returns-to-barcelona-at-full-size/">Mobile World Congress returns to Barcelona at full size</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1677460800" data-df="D MMM YYYY">27 Feb 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nvidia-posts-a-record-quarter-in-data-centre-chips/">NVIDIA posts a record quarter in data centre chips</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1677028800" data-df="D MMM YYYY">22 Feb 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/microsoft-puts-a-conversational-bot-into-its-search-box/">Microsoft puts a conversational bot into its search box</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1675732800" data-df="D MMM YYYY">7 Feb 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/samsung-brings-a-200-megapixel-sensor-to-its-flagship/">Samsung brings a 200 megapixel sensor to its flagship</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1675214400" data-df="D MMM YYYY">1 Feb 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/boeing-delivers-the-last-747-after-54-years/">Boeing delivers the last 747 after 54 years</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1675128000" data-df="D MMM YYYY">31 Jan 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/microsoft-commits-billions-to-openai-over-many-years/">Microsoft commits billions to OpenAI over many years</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1674436800" data-df="D MMM YYYY">23 Jan 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apple-brings-its-top-silicon-to-the-larger-laptops/">Apple brings its top silicon to the larger laptops</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1673918400" data-df="D MMM YYYY">17 Jan 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/ces-returns-to-a-full-hall-with-software-on-the-agenda/">CES returns to a full hall with software on the agenda</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1672881600" data-df="D MMM YYYY">5 Jan 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/openai-releases-chatgpt/">OpenAI releases ChatGPT and the answers start circulating in group chats</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1669822200" data-df="D MMM YYYY">30 Nov 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apple-ships-macos-ventura-and-ipados-16/">Apple ships macOS Ventura and iPadOS 16, three weeks behind the iPhone</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1666624800" data-df="D MMM YYYY">24 Oct 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apple-puts-a-satellite-link-in-the-iphone-and-a-bigger-watch-on-the-wrist/">Apple puts a satellite link in the iPhone and a bigger watch on the wrist</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1662565200" data-df="D MMM YYYY">7 Sep 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nvidia-cuts-its-forecast-as-gaming-slows/">NVIDIA cuts its forecast as gaming slows</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1661304000" data-df="D MMM YYYY">24 Aug 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/samsung-folds-the-phone-smaller-and-adds-a-stylus/">Samsung folds the phone smaller and puts a stylus in the pocket</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1660146000" data-df="D MMM YYYY">10 Aug 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/congress-passes-fifty-two-billion-dollars-for-chip-factories/">Congress passes fifty-two billion dollars of subsidies for American chip factories</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1659022800" data-df="D MMM YYYY">28 Jul 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/intels-revenue-falls-22-per-cent/">Intel&#39;s revenue falls 22 per cent</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1658971200" data-df="D MMM YYYY">28 Jul 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/metas-revenue-falls-for-the-first-time/">Meta&#39;s revenue falls for the first time</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1658884800" data-df="D MMM YYYY">27 Jul 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/microsofts-revenue-slows-to-12-per-cent/">Microsoft&#39;s revenue slows to 12 per cent</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1658798400" data-df="D MMM YYYY">26 Jul 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/tsmc-reports-a-record-quarter/">TSMC reports a record quarter</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1658366400" data-df="D MMM YYYY">21 Jul 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/internet-explorer-was-retired-after-twenty-seven-years/">Internet Explorer was retired after twenty-seven years</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1655299200" data-df="D MMM YYYY">15 Jun 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apple-put-its-own-silicon-in-a-redesigned-laptop/">Apple put its own silicon in a redesigned laptop</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1654530600" data-df="D MMM YYYY">6 Jun 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/broadcom-offers-61-billion-dollars-for-vmware/">Broadcom offers 61 billion dollars for VMware</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1653528000" data-df="D MMM YYYY">26 May 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nvidias-revenue-beats-but-its-forecast-cuts-short/">NVIDIA&#39;s revenue beats but its forecast cuts short</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1653441600" data-df="D MMM YYYY">25 May 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/snap-warns-on-revenue-and-its-shares-fall-43-per-cent/">Snap warns on revenue and its shares fall 43 per cent</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1653355200" data-df="D MMM YYYY">24 May 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/cisco-cuts-its-forecast-as-lockdowns-hit-supply/">Cisco cuts its forecast as lockdowns hit supply</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1652836800" data-df="D MMM YYYY">18 May 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/amds-revenue-rises-71-per-cent/">AMD&#39;s revenue rises 71 per cent</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1651540800" data-df="D MMM YYYY">3 May 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apples-revenue-rose-9-per-cent-in-the-quarter/">Apple&#39;s revenue rose 9 per cent in the quarter</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1651108800" data-df="D MMM YYYY">28 Apr 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/microsofts-revenue-rose-18-per-cent-in-the-quarter/">Microsoft&#39;s revenue rose 18 per cent in the quarter</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1650936000" data-df="D MMM YYYY">26 Apr 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/samsungs-profit-rose-50-per-cent-in-the-first-quarter/">Samsung&#39;s profit rose 50 per cent in the first quarter</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1649208000" data-df="D MMM YYYY">6 Apr 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/europe-agrees-rules-for-the-digital-market-act/">Europe agrees rules for the Digital Markets Act</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1648171200" data-df="D MMM YYYY">25 Mar 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nasa-rolls-the-moon-rocket-out-to-the-pad/">NASA rolls the Moon rocket out to the pad</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1647531900" data-df="D MMM YYYY">17 Mar 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apple-unveils-a-mac-studio-and-a-cheaper-display/">Apple unveils a Mac Studio and a cheaper display</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1646702400" data-df="D MMM YYYY">8 Mar 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nvidia-posts-a-record-quarter/">NVIDIA posts a record quarter</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1644974400" data-df="D MMM YYYY">16 Feb 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/samsung-replaces-the-note-with-a-phone-that-carries-its-pen/">Samsung replaces the Note with a phone that carries its pen</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1644594000" data-df="D MMM YYYY">11 Feb 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/alphabet-posts-a-record-quarter-and-splits-its-stock/">Alphabet posts a record quarter and splits its stock</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1643764800" data-df="D MMM YYYY">2 Feb 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/apple-posts-a-record-quarter/">Apple posts a record quarter</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1643246400" data-df="D MMM YYYY">27 Jan 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/intel-posts-a-record-year/">Intel posts a record year</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1643160000" data-df="D MMM YYYY">26 Jan 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/microsofts-cloud-growth-slows/">Microsoft&#39;s cloud growth slows</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1643073600" data-df="D MMM YYYY">25 Jan 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/tsmc-posts-a-record-quarter/">TSMC posts a record quarter</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1642036800" data-df="D MMM YYYY">13 Jan 2022</time>
+    </li>
+    
+  </ul>
+</div>
+
+
+          </main>
+          <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
+            <div class="access">
+              
+
+
+<section id="access-lastmod">
+  <h2 class="panel-heading">Recently Updated</h2>
+  <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
+    
+    <li class="text-truncate lh-lg"><a href="/posts/un-rights-office-says-gazas-health-system-is-close-to-collapse/">UN rights office says Gaza&#39;s health system is close to collapse</a></li>
+    
+    <li class="text-truncate lh-lg"><a href="/posts/microsoft-365-outage-takes-down-outlook-teams-and-copilot-for-hours/">Microsoft 365 outage takes down Outlook, Teams and Copilot for hours</a></li>
+    
+    <li class="text-truncate lh-lg"><a href="/posts/chinext-falls-3-3-per-cent-as-chip-and-optical-shares-retreat/">ChiNext falls 3.3 per cent as chip and optical shares retreat</a></li>
+    
+    <li class="text-truncate lh-lg"><a href="/posts/brent-crude-climbs-above-95-dollars-after-trump-rules-out-an-iran-deal/">Brent crude climbs above 95 dollars after Trump rules out an Iran deal</a></li>
+    
+    <li class="text-truncate lh-lg"><a href="/posts/jensen-huang-resigns-as-nvidia-chief-after-33-years/">Jensen Huang resigns as NVIDIA chief after 33 years</a></li>
+    
+  </ul>
+</section>
+
+
+            </div>
+            
+          </aside>
+        </div>
+        <div class="row">
+          <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 px-md-4">
+            
+            <footer aria-label="Site Info" class="d-flex flex-wrap flex-column justify-content-center text-muted flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3">
+  <aside class="site-disclaimer w-100" role="note" aria-label="Site disclaimer" style="flex: 0 0 100%; margin: 0 0 0.9rem; padding: 0.7rem 0.9rem; border-left: 3px solid #0056b2; background: rgba(0, 86, 178, 0.04); text-align: left;">
+    <p style="margin: 0; font-size: 0.78rem; line-height: 1.6; text-align: left;">
+      This site is a personal study journal only, not a news service. Posts here are reading notes, translations and
+      speculative exercises, and some are fiction written as practice. Nothing on this site is a report of fact about
+      any person or institution; please verify against primary sources before citing.
+    </p>
+  </aside>
+  <p class="latin-motto text-center">Verba volant, scripta manent.</p>
+  <p>© <time>2026</time> <a href="https://twitter.com/CaozheB72170">Caozhe Bao</a>.
+    <span data-bs-toggle="tooltip" data-bs-placement="top" title="Except where otherwise noted, the blog posts on this site are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.">Some rights reserved.</span>
+    <br>
+    <a href="/license/">Licence</a>
+    <span class="mx-2 text-muted">|</span>
+    <a href="/copyright/">Copyright</a>
+  </p>
+  <p>Built with <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>, styled after the <a data-bs-toggle="tooltip" data-bs-placement="top" title="Chirpy 7.6.0 stylesheet and scripts" href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a> theme.</p>
+</footer>
+<script>
+  (function () {
+    if ('serviceWorker' in navigator && location.protocol === 'https:') {
+      var swUrl = '/sw.js';
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register(swUrl, { updateViaCache: 'none' }).catch(function () {});
+      });
+    }
+  })();
+</script>
+
+          </div>
+        </div>
+        <div id="search-result-wrapper" class="d-flex justify-content-center d-none">
+  <div class="col-11 content">
+    <div id="search-hints"></div>
+    <div id="search-results" class="d-flex flex-wrap justify-content-center text-muted mt-3"></div>
+  </div>
+</div>
+
+      </div>
+      <aside aria-label="Scroll to Top">
+        <button id="back-to-top" type="button" class="btn btn-lg btn-box-shadow">
+          <i class="fas fa-angle-up"></i>
+        </button>
+      </aside>
+    </div>
+    <div id="mask" class="d-none position-fixed w-100 h-100 z-1"></div>
+    
+    <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('search-results'),
+      json: '/assets/js/data/search.json',
+      searchResultTemplate: '<article class="px-1 px-sm-2 px-lg-4 px-xl-0"><header><h2><a href="{url}">{title}</a></h2><div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">{categories}{tags}</div></header><p>{content}</p></article>',
+      noResultsText: '<p class="mt-5">Oops! No results found.</p>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'categories') {
+          if (value === '') { return `${value}`; }
+          return `<div class="me-sm-4"><i class="far fa-folder fa-fw"></i>${value}</div>`;
+        }
+        if (prop === 'tags') {
+          if (value === '') { return `${value}`; }
+          return `<div><i class="fa fa-tag fa-fw"></i>${value}</div>`;
+        }
+      }
+    });
+  });
+</script>
+
+  </body>
+</html>

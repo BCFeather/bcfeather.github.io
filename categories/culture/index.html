@@ -1,0 +1,1144 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f7f7">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e">
+  <meta name="viewport" content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"><meta property="og:title" content="Culture">
+  <meta property="og:locale" content="en">
+  <link rel="canonical" href="https://bcfeather.github.io/categories/culture/">
+  <meta property="og:url" content="https://bcfeather.github.io/categories/culture/">
+  <meta property="og:site_name" content="BlogFeather">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Culture">
+  <meta name="twitter:site" content="@CaozheB72170">
+  <title>Culture | BlogFeather</title>
+  <link rel="icon" type="image/png" href="/assets/img/favicons/favicon-96x96.png" sizes="96x96">
+  <link rel="shortcut icon" href="/assets/img/favicons/favicon-96x96.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+  <link rel="stylesheet" href="/assets/css/jekyll-theme-chirpy.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Source+Sans+Pro:wght@400;600;700;900&display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tocbot@4/dist/tocbot.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2/dist/loading-attribute-polyfill.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox@3/dist/css/glightbox.min.css">
+  <script src="/assets/js/dist/theme.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/combine/npm/simple-jekyll-search@1/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2/dist/loading-attribute-polyfill.umd.min.js,npm/glightbox@3/dist/js/glightbox.min.js,npm/clipboard@2/dist/clipboard.min.js,npm/dayjs@1/dayjs.min.js,npm/dayjs@1/locale/en.js,npm/dayjs@1/plugin/relativeTime.js,npm/dayjs@1/plugin/localizedFormat.js"></script>
+  <script defer src="/assets/js/dist/page.min.js"></script>
+  
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+  href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600&display=swap"
+  rel="stylesheet"
+/>
+
+
+<link rel="stylesheet" href="/assets/css/side-today.css?v=1794591087">
+
+<style>
+   
+  @media all and (max-width: 849px){
+    #sidebar-trigger.nav-float{
+      position: fixed !important;
+      top: .5rem;
+      left: .5rem;
+      z-index: 1055;
+      width: 2.25rem;
+      height: 2.25rem;
+      padding: 0;
+      border-radius: 50%;
+      background: var(--main-bg, #fff);
+      border: 1px solid var(--main-border-color, #e9ecef);
+      box-shadow: 0 1px 6px rgba(0, 0, 0, .12);
+    }
+  }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var trigger = document.getElementById('sidebar-trigger');
+    if (!trigger) { return; }
+    function update() {
+      var show = window.innerWidth < 850 && window.scrollY > 64;
+      trigger.classList.toggle('nav-float', show);
+    }
+    update();
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+  });
+</script>
+
+<script>
+  
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var headers = document.querySelectorAll('.card.categories .card-header');
+    Array.prototype.forEach.call(headers, function (head) {
+      var link = head.querySelector('a[href]');
+      var trigger = head.querySelector('.category-trigger');
+      if (!link || !trigger || !trigger.classList.contains('disabled')) { return; }
+      head.style.cursor = 'pointer';
+      head.addEventListener('click', function (ev) {
+        if (ev.target.closest('a')) { return; }
+        window.location.href = link.href;
+      });
+    });
+  });
+</script>
+
+<script>
+  
+
+  (function () {
+    var QUOTES = [
+      ['Verba volant, scripta manent.', 'Latin proverb'],
+      ['Sapere aude.', 'Horace'],
+      ['Nullius in verba.', 'Motto of the Royal Society'],
+      ['Festina lente.', 'Latin proverb'],
+      ['Per aspera ad astra.', 'Latin proverb'],
+      ['Amor fati.', 'Friedrich Nietzsche'],
+      ['Veritas lux mea.', 'Latin motto'],
+      ['Cogito, ergo sum.', 'René Descartes']
+    ];
+
+    function el(tag, cls, text) {
+      var e = document.createElement(tag);
+      if (cls) { e.className = cls; }
+      if (text) { e.textContent = text; }
+      return e;
+    }
+
+    function build(data) {
+      var aside = document.getElementById('panel-wrapper');
+      if (!aside) { return; }
+      var access = aside.querySelector('.access');
+      if (!access || document.getElementById('side-today')) { return; }
+
+      var today = new Date();
+      var day = today.getDate();
+      var mon = today.getMonth() + 1;
+      var year = today.getFullYear();
+
+      var same = [];
+      (data.p || []).forEach(function (p) {
+        var v = Number(p.d);
+        var y = Math.floor(v / 10000);
+        var m = Math.floor((v % 10000) / 100);
+        var dd = v % 100;
+        if (dd === day && m === mon && y < year) {
+          same.push({ p: p, y: y });
+        }
+      });
+      same.sort(function (a, b) { return b.y - a.y; });
+
+      var q = QUOTES[(year * 372 + mon * 31 + day) % QUOTES.length];
+      var panel = el('section', 'side-panel');
+      panel.id = 'side-today';
+      panel.appendChild(el('h2', 'panel-heading', 'Today'));
+      panel.appendChild(el('p', 'side-date', today.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })));
+
+      var bq = el('blockquote', 'side-quote', q[0]);
+      bq.appendChild(el('cite', null, q[1]));
+      panel.appendChild(bq);
+
+      var dayWrap = el('div', 'side-day');
+      if (same.length) {
+        var it = same[0];
+        dayWrap.appendChild(el('p', 'side-label', 'On this day | ' + it.y));
+        var a = el('a', 'side-title', it.p.t);
+        a.href = it.p.u;
+        dayWrap.appendChild(a);
+      } else if (data.p && data.p.length) {
+        var r = data.p[Math.floor(Math.random() * data.p.length)];
+        dayWrap.appendChild(el('p', 'side-label', 'On this day'));
+        var a2 = el('a', 'side-title', 'Nothing filed for this date. Read a random piece');
+        a2.href = r.u;
+        dayWrap.appendChild(a2);
+      }
+      panel.appendChild(dayWrap);
+
+      var meta = (data.n || (data.p || []).length) + ' posts';
+      if (data.a && data.b) {
+        meta += ' | ' + data.a + '–' + data.b;
+      }
+      if (data.c) {
+        meta += ' | ' + data.c + ' categories';
+      }
+      panel.appendChild(el('p', 'side-meta', meta));
+
+      access.appendChild(panel);
+    }
+
+    function load() {
+      if (window.innerWidth < 1200) { return; }
+      if (!document.querySelector('#panel-wrapper .access')) { return; }
+      fetch('/assets/data/posts-index.json')
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .then(function (data) { if (data) { build(data); } })
+        .catch(function () {});
+    }
+
+    
+
+    function schedule() {
+      if ('requestIdleCallback' in window) {
+        window.requestIdleCallback(load, { timeout: 2500 });
+      } else {
+        window.setTimeout(load, 1200);
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', schedule);
+    } else {
+      schedule();
+    }
+  })();
+</script>
+</head>
+
+  <body>
+    <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
+  <header class="profile-wrapper">
+    <a href="/" id="avatar" class="rounded-circle">
+      <img src="https://github.com/BCFeather.png" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
+    </a>
+    <a class="site-title d-block" href="/">BlogFeather</a>
+    <p class="site-subtitle fst-italic mb-0">Your view also matters.</p>
+  </header>
+  <nav class="flex-column flex-grow-1 w-100 ps-0">
+    <ul class="nav">
+      <li class="nav-item">
+        <a href="/" class="nav-link"><i class="fa-fw fas fa-home"></i><span>HOME</span></a>
+      </li>
+      
+      <li class="nav-item">
+        <a href="/categories/" class="nav-link"><i class="fa-fw fas fa-stream"></i><span>CATEGORIES</span></a>
+      </li>
+      <li class="nav-item">
+        <a href="/archives/" class="nav-link"><i class="fa-fw fas fa-archive"></i><span>ARCHIVES</span></a>
+      </li>
+      <li class="nav-item">
+        <a href="/about/" class="nav-link"><i class="fa-fw fas fa-info-circle"></i><span>ABOUT</span></a>
+      </li>
+      <li class="nav-item">
+        <a href="/faq/" class="nav-link"><i class="fa-fw fas fa-circle-question"></i><span>FAQ</span></a>
+      </li>
+    </ul>
+  </nav>
+  <div class="sidebar-bottom d-flex flex-wrap align-items-center w-100">
+    <div class="btn-group dropup">
+      <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle" data-bs-toggle="dropdown">
+        <i class="fa-regular fa-sun" data-theme-mode="light"></i><i class="fa-regular fa-moon" data-theme-mode="dark"></i><i class="fa-solid fa-display" data-theme-mode="system"></i>
+      </button>
+      <ul class="dropdown-menu rounded-3 mb-1 p-1">
+        <li><button class="dropdown-item d-flex align-items-center" type="button" data-theme-mode="light"><i class="fa-regular fa-sun" data-theme-mode="light"></i>Light</button></li>
+        <li><button class="dropdown-item d-flex align-items-center" type="button" data-theme-mode="dark"><i class="fa-regular fa-moon" data-theme-mode="dark"></i>Dark</button></li>
+        <li><button class="dropdown-item d-flex align-items-center" type="button" data-theme-mode="system"><i class="fa-solid fa-display" data-theme-mode="system"></i>System</button></li>
+      </ul>
+    </div>
+    <span class="icon-border"></span>
+    <a href="https://github.com/BCFeather" aria-label="github" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
+    <a href="https://twitter.com/CaozheB72170" aria-label="twitter" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-x-twitter"></i></a>
+    <a href="javascript:void(location.href = 'mailto:' + ['baocz2008','outlook.com'].join('@'))" aria-label="email"><i class="fas fa-envelope"></i></a>
+    <a href="/feed.xml" aria-label="rss"><i class="fas fa-rss"></i></a>
+  </div>
+</aside>
+
+    <div id="main-wrapper" class="d-flex justify-content-center">
+      <div class="container d-flex flex-column px-xxl-5">
+        
+
+
+  
+
+<header id="topbar-wrapper" class="flex-shrink-0" aria-label="Top Bar">
+  <div id="topbar" class="d-flex align-items-center justify-content-between px-lg-3 h-100">
+    <nav id="breadcrumb" aria-label="Breadcrumb">
+      
+        <span><a href="/">Home</a></span>
+        <span><a href="/categories/">Categories</a></span>
+        <span>Culture</span>
+      
+    </nav>
+    <button type="button" id="sidebar-trigger" class="btn btn-link" aria-label="Sidebar">
+      <i class="fas fa-bars fa-fw"></i>
+    </button>
+    <div id="topbar-title">Category</div>
+    <button type="button" id="search-trigger" class="btn btn-link" aria-label="Search">
+      <i class="fas fa-search fa-fw"></i>
+    </button>
+    <search id="search" class="align-items-center ms-3 ms-lg-0">
+      <i class="fas fa-search fa-fw"></i>
+      <input class="form-control" id="search-input" type="search" aria-label="search" autocomplete="off" placeholder="Search...">
+    </search>
+    <button type="button" class="btn btn-link text-decoration-none" id="search-cancel">Cancel</button>
+  </div>
+</header>
+
+        <div class="row flex-grow-1">
+          <main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4">
+            
+
+
+<div id="page-category">
+  <h1 class="ps-lg-2">
+    <i class="far fa-folder-open fa-fw text-muted"></i>
+    culture
+    <span class="lead text-muted ps-2">123</span>
+  </h1>
+  <ul class="content ps-0">
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/midterms-and-the-midpoint-of-the-term/">Midterms and the midpoint of the term</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1793756400" data-df="D MMM YYYY">4 Nov 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-library-that-collects-the-sounds-of-a-city/">A city&#39;s sounds, catalogued</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1791686160" data-df="D MMM YYYY">11 Oct 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-county-museum-puts-its-whole-store-room-online/">A county museum puts its whole store room online</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1789959960" data-df="D MMM YYYY">21 Sep 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/performing-in-a-language-the-audience-does-not-speak/">Performing in a language the audience does not speak</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1782269460" data-df="D MMM YYYY">24 Jun 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/radio-drama-returns-in-translation/">Translated radio drama fills a cheap broadcast schedule</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1780042200" data-df="D MMM YYYY">29 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/festival-moves-to-the-shoulder-season/">Festival moves to the shoulder season</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1779783000" data-df="D MMM YYYY">26 May 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/provenance-returned-a-roman-bronze/">Four years of provenance returned a Roman bronze</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1776655800" data-df="D MMM YYYY">20 Apr 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-translation-prize-that-changed-a-reading-list/">Translation prize lifts shortlisted sales twentyfold</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1773890100" data-df="D MMM YYYY">19 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-dictionary-for-a-language-with-200-speakers/">A dictionary for a language with 200 speakers</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1773650400" data-df="D MMM YYYY">16 Mar 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/instrument-lending-library-ten-years-on/">Instrument lending library, ten years on</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1770969900" data-df="D MMM YYYY">13 Feb 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/film-restoration-brings-back-a-1928-documentary/">Film restoration brings back a 1928 documentary</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1769155800" data-df="D MMM YYYY">23 Jan 2026</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/turning-2025-closes-and-the-new-year-begins/">2025 closes and the new year begins</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1767196680" data-df="D MMM YYYY">31 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-days-between-the-years-last-quiet/">Days between the holidays and the year&#39;s last quiet</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1766975820" data-df="D MMM YYYY">29 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-years-ledger-the-accounts-of-2025/">Ledger of the year: the accounts of 2025</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1766835840" data-df="D MMM YYYY">27 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-day-itself-the-rituals-of-the-turning-week/">Holiday rituals of the turning week</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1766632800" data-df="D MMM YYYY">25 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-eve-the-years-last-preparations-complete/">Holiday eve, and the year&#39;s last preparations</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1766577960" data-df="D MMM YYYY">24 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-solstice-the-years-darkest-turn-and-its-promise/">Solstice turns the year towards its darkest point</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1766363460" data-df="D MMM YYYY">22 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/museum-storage-400000-objects-catalogued-at-last/">400,000 objects catalogued in museum storage at last</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1766106900" data-df="D MMM YYYY">19 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-mid-december-pause-the-year-holds-its-breath/">Mid-December pause, as the year holds its breath</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1765680240" data-df="D MMM YYYY">14 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/choir-keeps-a-language-alive-in-work-songs/">Choir keeps a language alive in work songs</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1765614000" data-df="D MMM YYYY">13 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-root-dialects-traditions-and-customs/">Anhui&#39;s dialects, traditions and customs</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1765243260" data-df="D MMM YYYY">9 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-winter-quiet-and-the-years-last-preparations/">Winter&#39;s quiet week and the year&#39;s last preparations</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1765186380" data-df="D MMM YYYY">8 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/december-opens-with-the-years-last-month-in-view/">December opens with the year&#39;s last month in view</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1764638280" data-df="D MMM YYYY">2 Dec 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/november-closes-the-years-decisions-delivered/">November closes with the year&#39;s decisions delivered</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1764512700" data-df="D MMM YYYY">30 Nov 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-holiday-and-the-years-accounting/">Thanksgiving holiday and the year&#39;s accounting</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1764161220" data-df="D MMM YYYY">26 Nov 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-week-before-thanksgiving-and-the-years-table/">Thanksgiving week and the year&#39;s table</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1763951340" data-df="D MMM YYYY">24 Nov 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/bookshop-in-a-town-of-6000-earns-12-per-cent-from-books/">Bookshop in a town of 6,000 earns 12 per cent from books</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1763792100" data-df="D MMM YYYY">22 Nov 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-unsubscribe-button-and-the-november-inbox/">Unsubscribing from the November inbox</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1763516400" data-df="D MMM YYYY">19 Nov 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/40000-signs-a-notation-that-makes-signed-languages-comparable/">40,000 signs: a notation that makes signed languages comparable</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1762502700" data-df="D MMM YYYY">7 Nov 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/october-closes-the-years-arguments-at-their-peak/">October closes with the year&#39;s arguments at their peak</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1761833460" data-df="D MMM YYYY">30 Oct 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-october-light-and-the-seasons-own-pace/">October light sets the season&#39;s own pace</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1760748900" data-df="D MMM YYYY">18 Oct 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/returned-bronzes-rest-on-a-curators-1938-marginal-note/">Returned bronzes rest on a curator&#39;s 1938 marginal note</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1760325000" data-df="D MMM YYYY">13 Oct 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/october-opens-with-the-years-final-quarter-in-view/">October opens with the year&#39;s final quarter in view</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1759368900" data-df="D MMM YYYY">2 Oct 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/september-closes-the-autumn-has-begun-in-earnest/">September closes and the autumn begins in earnest</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1759244160" data-df="D MMM YYYY">30 Sep 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/tourism-day-and-the-autumn-season/">Tourism day and the autumn season</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1758936600" data-df="D MMM YYYY">27 Sep 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/anniversary-that-the-city-keeps-quietly/">Anniversary that the city keeps quietly</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1757893680" data-df="D MMM YYYY">15 Sep 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/mooncake-boxes-arrive-before-the-moon/">Mooncake boxes arrive before the moon does</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1756865700" data-df="D MMM YYYY">3 Sep 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/august-box-office-passes-july-at-5-point-99-billion-yuan/">August box office passes July at 5.99 billion yuan</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1756603200" data-df="D MMM YYYY">31 Aug 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/august-closes-and-the-autumns-arguments-line-up/">August closes and the autumn&#39;s arguments line up</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1756474020" data-df="D MMM YYYY">29 Aug 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-school-year-that-begins-with-the-world-in-motion/">The school year that begins with the world in motion</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1756168320" data-df="D MMM YYYY">26 Aug 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-queue-for-the-museum/">The queue for the museum</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1755863400" data-df="D MMM YYYY">22 Aug 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/july-closes-the-settlements-and-the-summers-shape/">July closes with the settlements and the summer&#39;s shape</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1753969440" data-df="D MMM YYYY">31 Jul 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/one-play-travels-through-the-counties/">One play travels through the counties</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1753579200" data-df="D MMM YYYY">27 Jul 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-long-vacation-julys-quiet-between-the-headlines/">The long vacation and the quiet between the headlines</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1753411740" data-df="D MMM YYYY">25 Jul 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/county-museum-borrows-a-city-collection/">County museum borrows a city collection</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1753233600" data-df="D MMM YYYY">23 Jul 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-fourth-of-july-at-two-hundred-and-forty-nine/">The Fourth of July at two hundred and forty-nine</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1751681700" data-df="D MMM YYYY">5 Jul 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/june-closes-the-half-year-in-the-rear-mirror/">June closes: the half-year in the rear mirror</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1751117580" data-df="D MMM YYYY">28 Jun 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/projector-screens-go-up-in-the-courtyard/">Projector screens go up in the courtyard</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1751073600" data-df="D MMM YYYY">28 Jun 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/shanghai-festival-fills-the-screens-for-ten-days/">Shanghai festival fills the screens for ten days</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1750296000" data-df="D MMM YYYY">19 Jun 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/may-closes-and-the-summers-calendar-takes-shape/">May closes and the summer&#39;s calendar takes shape</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1748704020" data-df="D MMM YYYY">31 May 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/dragon-boats-on-a-river-that-has-water-again/">Dragon boats on a river that has water again</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1748136000" data-df="D MMM YYYY">25 May 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-grain-is-full-but-not-yet-ripe/">The grain is full but not yet ripe</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1747834200" data-df="D MMM YYYY">21 May 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/museum-storerooms-open-for-a-week/">Museum storerooms open for a week</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1747531200" data-df="D MMM YYYY">18 May 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-bookshop-that-survives-the-platform/">The bookshop that survives the platform</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1745496300" data-df="D MMM YYYY">24 Apr 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/reading-has-moved-to-the-phone-not-disappeared/">Reading moved to the phone rather than disappearing</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1745371200" data-df="D MMM YYYY">23 Apr 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/easter-in-the-middle-of-the-trade-war/">Easter in the middle of the trade war</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1745018520" data-df="D MMM YYYY">19 Apr 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-expo-on-an-artificial-island-and-the-cost-of-a-world-fair/">The expo on an artificial island and the cost of a world fair</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1744634100" data-df="D MMM YYYY">14 Apr 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-world-fair-opens-with-a-bill-that-doubled/">World fair opens with a bill that doubled</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1744593600" data-df="D MMM YYYY">14 Apr 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-first-of-april-and-the-prank-that-a-company-plays/">The first of April and the prank that a company plays</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1743517200" data-df="D MMM YYYY">1 Apr 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-blockbuster-exhibition-is-a-loan-with-a-price/">Blockbuster shows are loans with a price</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1743038400" data-df="D MMM YYYY">27 Mar 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-low-budget-film-sweeps-a-ceremony-of-stars/">Low-budget film sweeps a ceremony of stars</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1740964800" data-df="D MMM YYYY">3 Mar 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-independent-film-and-the-ceremony-that-sells-it/">The independent film and the ceremony that sells it</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1740929400" data-df="D MMM YYYY">2 Mar 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-start-of-spring-on-the-calendar-and-the-cold-outside/">The start of spring on the calendar and the cold outside</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1738587000" data-df="D MMM YYYY">3 Feb 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-record-of-the-year-and-the-show-that-is-losing-its-audience/">The record of the year and the show that is losing its audience</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1738502700" data-df="D MMM YYYY">2 Feb 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/gifts-in-the-trunk-and-a-drive-to-the-other-household/">Gifts in the trunk and a drive to the other household</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1738239300" data-df="D MMM YYYY">30 Jan 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-year-of-the-snake-arrives-on-a-workday/">The Year of the Snake arrives on a workday: the shortest festival</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1738064460" data-df="D MMM YYYY">28 Jan 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-four-hour-gala-and-the-price-of-the-breaks/">Why the gala breaks cost more than the songs</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1738027200" data-df="D MMM YYYY">28 Jan 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-little-new-year-and-the-house-that-gets-cleaned/">The little new year and the house that gets cleaned</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1737551700" data-df="D MMM YYYY">22 Jan 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-holiday-that-falls-on-a-monday-and-the-calendar-that-made-it/">The holiday that falls on a Monday and the calendar that made it</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1737377100" data-df="D MMM YYYY">20 Jan 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-new-year-on-an-old-schedule-the-first-morning-of-2025/">A new year on an old schedule: the first morning of 2025</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1735686720" data-df="D MMM YYYY">1 Jan 2025</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-last-farewell-jimmy-carter-and-the-longest-american-life/">The last farewell: Jimmy Carter and the longest American life</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1735530420" data-df="D MMM YYYY">30 Dec 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/fire-the-vow-the-reopening-notre-dame-returns/">Fire, vow, reopening: Notre-Dame returns</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1733646900" data-df="D MMM YYYY">8 Dec 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/notre-dame-reopens-five-years-after-the-fire/">Notre-Dame reopens five years after the fire</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1733534400" data-df="D MMM YYYY">7 Dec 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/moana-2-delivers-the-biggest-five-day-opening-on-record/">Moana 2 delivers the biggest five-day opening on record</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1733102400" data-df="D MMM YYYY">2 Dec 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/booker-judges-pick-a-novel-that-never-leaves-orbit/">Booker judges pick a novel that never leaves orbit</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1731460800" data-df="D MMM YYYY">13 Nov 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/museum-lends-gold-taken-in-a-colonial-campaign/">Museum lends gold taken in a colonial campaign</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1729387200" data-df="D MMM YYYY">20 Oct 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/dictionary-adds-the-words-the-internet-made-ordinary/">Dictionary adds the words the internet made ordinary</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1727313600" data-df="D MMM YYYY">26 Sep 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/music-mogul-charged-with-racketeering-and-held-without-bail/">Music mogul charged with racketeering and held without bail</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1726536000" data-df="D MMM YYYY">17 Sep 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-summer-that-the-cinema-lost/">The summer that the cinema lost</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1724507400" data-df="D MMM YYYY">24 Aug 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-summer-that-the-cinema-hoped-for/">The summer that the cinema hoped for</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1720272000" data-df="D MMM YYYY">6 Jul 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/boats-on-the-river-before-the-festival/">Boats on the river before the festival</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1718194800" data-df="D MMM YYYY">12 Jun 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/nemo-wins-the-eurovision-song-contest-for-switzerland/">Nemo wins the Eurovision Song Contest for Switzerland</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1715442300" data-df="D MMM YYYY">11 May 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/switzerlands-nemo-wins-eurovision-with-a-song-about-gender-and-code/">Switzerland&#39;s Nemo wins Eurovision with a song about gender and code</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1715390400" data-df="D MMM YYYY">11 May 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/oppenheimer-wins-seven-awards-at-the-oscars/">Oppenheimer wins seven awards at the Oscars</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1710120000" data-df="D MMM YYYY">11 Mar 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/berlinale-gives-its-top-prize-to-a-film-about-the-return-of-looted-art/">Berlinale gives its top prize to a film about the return of looted art</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1708305600" data-df="D MMM YYYY">19 Feb 2024</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/bethlehem-keeps-christmas-without-the-tree/">Bethlehem keeps Christmas without the tree</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1703425800" data-df="D MMM YYYY">24 Dec 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/golden-globes-nominations-put-barbie-and-oppenheimer-at-the-top/">Golden Globes nominations put Barbie and Oppenheimer at the top</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1702257600" data-df="D MMM YYYY">11 Dec 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/time-names-taylor-swift-person-of-the-year/">Time names Taylor Swift person of the year</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1701872100" data-df="D MMM YYYY">6 Dec 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-actors-strike-ends-with-a-deal-on-pay-and-machines/">The actors&#39; strike ends with a deal on pay and machines</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1699448400" data-df="D MMM YYYY">8 Nov 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-beatles-release-a-song-from-beyond-the-grave/">The Beatles release a song from beyond the grave</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1698932400" data-df="D MMM YYYY">2 Nov 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-nobel-for-literature-goes-to-a-quiet-norwegian/">The Nobel for literature goes to a quiet Norwegian</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1696506600" data-df="D MMM YYYY">5 Oct 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/barbie-passes-a-billion-dollars-at-the-box-office/">Barbie passes a billion dollars at the box office</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1691284800" data-df="D MMM YYYY">6 Aug 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/anatomy-of-a-fall-wins-the-palme-dor-at-cannes/">Anatomy of a Fall wins the Palme d&#39;Or at Cannes</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1685150400" data-df="D MMM YYYY">27 May 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/sweden-wins-eurovision-as-loreen-takes-a-second-title/">Sweden wins Eurovision as Loreen takes a second title</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1683940800" data-df="D MMM YYYY">13 May 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/charles-is-crowned-in-a-service-of-old-rites-and-new-arithmetic/">Charles is crowned in a service of old rites and new arithmetic</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1683382200" data-df="D MMM YYYY">6 May 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/two-anchors-leave-in-the-same-afternoon/">Two anchors leave in the same afternoon</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1682350200" data-df="D MMM YYYY">24 Apr 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-films-that-won-everything/">The films that won everything</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1678635000" data-df="D MMM YYYY">12 Mar 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/everything-everywhere-wins-seven-oscars/">Everything Everywhere wins seven Oscars</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1678584000" data-df="D MMM YYYY">12 Mar 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/a-french-documentary-takes-the-golden-bear/">French documentary takes the Golden Bear in Berlin</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1677288000" data-df="D MMM YYYY">25 Feb 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/berlin-opens-its-film-festival-with-a-comedy/">Berlin opens its film festival with a comedy</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1676510400" data-df="D MMM YYYY">16 Feb 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/beyonce-takes-the-record-and-the-night-goes-elsewhere/">Beyonce takes the record and the night goes elsewhere</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1675612200" data-df="D MMM YYYY">5 Feb 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/wandering-earth-2-opens-with-430-million-yuan-in-a-day/">Wandering Earth 2 opens with 430 million yuan in a day</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1674350400" data-df="D MMM YYYY">22 Jan 2023</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/barbara-walters-dies-at-ninety-three/">Barbara Walters dies at ninety-three, after making the interview a form of news</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1672414200" data-df="D MMM YYYY">30 Dec 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-avatar-sequel-opens-to-441-million-dollars/">Avatar sequel opens to 441 million dollars</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1671153600" data-df="D MMM YYYY">16 Dec 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/biden-signs-the-respect-for-marriage-act/">Biden signs the Respect for Marriage Act on the south lawn</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1670941800" data-df="D MMM YYYY">13 Dec 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-golden-globes-return-with-a-first-time-director-in-the-lead/">Golden Globes return with a first-time director in the lead</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1670808000" data-df="D MMM YYYY">12 Dec 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/grammy-nominations-put-beyonce-in-the-lead/">Grammy nominations put Beyoncé in the lead</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1668475200" data-df="D MMM YYYY">15 Nov 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/taylor-swifts-midnights-sells-1-5-million-copies/">Taylor Swift&#39;s Midnights sells 1.5 million copies</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1666920000" data-df="D MMM YYYY">28 Oct 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/annie-ernaux-wins-the-literature-nobel-for-a-lifetime-written-out-of-memory/">Annie Ernaux wins the literature Nobel for a lifetime written out of memory</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1665069600" data-df="D MMM YYYY">6 Oct 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/milgrams-obedience-paper-still-asks-what-a-lab-coat-can-do/">Milgram&#39;s obedience paper still asks what a man in a lab coat can make people do</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1663075800" data-df="D MMM YYYY">13 Sep 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/succession-and-ted-lasso-take-the-emmys/">Succession and Ted Lasso take the Emmys</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1662945600" data-df="D MMM YYYY">12 Sep 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/salman-rushdie-is-stabbed-on-stage-in-new-york-state/">Salman Rushdie is stabbed on stage in New York state</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1660319700" data-df="D MMM YYYY">12 Aug 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-jubilee-marked-seventy-years-of-one-reign/">The jubilee marked seventy years of one reign</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1654182600" data-df="D MMM YYYY">2 Jun 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/triangle-of-sadness-takes-the-palme-dor-at-cannes/">Triangle of Sadness takes the Palme d&#39;Or at Cannes</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1653752400" data-df="D MMM YYYY">28 May 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/ukraines-entry-wins-the-eurovision-song-contest/">Ukraine&#39;s entry wins the Eurovision song contest</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1652491200" data-df="D MMM YYYY">14 May 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/jon-batiste-takes-five-grammys/">Jon Batiste takes five Grammys</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1648948800" data-df="D MMM YYYY">3 Apr 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/coda-wins-the-best-picture-oscar/">CODA wins the best picture Oscar</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1648430400" data-df="D MMM YYYY">28 Mar 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/smith-slaps-rock-on-the-oscars-stage/">Smith slaps Rock on the Oscars stage</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1648396200" data-df="D MMM YYYY">27 Mar 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/norway-wins-a-record-sixteenth-gold-as-the-games-close/">Norway wins a record sixteenth gold as the Beijing Games close</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1645371600" data-df="D MMM YYYY">20 Feb 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/the-rams-win-the-super-bowl-on-their-own-field/">The Rams win the Super Bowl on their own field with a late touchdown</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1644767400" data-df="D MMM YYYY">13 Feb 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/beijing-opens-the-winter-games-inside-a-closed-loop/">Beijing opens the Winter Games inside a closed loop</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1643988600" data-df="D MMM YYYY">4 Feb 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/wordle-is-sold-to-the-new-york-times/">Wordle is sold to the New York Times</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1643592000" data-df="D MMM YYYY">31 Jan 2022</time>
+    </li>
+    
+    <li class="d-flex justify-content-between px-md-3">
+      <a href="/posts/spotify-keeps-joe-rogan-and-loses-neil-young/">Spotify keeps Joe Rogan and loses Neil Young</a>
+      <span class="dash flex-grow-1"></span>
+      <time class="text-muted small text-nowrap" data-ts="1643296800" data-df="D MMM YYYY">27 Jan 2022</time>
+    </li>
+    
+  </ul>
+</div>
+
+
+          </main>
+          <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
+            <div class="access">
+              
+
+
+<section id="access-lastmod">
+  <h2 class="panel-heading">Recently Updated</h2>
+  <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
+    
+    <li class="text-truncate lh-lg"><a href="/posts/un-rights-office-says-gazas-health-system-is-close-to-collapse/">UN rights office says Gaza&#39;s health system is close to collapse</a></li>
+    
+    <li class="text-truncate lh-lg"><a href="/posts/microsoft-365-outage-takes-down-outlook-teams-and-copilot-for-hours/">Microsoft 365 outage takes down Outlook, Teams and Copilot for hours</a></li>
+    
+    <li class="text-truncate lh-lg"><a href="/posts/chinext-falls-3-3-per-cent-as-chip-and-optical-shares-retreat/">ChiNext falls 3.3 per cent as chip and optical shares retreat</a></li>
+    
+    <li class="text-truncate lh-lg"><a href="/posts/brent-crude-climbs-above-95-dollars-after-trump-rules-out-an-iran-deal/">Brent crude climbs above 95 dollars after Trump rules out an Iran deal</a></li>
+    
+    <li class="text-truncate lh-lg"><a href="/posts/jensen-huang-resigns-as-nvidia-chief-after-33-years/">Jensen Huang resigns as NVIDIA chief after 33 years</a></li>
+    
+  </ul>
+</section>
+
+
+            </div>
+            
+          </aside>
+        </div>
+        <div class="row">
+          <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 px-md-4">
+            
+            <footer aria-label="Site Info" class="d-flex flex-wrap flex-column justify-content-center text-muted flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3">
+  <aside class="site-disclaimer w-100" role="note" aria-label="Site disclaimer" style="flex: 0 0 100%; margin: 0 0 0.9rem; padding: 0.7rem 0.9rem; border-left: 3px solid #0056b2; background: rgba(0, 86, 178, 0.04); text-align: left;">
+    <p style="margin: 0; font-size: 0.78rem; line-height: 1.6; text-align: left;">
+      This site is a personal study journal only, not a news service. Posts here are reading notes, translations and
+      speculative exercises, and some are fiction written as practice. Nothing on this site is a report of fact about
+      any person or institution; please verify against primary sources before citing.
+    </p>
+  </aside>
+  <p class="latin-motto text-center">Verba volant, scripta manent.</p>
+  <p>© <time>2026</time> <a href="https://twitter.com/CaozheB72170">Caozhe Bao</a>.
+    <span data-bs-toggle="tooltip" data-bs-placement="top" title="Except where otherwise noted, the blog posts on this site are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.">Some rights reserved.</span>
+    <br>
+    <a href="/license/">Licence</a>
+    <span class="mx-2 text-muted">|</span>
+    <a href="/copyright/">Copyright</a>
+  </p>
+  <p>Built with <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>, styled after the <a data-bs-toggle="tooltip" data-bs-placement="top" title="Chirpy 7.6.0 stylesheet and scripts" href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a> theme.</p>
+</footer>
+<script>
+  (function () {
+    if ('serviceWorker' in navigator && location.protocol === 'https:') {
+      var swUrl = '/sw.js';
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register(swUrl, { updateViaCache: 'none' }).catch(function () {});
+      });
+    }
+  })();
+</script>
+
+          </div>
+        </div>
+        <div id="search-result-wrapper" class="d-flex justify-content-center d-none">
+  <div class="col-11 content">
+    <div id="search-hints"></div>
+    <div id="search-results" class="d-flex flex-wrap justify-content-center text-muted mt-3"></div>
+  </div>
+</div>
+
+      </div>
+      <aside aria-label="Scroll to Top">
+        <button id="back-to-top" type="button" class="btn btn-lg btn-box-shadow">
+          <i class="fas fa-angle-up"></i>
+        </button>
+      </aside>
+    </div>
+    <div id="mask" class="d-none position-fixed w-100 h-100 z-1"></div>
+    
+    <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('search-results'),
+      json: '/assets/js/data/search.json',
+      searchResultTemplate: '<article class="px-1 px-sm-2 px-lg-4 px-xl-0"><header><h2><a href="{url}">{title}</a></h2><div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">{categories}{tags}</div></header><p>{content}</p></article>',
+      noResultsText: '<p class="mt-5">Oops! No results found.</p>',
+      templateMiddleware: function(prop, value, template) {
+        if (prop === 'categories') {
+          if (value === '') { return `${value}`; }
+          return `<div class="me-sm-4"><i class="far fa-folder fa-fw"></i>${value}</div>`;
+        }
+        if (prop === 'tags') {
+          if (value === '') { return `${value}`; }
+          return `<div><i class="fa fa-tag fa-fw"></i>${value}</div>`;
+        }
+      }
+    });
+  });
+</script>
+
+  </body>
+</html>
