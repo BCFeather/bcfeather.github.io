@@ -8,6 +8,8 @@ description: "The smallest number whose floored cube, ninth and twenty-seventh p
 
 In 1947 Mills showed that a real number exists whose floored powers are always prime: take a number above one, raise it to the third, ninth, twenty-seventh power and onwards, and the integer part is prime every time. The proof needs primes to appear often enough in short intervals, and the constant is defined as the smallest number with the property.
 
+The construction is where the constant comes from. Mills took a sequence of primes that grows quickly enough that each one lies below the cube of some common number, and the existence of such a sequence follows from a theorem on gaps between consecutive primes. The smallest candidate that works for the whole sequence is the constant, and it is pinned from below by those gaps.
+
 Its value is about 1.3063778839, and the digits are not where the difficulty lies. The constant is defined through a property of the primes and not by a formula, so questions about it are questions about the distribution of primes in disguise: every digit is a computation, and every arithmetic property is a theorem.
 
 A preprint posted to arXiv on 30 April 2024 proves that Mills' constant is irrational. The result does not assume the Riemann hypothesis, and the paper adds partial results on whether the number is transcendental, which stays open. No new digits are computed along the way.

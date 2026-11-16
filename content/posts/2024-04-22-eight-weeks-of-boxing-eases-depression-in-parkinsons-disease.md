@@ -10,7 +10,9 @@ Parkinson's disease is diagnosed on movement and treated with drugs that replace
 
 A preprint posted to arXiv on 18 April 2024 reports one such trial. Forty patients with a confirmed diagnosis took part in Rock Steady Boxing, an adapted boxing programme, twice a week for eight weeks, in sessions built from a warm-up, core work and a cool-down. Depression was scored with the Beck Depression Inventory as the programme ran.
 
-Scores fell over the eight weeks, with the decline concentrated in affective, cognitive and somatic items, and the analysis reports the change over time as significant. Six participants withdrew for organisational reasons, so the analysed group is thirty-four and not forty, a loss of fifteen per cent of the sample and of whatever those six would have reported.
+The programme is a known quantity in the Parkinson community and not a laboratory invention. Boxing drills put demands on balance, weight shift, reach and rhythm at the same time, which is close to the combination that gait problems take away, and the classes are loud and social, which is a different intervention from a supervised treadmill session even when the heart rates match.
+
+Scores fell over the eight weeks, with the decline concentrated in affective, cognitive and somatic items, and the analysis reports the change over time as significant. Six participants withdrew for organizational reasons, so the analysed group is thirty-four and not forty, a loss of fifteen per cent of the sample and of whatever those six would have reported.
 
 One detail is worth keeping. Symptoms classed as severe fell while milder ones rose, which is what a shift in a distribution looks like when a few patients improve a great deal and others begin to report small complaints they had not mentioned before. The paper reads that as improvement; a reader would want the item-level data before agreeing.
 

@@ -10,6 +10,8 @@ The sub-terahertz band offers bandwidth that the congested bands below 100 GHz c
 
 A preprint posted to arXiv on 3 April 2024 measures a ground-to-drone channel at 140 GHz and builds a geometry-based stochastic model around the measurement. The carrier was unmodulated, which fixes propagation without asking anything of a modulation scheme, and the model carries three-dimensional positions and beamwidth so that hovering is represented and not averaged out.
 
+The modelling choice deserves a line of its own. A geometry-based stochastic model draws rays between stated points and weights them by antenna pattern, so a hovering drone is a moving point and not a fading statistic. That is what lets the authors vary beamwidth and orientation separately and read the result as a property of the link instead of a property of the afternoon.
+
 Two findings come out of the comparison. Tilting and rotating the drone barely changes the received signal, and the requirement for precise alignment between drone and ground station falls as the beamwidth grows. A narrow beam makes the band hard to use and, once it is wide enough to cover the airframe, makes the platform forgiving.
 
 At 140 GHz the wavelength is about 2.1 mm, so a small displacement is a large fraction of a wavelength and the phase moves quickly. What the measurement shows is that the beam footprint governs the link more than that sensitivity does: while the drone stays inside the footprint, orientation adds little, and pointing accuracy can be relaxed in proportion to the width of the beam.

@@ -10,6 +10,8 @@ Silicon carbide substrates are grown slowly and yield badly, and a wafer of the 
 
 A preprint posted to arXiv on 30 April 2024 reports controlled spalling of single-crystal 4H silicon carbide, lifting films of 10 to 50 microns from bulk substrates. Spalling is a fracture running parallel to the surface beneath a stressed overlayer, and controlling where the crack starts and how thick the stressor is turns it from a damage mechanism into a transfer technique.
 
+Other routes to a thin film exist and each pays a price. Grinding and polishing removes the material it saves, ion implantation for a smart cut damages the crystal it is meant to preserve, and a handle wafer bonded by an oxide adds an interface that a power device has to live with. Spalling keeps the crystal and needs only a stressed layer that can be etched away afterwards.
+
 The authors call the result the highest fracture toughness material spalled so far, which is the claim that matters, since a tougher crystal resists the very crack the method depends on. They also show reuse of the substrate after the film is removed, bonding of the lifted film to a carrier, and spin control of neutral divacancy ensembles inside the transferred film.
 
 The qubit measurement carries the argument. Ensembles of the neutral divacancy, written \(VV^{0}\), keep a spin coherence time of about 79.7 microseconds in the spalled film, close enough to bulk values that the fracture has not wrecked the defect environment. A film that can be lifted and still hold coherent spins is doing more than surviving the process.
