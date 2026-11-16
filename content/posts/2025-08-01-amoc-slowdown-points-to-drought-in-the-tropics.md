@@ -1,12 +1,12 @@
 ---
 slug: "amoc-slowdown-points-to-drought-in-the-tropics"
 title: "AMOC slowdown points to drought in the tropics"
-date: "2025-11-28T10:40:00+08:00"
+date: "2025-08-01T10:40:00+08:00"
 categories: [science]
-description: "Climate models and a Heinrich Stadial 1 proxy record indicate that a weaker Atlantic overturning circulation would shift rainfall away from Mesoamerica, the Amazon and West Africa, in Nature, 27 November 2025."
+description: "Climate models and a Heinrich Stadial 1 proxy record indicate that a weaker Atlantic overturning circulation would shift rainfall away from Mesoamerica, the Amazon and West Africa, in Nature, 30 July 2025."
 ---
 
-Carrying heat northwards, the Atlantic meridional overturning circulation, or AMOC, has mostly been discussed as a system whose effects stay in the North Atlantic: cooler seas, altered European winters, a different hurricane season. Tropical rainfall is less obviously connected, which is why model projections of its future have stayed uncertain. A study in *Nature*, 27 November 2025, traces the route by which a slowdown in the high latitudes reaches the tropics, then checks that route against a past interval in which the circulation is known to have weakened.
+Carrying heat northwards, the Atlantic meridional overturning circulation, or AMOC, has mostly been discussed as a system whose effects stay in the North Atlantic: cooler seas, altered European winters, a different hurricane season. Tropical rainfall is less obviously connected, which is why model projections of its future have stayed uncertain. A study in *Nature*, 30 July 2025, traces the route by which a slowdown in the high latitudes reaches the tropics, then checks that route against a past interval in which the circulation is known to have weakened.
 
 Pedro DiNezio, Timothy Shanahan and colleagues use a combination of climate model simulations and palaeoclimate records from Heinrich Stadial 1, a period of pronounced AMOC weakening. In the models, a cooler tropical and subtropical North Atlantic sends cold air east and west through the prevailing easterly and westerly winds. Air-sea interaction carries that signal across the Pacific and Indian oceans, and the rainfall response reaches Indonesia, the tropical Andes and northern Australia. Under warming scenarios, the same teleconnection produces a consistent multi-model pattern, with a stronger drying signal in Mesoamerica and West Africa than in the models' unconstrained projections.
 

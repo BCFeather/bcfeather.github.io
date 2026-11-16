@@ -3,12 +3,12 @@ slug: "ligands-turn-an-insulating-nanocrystal-into-a-light-emitter"
 title: "Ligands turn an insulating nanocrystal into a light emitter"
 date: "2025-11-21T11:05:00+08:00"
 categories: [science]
-description: "Organic ligands anchored on 4 nm lanthanide-doped fluoride nanocrystals generate excitons externally and transfer them into the crystal, producing efficient, colour-tunable electroluminescence in Nature, 20 November 2025."
+description: "Organic ligands anchored on 4 nm lanthanide-doped fluoride nanocrystals generate excitons externally and transfer them into the crystal, producing efficient, colour-tunable electroluminescence in Nature, 19 November 2025."
 ---
 
 Lanthanide-doped nanocrystals emit narrow, stable lines across the visible and near infrared, which is why they are attractive for displays and imaging. Their hosts are oxides and fluorides, and those materials are electrical insulators. Directly injecting carriers into a 4 nm crystal has therefore been unworkable, and the field's progress in electroluminescence has been limited by the charge-injection step and not by the emitters themselves.
 
-Xu Hui and Han Chunmiao at Heilongjiang University, with collaborators including Han Sanyang at Tsinghua University Shenzhen International Graduate School and Liu Xiaogang at the National University of Singapore, take a different route in *Nature*, 20 November 2025. They synthesize 4 nm NaGdF\(_4\) nanocrystals doped with Tb, Eu or Nd, then anchor a family of arylphosphine oxide carboxylic acid ligands, the ArPPOAs, to the surface. The carboxyl group acts as the anchor; the donor-acceptor structure of the ligand does the rest.
+Jing Tan and colleagues at Heilongjiang University, with Hui Xu and Chunmiao Han as corresponding authors there and further collaborators at Tsinghua University Shenzhen International Graduate School and the National University of Singapore, take a different route in *Nature*, 19 November 2025. They synthesize 4 nm NaGdF\(_4\) nanocrystals doped with Tb, Eu or Nd, then anchor a family of arylphosphine oxide carboxylic acid ligands, the ArPPOAs, to the surface. The carboxyl group acts as the anchor; the donor-acceptor structure of the ligand does the rest.
 
 Under an electric field, the ligand captures electrons and holes and undergoes intersystem crossing in under one nanosecond, handing the resulting triplet energy to the lanthanide ion. Intersystem crossing reaches 98.6 per cent in the optimized system, while the CzPPOA ligand achieves 96.7 per cent triplet energy transfer to the ion. The nanocrystal itself does not need to accept charge, so its insulating character stops being a barrier. That sidestep is the substantive change: the hard half of the device was carrier injection, and the design moves exciton formation onto the ligand instead.
 
