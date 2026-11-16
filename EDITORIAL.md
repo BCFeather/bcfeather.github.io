@@ -1,7 +1,7 @@
 # Editorial manual
 
 How posts are chosen, written, typeset and verified on this site. The rules apply to every batch
-from 2026 onwards, and they are written to be checkable: each section ends with something a script
+from 2022 onwards, and they are written to be checkable: each section ends with something a script
 or a reader can test.
 
 ## 1. The site's job
@@ -18,7 +18,7 @@ substance is the framework, the measurement and the limit, never the excitement.
 ## 2. Monthly volume
 
 Each month of 2026 carries **63 to 69 posts**, and the total is naturally uneven across months:
-a run of identical numbers reads like a quota rather than a year. Randomly select a number between 63 to 69 and keep it as the number of posts of one single, certainmonth.
+a run of identical numbers reads like a quota rather than a year. Randomly select a number between 63 to 69 and keep it as the number of posts of one single, certain month.
 
 Work through a month in batches and keep the daily rhythm roughly even: a month should not open
 with nine posts and close with two. When a batch is added to an already populated month, spread the
