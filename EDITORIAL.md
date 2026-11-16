@@ -116,3 +116,8 @@ no formula-like name that would need them. Write the chemistry out in words (pho
 3,4-bisphosphate rather than the abbreviated lipid, a CUL2-based ubiquitin ligase rather than the
 complex in superscript notation), and keep the sentence readable to someone who never sees the
 body. TeX belongs to the body, where the markup renders.
+
+Citations. Papers are cited by journal and date only: *Nature*, 6 May 2026; *The Lancet*, 2 May
+2026. No volume, issue, article number or page range in running text, and no strings of the form
+`Science 394, 6823`. Where a reader needs the paper itself, the date and the journal are enough to
+find it, and the numbers only add noise to a sentence about the result.
