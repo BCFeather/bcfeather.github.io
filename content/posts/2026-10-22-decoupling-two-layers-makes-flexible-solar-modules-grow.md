@@ -6,7 +6,7 @@ categories: [science]
 description: "A Science paper separates the self-assembled monolayer step from the perovskite step, and flexible modules reach 22.31 per cent on 5 x 5 centimetre panels."
 ---
 
-Flexible perovskite modules have trailed their rigid cousins for a reason that is chemical rather than architectural. A paper in *Science* on 22 October reports a fix for it, and the numbers are the argument: a certified 26.86 per cent on a small flexible cell, 22.31 per cent on a 5 by 5 centimetre module, 20.63 per cent on a 10 by 10 centimetre one and 20.15 per cent on a panel larger still. Wu and colleagues at Soochow University led the work, which appears in *Science* 394, 6822.
+Flexible perovskite modules have trailed their rigid cousins for a reason that is chemical rather than architectural. A paper in *Science* on 22 October reports a fix for it, and the numbers are the argument: a certified 26.86 per cent on a small flexible cell, 22.31 per cent on a 5 by 5 centimetre module, 20.63 per cent on a 10 by 10 centimetre one and 20.15 per cent on a panel larger still. Wu and colleagues at Soochow University led the work, reported in *Science* on 22 October.
 
 The weak layer is the self-assembled monolayer that sits between the transparent electrode and the perovskite and selects which charge carrier leaves. On a rigid glass substrate the monolayer forms cleanly. On a flexible substrate, surface hydroxyl groups desorb during processing and interfere with the assembly of the monolayer, so the layer is patchy, the contact is poor and the perovskite grown on top inherits the damage.
 

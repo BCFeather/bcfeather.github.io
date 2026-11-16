@@ -6,7 +6,7 @@ categories: [science]
 description: "A Nature paper reports a graphene film that reaches 2.9 GPa in strength while stretching 5 per cent, because the flakes are folded and clasped rather than stacked flat."
 ---
 
-A paper in *Nature* on 14 October reports a graphene film that reaches 2.9 GPa in tensile strength, stretches 5 per cent before it breaks, and absorbs 84.5 megajoules per cubic metre on the way there. Wang Lidan, Liao Yangchao and colleagues at several Chinese and American laboratories built the film from folded flakes rather than flat ones, and the fold is the point. The work appears in *Nature* 658, 643-649.
+A paper in *Nature* on 14 October reports a graphene film that reaches 2.9 GPa in tensile strength, stretches 5 per cent before it breaks, and absorbs 84.5 megajoules per cubic metre on the way there. Wang Lidan, Liao Yangchao and colleagues at several Chinese and American laboratories built the film from folded flakes rather than flat ones, and the fold is the point. The route is mechanical rather than chemical, which is why it can be scaled on the film-handling equipment that manufacturers already own.
 
 Flat sheets stack into films whose strength rises with the order of the stacking. Order also makes them brittle, because a film of neatly aligned platelets has little room to give before a crack runs through it. Bending individual sheets into controlled shapes would let a film store strain energy and slow that crack, but two-dimensional sheets resist being folded at production scale, and earlier routes to better films worked on the order of the stack rather than on the shape of each flake.
 

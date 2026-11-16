@@ -6,7 +6,7 @@ categories: [science]
 description: "A small molecule switches on a ubiquitin ligase instead of blocking one, clears the proteins that obstruct the mitochondrial import gate and rescues neurons in disease models."
 ---
 
-Most drug programmes aimed at the ubiquitin system try to stop a ligase. A paper in *Science* on 29 October does the opposite, and the result suggests the opposite direction is worth a programme of its own. Chandrasekhar and colleagues identified a small molecule that switches on \(\mathrm{CUL2}^{\mathrm{FEM1B}}\), an E3 ligase that cells use under reductive stress, and the switch improves mitochondrial protein import and neuronal survival in models of mitochondrial disease. The paper appears in *Science* 394, 6823.
+Most drug programmes aimed at the ubiquitin system try to stop a ligase. A paper in *Science* on 29 October does the opposite, and the result suggests the opposite direction is worth a programme of its own. Chandrasekhar and colleagues identified a small molecule that switches on \(\mathrm{CUL2}^{\mathrm{FEM1B}}\), an E3 ligase that cells use under reductive stress, and the switch improves mitochondrial protein import and neuronal survival in models of mitochondrial disease. The result turns an E3 ligase from a target that is blocked into a switch that is turned on.
 
 The biology runs through the import gate. Proteins destined for the mitochondrial interior have to pass the TOM complex, and when that gate is obstructed the organelle cannot renew itself. \(\mathrm{CUL2}^{\mathrm{FEM1B}}\) removes a family of proteins, the BEX proteins, that block substrate binding; under normal conditions the ligase is held inactive by one of those proteins, so the cell keeps a degradation system in reserve until stress arrives.
 
