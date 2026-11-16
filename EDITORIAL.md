@@ -67,8 +67,9 @@ asks for it: five when the result is compact and the caveats are few, seven when
 background need a movement of their own. Four or fewer is thin and eight or more is bloat; a post
 that seems to need either should be reorganised rather than stretched. Between **480 and 625 words**
 in the body, with 480 as a floor and not a number to clear by three words: a paragraph of 75 to 100
-words is the working unit, and five to seven of them land near 500. The upper bound is soft, since a dense result occasionally needs the room, but padding is
-never the fix for a short post, and a post under 480 words is unfinished rather than terse.
+words is the working unit, and five to seven of them land near 500. The upper bound is soft, since a
+dense result occasionally needs the room, but padding is never the fix for a short post, and a post
+under 480 words is unfinished rather than terse.
 
 The movements, in their usual order:
 
