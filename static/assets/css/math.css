@@ -1,10 +1,33 @@
-/* Inline and display math: same colour as prose, no line breaks inside a short formula. */
-article .content .katex {
+/* Typeset math in the same face as prose: Computer Modern Serif. */
+article .content .katex,
+article .content .katex-display > .katex {
+  font-family: "Computer Modern Serif", Georgia, "Times New Roman", serif;
   font-size: 1em;
   color: inherit;
   white-space: nowrap;
 }
-article .content .katex-display > .katex {
-  font-size: 1.06em;
-  white-space: nowrap;
+
+/* Every glyph slot inherits that face instead of KaTeX_Main / KaTeX_Math. */
+article .content .katex .mainrm,
+article .content .katex .mathnormal,
+article .content .katex .textrm,
+article .content .katex .textit,
+article .content .katex .mord,
+article .content .katex .mbin,
+article .content .katex .mrel,
+article .content .katex .mopen,
+article .content .katex .mclose,
+article .content .katex .mpunct,
+article .content .katex .minner,
+article .content .katex .mop,
+article .content .katex .mspace,
+article .content .katex .msupsub > span {
+  font-family: inherit;
+  color: inherit;
+}
+
+/* Variables stay italic, just drawn in the body face. */
+article .content .katex .mathnormal,
+article .content .katex .textit {
+  font-style: italic;
 }
