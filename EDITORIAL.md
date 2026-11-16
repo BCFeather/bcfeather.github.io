@@ -62,12 +62,15 @@ rule or a bureaucracy or an electoral system produces an outcome. Constraints:
 
 ## 4. The shape of a post
 
-Six paragraphs. Between **480 and 625 words** in the body, with 480 as a floor and not a number to
-clear by three words: a paragraph of 80 to 90 words is the working unit, and six of them land near
-500. The upper bound is soft, since a dense result occasionally needs the room, but padding is
+Six paragraphs is the default, not a rule. Between **five and seven** is allowed when the material
+asks for it: five when the result is compact and the caveats are few, seven when the methods or the
+background need a movement of their own. Four or fewer is thin and eight or more is bloat; a post
+that seems to need either should be reorganised rather than stretched. Between **480 and 625 words**
+in the body, with 480 as a floor and not a number to clear by three words: a paragraph of 75 to 100
+words is the working unit, and five to seven of them land near 500. The upper bound is soft, since a dense result occasionally needs the room, but padding is
 never the fix for a short post, and a post under 480 words is unfinished rather than terse.
 
-The six paragraphs do recognizable work:
+The movements, in their usual order:
 
 1. the situation before the result, and why it was unresolved;
 2. what was done, with the paper, the journal and the date;
@@ -284,7 +287,7 @@ fails, fix the content and push a new commit; do not re-run failed jobs on the o
 
 Per file:
 
-* six paragraphs, 480 to 625 words;
+* five to seven paragraphs, six by default, 480 to 625 words;
 * at most two paragraphs opening on `The`;
 * no title beginning with `A`, `An` or `The`; colon titles within a fifth of the batch;
 * one unquoted category from the nine; no tags; `slug`, `title`, `date`, `categories`,
@@ -309,7 +312,7 @@ Per batch:
 
 ## 16. Known backlog
 
-These are standing defects in the older archive, not permissions for new work: posts with five or
-seven paragraphs, posts below 480 words, titles beginning with `A/An/The`, and paragraphs opening on
+These are standing defects in the older archive, not permissions for new work: posts with four or
+fewer, or eight or more paragraphs, posts below 480 words, titles beginning with `A/An/The`, and paragraphs opening on
 `The` more than twice. New posts must not add to any of them. Clearing the archive is a separate
 project, done in batches with titles rewritten but slugs left untouched so that links survive.
