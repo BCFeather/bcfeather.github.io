@@ -15,6 +15,30 @@ Two consequences follow. Selection is deliberate, so a month is planned as a set
 accumulated day by day. And every post must stand on its own a year later, which is why the
 substance is the framework, the measurement and the limit, never the excitement.
 
+### Originality against press coverage
+
+A story that newspapers, wire services, broadcasters, magazines or trade outlets have already run
+is not disqualified, but it is not free either. It has to be told from a different angle or at a
+different depth, and the difference has to be visible within the first two paragraphs.
+
+* The substance comes from the primary record: the paper, the filing, the regulation, the dataset,
+  the transcript. A report about that record is a lead, never the source of the numbers.
+* Where coverage is dense and the post would only restate it, skip the story. A slot spent
+  repackaging a story that ran everywhere is a slot taken from something unreported.
+* Where the subject has to run, the opening says what the post adds: the measurement and its
+  interval, the design, the cost, the confounder, or the mechanism the coverage skipped.
+* Facts borrowed from a report are attributed in the sentence to the outlet that published them.
+  A news outlet never stands in as the citation for a scientific result, which keeps the
+  journal-date form of §11.
+* Borrowed wording stays short and sits in single quotes, no longer than a sentence. No table,
+  figure, chart or screenshot is reproduced from a report or from a paper; a figure that is
+  needed is redrawn from the primary data or left out.
+* Language and country do not matter. A Chinese, Japanese, German, French or Spanish report
+  saturates a topic in the same way an English one does, and a result counts as saturated once
+  several outlets have run it.
+* The test is whether a reader who has already seen the coverage learns something new. If not,
+  the post does not exist.
+
 ## 2. Monthly volume
 
 Each month of 2026 carries **63 to 69 posts**, and the total is naturally uneven across months:
@@ -315,7 +339,11 @@ Per file:
 * `-ize` for the `-ise` family, `-yse` for analyse and its relatives, official spelling inside
   proper names;
 * straight quotes only, singles outside and doubles inside; no em or en dash in prose;
-* `towards`, `per cent`, British vocabulary, and the house forms of §13.
+* `towards`, `per cent`, British vocabulary, and the house forms of §13;
+* substance traced to the primary record, with borrowed facts attributed to the outlet that ran
+  them and borrowed wording short and single-quoted;
+* the subject is either unreported or told from an angle the coverage did not take, and the
+  opening states what the post adds; no table, figure or screenshot reproduced from a report.
 
 Per batch:
 
