@@ -1,6 +1,6 @@
 ---
 slug: "adult-mice-regrow-a-molar-40-per-cent-too-small"
-title: "Adult mice regrow a molar, 40 per cent too small"
+title: "Adult mice regrow a molar, 40 per cent too small [API-WRITE-TEST]"
 date: "2025-11-01T10:15:00+08:00"
 categories: [science]
 description: "A dental stem-cell population that had been assumed to be exhausted in adults has been reactivated in mice, and the regrown tooth has the correct layers but not the correct size."
