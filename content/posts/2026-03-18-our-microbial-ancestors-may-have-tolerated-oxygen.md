@@ -10,7 +10,7 @@ The origin of the eukaryotic cell is usually told as a story about oxygen. Anaer
 
 Asgard archaea are the closest known prokaryotic relatives of eukaryotes, recovered from sediments and hot vents by genome assembly and not by culture. Their genomes contain genes for a cytoskeleton, for membrane trafficking and for small GTPases, which are the components that make a eukaryotic cell more than a bag of enzymes. A new genomic analysis asked whether they also contain the machinery for using oxygen.
 
-They do. The work, summarised in a research briefing in *Nature* on 18 March and published by Appler and colleagues, reports that Asgard archaea possess the genes required to respire with oxygen, and the genes appear to be ancestral to the group and not recently acquired. The implication is that the common ancestor of Asgard archaea and eukaryotes could have been oxygen-tolerant, which is the opposite of the standard model.
+They do. The work, summarized in a research briefing in *Nature* on 18 March and published by Appler and colleagues, reports that Asgard archaea possess the genes required to respire with oxygen, and the genes appear to be ancestral to the group and not recently acquired. The implication is that the common ancestor of Asgard archaea and eukaryotes could have been oxygen-tolerant, which is the opposite of the standard model.
 
 If the ancestor was tolerant, the timeline changes. Oxygen tolerance does not require an oxygenated atmosphere, because local oxygen sources exist wherever photosynthetic microbes form mats, and a microbe living near such a mat experiences oxygen long before the atmosphere does. Complexity could then have begun in a niche, and expanded when the niche became the world.
 

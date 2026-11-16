@@ -10,9 +10,9 @@ Apple's March quarter is the quiet one in a normal year, coming six months after
 
 Demand for the iPhone did most of the work. Tim Cook described a March quarter record for iPhone revenue, attributed to demand for the iPhone 17 lineup, and the company added the iPhone 17e during the quarter to reach the lower part of the price range. A product cycle that is still selling at record levels in its seventh month is a cycle with unusual momentum.
 
-Services set an all-time record, which is the number that matters for the shape of the business. Services revenue carries a higher margin than hardware and recurs, and a record in the March quarter means the installed base is both large and monetising, which is the argument that has supported the company's valuation through several hardware cycles.
+Services set an all-time record, which is the number that matters for the shape of the business. Services revenue carries a higher margin than hardware and recurs, and a record in the March quarter means the installed base is both large and monetizing, which is the argument that has supported the company's valuation through several hardware cycles.
 
-Cash generation was strong. Operating cash flow exceeded 28 billion dollars, a March quarter record, and the board raised the dividend by 4 per cent to 0.27 dollars a share and authorised a further 100 billion dollars of buyback. A company that returns that much capital is a company that does not see a use for it inside the business.
+Cash generation was strong. Operating cash flow exceeded 28 billion dollars, a March quarter record, and the board raised the dividend by 4 per cent to 0.27 dollars a share and authorized a further 100 billion dollars of buyback. A company that returns that much capital is a company that does not see a use for it inside the business.
 
 Three product introductions also landed in the quarter: the iPhone 17e, an iPad Air with the M4 chip, and a laptop called MacBook Neo. Each fills a gap rather than opens one, and the pattern is the one Apple has settled into, which is to extend a lineup across price points and to refresh it on a schedule that the supply chain can plan around.
 

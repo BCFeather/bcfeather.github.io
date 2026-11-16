@@ -10,7 +10,7 @@ Continuous ice cores reach back about eight hundred thousand years, which covers
 
 Seven years of field work went into recovering the material, and two papers in *Nature* on 19 March analysed it. The ice preserves bubbles of ancient air and the isotopic composition of the water itself, which together record temperature and the composition of the atmosphere at the time the ice formed. The record extends back roughly three million years, into the period when the Northern Hemisphere ice sheets first appeared.
 
-The headline conclusion is about what drove the transitions. The dominant influence on the major climate reorganisations of the last three million years appears to have been changes in ocean temperature, with greenhouse gas changes playing a supporting role. This inverts the emphasis of much model-based work, which treats carbon dioxide as the master variable and the ocean as a feedback.
+The headline conclusion is about what drove the transitions. The dominant influence on the major climate reorganizations of the last three million years appears to have been changes in ocean temperature, with greenhouse gas changes playing a supporting role. This inverts the emphasis of much model-based work, which treats carbon dioxide as the master variable and the ocean as a feedback.
 
 Two transitions anchor the record. Around 2.6 million years ago, ice sheets formed across the Northern Hemisphere and glacial cycles settled into a rhythm of about forty-one thousand years, which matches the obliquity of the Earth's axis. Around 1.2 million years ago, the rhythm lengthened to a hundred thousand years, and the ice sheets grew larger, in a shift that has never been explained to general satisfaction.
 

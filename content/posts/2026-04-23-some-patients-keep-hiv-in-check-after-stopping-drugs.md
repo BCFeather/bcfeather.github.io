@@ -14,7 +14,7 @@ Working with cohorts of both groups, Crain and colleagues compared immune respon
 
 Reservoir composition differed as well. Posttreatment controllers harboured a less diverse viral reservoir than noncontrollers, which means that fewer distinct proviral sequences were present and that the surviving virus was a narrower population. A narrow reservoir is easier for an immune response to hold down than a broad one.
 
-Epitope targeting was the third difference. The CD8 cells in posttreatment controllers recognised a different set of viral peptides from those recognised by elite controllers, which suggests that the two routes to control are not the same route taken at different speeds but two distinct immunological strategies.
+Epitope targeting was the third difference. The CD8 cells in posttreatment controllers recognized a different set of viral peptides from those recognized by elite controllers, which suggests that the two routes to control are not the same route taken at different speeds but two distinct immunological strategies.
 
 What the comparison implies for cure research is that CD8 immunity is the lever. Strategies that expand and preserve stemlike HIV-specific CD8 populations, and that reduce reservoir diversity, are the strategies that a functional cure would combine, and the study gives the field two measurements to optimize. Limitations are those of any small observational cohort. Posttreatment controllers are rare, the groups are small, and the timing of sampling relative to the stop of therapy varies between participants. A study of this kind identifies correlates and cannot establish causation, and the correlates it identifies are plausible and unproven.
 

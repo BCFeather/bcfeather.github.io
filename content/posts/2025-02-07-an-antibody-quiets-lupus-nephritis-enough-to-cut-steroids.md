@@ -10,7 +10,7 @@ Lupus nephritis is the complication of systemic lupus erythematosus that damages
 
 Obinutuzumab is an anti-CD20 antibody that depletes B cells, and the rationale is the one that made rituximab attractive in lupus: if the autoantibodies come from B cells, removing the cells removes the source. Earlier trials of rituximab in lupus nephritis failed, and the reading of those failures was that the depletion was incomplete or that the trial design was wrong rather than that the target was wrong.
 
-REGENCY, published in *The New England Journal of Medicine* on 7 February, randomised patients with active lupus nephritis to obinutuzumab or placebo on top of mycophenolate and corticosteroids. The primary endpoint was a complete renal response at week 76, which requires the proteinuria to fall below a threshold, the kidney function to stay stable and the steroid dose to be low.
+REGENCY, published in *The New England Journal of Medicine* on 7 February, randomized patients with active lupus nephritis to obinutuzumab or placebo on top of mycophenolate and corticosteroids. The primary endpoint was a complete renal response at week 76, which requires the proteinuria to fall below a threshold, the kidney function to stay stable and the steroid dose to be low.
 
 Rates were 46.4 per cent with obinutuzumab and 33.1 per cent with placebo, an adjusted difference of 13.4 percentage points with a confidence interval from 2.0 to 24.8 and a *P* value of 0.02. The steroid endpoint did the work that the investigators hoped: 42.7 per cent of the obinutuzumab group reached a complete response while taking 7.5 milligrams of prednisone or less, against 30.9 per cent of the placebo group.
 

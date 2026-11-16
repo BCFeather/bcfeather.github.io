@@ -3,10 +3,10 @@ slug: "what-a-museum-catalogue-is-for-once-everything-is-scanned"
 title: "What a museum catalogue is for once everything is scanned"
 date: "2026-07-13T09:20:00+08:00"
 categories: [culture]
-description: "Digitisation promised to open the collection, and what it actually changed was the status of the object's description."
+description: "Digitization promised to open the collection, and what it actually changed was the status of the object's description."
 ---
 
-A museum catalogue used to be a book about things, written by people who had handled them. The entry recorded a provenance, a condition, an attribution, and a set of measurements, and the entry's authority came from the fact that someone had stood in front of the object and decided. Digitisation was sold as access, and it delivered images, but it also changed what a catalogue entry is for. The book was a argument as well as a list, and the argument was carried by the sentences between the entries.
+A museum catalogue used to be a book about things, written by people who had handled them. The entry recorded a provenance, a condition, an attribution, and a set of measurements, and the entry's authority came from the fact that someone had stood in front of the object and decided. Digitization was sold as access, and it delivered images, but it also changed what a catalogue entry is for. The book was a argument as well as a list, and the argument was carried by the sentences between the entries.
 
 An online record is read by people who will never see the object, and it is also read by software. That second audience is the one that changed the form. A record has to be structured so that a search engine can find it, a linked-data graph can connect it, and a researcher can download it in bulk. The prose that used to carry the curator's judgement has been replaced by fields that carry values, and the values are easier to aggregate and harder to argue with. A query that returns four thousand objects is an answer to a question nobody asked, and the curator's work of selection disappears into the result set.
 

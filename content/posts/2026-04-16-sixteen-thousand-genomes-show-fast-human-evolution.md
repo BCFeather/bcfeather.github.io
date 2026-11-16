@@ -14,7 +14,7 @@ What emerges is a genome under heavy selection. Hundreds of variants changed fre
 
 Two of the traits that show up are resistance to tuberculosis and lower body fat, and a third cluster sits in genes that regulate the immune response to pathogens that crowded cities made common. Both make sense in the context of the period: tuberculosis became a crowd disease when people began living in dense settlements, and lower body fat is a plausible adaptation to food scarcity, although the same variant can be harmful in an environment of abundance.
 
-It also bears on the shape of recent evolution, because the changes cluster in the last ten thousand years, which is when agriculture, urbanization and long-distance trade reorganised human life, and a genome under selection for a new way of living is a genome that had not finished adapting before the way of living changed again.
+It also bears on the shape of recent evolution, because the changes cluster in the last ten thousand years, which is when agriculture, urbanization and long-distance trade reorganized human life, and a genome under selection for a new way of living is a genome that had not finished adapting before the way of living changed again.
 
 Selection detection has known failure modes, and the authors address them. A variant can rise because it is linked to a neighbour that is being selected, and ancient genomes have uneven sampling across space and time, which can make a real shift look sharper than it was. Methods that model the sampling structure are the difference between a discovery and an artefact.
 

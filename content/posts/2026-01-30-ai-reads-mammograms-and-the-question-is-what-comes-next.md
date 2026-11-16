@@ -3,12 +3,12 @@ slug: "ai-reads-mammograms-and-the-question-is-what-comes-next"
 title: "AI reads mammograms and the question is what comes next"
 date: "2026-01-30T20:40:00+08:00"
 categories: [essay]
-description: "A Swedish randomised trial of more than 100,000 women found that one radiologist working with an AI system detected nine per cent more cancers than two radiologists reading alone."
+description: "A Swedish randomized trial of more than 100,000 women found that one radiologist working with an AI system detected nine per cent more cancers than two radiologists reading alone."
 ---
 
 Screening programmes are built on a compromise that nobody likes. Two radiologists reading each mammogram reduces the number of cancers missed and doubles the cost, and one reader with a heavier workload reduces the cost and misses more. Every health system has chosen a point on that line, and the choice is presented as a matter of resources rather than of technology. A trial published in *The Lancet* on 30 January suggests the line can be moved.
 
-More than 100,000 women in Sweden were randomised in 2021 and 2022 to screening read by one radiologist assisted by an artificial intelligence system or by the standard double reading. The AI-assisted arm detected nine per cent more cancers and had twelve per cent fewer interval cancers, the cancers that appear between screens and that represent the failures of a programme. Recall rates and false positives were similar, which is the finding that matters most for the women who are asked to come back.
+More than 100,000 women in Sweden were randomized in 2021 and 2022 to screening read by one radiologist assisted by an artificial intelligence system or by the standard double reading. The AI-assisted arm detected nine per cent more cancers and had twelve per cent fewer interval cancers, the cancers that appear between screens and that represent the failures of a programme. Recall rates and false positives were similar, which is the finding that matters most for the women who are asked to come back.
 
 Those numbers describe a screening programme that finds more disease without generating more anxiety, which is close to the definition of a better screening programme. They do not describe a programme that saves more lives. Interval cancer is a proxy for missed disease and a proxy is not a mortality endpoint, and the trial is not powered to detect the difference in deaths that a nine per cent improvement in detection would eventually produce.
 

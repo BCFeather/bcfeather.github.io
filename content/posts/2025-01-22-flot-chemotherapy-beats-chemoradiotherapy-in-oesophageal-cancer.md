@@ -8,7 +8,7 @@ description: "Three-year progression-free survival was 51.6 per cent with periop
 
 Oesophageal cancer that has spread to local lymph nodes is treated with a combination of surgery, chemotherapy and radiotherapy, and the combinations have competed for twenty years. The European standard has been perioperative chemotherapy with the FLOT regimen, four drugs given before and after the operation. The American standard has been chemoradiotherapy before surgery, on the strength of a trial published in 2012.
 
-The trial reported in *The New England Journal of Medicine* on 22 January set the two against each other. Patients with locally advanced adenocarcinoma of the oesophagus or the gastro-oesophageal junction were randomised to perioperative FLOT or to preoperative chemoradiotherapy followed by surgery, and the primary endpoint was progression-free survival. The trial was run in Germany, where both approaches were in use.
+The trial reported in *The New England Journal of Medicine* on 22 January set the two against each other. Patients with locally advanced adenocarcinoma of the oesophagus or the gastro-oesophageal junction were randomized to perioperative FLOT or to preoperative chemoradiotherapy followed by surgery, and the primary endpoint was progression-free survival. The trial was run in Germany, where both approaches were in use.
 
 Three-year progression-free survival was 51.6 per cent in the FLOT group, with a confidence interval from 44.3 to 58.4, and 35.0 per cent in the chemoradiotherapy group, with a confidence interval from 28.4 to 41.7. The hazard ratio for progression or death was 0.66, with a confidence interval from 0.51 to 0.85, which is a difference that a trial of this size can support without qualification.
 

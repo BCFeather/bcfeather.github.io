@@ -3,7 +3,7 @@ slug: "a-mummified-reptile-shows-how-the-first-amniotes-breathed"
 title: "Mummified reptile shows how the first amniotes breathed"
 date: "2026-04-09T20:40:00+08:00"
 categories: [science]
-description: "Fossils of an early Permian reptile preserved with cartilage and protein traces show that amniotes were breathing with their ribcages within a few tens of millions of years of colonising land."
+description: "Fossils of an early Permian reptile preserved with cartilage and protein traces show that amniotes were breathing with their ribcages within a few tens of millions of years of colonizing land."
 ---
 
 Breathing on land required a new machine. A fish extracts oxygen from water with gills, and an animal that leaves the water has to bring air into a lung and then move it, and the two ways of moving it are by pumping the throat or by expanding the ribcage. Throat pumping is cheap and inefficient, ribcage breathing is expensive and efficient, and the fossil record of when the second replaced the first has been almost empty, because cartilage and soft tissue decay.

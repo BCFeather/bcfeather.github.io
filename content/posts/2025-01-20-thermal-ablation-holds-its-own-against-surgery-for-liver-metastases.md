@@ -10,7 +10,7 @@ Colorectal cancer spreads to the liver in about half of the patients who develop
 
 Thermal ablation is the alternative. A needle is placed into the deposit under imaging guidance, and radiofrequency or microwave energy heats the tissue until the tumour is destroyed. The technique has been used for two decades in patients who were not surgical candidates, and the question has been whether it can be offered to patients who are.
 
-The COLLISION trial, reported in *The Lancet Oncology* on 20 January, randomised patients with small colorectal liver metastases to thermal ablation or to surgical resection and followed them for survival. The design was a phase 3 non-inferiority trial, which means the investigators set a margin in advance and tested whether ablation was worse than surgery by more than that margin.
+The COLLISION trial, reported in *The Lancet Oncology* on 20 January, randomized patients with small colorectal liver metastases to thermal ablation or to surgical resection and followed them for survival. The design was a phase 3 non-inferiority trial, which means the investigators set a margin in advance and tested whether ablation was worse than surgery by more than that margin.
 
 The result was non-inferiority. Survival in the ablation group was not statistically worse than in the resection group, and the secondary outcomes, which include complication rates and the length of the hospital stay, favoured the less invasive arm. The trial enrolled patients whose metastases met the size criteria that both treatments can address, which is the population in which the question is live.
 

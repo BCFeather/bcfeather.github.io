@@ -3,7 +3,7 @@ slug: "mars-kept-a-coastal-shelf-not-a-shoreline"
 title: "Mars kept a coastal shelf, not a shoreline"
 date: "2026-04-15T09:20:00+08:00"
 categories: [science]
-description: "A comparison of terrestrial and Martian topography argues that a global ocean leaves a flat band of coastal plain and shelf rather than a recognisable shoreline, and that Mars has such a band."
+description: "A comparison of terrestrial and Martian topography argues that a global ocean leaves a flat band of coastal plain and shelf rather than a recognizable shoreline, and that Mars has such a band."
 ---
 
 Case for an ocean on Mars has rested for thirty years on features that look like shorelines. Terraces in the northern lowlands were mapped as wave-cut platforms, and the argument was that a body of water must have stood at their level. The problem is elevation: the candidate shorelines sit several kilometres apart in height, and a sea surface is an equipotential surface, so a set of terraces that disagree by kilometres cannot all mark the same water level.

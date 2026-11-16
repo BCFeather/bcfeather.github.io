@@ -8,7 +8,7 @@ description: "In stage III mismatch repair-deficient colon cancer, adding atezol
 
 Colon cancer that lacks mismatch repair is the subtype that responds to immunotherapy, and the evidence for that came from metastatic disease, where checkpoint inhibitors produce durable responses in a minority of patients. Whether the same biology helps in the adjuvant setting, where the tumour has been removed and the goal is to prevent recurrence, was the question the ATOMIC trial was built to answer.
 
-ATOMIC randomised 355 patients to atezolizumab plus modified FOLFOX6 and 357 to modified FOLFOX6 alone, all with stage III mismatch repair-deficient colon cancer. The median age was 64, 55.1 per cent were women, and 53.9 per cent had T4 or N2 disease, which is the high-risk end of stage III. The results appeared in *The New England Journal of Medicine* on 25 March, funded by the National Cancer Institute and Genentech.
+ATOMIC randomized 355 patients to atezolizumab plus modified FOLFOX6 and 357 to modified FOLFOX6 alone, all with stage III mismatch repair-deficient colon cancer. The median age was 64, 55.1 per cent were women, and 53.9 per cent had T4 or N2 disease, which is the high-risk end of stage III. The results appeared in *The New England Journal of Medicine* on 25 March, funded by the National Cancer Institute and Genentech.
 
 Disease-free survival at three years was 86.3 per cent with atezolizumab and 76.2 per cent with chemotherapy alone, a hazard ratio for recurrence or death of 0.50 with a confidence interval from 0.35 to 0.73 and a *P* value below 0.001. A ten-point absolute improvement at three years in a disease that recurs early is a large effect, and the confidence interval excludes anything modest.
 
