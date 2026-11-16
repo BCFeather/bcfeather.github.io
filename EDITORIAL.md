@@ -6,7 +6,7 @@
 
 **1.2 How the manual binds.** The manual governs form; the primary record governs fact. Where a clause here conflicts with the official usage of a body named in §13, that body's usage prevails for the name it owns, and this manual prevails everywhere else. Clauses carrying a numeral are checked mechanically before release; the remainder are editorial judgement and are checked by reading. A batch is not released until both kinds have been applied.
 
-**1.3 Standing of the archive.** Rules bind new writing, and they bind every batch dated from 2022 onwards. A slug already in circulation is fixed for the life of the URL.
+**1.3 Standing of the archive.** Rules bind new writing, and they bind every batch dated from 2022 onwards. A slug may be revised, and the address it replaces is retired rather than redirected.
 
 **1.4 How examples are set.** Every example in this manual takes one of two forms, and a clause is never illustrated by paraphrase. A form the site uses is given alone, in monospace. A pair gives the rejected form first, then an arrow, then the accepted form, as `analyze → analyse`. Where a clause calls for more than one example, they are set as a list of at most five entries, one per line, each opened by a short italic label naming what it demonstrates; the label and the example are separated by a colon.
 
@@ -101,7 +101,7 @@ description: "One plain sentence, no TeX, readable without the body."
 ---
 ```
 
-* `slug`: lower-case ASCII, hyphenated, no date, and immutable once published, since a change breaks the URL. A slug is an identifier, not prose, so it keeps whatever spelling it carried on release. Titles may be revised; slugs may not.
+* `slug`: lower-case ASCII, hyphenated, no date. Titles and slugs may both be revised; a slug that no longer names the post is changed rather than kept for the link, and the address it replaces is retired rather than redirected.
 * `title`: roman text, no markdown italic, no formula notation.
 * `date`: ISO 8601 with the `+08:00` offset, to the minute, varied across the working day.
 * `categories`: exactly one, unquoted inside square brackets, from the nine listed below. No tags.
@@ -238,6 +238,6 @@ Substance, per file: every figure traced to the primary record; borrowed facts a
 
 Colons and semicolons fall under §12.4, which is advice and never grounds for rejection. Per batch: the month's total within 63 and 69 and different from its neighbours; dates spread; the mix of §3 holding with digests carrying the largest share; index counts moving by exactly the number added; every new URL answering 200 on the live site.
 
-**14.3 The backlog.** The older archive carries standing defects: posts of four or fewer or eight or more paragraphs, posts below 480 words, titles opening on `A`, `An` or `The`, and paragraphs opening on `The` more than twice. They are a separate project, cleared in batches with titles rewritten and slugs untouched so that links survive. New work must not add to the count.
+**14.3 The backlog.** The older archive carries standing defects: posts of four or fewer or eight or more paragraphs, posts below 480 words, titles opening on `A`, `An` or `The`, and paragraphs opening on `The` more than twice. They are a separate project, cleared in batches, with titles rewritten and slugs revised where the address misnames the post. New work must not add to the count.
 
-Two slugs were published before §12 settled on `-ize` and therefore still carry `authorises` and `recognise`. They stay as published under §7; only their titles, descriptions and bodies carry the house spelling.
+Two slugs were published before §12 settled on `-ize` and therefore still carry `authorises` and `recognise`. Under §7 they may be revised along with their titles, descriptions and bodies, which already carry the house spelling.
