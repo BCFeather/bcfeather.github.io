@@ -14,6 +14,6 @@ Demand response has become part of the plan. Large industrial users sign contrac
 
 The renewable share complicates the peak. Solar output falls in the evening just as air conditioning demand holds, and the evening peak is now the hardest part of the day rather than the afternoon. The grid has responded by building storage, by keeping gas plants as backup, and by asking the provinces to coordinate. Solar output falls in the evening just as air conditioning demand holds, and the evening peak is now the hardest part of the day. Solar output falls in the evening just as air conditioning demand holds, so the evening peak is now the hardest part of the day.
 
-Provincial coordination is the political part. Each province would rather build its own capacity than rely on a neighbor, and the national dispatch centre has been pushing inter-provincial trading for a decade. The trading has grown, and the incentives still favour self-sufficiency.
+Provincial coordination is the political part. Each province would rather build its own capacity than rely on a neighbour, and the national dispatch centre has been pushing inter-provincial trading for a decade. The trading has grown, and the incentives still favour self-sufficiency.
 
 What the summer tests is whether the system can hold a peak that arrives in a heatwave. The failures, when they come, are local: a distribution transformer in an old neighbourhood, a substation that was due for replacement. The generation is usually adequate, and the last mile is where the lights go out.

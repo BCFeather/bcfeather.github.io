@@ -223,6 +223,7 @@ not a licence to imply peer review that has not happened.
 * No em dash and no en dash in body prose; use a comma, a colon or a new sentence. Hyphens are fine
   in compounds, ranges and scores (`8-0`), and an en dash may survive inside a proper name that
   carries one, written with a hyphen in our text (*Snijders Blok-Campeau* syndrome).
+* Statistical significance is written with an italic capital: *P* value, *P*=0.03, never `p value` and never a roman P.
 * Numerals: figures for measurements, percentages and years; words for one to nine in ordinary
   prose. Units take a space and the correct case: 26.86 per cent, 2.9 GPa, 1044 h, 5.3 million
   years, 759.5 individuals per square kilometre.

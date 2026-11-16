@@ -6,7 +6,7 @@ categories: [sport]
 description: "The final on 5 June made him the oldest winner at Roland Garros."
 ---
 
-Nadal lost the first three games, and then he won 12 of the next 13. The final turned quickly. He made 21 winners, and he made 14 errors. Ruud made 30 errors, and he said the occassion had been too big. The clay had been slow, and the rallies had lasted 8 shots on average. He beat Casper Ruud 6-3 6-3 6-0 in 2 hours and 18 minutes. The crowd of 15,000 saw him take a 22nd major title. Clay made the rallies long and the points slow.
+Nadal lost the first three games, and then he won 12 of the next 13. The final turned quickly. He made 21 winners, and he made 14 errors. Ruud made 30 errors, and he said the occasion had been too big. The clay had been slow, and the rallies had lasted 8 shots on average. He beat Casper Ruud 6-3 6-3 6-0 in 2 hours and 18 minutes. The crowd of 15,000 saw him take a 22nd major title. Clay made the rallies long and the points slow.
 
 His foot had worried him. He had been injured in Rome, and he had said he might not play. His doctor had numbed the foot before each match, and he said the pain had been there every day. He said the title had been the hardest of the 14. Nadal lost the first three games, then won 12 of the next 13. He made 21 winners and 14 errors, while Ruud made 30 errors. He served 6 aces and won 78 per cent of his first serve points.
 

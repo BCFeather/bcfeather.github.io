@@ -3,7 +3,7 @@ slug: "washington-invokes-the-defence-production-act-to-refill-formula-shelves"
 title: "Washington invokes the Defense Production Act to refill formula shelves"
 date: "2022-05-18T23:50:00+08:00"
 categories: [news]
-description: "With stock rates above forty per cent in some states and specialty formulas gone entirely, the president used wartime purchasing powers on 18 May and began flying in supplies from Europe, while the plant whose recall started the shortage stayed shut until June."
+description: "With stock rates above forty per cent in some states and speciality formulas gone entirely, the president used wartime purchasing powers on 18 May and began flying in supplies from Europe, while the plant whose recall started the shortage stayed shut until June."
 ---
 
 President Biden invoked the Defense Production Act on 18 May and started an airlift called Operation Fly Formula, in an attempt to put infant formula back on shelves that had been emptying since February. The act requires suppliers of ingredients to fill orders from formula manufacturers before any others, and the flights brought in product from European plants that already met American standards. The first delivery arrived at an air base in Indiana on 22 May, carrying about seventy-eight thousand pounds of specialized formula for infants with allergies.
@@ -16,4 +16,4 @@ The federal response came in stages that were each a little late. The Food and D
 
 Parents spent the spring driving to neighbouring states, trading cans in online groups, and diluting formula against medical advice because the alternative was an empty shelf. Hospitals rationed what they had, and the shortages fell hardest on families covered by the federal programme, who could not simply switch brands because the vouchers they held named one. The administration waived some import restrictions and allowed states to use programme funds more flexibly, measures that helped at the margin and did not manufacture supply.
 
-By the end of May the stock rate had improved from its worst week and remained far below normal, and the episode had produced a straightforward finding: a market with three sellers, one plant per specialty product, and a procurement system that rewards the cheapest bid has no slack in it. Invoking wartime powers to buy ingredients was the correct instrument for the moment, and it also demonstrated how little slack the country had built into the feeding of its infants.
+By the end of May the stock rate had improved from its worst week and remained far below normal, and the episode had produced a straightforward finding: a market with three sellers, one plant per speciality product, and a procurement system that rewards the cheapest bid has no slack in it. Invoking wartime powers to buy ingredients was the correct instrument for the moment, and it also demonstrated how little slack the country had built into the feeding of its infants.

@@ -6,7 +6,7 @@ categories: [technology]
 description: "The deal on 24 March set limits for the largest platforms."
 ---
 
-It said the platforms would have to let users remove pre-installed apps, and that they would have to open their messaging to rivals. The law named the duties. It said they could not favor their own products in search results, and that they could not track users without consent. It said the platforms would have to share data with business users. The law would cover platforms with 45 million users and 10 billion euros of revenue. Fines would reach 10 per cent of global revenue, and 20 per cent for repeat breaches. Talks ran for eight hours before the deal was struck.
+It said the platforms would have to let users remove pre-installed apps, and that they would have to open their messaging to rivals. The law named the duties. It said they could not favour their own products in search results, and that they could not track users without consent. It said the platforms would have to share data with business users. The law would cover platforms with 45 million users and 10 billion euros of revenue. Fines would reach 10 per cent of global revenue, and 20 per cent for repeat breaches. Talks ran for eight hours before the deal was struck.
 
 Google said the rules would cut innovation, and that it would comply. The companies objected. Apple said the rules would cut security, and that it would appeal. The lobby group said the law was too broad, and that it would cover 20 companies. Users would be able to remove pre-installed apps, and messaging would open to rivals. Platforms could not favour their own products in search, or track users without consent. Business users would gain access to data the platforms collected.
 

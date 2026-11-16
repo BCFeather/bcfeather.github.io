@@ -8,7 +8,7 @@ description: "A single hailstorm in one metropolitan area produced 40,000 claims
 
 Insurance is priced on the expected loss across many events, and a single event can invalidate the expectation for a decade. A hailstorm that crossed a metropolitan area in the spring produced 40,000 claims and a loss that two regional insurers could not absorb, and both have withdrawn from the homeowners' line.
 
-The loss's structure explains the severity. Hail damaged roofs, gutters and vehicles in a 40-kilometre band, and the claims clustered in the subdivisions built between 1995 and 2010, whose shingles were rated for a smaller stone. Reinsurance absorbed the first layer and repriced the rest. The insurers' cat programs covered the event, and the renewal that followed raised the cost of the layer above by 60 per cent, which is the number that made the line unprofitable.
+The loss's structure explains the severity. Hail damaged roofs, gutters and vehicles in a 40-kilometre band, and the claims clustered in the subdivisions built between 1995 and 2010, whose shingles were rated for a smaller stone. Reinsurance absorbed the first layer and repriced the rest. The insurers' cat programmes covered the event, and the renewal that followed raised the cost of the layer above by 60 per cent, which is the number that made the line unprofitable.
 
 Model risk is the underlying problem. The catastrophe model's estimate for the region was a 1-in-50-year loss of 400 million dollars, and the actual event was 1.2 billion. That is a factor of three, and a model that errs by three can be paid for only by capital rather than by premium.
 

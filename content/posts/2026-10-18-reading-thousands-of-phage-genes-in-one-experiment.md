@@ -18,4 +18,4 @@ The team then took the method to two less-studied phages, Bas37 and Bas54. In Ba
 
 The most clinically suggestive move was to grow the phages against real clinical isolates of uropathogenic *E. coli* from patients, rather than the lab strain. Different isolates called on different viral countermeasures, and across the study the method exposed new phage factors acting against six distinct bacterial defence systems, five of them on genes with no known function.
 
-For phage therapy, which wants to know why a phage works against one patient's bacterium and not another, that is the whole game. A method that turns a viral genome into thousands of parallel fitness experiments does not just catalog genes. It shows, for the first time at scale, exactly which bits of a phage a hospital strain can disable.
+For phage therapy, which wants to know why a phage works against one patient's bacterium and not another, that is the whole game. A method that turns a viral genome into thousands of parallel fitness experiments does not just catalogue genes. It shows, for the first time at scale, exactly which bits of a phage a hospital strain can disable.

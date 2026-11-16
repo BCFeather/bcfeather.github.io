@@ -3,7 +3,7 @@ slug: "coffee-roasters-hedge-one-price-and-pay-for-four"
 title: "Coffee roasters hedge one price and pay for four"
 date: "2025-10-16T09:20:00+08:00"
 categories: [business]
-description: "A specialty roaster's margin depends less on the price of coffee than on the gap between the futures contract it hedges with and the physical beans it actually buys, and this year that gap widened enough to close two small roasters."
+description: "A speciality roaster's margin depends less on the price of coffee than on the gap between the futures contract it hedges with and the physical beans it actually buys, and this year that gap widened enough to close two small roasters."
 ---
 
 Roasters talk about the price of coffee as a single number, and their accounts use at least four. The futures contract, the physical differential, the freight and the currency each move, and a roaster who hedges only the first is exposed to the other three. This year's widening in the differential is the reason two small roasters have closed and one has been acquired.
