@@ -3,7 +3,7 @@ slug: "antarctic-sea-ice-sets-its-lowest-winter-maximum-in-47-years"
 title: "Antarctic sea ice sets its lowest winter maximum in 47 years"
 date: "2025-10-10T09:40:00+08:00"
 categories: [science]
-description: "Sea ice around Antarctica reached its annual maximum in September at 17.0 million square kilometres, the lowest in the 47-year satellite record, and the deficit is concentrated in one sector whose behavior has changed since 2016."
+description: "Sea ice around Antarctica reached its annual maximum in September at 17.0 million square kilometres, the lowest in the 47-year satellite record, and the deficit is concentrated in one sector whose behaviour has changed since 2016."
 ---
 
 Antarctic sea ice grows through the southern winter and reaches a maximum in September, and the satellite record since 1979 has shown a slow increase for most of that period. The maximum reported this month is 17.0 million square kilometres, 1.4 million below the 1981 to 2010 average and the lowest in 47 years.

@@ -6,7 +6,7 @@ categories: [economy]
 description: "Container rates on the Asia-Europe route have fallen back to their pre-diversion level while the distance sailed is still 30 per cent longer, and the gap between those two facts is the story of a market that has absorbed a detour."
 ---
 
-A shipping route that avoids a choke point adds 30 per cent to the distance and 12 days to the voyage, and the arithmetic says rates should rise. They did, for a year, and then they fell back to roughly the level before the diversion, which is the interesting part of the market's behavior.
+A shipping route that avoids a choke point adds 30 per cent to the distance and 12 days to the voyage, and the arithmetic says rates should rise. They did, for a year, and then they fell back to roughly the level before the diversion, which is the interesting part of the market's behaviour.
 
 Capacity absorbed the detour. The world fleet grew 9 per cent in the same period, and slow steaming was reversed, which released 6 per cent of effective capacity. The two together covered the distance's demand for ships. Bunker costs moved the other way. Fuel prices fell 18 per cent over the year, and the longer voyage's fuel bill per box is 30 per cent higher than before but 5 per cent lower than the peak, because the price fell faster than the distance grew.
 

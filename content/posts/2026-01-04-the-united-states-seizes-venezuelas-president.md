@@ -10,7 +10,7 @@ In the early hours of 3 January 2026, United States special operations forces ca
 
 The operation was unusually open about its own details. President Trump said he gave the order at 10:46 p.m. on 2 January. The chairman of the Joint Chiefs described an effort involving more than 150 aircraft, with the couple brought aboard a US warship at 3:29 a.m. on the 3rd. Trump announced the capture at a press conference at Mar-a-Lago the same morning, saying the United States would 'manage' Venezuela until a 'secure' transition could be arranged.
 
-Maduro and his wife made their first appearance before a judge in the Southern District of New York on 5 January, where they rejected the charges. They are being held at the Metropolitan Detention Center in Brooklyn.
+Maduro and his wife made their first appearance before a judge in the Southern District of New York on 5 January, where they rejected the charges. They are being held at the Metropolitan Detention Centre in Brooklyn.
 
 Arrest of a sitting head of state by a foreign power has no obvious modern precedent, and the legal basis is thin. The United States has long pursued Maduro under a theory that he is a criminal suspect in drug and money-laundering cases, an argument the Venezuelan government rejects as a cover for regime change. The administration points to the drug-trafficking indictments and to what it calls the illegitimacy of the Maduro government; critics, including many governments in the region, say the operation violated the most basic rules of sovereignty and of international law.
 

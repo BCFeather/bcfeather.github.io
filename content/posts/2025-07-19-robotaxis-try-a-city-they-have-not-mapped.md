@@ -10,7 +10,7 @@ Robotaxi services have operated in Wuhan since 2022, with a fleet of several hun
 
 The expansion to a second city is the interesting step. A system that works in Wuhan has learned Wuhan: the roads, the construction patterns, the way that pedestrians behave at an uncontrolled crossing, the scooters that travel against the traffic. A new city has all of those, and none of them in the same proportions. A system that works in Wuhan has learned Wuhan: the roads, the construction patterns, the scooters that travel against the traffic. A new city has different traffic police, different road markings and a different attitude towards cameras.
 
-Technology is a stack of sensors and a stack of rules. The sensors are lidar, cameras and radar, and the rules are a map that is surveyed to a few centimetres plus a set of behaviors that the engineers have tuned. The map is the expensive part, and remapping a city takes months.
+Technology is a stack of sensors and a stack of rules. The sensors are lidar, cameras and radar, and the rules are a map that is surveyed to a few centimetres plus a set of behaviours that the engineers have tuned. The map is the expensive part, and remapping a city takes months.
 
 The economics are unresolved. A robotaxi costs more than a taxi because of the sensors, and it earns less because it cannot yet handle every situation. The operators lose money per ride, and they are betting that the cost of the sensor set falls and the utilization rises before the subsidy ends. The operators lose money per ride, and they are betting that the cost of the sensor set falls before the subsidy ends. A ride costs less than a taxi in the cities where the service runs, and the subsidy is the reason.
 

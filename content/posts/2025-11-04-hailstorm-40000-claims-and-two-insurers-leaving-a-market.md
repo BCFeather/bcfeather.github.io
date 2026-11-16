@@ -16,6 +16,6 @@ Underwriting changed in response. Two insurers now require a roof inspection abo
 
 A reinsurance treaty is the mechanism that turns a local storm into a market exit. An insurer cedes a share of its catastrophe risk to a reinsurer and keeps a retention, and a storm that exhausts the retention in one event leaves the insurer paying from its own capital.
 
-Price is the signal that follows. A market that loses two insurers has 30 per cent less capacity, and the premium for a roof policy rises until the remaining capital earns its cost. The rise is what makes the exit visible to a homeowner. A claims surge is also a labor problem. An insurer that handles 200 claims a week receives 40,000 in three days, and its adjusters' capacity is the reason a settlement takes a year. A regulator's response is usually a deadline rather than a capacity.
+Price is the signal that follows. A market that loses two insurers has 30 per cent less capacity, and the premium for a roof policy rises until the remaining capital earns its cost. The rise is what makes the exit visible to a homeowner. A claims surge is also a labour problem. An insurer that handles 200 claims a week receives 40,000 in three days, and its adjusters' capacity is the reason a settlement takes a year. A regulator's response is usually a deadline rather than a capacity.
 
 Diversified risk and correlated risk are different objects, and hail is the second. A thousand small fires are insurable; one hailstorm over one city is a single bet, and the market's response to a single bet is to leave.

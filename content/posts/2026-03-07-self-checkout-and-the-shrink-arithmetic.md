@@ -24,6 +24,6 @@ Category mix explains the variation between stores. A store with a high share of
 
 The accounting question is where the cost sits. Shrink is a cost of goods line and labour is an operating line, and a store manager judged on labour hours has an incentive to install the machines whatever the shrink does. The chain has changed its bonus metric to include shrink, which is the control that matters.
 
-The intervention with the best record is a receipt check at the exit, which recovers 0.4 points at a labor cost of one employee per four machines. That is the same arithmetic as a cashier, which is why the chain's decision is a choice about service rather than about theft.
+The intervention with the best record is a receipt check at the exit, which recovers 0.4 points at a labour cost of one employee per four machines. That is the same arithmetic as a cashier, which is why the chain's decision is a choice about service rather than about theft.
 
 For a reader, the case is about a technology whose cost lands in a different line from its benefit. Labour sits in store operations and shrink sits in cost of goods, and a decision made on the first line will be reversed when the second line reports, which is roughly what happened here.

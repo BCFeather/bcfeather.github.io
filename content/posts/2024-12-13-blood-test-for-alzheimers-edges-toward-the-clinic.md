@@ -1,5 +1,5 @@
 ---
-slug: "blood-test-for-alzheimers-edges-toward-the-clinic"
+slug: "blood-test-for-alzheimers-edges-towards-the-clinic"
 title: "Blood test for Alzheimer's edges towards the clinic"
 date: "2024-12-13T09:20:00+08:00"
 categories: [science]

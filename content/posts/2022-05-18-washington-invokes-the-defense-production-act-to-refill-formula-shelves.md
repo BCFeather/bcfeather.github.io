@@ -1,5 +1,5 @@
 ---
-slug: "washington-invokes-the-defense-production-act-to-refill-formula-shelves"
+slug: "washington-invokes-the-defence-production-act-to-refill-formula-shelves"
 title: "Washington invokes the Defense Production Act to refill formula shelves"
 date: "2022-05-18T23:50:00+08:00"
 categories: [news]

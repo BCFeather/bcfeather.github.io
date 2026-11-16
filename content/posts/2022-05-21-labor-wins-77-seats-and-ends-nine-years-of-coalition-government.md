@@ -1,5 +1,5 @@
 ---
-slug: "labor-wins-77-seats-and-ends-nine-years-of-coalition-government"
+slug: "labour-wins-77-seats-and-ends-nine-years-of-coalition-government"
 title: "Labor wins 77 seats and ends nine years of Coalition government"
 date: "2022-05-21T23:55:00+08:00"
 categories: [news]

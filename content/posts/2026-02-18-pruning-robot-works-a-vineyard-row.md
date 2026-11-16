@@ -24,7 +24,7 @@ Safety certification is the barrier to a wider trial. A machine with a reciproca
 
 Data ownership is the quieter issue. The robot records an image and a cut decision for every vine, which is a map of the vineyard's yield potential. The vineyard's contract with the manufacturer assigns the data to the grower, which two other growers have asked to renegotiate.
 
-The economics are within reach of a mid-sized vineyard. The robot costs 180,000 dollars and replaces 2,000 hours of seasonal labor at 22 dollars an hour, and the payback is 4 years at the vineyard's scale. A smaller holding cannot justify it.
+The economics are within reach of a mid-sized vineyard. The robot costs 180,000 dollars and replaces 2,000 hours of seasonal labour at 22 dollars an hour, and the payback is 4 years at the vineyard's scale. A smaller holding cannot justify it.
 
 Comparing with a mechanical pruner is the honest baseline. A conventional machine cuts every spur at the same height and leaves 30 per cent of the decisions to a follow-up pass, while the robot makes each cut individually. The gap is in quality rather than in speed.
 

@@ -24,6 +24,6 @@ Dose-response confirms the mechanism rather than the hit. The two compounds resc
 
 The path to patients is short for a repurposing candidate and not trivial. A trial in 60 patients needs a natural-history study first, because the disease's progression varies, and the team has begun one with 22 patients enrolled.
 
-The assay's design is what made 3,000 compounds feasible. The screen used a swimming behavior measured by a camera and a tracking algorithm, at 12 embryos per compound, and the primary hit rate was 0.4 per cent, which is high enough to justify the screen and low enough to trust it.
+The assay's design is what made 3,000 compounds feasible. The screen used a swimming behaviour measured by a camera and a tracking algorithm, at 12 embryos per compound, and the primary hit rate was 0.4 per cent, which is high enough to justify the screen and low enough to trust it.
 
 For a reader, the case is a template for how rare disease research proceeds without a market. Academic screening, repurposing candidates with existing safety data, and a small trial with a functional endpoint is a route that costs a few million dollars rather than a hundred million, and it is the only route available for patients this few.

@@ -10,7 +10,7 @@ Altitude training raises hemoglobin mass, and the sport's rule sets an upper lim
 
 The camp raised hemoglobin mass by 4 per cent across eight riders, measured by a carbon monoxide rebreathing method that is more reliable than a fingerprick. Two riders reached a hematocrit of 49 per cent, against a threshold of 50. The rule's threshold is a health measure and not a fairness measure. A hematocrit above 50 carries a risk of thrombosis, and the sport adopted it in the 1990s after a series of deaths. A rider below the threshold is not automatically clean.
 
-Monitoring is the team's defense. Each rider's blood profile is recorded five times a season, and the biological passport compares the profile's variation rather than its absolute value. A camp's rise is expected and a rise outside the model's range is flagged. A camp's altitude, its duration and the rider's training load all enter the result, and the study's single site fixes three of those variables.
+Monitoring is the team's defence. Each rider's blood profile is recorded five times a season, and the biological passport compares the profile's variation rather than its absolute value. A camp's rise is expected and a rise outside the model's range is flagged. A camp's altitude, its duration and the rider's training load all enter the result, and the study's single site fixes three of those variables.
 
 Four riders who stayed at sea level supply the control. Four riders stayed at sea level and their hemoglobin mass rose 0.6 per cent, which is the noise level the method has to beat. The cost is the practical constraint. A three-week camp for eight riders costs 120,000 dollars including accommodation and staff, and a smaller team rents an altitude tent, which produces a third of the effect.
 

@@ -1,5 +1,5 @@
 ---
-slug: "a-blue-crystal-and-a-claim-that-traveled-fast"
+slug: "a-blue-crystal-and-a-claim-that-travelled-fast"
 title: "A blue crystal and a claim that travelled fast"
 date: "2023-03-08T23:20:00+08:00"
 categories: [science]
