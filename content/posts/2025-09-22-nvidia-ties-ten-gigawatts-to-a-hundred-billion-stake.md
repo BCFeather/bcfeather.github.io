@@ -6,7 +6,7 @@ categories: [business]
 description: "A letter of intent commits NVIDIA to invest up to $100 billion as OpenAI brings at least 10 gigawatts of its systems online."
 ---
 
-OpenAI needs compute, and NVIDIA sells it. The two companies signed a letter of intent in September under which OpenAI will build out at least 10 gigawatts of NVIDIA systems, with the first stage arriving in the second half of 2026 on the Vera Rubin platform and later stages following as sites are energised. The announcement names the Vera Rubin platform for the first phase, the generation that follows the part now shipping and that the company has described in public.
+OpenAI needs compute, and NVIDIA sells it. The two companies signed a letter of intent in September under which OpenAI will build out at least 10 gigawatts of NVIDIA systems, with the first stage arriving in the second half of 2026 on the Vera Rubin platform and later stages following as sites are energized. The announcement names the Vera Rubin platform for the first phase, the generation that follows the part now shipping and that the company has described in public.
 
 The financial structure is what makes the arrangement unusual. NVIDIA intends to invest up to $100 billion in OpenAI, and the investment is released in tranches as each gigawatt is deployed, so the money tracks the build-out instead of arriving as a single cheque at signing, and the total is a ceiling instead of a promise. A supplier that invests in its customer on a schedule tied to delivery is taking a position in the demand it is creating. The tranche structure also makes the money conditional on construction milestones that neither company has published.
 

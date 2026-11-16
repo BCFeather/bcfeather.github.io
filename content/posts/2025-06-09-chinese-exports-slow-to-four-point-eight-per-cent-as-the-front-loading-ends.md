@@ -14,7 +14,7 @@ Base effect is the other half of the explanation. May 2024 had been a strong mon
 
 Prices are the quiet variable. A tariff war fought in the middle of a deflationary impulse produces exporters who cut margins to keep a customer, so volume and value can move in different directions for a quarter or more. A 4.8 per cent rise in dollar terms is compatible with a flat volume and a falling price, and the detailed schedule is where that shows up.
 
-Policy response has been to look inward. Beijing has been subsidising trade-in purchases of appliances and cars since last year, which keeps factories running and shifts some of the demand that the American market is no longer providing, and the May retail numbers suggested that the programme was still doing its work.
+Policy response has been to look inward. Beijing has been subsidizing trade-in purchases of appliances and cars since last year, which keeps factories running and shifts some of the demand that the American market is no longer providing, and the May retail numbers suggested that the programme was still doing its work.
 
 London talks of 9 and 10 June were meant to settle the framework and produced a commitment to implement what had been agreed in Geneva rather than a new bargain. Markets read the absence of escalation as good news, and exporters read it as a reason to wait before rebooking a container.
 

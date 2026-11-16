@@ -12,7 +12,7 @@ The rate decision was the easy half. Inflation had been above target for three y
 
 Rice is the political item. Prices for the staple had roughly doubled over two years after a poor harvest and a distribution system that the government had mismanaged, and the ministry had begun releasing stockpiles in the spring. A central bank that raises rates because rice is expensive is a central bank that is fighting a supply shock with demand.
 
-Wages are the other side of the ledger. The spring round of negotiations produced the largest nominal increases in three decades, and real earnings turned positive for the first time in months, which is the condition the bank had set for normalising policy. The condition arrived later and weaker than the headline suggested.
+Wages are the other side of the ledger. The spring round of negotiations produced the largest nominal increases in three decades, and real earnings turned positive for the first time in months, which is the condition the bank had set for normalizing policy. The condition arrived later and weaker than the headline suggested.
 
 The balance sheet matters for the currency. The bank had been buying about 400 billion yen of bonds a month and had planned to halve that by early 2026, and slowing the taper keeps more duration in the market and more yen in the system, which is a quiet form of easing that the exchange rate noticed.
 

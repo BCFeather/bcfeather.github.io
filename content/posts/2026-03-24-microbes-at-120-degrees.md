@@ -10,7 +10,7 @@ The upper temperature limit for life has been a moving boundary since the first 
 
 Sampling is what makes the claim credible. The expedition used a coring tool that seals the sample under pressure at the seafloor, and the microbiologists measured the tracer concentration of drilling fluid in each core to establish contamination. Samples with tracer above a threshold were discarded, which removed 60 per cent of the cores.
 
-Growth in culture is the confirmation. The team maintained the enrichment at 120 degrees and 250 atmospheres for 14 months, and measured cell counts rising from 10^4 to 10^7 per millilitre. The doubling time is 21 days, which is slow even for a hyperthermophile and consistent with a metabolism operating close to the limit.
+Growth in culture is the confirmation. The team maintained the enrichment at 120 degrees and 250 atmospheres for 14 months, and measured cell counts rising from \(10^{4}\) to \(10^{7}\) per millilitre. The doubling time is 21 days, which is slow even for a hyperthermophile and consistent with a metabolism operating close to the limit.
 
 Molecular adaptations are the substance. The organism's proteins carry a higher proportion of charged amino acids on their surfaces, which stabilizes folding at high temperature, and its DNA is protected by a reverse gyrase that introduces positive supercoiling. Both adaptations are known; what is new is that they work at 120 rather than 105.
 

@@ -6,7 +6,7 @@ categories: [science]
 description: "A study in Science reports that turf algae release compounds that suppress kelp recovery, which helps explain why grazed kelp forests stay bare for years after the herbivores are removed."
 ---
 
-A kelp forest that has been grazed down is supposed to grow back when the urchins are removed, and in many places it does not, which is the observation that a paper in Science published on 22 May set out to explain. The authors report that turf algae, the low mat of weed that colonises a bare reef, release compounds that suppress the recruitment and growth of kelp, so the new state defends itself against the old one.
+A kelp forest that has been grazed down is supposed to grow back when the urchins are removed, and in many places it does not, which is the observation that a paper in Science published on 22 May set out to explain. The authors report that turf algae, the low mat of weed that colonizes a bare reef, release compounds that suppress the recruitment and growth of kelp, so the new state defends itself against the old one.
 
 Experiment is a chemistry problem with an ecological ending. The group grew turf algae in tanks, collected the water, and exposed kelp spores and young sporophytes to it, and the results showed reduced settlement and slower growth relative to controls. A waterborne effect is the kind that a diver cannot see and a model cannot ignore.
 

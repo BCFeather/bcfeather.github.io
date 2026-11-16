@@ -12,7 +12,7 @@ Components show where the pressure is and is not. Shelter rose 0.3 per cent for 
 
 Tariff effect is late and not absent. Importers front-loaded inventories before the April escalation, and several of them absorbed the duty to keep a price point, so the pass-through that economists expect has been deferred into the summer. Used vehicles and apparel are the categories where a rebound is most likely and least welcome.
 
-Travel is the offset that cannot last. Airfares and hotel rates have fallen at an annualised pace of about 21 per cent over three months, which is a discount that reflects softer demand and cheaper fuel, and it will stop contributing once the comparison base catches up. A core rate that is flat because travel is falling is a core rate that is not yet telling the truth, and the truth will arrive with the June and July prints.
+Travel is the offset that cannot last. Airfares and hotel rates have fallen at an annualized pace of about 21 per cent over three months, which is a discount that reflects softer demand and cheaper fuel, and it will stop contributing once the comparison base catches up. A core rate that is flat because travel is falling is a core rate that is not yet telling the truth, and the truth will arrive with the June and July prints.
 
 The Federal Reserve's own measure is lower. The personal consumption expenditures index was estimated at 2.3 per cent for May with a core rate of 2.6 per cent, both below the consumer price index, which is why the committee can describe inflation as somewhat elevated and still expect it to fall. Two measures of the same economy differ by half a point for reasons of weights, scope and the treatment of medical care.
 
