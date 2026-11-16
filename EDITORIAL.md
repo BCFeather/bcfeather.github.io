@@ -212,6 +212,21 @@ in TeX rather than typed with underscores, carets or spelled-out powers: \(\math
 they carry an index or a symbol. Plain numbers, percentages and units in running text do not need
 TeX and should not get it.
 
+Inside TeX, ligatures follow the conventions of a journal. Single Latin and Greek letters are
+italic variables, so they are written bare: \(a\), \(x\), \(\mu\), \(\lambda\), never
+`\mathrm{a}`. Names of functions, units, acronyms, protein names and anything that is a word rather
+than a quantity are upright: \(\mathrm{PI}(3,4)P_2\), \(\mathrm{CUL2}^{\mathrm{FEM1B}}\),
+`\mathrm{d}` for a differential, `\mathrm{pH}`. Digits, operators, brackets and punctuation are
+upright by default and need no markup. Subscripts carry the same distinction: an index that is a
+letter is italic (\(a_n\)), a label that is a word or a numeral is upright
+(\(\mathrm{GB300}\), \(x_{\mathrm{max}}\)).
+
+The typography has to survive the CSS override that puts mathematics in the body face.
+`static/assets/css/math.css` maps every KaTeX glyph class onto Computer Modern Serif and then
+restores `font-style: italic` on `.mathnormal` and `.textit`, so a variable stays slanted while
+digits and `\mathrm` stays roman. A rule that flattened italic for the sake of a single font family
+would be a regression, and the check in §15 includes a formula page for that reason.
+
 The chain is already in place: passthrough for `\(` and `$$` in `hugo.toml`, `static/assets/css/
 math.css`, `static/assets/js/math.js`, and a font stack of Computer Modern Serif for body text and
 for mathematics, so rendered formulas match the prose. A post with formulas is not finished until
