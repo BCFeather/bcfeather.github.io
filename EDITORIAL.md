@@ -95,7 +95,7 @@ The key order is fixed, and the file name is `<YYYY-MM-DD>-<slug>.md`:
 slug: "the-slug"
 title: "The title as displayed"
 date: "2026-06-24T09:20:00+08:00"
-categories: science
+categories: [science]
 description: "One plain sentence, no TeX, readable without the body."
 ---
 ```
@@ -104,7 +104,7 @@ description: "One plain sentence, no TeX, readable without the body."
   it breaks the URL. Titles may change; slugs may not.
 * `title`: roman text, no markdown italics, no formula notation.
 * `date`: ISO 8601 with the `+08:00` offset, minute-level precision, varied within the day.
-* `categories`: exactly one, unquoted, drawn from the nine: `news`, `science`, `economy`,
+* `categories`: exactly one, in square brackets like `[science]`, no inner quotes, drawn from the nine: `news`, `science`, `economy`,
   `business`, `technology`, `essay`, `sport`, `culture`, `society`. No tags.
 * `description`: one sentence of plain prose, no backslash, no caret or underscore notation, no
   abbreviated name that would need TeX. Write the chemistry or the complex out in words. YAML
