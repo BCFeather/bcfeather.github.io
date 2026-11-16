@@ -3,7 +3,7 @@ slug: "cholesterol-in-the-cargo-membrane-helps-tau-stall-kinesin"
 title: "Cholesterol in the cargo membrane helps tau stall kinesin"
 date: "2023-01-26T09:30:00+08:00"
 categories: [science]
-description: "Qiaochu Li, Jing Xu and colleagues show that cholesterol in the membrane of a cargo amplifies the inhibition that tau exerts on kinesin-1 transport, linking membrane composition to the microtubule-associated protein's effect on intracellular traffic. The paper is published in *PNAS* on 17 January 2023."
+description: "Cholesterol in a cargo membrane amplifies the brake that tau applies to kinesin-1, which helps explain why the protein slows transport in the brain."
 ---
 
 Molecular motors carry cargo along microtubules, and the cargo is usually wrapped in a membrane. The motor attaches to the membrane, the membrane has a lipid composition, and the composition differs between organelles and between healthy and diseased cells.

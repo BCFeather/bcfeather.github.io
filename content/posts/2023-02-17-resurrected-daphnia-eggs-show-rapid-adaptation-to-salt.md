@@ -3,7 +3,7 @@ slug: "resurrected-daphnia-eggs-show-rapid-adaptation-to-salt"
 title: "Resurrected Daphnia eggs show rapid adaptation to salt"
 date: "2023-02-17T09:30:00+08:00"
 categories: [science]
-description: "Matthew Wersebe and Lawrence Weider hatch dormant Daphnia eggs from lake sediments and find genomic and phenotypic evidence that the population adapted rapidly to rising salinity, a keystone species tracking an environmental change. The work is reported in *PNAS* on 7 February 2023."
+description: "Dormant *Daphnia* eggs hatched from lake sediments show that a population adapted to rising salinity within decades, a rate of evolution that the fossil record rarely captures."
 ---
 
 Dormant eggs are a library. A lake's sediment holds decades of resting eggs produced by the zooplankton that lived in it, and each layer corresponds to a year. Hatching them gives a living sample of a past population.

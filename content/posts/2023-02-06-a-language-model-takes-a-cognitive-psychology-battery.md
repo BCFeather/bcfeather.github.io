@@ -3,7 +3,7 @@ slug: "a-language-model-takes-a-cognitive-psychology-battery"
 title: "A language model takes a cognitive psychology battery"
 date: "2023-02-06T09:15:00+08:00"
 categories: [science]
-description: "Marcel Binz and Eric Schulz run GPT-3 through classic experiments from cognitive psychology and find human-like patterns in some tasks and distinctly non-human behaviour in others. The study appears in *PNAS* on 7 February 2023."
+description: "GPT-3 reproduces human-like patterns in some classic cognitive psychology experiments and fails in others, a test of whether language models can stand in for participants."
 ---
 
 Psychologists have a century of experiments designed to expose how minds work, and each experiment isolates a bias or a capacity. A language model trained to predict text has no mind in that sense, and the battery is a way of asking what it does have.

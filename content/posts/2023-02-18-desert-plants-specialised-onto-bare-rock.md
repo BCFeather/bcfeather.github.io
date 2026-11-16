@@ -3,7 +3,7 @@ slug: "desert-plants-specialised-onto-bare-rock"
 title: "Desert plants specialised onto bare rock"
 date: "2023-02-18T09:20:00+08:00"
 categories: [science]
-description: "Isaac Lichter-Marck and Bruce Baldwin trace a clade of desert angiosperms and find that specialization onto bare, rocky outcrops was a route by which the group moved into arid environments. The study appears in *PNAS* on 7 February 2023."
+description: "A clade of desert plants specialized onto bare rocky outcrops, a route by which a lineage diversified without competing for the same soil."
 ---
 
 Deserts are difficult places for plants, and the difficulty is not only the lack of water. A desert's soils are thin, its rainfall is episodic, and its temperatures swing between day and night. A plant that colonizes a desert has to solve all three.

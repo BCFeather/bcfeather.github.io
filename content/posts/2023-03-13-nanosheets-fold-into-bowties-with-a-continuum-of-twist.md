@@ -3,7 +3,7 @@ slug: "nanosheets-fold-into-bowties-with-a-continuum-of-twist"
 title: "Nanosheets fold into bowties with a continuum of twist"
 date: "2023-03-13T09:20:00+08:00"
 categories: [science]
-description: "Prashant Kumar, Nicholas Kotov and colleagues assemble chiral semiconductor nanosheets into bowtie-shaped particles whose twist can be tuned continuously, producing photonic activity across a range of geometries. The paper is published in *Nature* on 15 March 2023."
+description: "Semiconductor nanosheets fold into bowtie-shaped particles whose twist can be tuned continuously, giving a family of chiral geometries with a dialable optical response."
 ---
 
 Chirality in inorganic materials is usually fixed by the crystal. A particle that is left-handed because its lattice is left-handed cannot be made right-handed without growing a different crystal, and the optical response follows the structure.

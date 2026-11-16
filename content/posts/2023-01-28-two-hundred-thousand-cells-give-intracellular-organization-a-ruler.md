@@ -3,7 +3,7 @@ slug: "two-hundred-thousand-cells-give-intracellular-organization-a-ruler"
 title: "Two hundred thousand cells give intracellular organization a ruler"
 date: "2023-01-28T09:35:00+08:00"
 categories: [science]
-description: "Matheus Viana, Susanne Rafelski and colleagues image more than 200,000 human induced pluripotent stem cells in three dimensions and build a framework for measuring cell shape and the position and organization of major organelles. The work is reported in *Nature* on 4 January 2023."
+description: "Images of more than 200,000 induced pluripotent stem cells in three dimensions yield a framework for describing cell shape and its variation at scale."
 ---
 
 A cell's shape and the arrangement of its parts are outputs of its state, and measuring them has been an artisanal activity: a few hundred cells, a handful of markers, a paper's worth of images. The result is a literature of beautiful pictures and few quantitative generalizations.

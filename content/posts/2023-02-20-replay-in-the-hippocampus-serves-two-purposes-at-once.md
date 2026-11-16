@@ -3,7 +3,7 @@ slug: "replay-in-the-hippocampus-serves-two-purposes-at-once"
 title: "Replay in the hippocampus serves two purposes at once"
 date: "2023-02-20T09:20:00+08:00"
 categories: [science]
-description: "G. Elliott Wimmer, Raymond Dolan and colleagues find distinct replay signatures in the hippocampus for prospective decision-making and for memory preservation, separating two functions that had been hard to tell apart. The work is reported in *PNAS* on 7 February 2023."
+description: "The hippocampus produces distinct replay signatures for prospective decisions and for memory, showing that one structure supports two different uses of the past."
 ---
 
 The hippocampus replays experience when it is not happening. A sequence of places that was walked through during the day is reactivated during sleep, and the reactivation has been interpreted as consolidation, as planning, or as both.

@@ -3,7 +3,7 @@ slug: "six-countries-compared-on-hiring-discrimination"
 title: "Six countries compared on hiring discrimination"
 date: "2023-02-14T09:20:00+08:00"
 categories: [science]
-description: "Lincoln Quillian and John Lee assemble discrimination estimates from correspondence experiments in six Western countries and ask whether the level of discrimination in hiring has changed over recent decades. The study appears in *PNAS* on 7 February 2023."
+description: "Correspondence experiments in six Western countries show that hiring discrimination against minority applicants persists and that its level varies with the local labour market."
 ---
 
 Hiring discrimination is measured by sending identical applications that differ only in the applicant's name, and counting the callbacks. The method is called a correspondence experiment, and it has been run hundreds of times since the 1970s.

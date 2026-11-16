@@ -3,7 +3,7 @@ slug: "grain-shape-corrects-the-law-for-sediment-transport"
 title: "Grain shape corrects the law for sediment transport"
 date: "2023-01-13T09:40:00+08:00"
 categories: [science]
-description: "Eric Deal and colleagues show that grain shape, not only grain size, governs bed-load sediment transport, and propose a shape-corrected transport law that matches laboratory measurements. The paper is published in *Nature* on 11 January 2023."
+description: "Sediment transport depends on grain shape as well as grain size, and a shape-corrected law reproduces flume and river data that a size-only law misses."
 ---
 
 Rivers move gravel, coasts move sand, and deserts move dust, and the rate at which they do it is one of the oldest quantitative problems in geomorphology. The standard laws relate transport to the shear stress of the flow and to the size of the grains, and they have been fitted to flume experiments for nearly a century.

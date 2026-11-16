@@ -3,7 +3,7 @@ slug: "a-facade-that-heats-and-cools-a-room-with-light"
 title: "A facade that heats and cools a room with light"
 date: "2023-02-09T09:20:00+08:00"
 categories: [science]
-description: "Raphael Kay, Benjamin Hatton and colleagues describe a multilayered optofluidic facade that reconfigures its optical properties to control indoor climate, offering a way to cut the energy that buildings spend on heating and cooling. The study appears in *PNAS* on 7 February 2023."
+description: "A multilayered optofluidic facade reconfigures its optical properties with pumped fluid, letting a building control heat and light without mechanical shading."
 ---
 
 Buildings spend more energy on keeping rooms at a comfortable temperature than on almost anything else, and most of that energy is spent fighting the sun. A window that admits light and rejects heat is a partial answer, and it is a static one.

@@ -3,7 +3,7 @@ slug: "a-selective-blocker-for-the-sperm-specific-potassium-channel"
 title: "A selective blocker for the sperm-specific potassium channel"
 date: "2023-01-25T09:20:00+08:00"
 categories: [science]
-description: "Maximilian Lyon, Ping Li and colleagues identify a selective inhibitor of SLO3, the potassium channel that carries the main potassium current in human sperm, giving the field a tool to test what that current does to motility. The paper is published in *PNAS* on 24 January 2023."
+description: "A selective inhibitor of the *SLO3* potassium channel, which carries the main potassium current in human sperm, offers a contraceptive target that acts on motility rather than on hormones."
 ---
 
 Sperm are excitable cells in the electrical sense, though they have no nerves. Their membranes carry ion channels that set the resting potential and drive the calcium influx which triggers the acrosome reaction, and one channel, SLO3, carries the principal potassium current in human sperm.

@@ -3,7 +3,7 @@ slug: "the-sensor-that-turns-on-beta-lactam-resistance-in-staphylococcus"
 title: "The sensor that turns on beta-lactam resistance in Staphylococcus"
 date: "2023-01-29T09:15:00+08:00"
 categories: [science]
-description: "J. Andrew Alexander, Natalie Strynadka and colleagues report cryo-electron microscopy structures of BlaR1 that show how the sensor protein signals through cleavage of BlaI and induces the beta-lactamase blaZ and the resistant transpeptidase mecA. The paper is published in *Nature* on 4 January 2023."
+description: "Cryo-electron microscopy structures of *BlaR1* show how the sensor protein passes a signal through the membrane to switch on beta-lactam resistance in *Staphylococcus aureus*."
 ---
 
 Staphylococcus aureus resists penicillins by two routes, and both are switched on by the same sensor. The bacterium carries a membrane protein, BlaR1, that detects the drug and transmits the signal inward, and a repressor, BlaI, that sits on the DNA until the signal arrives.

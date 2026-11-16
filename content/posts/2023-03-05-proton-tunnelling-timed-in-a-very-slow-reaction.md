@@ -3,7 +3,7 @@ slug: "proton-tunnelling-timed-in-a-very-slow-reaction"
 title: "Proton tunnelling timed in a very slow reaction"
 date: "2023-03-05T09:30:00+08:00"
 categories: [science]
-description: "Robert Wild, Roland Wester and colleagues measure proton-transfer tunnelling between H2 and D-minus at a rate of about one in ten to the eleventh collisions, the slowest rate constant recorded for a gas-phase ion-molecule reaction. The paper is published in *Nature* on 1 March 2023."
+description: "Proton transfer between hydrogen and the deuteride anion proceeds almost entirely by tunnelling, at a rate of about one collision in ten to the eleventh."
 ---
 
 Quantum tunnelling is usually invoked for light particles at low barriers, and chemistry textbooks treat it as a correction. A reaction that proceeds almost entirely by tunnelling, at a rate that is astronomically small, is a case where the correction is the phenomenon.

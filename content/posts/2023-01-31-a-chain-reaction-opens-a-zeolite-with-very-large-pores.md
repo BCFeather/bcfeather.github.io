@@ -3,7 +3,7 @@ slug: "a-chain-reaction-opens-a-zeolite-with-very-large-pores"
 title: "A chain reaction opens a zeolite with very large pores"
 date: "2023-01-31T09:35:00+08:00"
 categories: [science]
-description: "Alvaro Mayoral, Miguel Camblor, Fei-Jian Chen, Jihong Yu and colleagues use chain-condensation reactions in a silicate precursor to build Si-O-Si bridges and produce an extra-large-pore, low-density zeolite. The paper is published in *Science* on 19 January 2023."
+description: "Chain-condensation reactions in a silicate precursor build Si-O-Si bridges around an organic template, producing a zeolite with pores larger than any made before."
 ---
 
 Zeolites are crystalline aluminosilicates with pores of molecular dimensions, and their pores decide what they can do. A catalyst that has to admit a bulky molecule needs a pore larger than the twelve-membered rings that most frameworks offer, and making one has been a synthetic problem for decades.

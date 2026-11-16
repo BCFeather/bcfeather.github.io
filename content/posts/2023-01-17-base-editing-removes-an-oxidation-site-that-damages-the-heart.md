@@ -3,7 +3,7 @@ slug: "base-editing-removes-an-oxidation-site-that-damages-the-heart"
 title: "Base editing removes an oxidation site that damages the heart"
 date: "2023-01-17T09:15:00+08:00"
 categories: [science]
-description: "Simon Lebek and colleagues use CRISPR base editing to delete the two codons that let CaMKII-delta be switched on by oxidation, protecting mouse and human iPSC-derived heart muscle from ischaemia-reperfusion injury. The study appears in *Science* on 13 January 2023."
+description: "Base editing deletes the two codons that let CaMKII-delta be switched on by oxidation, protecting mouse and human heart muscle in a model of heart failure."
 ---
 
 Calcium-calmodulin kinase II is a signalling enzyme with a switch that is not supposed to exist. In the heart, its delta isoform is activated by calcium, and it is also activated when two methionine residues in its regulatory domain are oxidized. The second route is a damage pathway, and it is the one that runs during a heart attack.

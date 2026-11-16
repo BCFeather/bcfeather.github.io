@@ -3,7 +3,7 @@ slug: "a-lithium-niobate-laser-that-retunes-in-microseconds"
 title: "Lithium niobate laser retunes in microseconds"
 date: "2023-03-07T09:20:00+08:00"
 categories: [science]
-description: "Viacheslav Snigirev, Tobias Kippenberg and colleagues combine silicon nitride photonic circuits with thin-film lithium niobate to make a frequency-tunable laser with a fast tuning rate, aimed at optical ranging. It appears in *Nature* on 15 March 2023."
+description: "Silicon nitride circuits bonded to thin-film lithium niobate produce a laser that retunes in microseconds, fast enough for frequency-modulated optical ranging."
 ---
 
 A laser that can change colour quickly is a laser that can measure distance. Frequency-modulated continuous-wave ranging encodes range in a beat frequency, and the speed at which the source can sweep a band sets the resolution and the update rate.

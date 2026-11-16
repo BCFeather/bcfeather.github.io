@@ -3,7 +3,7 @@ slug: "two-decades-of-psychology-papers-measured-for-replicability"
 title: "Two decades of psychology papers measured for replicability"
 date: "2023-02-13T09:20:00+08:00"
 categories: [science]
-description: "Wu Youyou, Yang Yang and Brian Uzzi estimate the replicability of psychology papers published over two decades using a machine-learning model trained on text and statistics, finding variation by subfield and by era. The study appears in *PNAS* on 7 February 2023."
+description: "A machine-learning model trained on replication attempts estimates the replicability of two decades of psychology papers better than simpler predictors."
 ---
 
 The replication crisis in psychology produced a set of manual replication projects, each of which re-ran a sample of studies and reported how many held up. Manual replication is expensive, and a discipline publishes far more papers than any project can re-run.

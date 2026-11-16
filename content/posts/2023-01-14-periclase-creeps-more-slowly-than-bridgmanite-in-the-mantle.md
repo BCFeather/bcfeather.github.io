@@ -3,7 +3,7 @@ slug: "periclase-creeps-more-slowly-than-bridgmanite-in-the-mantle"
 title: "Periclase creeps more slowly than bridgmanite in the mantle"
 date: "2023-01-14T09:25:00+08:00"
 categories: [science]
-description: "Patrick Cordier and colleagues model the creep of magnesium oxide at lower-mantle pressures and temperatures and find that periclase deforms more slowly than bridgmanite, reversing an assumption built into mantle flow models. It appears in *Nature* on 11 January 2023."
+description: "Magnesium oxide, the main mineral of the lower mantle, creeps more slowly than calcium oxide at the same conditions, which changes how convection in the deep Earth is modelled."
 ---
 
 The lower mantle is the largest reservoir of rock in the Earth, and its viscosity sets the pace of everything above it: how fast plates move, how long a slab takes to sink, and whether a plume can rise. Viscosity in the mantle is a property of how minerals creep, and the lower mantle's creep has been attributed mainly to bridgmanite, its most abundant mineral.

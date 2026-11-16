@@ -3,7 +3,7 @@ slug: "every-iron-sulfur-bond-in-a-cluster-can-break-and-reform"
 title: "Every iron-sulfur bond in a cluster can break and reform"
 date: "2023-02-12T09:30:00+08:00"
 categories: [science]
-description: "Niklas Thompson, Daniel Suess and colleagues show that all iron-sulfur bonds in a cuboidal Fe-S cluster can cleave and re-form, a flexibility that may explain how these cofactors are assembled and repaired in enzymes. It appears in *PNAS* on 7 February 2023."
+description: "Every iron-sulfur bond in a cuboidal cluster can break and re-form, a flexibility that may explain how enzymes rearrange these cofactors during catalysis."
 ---
 
 Iron-sulfur clusters are among the oldest cofactors in biology, and they sit at the active sites of enzymes that move electrons, fix nitrogen and reduce carbon dioxide. Their assembly and repair are processes that cells perform carefully, and the chemistry involved has been difficult to observe.

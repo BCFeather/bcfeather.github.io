@@ -3,7 +3,7 @@ slug: "a-wearable-that-counts-the-load-on-a-voice"
 title: "Wearable counts the load a voice carries"
 date: "2023-03-02T09:20:00+08:00"
 categories: [science]
-description: "Hyoyoung Jeong, Wei Ouyang and colleagues describe a soft, wireless sensor with haptic feedback that measures vocal dose in real time and warns a speaker before the voice is overused. It appears in *PNAS* on 28 February 2023."
+description: "A soft wireless sensor records the vibration of the vocal folds and warns a speaker through haptic feedback before accumulated vocal dose injures the voice."
 ---
 
 Teachers, call-centre staff and singers lose their voices to accumulation rather than to a single event. The damage comes from speaking loudly for long periods, and the person doing it has no instrument that reports the dose.

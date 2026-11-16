@@ -3,7 +3,7 @@ slug: "a-poverty-program-changes-how-the-poor-treat-each-other"
 title: "A poverty program changes how the poor treat each other"
 date: "2023-03-11T09:30:00+08:00"
 categories: [science]
-description: "Wenchao Li, Songfa Zhong and colleagues use a regression discontinuity design around a multifaceted anti-poverty program in China to show that the intervention changed recipients' social preferences as well as their incomes. It appears in *PNAS* on 7 March 2023."
+description: "A regression discontinuity around a Chinese anti-poverty programme shows that the intervention changed recipients' social preferences as well as their incomes."
 ---
 
 Anti-poverty programs are evaluated on income, and their effects on behaviour are usually left out. A transfer that raises a household's consumption also changes the household's position relative to its neighbours, and that change can alter how people treat one another.

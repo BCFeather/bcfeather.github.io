@@ -3,7 +3,7 @@ slug: "ten-billion-trees-counted-across-the-sahel-and-the-savanna"
 title: "Ten billion trees counted across the Sahel and the savanna"
 date: "2023-03-04T09:15:00+08:00"
 categories: [science]
-description: "Compton Tucker and colleagues use machine learning on high-resolution satellite images to inventory nearly ten billion trees across sub-Saharan Africa and estimate the carbon each one stores, from 51 kilograms in the driest zone to 98 kilograms where rain is plentiful. The work is reported in *Nature* on 2 March 2023."
+description: "Machine learning applied to high-resolution satellite images counts nearly ten billion trees across sub-Saharan Africa and assigns each one a carbon mass that varies with rainfall."
 ---
 
 Drylands are usually mapped as a single category, and the trees within them are invisible to a satellite that resolves a pixel larger than a canopy. An inventory that counts individual trees is an inventory that changes the carbon accounting for a fifth of the land surface.

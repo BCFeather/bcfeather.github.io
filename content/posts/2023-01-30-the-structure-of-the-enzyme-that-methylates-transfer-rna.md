@@ -3,7 +3,7 @@ slug: "the-structure-of-the-enzyme-that-methylates-transfer-rna"
 title: "The structure of the enzyme that methylates transfer RNA"
 date: "2023-01-30T09:25:00+08:00"
 categories: [science]
-description: "Victor Ruiz-Arroyo, Yunsun Nam and colleagues report cryo-electron microscopy structures of METTL1-WDR4 that show how the complex recognizes tRNA and installs the m7G modification, with a companion paper from Jiazhi Li and Richard Gregory. It appears in *Nature* on 4 January 2023."
+description: "Structures of the *METTL1*-*WDR4* complex show how it recognizes tRNA and places a methyl group at the wobble position, a step that cancer cells depend on."
 ---
 
 Transfer RNA carries a set of chemical modifications, and one of them sits at the wobble position of the anticodon or in the variable loop. Methylation at guanine N7 is added by a two-protein complex, and the complex is conserved from yeast to humans.

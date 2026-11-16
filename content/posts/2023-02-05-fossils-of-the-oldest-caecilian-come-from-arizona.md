@@ -3,7 +3,7 @@ slug: "fossils-of-the-oldest-caecilian-come-from-arizona"
 title: "Fossils of the oldest caecilian come from Arizona"
 date: "2023-02-05T09:25:00+08:00"
 categories: [science]
-description: "Ben Kligman and colleagues describe 76 fossils of Funcusvermis gilmorei from the Triassic Chinle Formation, the oldest known caecilian, dated to about 220 million years ago. The paper is published in *Nature* on 23 February 2023."
+description: "Seventy-six fossils from the Triassic Chinle Formation belong to the oldest known caecilian, pushing the origin of the limbless amphibians back by tens of millions of years."
 ---
 
 Caecilians are amphibians that look like earthworms, live underground in the tropics, and have almost no fossil record. Their origin has been a gap in the tetrapod tree, and the gap has been filled by inference rather than by specimens.

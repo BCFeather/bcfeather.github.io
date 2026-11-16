@@ -3,7 +3,7 @@ slug: "a-spleen-on-a-chip-shows-how-sickle-cells-are-filtered"
 title: "A spleen on a chip shows how sickle cells are filtered"
 date: "2023-02-08T09:25:00+08:00"
 categories: [science]
-description: "Yuhao Qiang, Ming Dao and colleagues build a microfluidic model of the human spleen and use it to show how abnormal red blood cells are retained and eliminated, with implications for sickle cell disease. The study appears in *PNAS* on 7 February 2023."
+description: "A microfluidic model of the spleen shows how abnormal red blood cells in sickle cell disease are retained and damaged as they pass through the organ's narrow channels."
 ---
 
 The spleen removes damaged red blood cells from circulation, and it does so in a way that is hard to observe. The organ's open circulation forces cells through narrow slits between endothelial cells, and a cell that cannot deform is retained and eventually cleared.

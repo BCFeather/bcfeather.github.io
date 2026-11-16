@@ -3,7 +3,7 @@ slug: "a-metal-organic-framework-takes-up-ammonia-by-inserting-a-ligand"
 title: "A metal-organic framework takes up ammonia by inserting a ligand"
 date: "2023-01-16T09:20:00+08:00"
 categories: [science]
-description: "Benjamin Snyder and colleagues show that a three-dimensional metal-organic framework binds ammonia by cooperative insertion into its metal-linker bonds, forming a dense coordination polymer with high capacity and intrinsic thermal management. The paper is published in *Nature* on 11 January 2023."
+description: "A three-dimensional metal-organic framework captures ammonia by inserting it cooperatively into its metal-linker bonds, a mechanism that could separate the gas from industrial streams."
 ---
 
 Ammonia is a candidate fuel and a fertiliser feedstock, and storing it is awkward. It is a gas at room temperature, it liquefies only under pressure or at low temperature, and it attacks many of the materials that would hold it. A solid that absorbs ammonia reversibly at moderate conditions would change how the chemical is handled.

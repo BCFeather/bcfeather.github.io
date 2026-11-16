@@ -3,7 +3,7 @@ slug: "a-methylation-atlas-of-normal-human-cells-gives-deconvolution-a-reference
 title: "A methylation atlas of normal human cells gives deconvolution a reference"
 date: "2023-01-27T09:25:00+08:00"
 categories: [science]
-description: "Netanel Loyfer, Tommy Kaplan and colleagues report a DNA methylation atlas of normal human cell types built from deep whole-genome bisulfite sequencing, with fragment-level markers for deconvolving mixtures and liquid biopsies. The study appears in *Nature* on 4 January 2023."
+description: "A methylation atlas built from deep sequencing of sorted cell types gives each human cell type a DNA methylation signature that can identify it in mixed tissue."
 ---
 
 DNA methylation is the most stable mark a cell carries, and it is the mark that tells you what a cell is. A biopsy is a mixture of cells, and reading the mixture requires knowing what each component looks like in its pure form.

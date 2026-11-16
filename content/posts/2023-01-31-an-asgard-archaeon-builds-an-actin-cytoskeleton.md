@@ -3,7 +3,7 @@ slug: "an-asgard-archaeon-builds-an-actin-cytoskeleton"
 title: "An Asgard archaeon builds an actin cytoskeleton"
 date: "2023-01-31T09:20:00+08:00"
 categories: [science]
-description: "Thiago Rodrigues-Oliveira, Christa Schleper and colleagues culture Candidatus Lokiarchaeum ossiferum and show an elaborate cell with an actin-based cytoskeleton and extensive membranous protrusions. The study appears in *Nature* on 12 January 2023."
+description: "A cultured Asgard archaeon builds an elaborate cell with actin-based cytoskeletal filaments, offering a glimpse of the cell biology that preceded eukaryotes."
 ---
 
 The eukaryotic cell is distinguished by compartments and by a cytoskeleton, and the genes for both are found in archaea that have never been cultured. Asgard archaea carry eukaryotic signature proteins, including actin homologues, and the question has been what those genes build.

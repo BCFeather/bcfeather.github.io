@@ -3,7 +3,7 @@ slug: "deer-antler-stem-cells-grow-bone-fast-enough-to-inspire"
 title: "Deer antler stem cells grow bone fast enough to inspire"
 date: "2023-03-03T09:25:00+08:00"
 categories: [science]
-description: "Tao Qin and colleagues show that stem cells from deer antlers regenerate masses of bone and cartilage every year at a speed that mammalian bone repair does not normally reach, and that the cells can induce antler-like growth in mice. The work is reported in *Science* on 3 March 2023."
+description: "Stem cells from the growing tip of a deer antler build bone at a rate no other mammalian skeleton reaches, and the cells induce antler-like growth when placed in mice."
 ---
 
 Antlers are the fastest growing bones in mammals. A stag grows a set of them in a few months, sheds them, and grows another set the next year, and the tissue that does it is a stem-cell population that has no counterpart in the rest of the skeleton.

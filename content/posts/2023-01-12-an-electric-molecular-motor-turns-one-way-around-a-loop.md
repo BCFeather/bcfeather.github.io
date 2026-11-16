@@ -3,7 +3,7 @@ slug: "an-electric-molecular-motor-turns-one-way-around-a-loop"
 title: "Electric molecular motor turns one way around a loop"
 date: "2023-01-12T09:30:00+08:00"
 categories: [science]
-description: "Long Zhang, Yunyan Qiu, Fraser Stoddart and colleagues describe a [3]catenane motor driven by redox reactions whose two rings move unidirectionally around a circular track. It appears in *Nature* on 11 January 2023."
+description: "A catenane motor whose two rings rotate in one direction around a circular track when the molecule is oxidized and reduced, turning chemical energy into unidirectional motion."
 ---
 
 Molecular machines have been built from many parts, and the hardest part has been direction. A motor that spins randomly is a rotor; a motor that spins one way is a machine, and the difference requires a ratchet, a fuel and a sequence that never lets the system slip backwards.
