@@ -3,31 +3,21 @@ slug: "a-logical-qubit-that-lasts-longer-than-its-parts"
 title: "Logical qubit that lasts longer than its parts"
 date: "2023-04-06T09:20:00+08:00"
 categories: [science]
-description: "A surface-code logical qubit whose error rate falls below that of the best physical qubit it is built from, reported in *Nature* on 6 April 2023, is the first demonstration that error correction can pay for itself in real time."
+description: "A surface-code logical qubit on a superconducting processor errs less often than the best physical qubit it is built from, the first demonstration that error correction can pay for itself in real time."
 ---
 
-Error correction in quantum computing has a threshold problem. A code that corrects errors faster than they accumulate is a code that improves with size; a code that does not is a code that adds qubits without adding reliability.
 
-The demonstration in *Nature*, 6 April 2023 crosses that line in an experiment. A team working on a superconducting processor runs a surface code in real time, decoding errors as they occur, and reports a logical qubit whose error rate is lower than the rate of the best physical qubit in the array.
 
-The architecture is a lattice. Physical qubits sit on a grid, half of them used to detect parity changes, and the decoder reads the pattern of detection events and infers where an error occurred. The logical qubit is the encoded state that the pattern protects.
+In quantum computing, error correction has a threshold problem. A code that corrects errors faster than they accumulate improves as it grows, while one that falls behind adds qubits without adding reliability. *Nature* published a demonstration on 6 April 2023 that crosses the line in hardware: a team on a superconducting processor ran a surface code in real time, decoding errors as they arrived, and measured a logical qubit that erred less often than the best physical qubit in the array.
 
-The real-time requirement is the engineering. A decoder that runs after the experiment is a decoder that cannot feed back, and a decoder that runs during it can apply corrections between cycles. The paper's control electronics are what make the loop fast enough.
+Physical qubits sit on a lattice, half of them given over to parity checks, and the decoder reads the pattern of detection events to infer where an error landed. Detection events form pairs that a classical matching algorithm connects, and that pairing is the inference. Speed is what separates this run from earlier ones: a decoder working after the experiment cannot feed corrections back, whereas one that keeps pace with the cycle can, and the control electronics here are fast enough to close the loop between cycles.
 
-The result is a slope. Each increment in code distance, the lattice's linear size, reduces the logical error rate by a factor, and the factor that the paper measures is the evidence that the code is working as designed.
+Each step in code distance, the lattice's linear size, buys a fixed reduction in the logical error rate, and the measured slope is the evidence that the code behaves as designed. Crossing break-even is the claim that matters. An encoded qubit that outlasts its best constituent would be better off encoded than not, and that comparison is the number the field has waited for.
 
-The comparison with the break-even claim is the careful part. A logical qubit that beats the best physical qubit is a device that would be better off encoded than not, and that comparison is the number that the field has been waiting for.
+One error in a thousand and one in a trillion lie many orders of magnitude apart, and factoring a number of cryptographic size needs the latter. Hardware sets the distance to that goal. A thousand physical qubits carry only a handful of logical ones, and the ratio, more than the error rate on its own, fixes the size of any future machine.
 
-The remaining gap is to useful computation. A logical error rate of one in a thousand is not one in a trillion, and a machine that factors a number of cryptographic size needs many orders of magnitude more.
+How the improvement continues at larger distance remains untested. Five is a small lattice, seven is the next experiment, and only there does the slope either hold or bend. Interpretation depends on the noise as well. Superconducting errors are not uniform, and a code tuned to one error model can underperform on another, which is why the paper's characterization of the noise counts as part of its claim.
 
-The overhead is the cost. Each logical qubit consumes many physical ones, and a processor with a thousand physical qubits carries only a handful of logical ones. The ratio is the resource that a future machine has to reduce.
+Road maps that depend on error correction can now be costed. A measured improvement per unit of hardware is a quantity a programme can plan around, and error correction has moved from a theoretical requirement and a laboratory demonstration to an engineering target with a number attached.
 
-What the paper does not show is the scaling beyond its lattice. A code distance of five is a small lattice, and the improvement's continuation to distance seven is the next experiment.
-
-For the field, the value is a proof of principle with a number attached. Error correction has been a theoretical requirement and a laboratory demonstration, and the paper's error rates make it an engineering target.
-
-The consequence for timelines is indirect. A road map that depends on error correction can now point to a measured improvement per unit of hardware, and a road map with a measured slope is a road map that can be costed.
-
-The decoder's algorithm is a matching problem. Detection events form pairs that a classical algorithm connects, and the pairing is the inference. A decoder that is too slow becomes the bottleneck, and the paper's implementation runs within the cycle time.
-
-The noise model matters for interpretation. A superconducting qubit's errors are not uniform, and a code optimized for one error model may underperform on another. The paper's characterization of the noise is part of its claim.
+Whether the protection survives logic gates is the next question. A qubit that stores a state but cannot be operated on is a memory rather than a processor, and a code that preserves its distance through a sequence of gates is what turns a demonstration into a computing platform. The hardware ratio also sets expectations, since a machine needs thousands of physical qubits for a few hundred logical ones, and a claim about fault tolerance is always a claim about a budget.

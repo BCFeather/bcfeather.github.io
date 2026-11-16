@@ -3,33 +3,21 @@ slug: "two-hundred-and-forty-eight-genomes-map-the-jumping-genes-of-mammals"
 title: "Two hundred and forty-eight genomes map the jumping genes of mammals"
 date: "2023-04-29T09:15:00+08:00"
 categories: [science]
-description: "A curated catalogue of transposable elements across 248 mammal genomes, published in *Science* on 28 April 2023, shows how much of each genome is mobile and how the mobile fraction differs between species."
+description: "A curated catalogue of transposable elements across 248 mammal genomes shows how much of each genome is mobile and how the mobile fraction differs between species."
 ---
+
+
 
 Transposable elements are the genome's parasites and its raw material. A sequence that copies itself can disrupt a gene and can also supply a regulatory element that a host adopts, and the balance between the two is what a genome's architecture records.
 
-The catalogue in *Science*, 28 April 2023 assembles the evidence at scale. The authors curate transposable elements across 248 mammal genome assemblies, annotate the families, and compare their abundance and their activity across species.
+In *Science* on 28 April 2023, that record is read at scale. The authors curate transposable elements across 248 mammal genome assemblies, annotate the families, and compare their abundance and their activity across species.
 
-The scale is the contribution. A single genome's repeat landscape is a description, and 248 genomes' landscapes compared are a pattern. The pattern is what shows that some families are ancient and inactive and others are recent and mobile.
+Scale turns description into pattern. A single genome's repeat landscape is a description, 248 landscapes compared are a pattern, and the pattern shows that some families are ancient and inactive while others are recent and mobile. Curation is the labour behind it, since automated annotation confuses one family with another and a curated library is what makes a comparison trustworthy, which is why other studies will use this one.
 
-The curation is the labour. Automated annotation confuses one family with another, and a curated library is what makes a comparison trustworthy. The paper's library is the resource that other studies will use.
+Because some mammals' genomes are dominated by one class of element and others by another, variation is itself the finding, and it correlates with the species' history rather than with its size. Class matters mechanistically, as a DNA transposon cuts and pastes while a retrotransposon copies through an RNA intermediate, and the two leave different signatures that the classification respects. Distribution works as a clock: a family that invaded before the mammals' radiation sits in every lineage, and one that invaded later sits in some.
 
-The variation is the finding. Some mammals' genomes are dominated by one class of element and others by another, and the difference correlates with the species' history rather than with its size.
+Consequence runs in two directions. An element that lands near a gene can supply an enhancer, so a catalogue mapping insertions to genes is a map of potential regulatory innovation; an insertion can also disrupt a gene and cause disease, so a list of elements that are still mobile is a list of mutagens a genome carries. The human genome's share is about half, and placing that share in context is the point: a species whose genome is half mobile element has had part of its regulation built by parasites.
 
-The regulatory consequence is the interesting biology. An element that lands near a gene can supply an enhancer, and a catalogue that maps insertions to genes is a map of potential regulatory innovation.
+Evidence has limits. Assembly quality comes first, since repeat-rich regions are hard to assemble and a genome with gaps underrepresents the elements sitting in them. Activity is inferred rather than measured, because presence is not mobility and sequence divergence gives an estimate. Defence completes the picture, as methylation and small RNAs suppress elements and a species that loses a defence accumulates insertions. Single-cell work is the next layer, because elements active in one tissue and silent in another contribute cell-type-specific regulation, and a catalogue carrying expression data would be richer than one carrying sequence alone. Comparative genomics gains a shared reference, since a field that compares genomes needs a common annotation, and this is that annotation for mammals.
 
-The disease consequence is the other side. An insertion can disrupt a gene and cause a disease, and a catalogue of elements that are still mobile is a list of mutagens that a genome carries.
-
-The limitation is the assembly quality. A repeat-rich region is hard to assemble, and a genome with gaps underrepresents the elements that sit in those gaps.
-
-What the paper does not measure is the activity. An element's presence is not its mobility, and the paper's inference of activity from sequence divergence is an estimate rather than a measurement.
-
-For comparative genomics, the value is a shared reference. A field that compares genomes needs a common annotation, and the paper's library is that annotation for mammals.
-
-The element classes differ in mechanism. A DNA transposon cuts and pastes, a retrotransposon copies through an RNA intermediate, and the two leave different signatures. The paper's classification respects that difference.
-
-The evolutionary timescale is the frame. A family that invaded before the mammals' radiation is present in every lineage and one that invaded later is present in some. The distribution is a clock.
-
-The host's defence is part of the story. Methylation and small RNAs suppress elements, and a species that loses a defence accumulates insertions. The paper's comparison of defence genes is the other half of the explanation.
-The single-cell angle is emerging. Elements that are active in one tissue and silent in another contribute to cell-type-specific regulation, and a catalogue that includes expression data is richer than one that includes only sequence.
-The human genome's share is about half, and the paper's catalogue places that share in context. A species whose genome is half mobile element is a species whose regulation has been built partly by parasites, which is the insight the comparison delivers.
+What a catalogue cannot show is the insertion that has not happened yet, since a family that is quiet in one species may be active in another, and the comparison is a snapshot of activity rather than a prediction of what comes next.

@@ -3,31 +3,21 @@ slug: "depression-looks-different-across-the-income-scale"
 title: "Depression looks different across the income scale"
 date: "2023-04-18T09:15:00+08:00"
 categories: [science]
-description: "Symptom patterns of depression vary with socioeconomic position, according to an analysis published in *PNAS* on 18 April 2023 that argues for measuring the condition as a set of profiles rather than a single score."
+description: "Symptom patterns of depression vary with socioeconomic position, which argues for measuring the condition as a set of profiles rather than a single score."
 ---
 
-Depression is diagnosed by a count of symptoms, and the count treats a person who cannot sleep and a person who cannot eat as equivalent. An analysis that maps symptoms onto social position challenges that equivalence.
 
-The study in *PNAS*, 18 April 2023 does the mapping. The authors examine depression across the socioeconomic spectrum and find that the symptom profiles differ by income and by education, so that the same diagnosis covers different presentations.
 
-The pattern is not a simple gradient. Some symptoms cluster at the bottom of the income scale, others appear across it, and a few are more common among the better-off. The clustering suggests that the condition's causes are heterogeneous.
+Depression is diagnosed by a count of symptoms, and the count treats a person who cannot sleep and a person who cannot eat as equivalent. Mapping symptoms onto social position challenges that equivalence, because a count that sums unlike things cannot show what a diagnosis actually contains.
 
-The measurement consequence is the paper's argument. A single sum score hides the variation, and a profile-based measure would let a clinician match a treatment to a presentation. A score that is blind to symptoms is a score that cannot guide a choice.
+In *PNAS* on 18 April 2023, that mapping is done. Across the socioeconomic spectrum the symptom profiles differ by income and by education, so the same diagnosis covers presentations that share little beyond a label.
 
-The mechanism's candidates are environmental. Financial strain, insecure work, housing and neighbourhood conditions are stressors that act on specific symptoms, and the paper's analysis relates the profiles to those exposures.
+Because some symptoms cluster at the bottom of the income scale while others appear across it and a few are commoner among the better-off, the clustering argues that the condition's causes are heterogeneous rather than one exposure at different intensities. Financial strain, insecure work, housing and neighbourhood conditions are stressors that act on specific symptoms, and the analysis relates the profiles to those exposures.
 
-The treatment implication is about access. If the poor present with symptoms that respond to social intervention, then a clinic that offers only medication is offering half a treatment.
+Measurement carries the argument. A single sum score hides the variation, and a profile-based measure would let a clinician match a treatment to a presentation, since a score that is blind to symptoms cannot guide a choice. If the poor present with symptoms that respond to social intervention, a clinic that offers only medication is offering half a treatment, which makes access part of the clinical question rather than a separate policy one.
 
-The comparison with biological psychiatry is pointed. A field that searches for a biomarker of depression assumes one condition, and a set of profiles that track social position suggests several.
+Biological psychiatry meets a sharp contrast. A field that searches for a biomarker assumes one condition, while profiles that track social position suggest several. What the instruments permit matters as well: a questionnaire built around a single latent factor produces a score, and item-level data are what allow profiles to emerge at all. The cross-section is the limitation, since a single survey cannot separate a cause from a consequence, and a longitudinal design would test whether a change in income moves a profile.
 
-The limitation is the cross-section. A single survey cannot separate a cause from a consequence, and a longitudinal design would test whether a change in income changes a profile.
+Severity stays unaddressed. A profile can describe a mild case and a severe one, and the mapping to functional impairment is a separate measurement; a community survey also captures many mild cases and few severe ones, while a clinic-based sample would weight the profiles differently. Cultural reporting adds another caveat, because a symptom's expression depends on what a community counts as illness, and a study inside one country's survey system measures that expression as much as the state beneath it. Where the finding lands is the consulting room: a primary-care visit lasts minutes, a single severity band fits the time, and a profile-based approach would need another instrument and another training, a cost the paper's argument has to weigh against its benefit. Depression as a distribution of profiles rather than a threshold on a scale is the reframing on offer, and a model that fits the data better is one that a trial can use.
 
-What the paper does not address is severity. A profile can describe a mild case and a severe one, and the mapping to functional impairment is a separate measurement.
-
-For epidemiology, the value is a reframing. Depression as a distribution of profiles rather than a threshold on a scale is a model that fits the data better, and a model that fits better is a model that a trial can use.
-
-The instrument's design constrains the finding. A questionnaire built around a single latent factor will produce a score, and the paper's use of item-level data is what allows the profiles to emerge at all.
-
-Cultural reporting is a caveat. A symptom's expression depends on what a community considers illness, and a study in one country's survey system measures that expression as much as the underlying state.
-The clinical encounter is where the finding lands. A primary-care consultation lasts minutes, and a questionnaire that produces a single severity band is what fits the time. A profile-based approach would need a different instrument and a different training, which is a cost that the paper's argument has to weigh against its benefit.
-The severity distribution is the other caveat. A community survey captures many mild cases and few severe ones, and a clinic-based sample would weight the profiles differently. The paper's population design is what makes the socioeconomic gradient visible at all.
+What a profile-based instrument would do to treatment matching is the practical test, since a measure that changes a prescription is worth more than one that changes a description.
