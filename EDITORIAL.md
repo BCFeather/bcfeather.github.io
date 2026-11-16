@@ -1,6 +1,6 @@
 # Editorial manual
 
-How posts are chosen, written, typeset and verified on this site. The rules apply to every batch
+This manual is intended for AI agents that assist Caozhe Bao, and explains how posts are chosen, written, typeset and verified on this site. The rules apply to every batch
 from 2022 onwards, and they are written to be checkable: each section ends with something a script
 or a reader can test.
 
