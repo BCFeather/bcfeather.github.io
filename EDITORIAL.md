@@ -298,6 +298,22 @@ the house spelling rules.
   must run against a proper-noun whitelist and the diff be read by hand afterwards; a blanket
   replacement is how `Kennedy Space Centre` gets published.
 
+### Names fixed by an international body
+
+Where a discipline's own naming body has settled an English form, that form overrides the British and
+the American habit alike. The rule is not a drift towards American spelling, because several of these
+bodies chose the British form.
+
+* Chemistry follows IUPAC: element 16 is `sulfur`, and with it `sulfate`, `sulfide` and `sulfuric
+  acid`; the same table also gives `aluminium` and `caesium`. ISO drafting rules follow IUPAC here,
+  and the Royal Society of Chemistry switched in 1992, so `sulphur` survives only in general prose.
+* Units follow the BIPM's SI brochure: `metre`, `litre`, `tonne`, and a symbol never takes a plural.
+* Enzymes follow IUBMB, gene and protein symbols follow HGNC or the species database for an organism,
+  viruses follow ICTV, and astronomical designations follow the IAU.
+* Organisms follow the nomenclature codes, so binomials stay Latin and italic.
+* Where no body has ruled, the question returns to §12: `orthopaedic` stays, because no authority has
+  fixed `orthopedic` and British vocabulary governs the site.
+
 ### Market indexes
 
 Index names are proper nouns and take capitals on every word that belongs to the name: `Shanghai
@@ -356,7 +372,8 @@ Per file:
 * `-ize` for the `-ise` family, `-yse` for analyse and its relatives, official spelling inside
   proper names;
 * straight quotes only, singles outside and doubles inside; no em or en dash in prose;
-* `towards`, `per cent`, British vocabulary, and the house forms of §13;
+* `towards`, `per cent`, British vocabulary, and the house forms of §13, with internationally fixed
+  chemical, unit, gene and taxonomic names taken from the naming body rather than the dictionary;
 * substance traced to the primary record, with borrowed facts attributed to the outlet that ran
   them and borrowed wording short and single-quoted;
 * the subject is either unreported or told from an angle the coverage did not take, and the
