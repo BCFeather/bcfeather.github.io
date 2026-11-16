@@ -308,6 +308,10 @@ the house spelling rules.
   `Bilibili` alone.
 * **Nasdaq**, not `NASDAQ`; **China's**, with the apostrophe; **Huawei**, **Tencent**, **Alibaba
   Group**, **TSMC**, **ASML**.
+* **LALIGA**, one word in capitals, for the Spanish league from its June 2023 rebrand onwards; the
+  competitions it runs take the same form (`LALIGA EA SPORTS`, `LALIGA HYPERMOTION`). The name was
+  styled **LaLiga** from 2015 to 2023 and `La Liga` before that, so a post dated in an earlier era
+  uses the form that era's own materials used and does not retro-fit the capitals.
 * Institutions keep their own spelling: Kennedy Space Center, Carter Center, Lincoln Center, World
   Trade Center, Defense Production Act, Japan Self-Defense Forces, Centers for Disease Control and
   Prevention; against European Centre for Disease Prevention and Control, Satish Dhawan Space

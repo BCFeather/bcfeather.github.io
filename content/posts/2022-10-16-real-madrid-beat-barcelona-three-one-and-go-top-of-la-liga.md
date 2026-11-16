@@ -1,6 +1,6 @@
 ---
 slug: "real-madrid-beat-barcelona-three-one-and-go-top-of-la-liga"
-title: "Real Madrid beat Barcelona 3-1 and go top of La Liga"
+title: "Real Madrid beat Barcelona 3-1 and go top of LaLiga"
 date: "2022-10-16T23:35:00+08:00"
 categories: [sport]
 description: "Benzema, Valverde and Rodrygo score at the Bernabéu, and Barcelona lose for the first time this season."
