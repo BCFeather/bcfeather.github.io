@@ -112,7 +112,7 @@ description: "One plain sentence, no TeX, readable without the body."
 
 ## 6. Titles
 
-No title begins with `A`, `An` or `The`. Avoid the `A/The [noun] that [verb]` shape, which reads
+Limit the amount of titles beginning with `A`, `An` or `The`, but not strictly prohibited. Avoid the `A/The [noun] that [verb]` shape, which reads
 like a catalogue entry. Prefer a plain noun phrase, a verb phrase, or a clause that names the
 finding: `Bicarbonate does not save lives in acidotic shock`, `Warming turns wetlands from a sink
 into a source`.
