@@ -6,6 +6,8 @@ categories: [science]
 description: "GPT-3 reproduces human-like patterns in some classic cognitive psychology experiments and fails in others, which tests whether language models can stand in for participants."
 ---
 
+
+
 Psychologists have a century of experiments designed to expose how minds work, and each experiment isolates a bias or a capacity. A language model trained to predict text has no mind in that sense, and a battery of those experiments asks what it does have.
 
 In *PNAS* on 7 February 2023, the battery is administered to GPT-3. Marcel Binz and Eric Schulz assess decision-making, information search, deliberation and causal reasoning with canonical paradigms, and compare the model's behaviour against the human patterns those paradigms were built to reveal.
@@ -17,3 +19,5 @@ Because accuracy on a benchmark says little about the processes behind an answer
 Deliberation is where the parallel breaks. A person who deliberates spends time and attention, a model that produces a longer chain of reasoning spends nothing, and the behaviour can look similar while the economics are entirely different. Comparison carries its own caveat, since human participants are motivated, instructed and embedded in a culture while a model is prompted, and a difference between them may reflect the presentation of the task rather than a cognitive difference, which the controls address only partly.
 
 Stability is the deeper question, because a model's responses depend on the wording of a prompt and a bias that appears in one format may vanish in another, so replication across phrasings is what gives the patterns any weight. Diagnostic use follows, since a model that fails a causal reasoning task the way people fail it tells an evaluator that the failure belongs to the task rather than to the model. The claim is not that the model thinks, only that the tools of psychology can characterize a system not designed to be characterized that way, and that the characterization reproduces. Machine cognition gains a template, because a standard set of paradigms given in the same way across models would make comparison possible, and comparison is what the literature lacks.
+
+Scale is the remaining caveat, because a bigger model trained on more text may reproduce fewer human biases rather than more, and applying the battery across model sizes is the experiment that would say whether it does.

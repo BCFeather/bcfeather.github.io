@@ -6,28 +6,20 @@ categories: [science]
 description: "A clade of desert plants specialized onto bare rocky outcrops, a route by which a lineage diversified without competing for the same soil."
 ---
 
-Deserts are difficult places for plants, and the difficulty is not only the lack of water. A desert's soils are thin, its rainfall is episodic, and its temperatures swing between day and night. A plant that colonizes a desert has to solve all three.
 
-The study in *PNAS*, 7 February 2023 looks at how one group solved them. Isaac Lichter-Marck and Bruce Baldwin analyze a clade of desert angiosperms, reconstruct its history on a phylogenetic tree, and ask which transitions in habitat accompanied the move into arid landscapes.
 
-The answer is rock. The clade's ancestors grew in soils, and the species that moved into the driest habitats first specialized onto bare, rocky outcrops. Rock is a habitat with almost no soil, and it is also one where water arrives and leaves quickly.
 
-The edaphic specialization is the mechanism. A plant that roots in crevices avoids competition with the soil flora, and it avoids the pathogens that wet soil supports. The trade-off is that water storage is limited, and the plant has to tolerate desiccation.
 
-The phylogeny dates the transitions. A reconstruction that places habitat changes on a tree shows when the specialization occurred, and the sequence suggests that rock came before the open desert rather than after it.
+Deserts are difficult places for plants, and the difficulty is not only the lack of water. A desert's soils are thin, its rainfall episodic, its temperatures swinging between day and night, and a plant that colonizes it has to solve all three.
 
-The morphological correlates are the evidence. Plants on rock tend to have small leaves, deep taproots or succulent tissues, and the clade's species show those traits in the branches that the reconstruction identifies.
+In *PNAS* on 7 February 2023, how one group solved them is examined. Isaac Lichter-Marck and Bruce Baldwin analyse a clade of desert angiosperms, reconstruct its history on a phylogenetic tree, and ask which habitat transitions accompanied the move into arid landscapes.
 
-The alternative hypothesis is that the clade evolved in the desert and moved to rock later. The tree's topology and the timing of the transitions are what discriminate the two, and the paper's analysis favors the first.
+Rock is the answer. The clade's ancestors grew in soils, and the species that reached the driest habitats first specialised onto bare, rocky outcrops, a habitat with almost no soil and one where water arrives and leaves quickly. Specialisation is the mechanism, because a plant that roots in crevices avoids competition with the soil flora and the pathogens that wet soil supports, and the trade-off is that water storage is limited and desiccation has to be tolerated.
 
-The consequence for the group's diversity is large. Rock outcrops are islands, and a plant that specializes onto them is a plant that speciates, because populations on separate outcrops do not exchange genes. The clade's species richness may be a product of the habitat's fragmentation.
+Because a reconstruction places habitat changes on a tree, the phylogeny dates the transitions, and the sequence suggests that rock came before open desert rather than after it; the competing explanation, that the clade evolved in the desert and moved to rock later, is separated from the first by topology and by the timing of the transitions, and the analysis favours the first. Morphology supplies the evidence, since plants on rock tend to have small leaves, deep taproots or succulent tissues, and the clade shows those traits in the branches the reconstruction identifies.
 
-The climate-change reading is a caution. A specialist on rock is a specialist on a habitat that climate models treat as a single category, and the refuges that such plants need are not resolved in a global grid.
+Diversity follows from the habitat. Rock outcrops are islands, and a plant that specialises onto them speciates, because populations on separate outcrops do not exchange genes, so the clade's richness may be a product of fragmentation, and its biogeography is a chain of outcrops colonized step by step. Rock type may matter as much as rock, because limestone, granite and volcanic flows weather differently and hold water differently, and a flora that specialises onto one of them is a flora a geological map can predict.
 
-What the study cannot show is the physiological basis of the tolerance. A comparative experiment that measures desiccation survival across the clade would test whether the trait and the habitat co-evolved.
+Conservation carries the caution. Rock outcrops are small and unprotected, and a plant living on a hundred hectares of stone is one a quarry can remove; a habitat that climate models treat as a single category is not resolved in a global grid, so the refuges such plants need stay invisible. Physiology is what the study cannot show, since a comparative experiment measuring desiccation survival across the clade would test whether trait and habitat co-evolved. What remains unmeasured is therefore the mechanism of tolerance, and the clade's history is the argument for why a few hectares of stone matter.
 
-For conservation, rock outcrops are small and unprotected. A plant that lives on a hundred hectares of stone is a plant that a quarry can remove, and the clade's history makes those hectares matter.
-
-The clade's biogeography adds a second thread. Its species are scattered across desert ranges, and a range that is a chain of outcrops is a range that a plant colonizes step by step. Dispersal between islands of rock is the process the phylogeny records.
-
-The rock type may matter as much as the rock. Limestone, granite and volcanic flows weather differently and hold water differently, and a flora that specializes onto one of them is a flora that a geological map can predict.
+Dispersal between outcrops is the process the phylogeny records, since a range of isolated habitats is colonized step by step, and the timing of each colonization is what a dated tree can supply. Water storage in a crevice is brief, and the plants that live there have to take up what arrives within hours rather than hold it across a season.

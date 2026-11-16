@@ -3,29 +3,21 @@ slug: "turner-and-monet-paintings-record-nineteenth-century-air"
 title: "Turner and Monet paintings record nineteenth-century air"
 date: "2023-02-16T09:15:00+08:00"
 categories: [science]
-description: "An analysis of paintings by Turner and Monet finds that changes in the haze and colour of their work track the air pollution of the industrial cities where they painted, turning canvases into a record of nineteenth-century atmospheres. The study appears in *PNAS* on 7 February 2023."
+description: "An analysis of paintings by Turner and Monet finds that changes in the haze and colour of their work track the air pollution of the industrial cities where they painted, which turns canvases into a record of nineteenth-century atmospheres."
 ---
 
-Art historians read paintings for style, and atmospheric scientists read them for haze. The two disciplines rarely meet, and a canvas that depicts a city has a sky whose colour and contrast were set by the air between the painter and the view.
 
-The study in *PNAS*, 7 February 2023 takes that reading seriously. The authors analyze paintings by Turner and by Monet, measure the contrast and the colour of the depicted skies, and compare the trends with what is known about the air quality of London and Paris in the nineteenth century.
 
-The result is a correlation. As industrial emissions rose, the paintings' skies became hazier and their contrast fell, and the change is consistent across the two painters and the two cities. The canvases are a proxy record of the atmosphere.
+Art historians read paintings for style, and atmospheric scientists read them for haze. The two disciplines rarely meet, yet a canvas that depicts a city carries a sky whose colour and contrast were set by the air between the painter and the view.
 
-The proxy is imperfect. A painter chooses a sky for composition as well as for observation, and a style evolves. The analysis controls for the painter's late style by comparing works of the same period in different cities.
+In *PNAS* on 7 February 2023, that reading is taken seriously. The authors analyse paintings by Turner and by Monet, measure the contrast and the colour of the depicted skies, and compare the trends with what is known about air quality in nineteenth-century London and Paris.
 
-London and Paris differ in their pollution histories. London burned coal at scale earlier and more heavily, and Paris industrialised later. The paintings from the two cities show the difference in timing, which is what makes the comparison informative rather than anecdotal.
+Correlation is the result. As industrial emissions rose the skies became hazier and their contrast fell, and the change is consistent across the two painters and the two cities, which makes the canvases a proxy record of the atmosphere. Scattering supplies the physics, since aerosol particles reduce contrast and shift colour towards the red at sunset, so a sky painted with less contrast is a sky painted through more particles.
 
-The physics of haze is the link. Aerosol particles scatter light, and scattering reduces contrast and shifts colour towards the red at sunset. A sky painted with less contrast is a sky painted through more particles.
+Because London burned coal at scale earlier and more heavily while Paris industrialised later, the two cities differ in their pollution histories, and the paintings show the difference in timing, which is what makes the comparison informative rather than anecdotal. Style is the proxy's weakness, since a painter chooses a sky for composition as well as for observation and a style evolves, and comparing works of the same period in different cities is how the analysis controls for a painter's late manner.
 
-The value for atmospheric science is a baseline. Instrumental records of air quality begin in the twentieth century, and a proxy that extends back a hundred years fills a gap that models of historical climate would like to have.
+Measurement is standard image analysis, because a painting is digitized, the sky region identified and the local contrast computed across scales, and the method is reproducible, which is what lets two centuries of canvases be compared with each other. The painters' accounts support the reading, since Turner complained about the London air and Monet chose to paint in the fog, and a painter who takes smog as a subject is a painter who documents it.
 
-The caveat is the sample. The analysis is of a set of works whose dates and locations are documented, and a painting made in a studio from memory is a different object from one made on site. The paper's selection addresses that.
+Varnish and fading raise the obvious doubt, because a canvas's colours change with age and a pigment that darkens would mimic haze, and the controls include works from the same period in clear-air locations, whose contrast is the evidence. Sample selection matters too, since a painting made in a studio from memory is a different object from one made on site, and the selection addresses that. Atmospheric science gains a baseline, because instrumental records of air quality begin in the twentieth century and a proxy that extends a hundred years further back fills a gap that models of historical climate want filled. For the public the result is a way of seeing, since a Turner sunset is a measurement as well as a composition, and the pollution that made it is the pollution reformers campaigned against.
 
-For the public, the result is a way of seeing. A Turner sunset is not only a composition; it is a measurement, and the pollution that made it is the same pollution that reformers campaigned against.
-
-The collaboration is the model. An art historian's knowledge of provenance and a physicist's model of scattering produce a result that neither could produce alone, and the method can be applied to other painters and other cities.
-
-The measurement of contrast is a standard image analysis. A painting is digitized, the sky region is identified, and the local contrast is computed across scales. The method is reproducible, which is what lets two centuries of canvases be compared with each other.
-The painters' own accounts support the reading. Turner complained about the London air and Monet chose to paint in the fog, and both described the atmosphere as a subject. A painter who chooses smog as a subject is a painter who documents it.
-Sceptics will ask about varnish and fading. A canvas's colours change with age, and a pigment that darkens would mimic haze. The paper's controls include works from the same period in clear-air locations, and the contrast between them is the evidence.
+Later painters would extend the record, because the method needs dated works with documented locations, and a city's air after clean-air legislation is the test of whether the haze trend reverses.
