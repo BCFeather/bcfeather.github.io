@@ -13,7 +13,7 @@ They come from several sources: pieces that I write myself, notes and summaries 
 
 ### How often is the blog updated?
 
-There is no fixed schedule. I publish when an event or a question feels worth thinking through slowly rather than chasing a headline. In most cases a single day brings one or two posts, while some other days may pass quietly.
+There is no fixed schedule. I publish when an event or a question feels worth thinking through slowly rather than chasing a headline. In most cases a single day brings several posts, while some other days may pass quietly (not very common, though).
 
 ### What does the blog cover?
 
