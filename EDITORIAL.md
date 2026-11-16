@@ -249,6 +249,8 @@ not a licence to imply peer review that has not happened.
   in compounds, ranges and scores (`8-0`), and an en dash may survive inside a proper name that
   carries one, written with a hyphen in our text (*Snijders Blok-Campeau* syndrome).
 * Statistical significance is written with an italic capital: *P* value, *P*=0.03, never `p value` and never a roman P.
+  The sample size takes an italic lower-case letter: *n*=3, *n*=4, never a roman `n`, because both are algebraic
+  symbols and the numbers beside them stay roman.
 * Numerals: figures for measurements, percentages and years; words for one to nine in ordinary
   prose. Units take a space and the correct case: 26.86 per cent, 2.9 GPa, 1,044 h, 5.3 million
   years, 759.5 individuals per square kilometre.
