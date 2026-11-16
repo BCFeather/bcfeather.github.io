@@ -52,7 +52,7 @@ Essays stay scarce: at most one or two in a batch of twenty, and never the bulk 
 
 **4.2 Movements.** Six, in their usual order: the situation before the result and why it was unresolved; what was done, with the journal and the date; the central number with its interval or its comparison; the mechanism or the design that makes the finding credible; what the result does not show; and what would settle the question next or alter practice. The order may flex; the omissions may not. A digest without a limitations movement reads as publicity, and a digest without numbers reads as an abstract rewritten.
 
-**4.3 The body.** No markdown headings, no bold, no bullet lists standing in for prose, no images unless the post is about the image. Links are sparing and always to the primary source.
+**4.3 The body.** No markdown headings, no bold, no bullet lists standing in for prose, no images unless the post is about the image, no links.
 
 ## 5. Sentences and paragraphs
 
