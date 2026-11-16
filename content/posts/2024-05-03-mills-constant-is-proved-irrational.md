@@ -6,7 +6,7 @@ categories: [science]
 description: "The smallest number whose floored cube, ninth and twenty-seventh powers are all prime is shown to be irrational, with transcendence left open."
 ---
 
-In 1947 Mills showed that a real number exists whose floored powers are always prime: take a number above one, raise it to the third, ninth, twenty-seventh power and onwards, and the integer part is prime every time. The property is demanding, since one number fixes a whole sequence, and the sequence has to hit a prime at every third power however far it is continued.
+In 1947 Mills showed that a real number exists whose floored powers are always prime: take a number above one, raise it to the third, ninth, twenty-seventh power and onwards, and the integer part is prime every time. The construction works because the primes thin out slowly enough for the cubes to keep pace with them, and that is the analytic fact underneath the trick. The property is demanding, since one number fixes a whole sequence, and the sequence has to hit a prime at every third power however far it is continued.
 
 The construction is where the constant comes from. Mills took a sequence of primes that grows quickly enough for each one to lie below the cube of some common number, and the existence of such a sequence follows from a theorem on gaps between consecutive primes. The constant is therefore an inheritance from the primes and not a formula anyone wrote down.
 
