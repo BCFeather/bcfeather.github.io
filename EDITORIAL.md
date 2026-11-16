@@ -93,3 +93,20 @@ also obliges it to keep the capital. Journals without an article take none: *Nat
 *Cell*, *PNAS*, *JAMA*, *Physical Review Letters*, *Nature Medicine*, *The Lancet Oncology* and
 *The Lancet Psychiatry* take the article their titles carry. Volume and page numbers stay roman
 and outside the italics, and article titles stay roman, in single quotes.
+
+Genes, proteins, organisms. Gene symbols are italic, roman capitals, no spaces: *KRAS*, *TP53*,
+*BRCA1*, *FEM1B*, *CUL2*, *MFN1*, *OPA1*, *Serinc2* (mouse-style mixed case keeps its case). Protein
+names are roman, including complexes and families: CUL2^FEM1B, mitofusin 1 and 2, OPA1 protein,
+p53, the BEX proteins. A mutation written after a gene symbol leaves the symbol italic and the
+substitution roman: *KRAS* G12C. Latin binomials and trinomials are italic, genus capitalized and
+species lower case, abbreviated after the first mention: *Escherichia coli*, then *E. coli*;
+*Homo sapiens*, *Homo longi*. Higher taxa, strain, serovar and author designations stay roman:
+*E. coli* K-12, Diptera, *Salmonella enterica* serovar Typhimurium. Virus species follow the ICTV
+italics, virus names in ordinary prose stay roman.
+
+Notation. Anything with a subscript, a superscript or scientific notation is set in TeX rather
+than typed with underscores, carets or spelled-out powers: \(\mathrm{PI}(3,4)P_2\),
+\(\mathrm{CUL2}^{\mathrm{FEM1B}}\), \(a_\mu = 116\,592\,070.5(14.8)\times10^{-11}\),
+\(1.16\times10^{-10}\). Single-letter variables and simple arithmetic belong in the same
+treatment when they carry an index or a symbol; plain numbers, percentages and units in running
+text do not.
