@@ -110,3 +110,9 @@ than typed with underscores, carets or spelled-out powers: \(\mathrm{PI}(3,4)P_2
 \(1.16\times10^{-10}\). Single-letter variables and simple arithmetic belong in the same
 treatment when they carry an index or a symbol; plain numbers, percentages and units in running
 text do not.
+
+Descriptions. The front-matter `description` is plain prose: no TeX, no carets or underscores, and
+no formula-like name that would need them. Write the chemistry out in words (phosphatidylinositol
+3,4-bisphosphate rather than the abbreviated lipid, a CUL2-based ubiquitin ligase rather than the
+complex in superscript notation), and keep the sentence readable to someone who never sees the
+body. TeX belongs to the body, where the markup renders.

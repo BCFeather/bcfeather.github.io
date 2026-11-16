@@ -3,7 +3,7 @@ slug: "switching-on-a-ubiquitin-ligase-instead-of-blocking-it"
 title: "Switching on a ubiquitin ligase instead of blocking it"
 date: "2026-10-29T20:25:00+08:00"
 categories: [science]
-description: "A Science paper finds a small molecule that activates the E3 ligase CUL2-FEM1B, clears obstructing proteins from the mitochondrial import gate and rescues neurons in disease models."
+description: "A small molecule switches on a ubiquitin ligase instead of blocking one, clears the proteins that obstruct the mitochondrial import gate and rescues neurons in disease models."
 ---
 
 Most drug programmes aimed at the ubiquitin system try to stop a ligase. A paper in *Science* on 29 October does the opposite, and the result suggests the opposite direction is worth a programme of its own. Chandrasekhar and colleagues identified a small molecule that switches on \(\mathrm{CUL2}^{\mathrm{FEM1B}}\), an E3 ligase that cells use under reductive stress, and the switch improves mitochondrial protein import and neuronal survival in models of mitochondrial disease. The paper appears in *Science* 394, 6823.
