@@ -1,6 +1,6 @@
 ---
 slug: "a-nanobody-that-neutralises-african-elapid-snake-venoms"
-title: "A nanobody that neutralizes African elapid snake venoms"
+title: "One nanobody neutralizes venoms from 17 African elapid snakes"
 date: "2025-11-25T09:20:00+08:00"
 categories: [science]
 description: "A single engineered nanobody neutralized the venoms of 17 of 18 African elapid snakes in mice, a result that points to a universal antivenom made in microbes rather than in horses."
@@ -18,5 +18,4 @@ What remains open is whether breadth survives contact with whole venom. Venom is
 
 The study also stops short of human dosing. Mice are not humans in their response to envenomation, and the time window between bite and treatment is wider in the experiments than it often is in the field. Tissue damage at the bite site, which antivenom addresses poorly in any case, is not captured by survival as an endpoint.
 
-A antivenom that is cheap to make, stable without refrigeration and effective across species would change who gets treated rather than how they are treated. The 17-out-of-18 result is the first demonstration that a single fragment can cover a continent's elapids; the remaining species is the reason it is still a demonstration and not a product.
-
+An antivenom that is cheap to make, stable without refrigeration and effective across species would change who gets treated rather than how they are treated. The 17-out-of-18 result is the first demonstration that a single fragment can cover a continent's elapids; the remaining species is the reason it is still a demonstration and not a product.
