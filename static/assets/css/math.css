@@ -1,0 +1,34 @@
+/* Make KaTeX render in the same face as article body text. */
+article .content .katex,
+article .content .katex-display > .katex {
+  font-family: Georgia, "Times New Roman", "Songti SC", "Noto Serif SC", SimSun, serif;
+  font-size: 1.02em;
+  font-weight: normal;
+  line-height: 1.2;
+  color: inherit;
+  text-rendering: auto;
+}
+
+/* Upright and variable glyphs: inherit the article face instead of KaTeX_Main/Math. */
+article .content .katex .mainrm,
+article .content .katex .mathnormal,
+article .content .katex .textrm,
+article .content .katex .textit,
+article .content .katex .mord,
+article .content .katex .mbin,
+article .content .katex .mrel,
+article .content .katex .mopen,
+article .content .katex .mclose,
+article .content .katex .mpunct,
+article .content .katex .minner,
+article .content .katex .mop,
+article .content .katex .mspace {
+  font-family: inherit;
+  color: inherit;
+}
+
+/* Keep italic variables italic, just in the body face. */
+article .content .katex .mathnormal,
+article .content .katex .textit {
+  font-style: italic;
+}
