@@ -20,7 +20,7 @@ An alternative design is used elsewhere. A lottery weighted by a team's record o
 
 The reform was necessary and insufficient. Intentional losing is now less profitable and still profitable, and the mechanism that would remove it, relegation or a fixed allocation, is not available in a league without promotion and relegation.
 
-Other side of the ledger is the players' incentives. A team that finishes last keeps its own pick unless it falls in the top three, and a veteran on a one-year contract has no reason to prefer a loss. The league's audit found no evidence of player-level manipulation, which is consistent with the incentive being organisational.
+Other side of the ledger is the players' incentives. A team that finishes last keeps its own pick unless it falls in the top three, and a veteran on a one-year contract has no reason to prefer a loss. The league's audit found no evidence of player-level manipulation, which is consistent with the incentive being organizational.
 
 Tanking is also a coaching decision. A coach who rests a starter in March is protecting a player and losing games, and the two motives are indistinguishable in the record. That ambiguity is why the audit is narrow.
 

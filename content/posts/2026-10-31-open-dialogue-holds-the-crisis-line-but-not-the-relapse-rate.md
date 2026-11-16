@@ -3,12 +3,12 @@ slug: "open-dialogue-holds-the-crisis-line-but-not-the-relapse-rate"
 title: "Open dialogue holds the crisis line but not the relapse rate"
 date: "2026-10-31T10:30:00+08:00"
 categories: [science]
-description: "A cluster-randomised trial in England finds the Finnish Open Dialogue model prevents admissions without delaying relapse, a result that splits the argument in two."
+description: "A cluster-randomized trial in England finds the Finnish Open Dialogue model prevents admissions without delaying relapse, a result that splits the argument in two."
 ---
 
 Open Dialogue came out of Finnish psychiatry in the 1980s with a promise that sounded implausible and, to its critics, unscientific: treat a psychotic crisis with the patient's own network in the room and relapse becomes rarer. A trial published in *The Lancet Psychiatry* in October tested the model in England, and the promise has split cleanly in two.
 
-The trial, called ODDESSI, randomised mental health teams rather than patients, because the intervention is a way of running a service and cannot be allocated one person at a time. Teams in the Open Dialogue arm were trained and supervised in the model, which gathers the patient's family and friends into treatment meetings and keeps the meetings going through the crisis. The comparison was ordinary care in comparable teams, and the trial ran long enough to observe what happened after the first episode rather than only during it.
+The trial, called ODDESSI, randomized mental health teams rather than patients, because the intervention is a way of running a service and cannot be allocated one person at a time. Teams in the Open Dialogue arm were trained and supervised in the model, which gathers the patient's family and friends into treatment meetings and keeps the meetings going through the crisis. The comparison was ordinary care in comparable teams, and the trial ran long enough to observe what happened after the first episode rather than only during it.
 
 On the primary outcome, time to relapse after an initial recovery, the two arms were indistinguishable: a marginal hazard ratio of 0.95, with a confidence interval from 0.67 to 1.32. Of those who recovered far enough to be assessed, 174 in the usual-care group and 225 in the Open Dialogue group had the data needed to determine relapse, which means the analysis rests on a subset that the trial did not fully control, and the relapse clock starts from a point that differs between patients.
 

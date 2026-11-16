@@ -6,7 +6,7 @@ categories: [science]
 description: "A Nature Medicine analysis of 6.1 million people in 118 countries maps pain by body area, age and country income, and the patterns differ sharply."
 ---
 
-Pain research usually counts diagnoses, which means it counts the people who reached a clinic. A study published in *Nature Medicine* in October took the other route and analysed self-reported pain from 6,125,459 people aged five to over a hundred, in 118 countries and territories, with data collected between 1990 and 2025. The result is a map, and the map is not flat. Reporting pain rather than seeking care removes the filter that clinics impose, though it adds one of its own: surveys reach the people who answer them.
+Pain research usually counts diagnoses, which means it counts the people who reached a clinic. A study published in *Nature Medicine* in October took the other route and analyzed self-reported pain from 6,125,459 people aged five to over a hundred, in 118 countries and territories, with data collected between 1990 and 2025. The result is a map, and the map is not flat. Reporting pain rather than seeking care removes the filter that clinics impose, though it adds one of its own: surveys reach the people who answer them.
 
 Prevalence ranges from about 2 per cent for facial pain to about 40 per cent for back pain, and the spread is the first sign that the condition has been treated as one thing for too long. Women report more pain than men in all eleven body areas the authors studied, and the largest gaps appear for facial pain, headaches and stomach or abdominal pain, differences that are large enough to change how a clinic triages. Those differences are consistent across countries, which makes them harder to attribute to reporting habits alone.
 
