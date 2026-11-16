@@ -6,13 +6,13 @@ categories: [science]
 description: "Foldable bottlebrush polymers separate the modulus of an elastomer from its breaking strain, holding stiffness at 30 kPa while stretch rises to 800 per cent."
 ---
 
-Crosslinked rubber has carried a rule since Goodyear: a network that is stiffer is also less stretchable. The trade-off is molecular, since both properties come from the same strands, and a network with strands long enough to stretch far has few of them, which leaves it soft. Attempts to beat the rule have worked inside that constraint.
+Crosslinked rubber has carried a rule since Goodyear: a network that is stiffer is also less stretchable. The trade-off is molecular, since both properties come from the same strands, and a network with strands long enough to stretch far has few of them, which leaves it soft. Attempts to beat the rule have worked inside that constraint, trading a little of one property for a little of the other.
 
 A preprint posted to arXiv on 14 April 2024 changes the strand. Instead of a linear polymer, the network is built from foldable bottlebrush polymers, a collapsed backbone carrying many linear side chains. Elongation unfolds the backbone and releases length stored in the collapse, while the side chains, not the backbone, set the modulus of the network.
 
-Bottlebrush polymers have been used before to make soft networks, because grafted side chains dilute entanglements and lower the modulus. The move here is to collapse the backbone as well, so the strand carries a reservoir of length that opens under load. The two effects are usually bought together; this architecture buys them separately, which is the point.
+Bottlebrush polymers have been used before to make soft networks, because grafted side chains dilute entanglements and lower the modulus. The move here is to collapse the backbone as well, so the strand carries a reservoir of length that opens under load. The two effects are usually bought together, and this architecture buys them separately, which is the point of the design.
 
-A series of unentangled single-network elastomers bears the claim out. Young's modulus stays near 30 kPa across the series while the tensile breaking strain rises from 20 per cent to 800 per cent, a fortyfold gain in stretch at constant stiffness. The series varies the strand and holds the architecture fixed, so the comparison is between networks of one kind.
+A series of unentangled single-network elastomers bears the claim out. Young's modulus stays near 30 kPa across the series while the tensile breaking strain rises from 20 per cent to 800 per cent, a fortyfold gain in stretch at constant stiffness. The series varies the strand and holds the architecture fixed, so the comparison runs between networks of one kind.
 
 Two lengths do separate jobs. The modulus follows the mass of the network strand and is set by the side chains, which do not unfold under strain. The extensibility follows the stored length in the collapsed backbone, which does. Decoupling the two is what the architecture buys, and the authors report that the strategy carries over to other polymer species and other network topologies.
 

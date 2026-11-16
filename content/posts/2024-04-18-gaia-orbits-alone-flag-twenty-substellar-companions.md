@@ -6,7 +6,7 @@ categories: [science]
 description: "A classifier applied to 170,000 astrometric orbits narrows the search for low-mass companions to twenty candidates, two of them exoplanets."
 ---
 
-The third Gaia data release carries about 170,000 astrometric orbit solutions for two-body systems within about 500 pc of the Sun. Astrometry gives the orbit and the mass function but not the split between the two bodies, so any solution can be a star with a planet, a star with a brown dwarf, or two stars, and the catalogue cannot say which.
+The third Gaia data release carries about 170,000 astrometric orbit solutions for two-body systems within about 500 pc of the Sun. Astrometry gives the orbit and the mass function but not the split between the two bodies, so any solution can be a star with a planet, a star with a brown dwarf, or two stars, and the catalogue cannot say which at the precision it offers.
 
 A preprint posted to arXiv on 14 April 2024 asks a classifier to make that separation from the orbital solutions alone. Companions already confirmed by radial velocity or spectroscopy supply the labels, and semi-supervised anomaly detection combined with gradient boosting and random forests ranks the unlabelled population by how far each solution sits from an ordinary binary.
 

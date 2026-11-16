@@ -6,11 +6,11 @@ categories: [science]
 description: "A ground-to-drone channel measured at 140 gigahertz suggests pointing tolerance tracks beamwidth more than wavelength."
 ---
 
-The sub-terahertz band offers bandwidth that the congested bands below 100 GHz cannot, and the physics that makes it attractive makes the link fragile: water vapour absorbs, beams are narrow, and a moving terminal changes the geometry faster than a fixed one does. A drone used as a relay combines all three difficulties in a single link.
+The sub-terahertz band offers bandwidth that the congested bands below 100 GHz cannot, and the physics that makes it attractive makes the link fragile: water vapour absorbs, beams are narrow, and a moving terminal changes the geometry faster than a fixed one does. A drone used as a relay combines all three difficulties in a single link and adds a fourth of its own, which is that hovering is never still.
 
 A preprint posted to arXiv on 3 April 2024 measures a ground-to-drone channel at 140 GHz and builds a geometry-based stochastic model around the measurement. The carrier was unmodulated, which fixes propagation without asking anything of a modulation scheme, and the model carries three-dimensional positions and beamwidth so that hovering is represented and not averaged out.
 
-The modelling choice deserves a line of its own. A geometry-based stochastic model draws rays between stated points and weights them by antenna pattern, so a hovering drone is a moving point and not a fading statistic. That is what lets the authors vary beamwidth and orientation separately and read the result as a property of the link instead of a property of the afternoon.
+The modelling choice deserves a line of its own. A geometry-based stochastic model draws rays between stated points and weights them by antenna pattern, so a hovering drone is a moving point and not a fading statistic. That is what lets the authors vary beamwidth and orientation separately and read the outcome as a property of the link instead of a property of the afternoon.
 
 Two findings come out of the comparison. Tilting and rotating the drone barely changes the received signal, and the requirement for precise alignment between drone and ground station falls as the beamwidth grows. A narrow beam makes the band hard to use and, once it is wide enough to cover the airframe, makes the platform forgiving.
 
@@ -18,4 +18,4 @@ At 140 GHz the wavelength is about 2.1 mm, so a small displacement is a large fr
 
 One band, one airframe, one site and an unmodulated carrier leave the model calibrated on a single geometry, and it says nothing about blockage by buildings, about rain, or about ranges long enough for the footprint to rival the hovering excursion. The result is a statement about alignment tolerance and not a link budget.
 
-Field measurements at longer range with a modulated signal would test whether the tolerance survives real traffic, and the same model extends to drone-to-drone links, where both ends move. What the paper establishes is narrower and useful: at 140 GHz a hovering drone needs less pointing discipline than the wavelength alone would suggest.
+Field measurements at longer range with a modulated signal would test whether the tolerance survives real traffic, and the same model extends to drone-to-drone links, where both ends move and both footprints wander. What the paper establishes is narrower and useful: at 140 GHz a hovering drone needs less pointing discipline than the wavelength alone would suggest.

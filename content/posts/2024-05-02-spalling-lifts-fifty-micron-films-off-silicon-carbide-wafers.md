@@ -6,11 +6,11 @@ categories: [science]
 description: "Controlled fracture removes films of 10 to 50 microns from 4H silicon carbide, leaving a substrate that can be grown on again."
 ---
 
-Silicon carbide substrates are grown slowly and yield badly, and a wafer of the size a power device wants costs accordingly. The properties that make the material worth the trouble, a wide bandgap and high thermal conductivity, let a thin film do the electrical work, so the expensive part is the thickness that only carries the film through processing.
+Silicon carbide substrates are grown slowly and yield badly, and a wafer of the size a power device wants costs accordingly. The properties that make the material worth the trouble, a wide bandgap and high thermal conductivity, let a thin film do the electrical work, so the expensive part is the thickness that only carries the film through processing and contributes nothing to the device.
 
 A preprint posted to arXiv on 30 April 2024 reports controlled spalling of single-crystal 4H silicon carbide, lifting films of 10 to 50 microns from bulk substrates. Spalling is a fracture running parallel to the surface beneath a stressed overlayer, and controlling where the crack starts and how thick the stressor is turns it from a damage mechanism into a transfer technique.
 
-Other routes to a thin film exist and each pays a price. Grinding and polishing removes the material it saves, ion implantation for a smart cut damages the crystal it is meant to preserve, and a handle wafer bonded by an oxide adds an interface that a power device has to live with. Spalling keeps the crystal and needs only a stressed layer that can be etched away afterwards.
+Other routes to a thin film exist and each pays a price. Grinding and polishing removes the material it saves, ion implantation for a smart cut damages the crystal it is meant to preserve, and a handle wafer bonded by an oxide adds an interface the device has to live with. Spalling keeps the crystal and needs only a stressed layer that an etch can strip afterwards.
 
 The authors call the result the highest fracture toughness material spalled so far, which is the claim that matters, since a tougher crystal resists the very crack the method depends on. They also show reuse of the substrate after the film is removed, bonding of the lifted film to a carrier, and spin control of neutral divacancy ensembles inside the transferred film.
 
