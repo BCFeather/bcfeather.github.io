@@ -1,5 +1,5 @@
 ---
-slug: "on-die-sensors-that-count-a-chips-aging"
+slug: "on-die-sensors-that-count-a-chips-ageing"
 title: "On-die sensors that count a chip's ageing"
 date: "2026-03-17T09:20:00+08:00"
 categories: [technology]
@@ -24,6 +24,6 @@ Calibration across a wafer is the accuracy limit. Ring oscillators vary with pro
 
 The operating policy has a cost. Raising voltage by 20 millivolts recovers frequency and increases power, and a data centre operator would rather derate the clock than pay for the power. The sensors make that a choice rather than a guess.
 
-The foundry's testing flow changed to accommodate the sensors. Wafer test now records each sensor's initial frequency, and that record travels with the die through packaging. A chip without the record cannot use its sensors, which makes the data a manufacturing requirement rather than a feature.
+The foundry's testing flow changed to accommodate the sensors. Wafer test now records each sensor's initial frequency, and that record travels with the die through packageing. A chip without the record cannot use its sensors, which makes the data a manufacturing requirement rather than a feature.
 
 For a reader, the idea is that silicon can be instrumented like a machine. A jet engine reports its own wear, and a processor now does the same, which turns a fixed design margin into a managed allowance.
