@@ -14,7 +14,7 @@ Its value is about 1.3063778839, and the digits are not where the difficulty lie
 
 A preprint posted to arXiv on 30 April 2024 proves that Mills' constant is irrational. The result does not assume the Riemann hypothesis, and the paper adds partial results on whether the number is transcendental, which stays open. No new digits are computed along the way, which is the point: the argument concerns what the number is and not what it equals to ten decimal places.
 
-Irrationality has to be argued without digits. The constant is an infimum over the reals that carry the prime property, so the proof must characterise that class before it can exclude the rationals, and the argument therefore runs through the sequence the property generates and not through an approximation of the constant itself.
+Irrationality has to be argued without digits. The constant is an infimum over the reals that carry the prime property, so the proof must characterise that class before it can exclude the rationals, and the argument therefore runs through the sequence the property generates and not through an approximation of the constant itself. A rational lying in that class would have to survive every third power, which no rational can.
 
 Partial results on transcendence are not transcendence. Whether the constant is algebraic or transcendental is left open, and nothing is said about the normality of its digits, which would be a far stronger claim than irrationality and is not established for most constants of this kind. The definition rests on a theorem about primes and not on a conjecture, so the result does not move with progress on the Riemann hypothesis.
 

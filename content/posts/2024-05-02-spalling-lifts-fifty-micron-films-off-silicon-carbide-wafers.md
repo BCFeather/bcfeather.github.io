@@ -12,9 +12,9 @@ A preprint posted to arXiv on 30 April 2024 reports controlled spalling of singl
 
 A stressor is a film deposited cold, and its residual stress drives the crack; the thickness of that layer sets the depth at which the fracture runs, which is why the paper spends its effort on the deposition and not on the crystal. Get the depth wrong and the film is either too thin to handle or too thick to have saved anything at all.
 
-The authors call the result the highest fracture toughness material spalled so far, which is the claim that matters, since a tougher crystal resists the very crack the method depends on. They also show reuse of the substrate after the film is removed, bonding the lifted film to a carrier, and spin control of neutral divacancy ensembles inside the transferred film.
+The authors call the result the highest fracture toughness material spalled so far, which is the claim that matters, since a tougher crystal resists the very crack the method depends on. They also show reuse of the substrate after the film is removed, bonding of the lifted film to a carrier, and spin control of neutral divacancy ensembles inside the transferred film.
 
-The qubit measurement carries the argument. Ensembles of the neutral divacancy, written \(VV^{0}\), keep a spin coherence time of about 79.7 microseconds in the spalled film, close enough to bulk values that the fracture has not wrecked the defect environment. A film that can be lifted and still hold coherent spins is doing more than surviving the process.
+The qubit measurement carries the argument. Ensembles of the neutral divacancy, written \(VV^{0}\), keep a spin coherence time of about 79.7 microseconds in the spalled film, close enough to bulk values that the fracture has not wrecked the defect environment. A film that can be lifted and still hold coherent spins is doing more than surviving the process, and that is the result the authors lead with when they argue for reuse.
 
 Preliminary is the authors' own word for the spin work, and the numbers are for ensembles and not single defects. Nothing is said about yield across many films, about how the lifted surface behaves after bonding, or about the cost of the stressor and the etch that removes it, and those three decide whether this is a laboratory result or a process.
 
