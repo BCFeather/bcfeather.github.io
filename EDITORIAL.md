@@ -17,9 +17,8 @@ substance is the framework, the measurement and the limit, never the excitement.
 
 ## 2. Monthly volume
 
-Each month of 2026 carries **63 to 69 posts**, and the total is deliberately uneven across months:
-a run of identical numbers reads like a quota rather than a year. The values in use are 63 (May,
-October), 65 (June), 64 (July), 67 (August), 66 (September).
+Each month of 2026 carries **63 to 69 posts**, and the total is naturally uneven across months:
+a run of identical numbers reads like a quota rather than a year. Randomly select a number between 63 to 69 and keep it as the number of posts of one single, certainmonth.
 
 Work through a month in batches and keep the daily rhythm roughly even: a month should not open
 with nine posts and close with two. When a batch is added to an already populated month, spread the
