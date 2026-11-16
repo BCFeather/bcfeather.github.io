@@ -8,6 +8,8 @@
 
 **1.3 Standing of the archive.** Rules bind new writing, and they bind every batch dated from 2022 onwards. They are not instructions to rewrite published posts, except where a clause says so explicitly. A slug already in circulation is fixed for the life of the URL, and no rule about spelling, capitals or titles reaches back through it.
 
+**1.4 How examples are set.** Every example in this manual takes one of two forms, and a clause is never illustrated by paraphrase. A form the site uses is given alone, in monospace. A pair gives the rejected form first, then an arrow, then the accepted form, as `analyze → analyse`. Where a clause calls for more than one example, they are set as a list of at most five entries, one per line, each opened by a short italic label naming what it demonstrates; the label and the example are separated by a colon.
+
 ## 2. Selection
 
 **2.1 The primary record.** Substance comes from the paper, the filing, the statute, the dataset, the transcript, or the institution's own statement. Journalism is a lead to that record and never the record itself, so a figure that appears only in a report is either traced to its origin or left out of the sentence.
@@ -52,9 +54,21 @@ Essays stay scarce: at most one or two in a batch of twenty, and never the bulk 
 
 ## 5. Sentences and paragraphs
 
-**5.1 The definite article.** No more than **two paragraphs in six** open on `The`, and a month is not allowed to lean on it either. Where a paragraph would naturally begin with a definite subject, front the predicate, the result or the circumstance instead: `Supply is the difficult half`; `Worth naming are the limits`; `Where the mission shows its character is the engineering`. Numbered scaffolding is a list in disguise: either number the items openly or drop the frame.
+**5.1 The definite article.** No more than **two paragraphs in six** open on `The`, and a month is not allowed to lean on it either. Where a paragraph would naturally begin with a definite subject, front the predicate, the result or the circumstance instead.
+
+* *Fronted predicate*: `Supply is the difficult half`
+* *Fronted complement*: `Worth naming are the limits`
+* *Fronted nominal clause*: `Where the mission shows its character is the engineering`
+
+Numbered scaffolding is a list in disguise: either number the items openly or drop the frame.
 
 **5.2 Variety of openers.** Paragraph openings should differ in shape within a post. A fronted adverbial or prepositional phrase, a subordinate clause, a participle, an appositive, a comparative and, once or twice, a short declarative that acts as a beat: these are the available shapes, and a post that uses three of them is doing well. Two openers of one shape is the fault: two time phrases, two `Because` clauses, two clefts, two participle openings. An opener lengthened by a clause that carries no information is worse than the plain sentence it displaced. This clause governs new writing; it is not a warrant for rewriting the archive.
+
+* *Fronted time phrase*: `On the second night of the dome, the hospitals filled`
+* *Fronted prepositional phrase*: `For a foundry that is sold out, the risk is demand`
+* *Subordinate clause*: `When the committee met again, the forecast had changed`
+* *Participle*: `Seen from the floor, the queue looked orderly`
+* *Comparative, set against the beat*: `Four titles in six years, and the comparison follows`
 
 **5.3 Habits on ration.** `rather than` appears about once in a post; it is a serviceable phrase that becomes a tic when every contrast reaches for it. `not ... but ...` is used only where the contrast is the point. Consecutive paragraphs do not open on the same grammatical subject, and a batch does not share a single sentence rhythm from first post to last.
 
@@ -64,7 +78,10 @@ Essays stay scarce: at most one or two in a batch of twenty, and never the bulk 
 
 **6.1 Register.** Formal, declarative, unexcited. The model is a departmental seminar note rather than a newsletter: statements are complete, verbs are active where the actor is known, and the tense is the present or the simple past unless the sequence requires otherwise. The first person appears where a judgement is genuinely the author's, and then once.
 
-**6.2 Marks of machine prose.** A short list covers most of what damages a page. The triad that exists for rhythm rather than for content; the negated frame that announces what a story is not before saying what it is; the rhetorical question answered in the following clause; the closing sentence that restates the post; the verb that inflates a plain one (`delve`, `leverage`, `underscore`, `showcase`); the metaphor imported from another domain; the empty intensifier (`crucial`, `pivotal`, `significant`) standing where a number belongs. One instance in a paragraph is a lapse; three in a post is a failed draft.
+**6.2 Marks of machine prose.** A short list covers most of what damages a page. The triad that exists for rhythm rather than for content; the negated frame that announces what a story is not before saying what it is; the rhetorical question answered in the following clause; the closing sentence that restates the post; the verb that inflates a plain one; the metaphor imported from another domain; the empty intensifier standing where a number belongs. One instance in a paragraph is a lapse; three in a post is a failed draft.
+
+* *Inflated verb*: `delve → examine`, `leverage → use`, `showcase → show`
+* *Emptied intensifier*: `crucial → necessary`, `pivotal → decisive`, `significant → the figure and its interval`
 
 **6.3 Honesty about certainty.** Hedging is reserved for what is genuinely unsettled: the interval, the unreplicated result, the estimate built on an assumption. Confidence tracks evidence, so a claim measured once is written as measured once, and a claim repeated by everyone is still written with its source.
 
@@ -85,52 +102,121 @@ description: "One plain sentence, no TeX, readable without the body."
 * `slug`: lower-case ASCII, hyphenated, no date, and immutable once published, since a change breaks the URL. A slug is an identifier, not prose, so it keeps whatever spelling it carried on release. Titles may be revised; slugs may not.
 * `title`: roman text, no markdown italic, no formula notation.
 * `date`: ISO 8601 with the `+08:00` offset, to the minute, varied across the working day.
-* `categories`: exactly one, unquoted inside square brackets, from the nine of `news`, `science`, `economy`, `business`, `technology`, `essay`, `sport`, `culture`, `society`. No tags.
+* `categories`: exactly one, unquoted inside square brackets, from the nine listed below. No tags.
 * `description`: one sentence of plain prose. No TeX, no backslash, no caret, no underscore notation, no abbreviated formula that a reader would have to decode. A description that needs notation is the wrong description; write the compound or the quantity in words.
+
+* *The nine categories*: `news`, `science`, `economy`, `business`, `technology`, `essay`, `sport`, `culture`, `society`
+* *A category as it appears in the file*: `categories: [science]`
+* *A rejected form*: `categories: ["science", "news"]`
 
 ## 8. Titles
 
-A title names the finding, the object or the turn, and it is read in a list of thirty others. Plain noun phrases, verb phrases and clauses do the work: `Bicarbonate does not save lives in acidotic shock`, `Warming turns wetlands from a sink into a source`. Titles opening on `A`, `An` or `The` are limited rather than banned, and the `A/The [noun] that [verb]` shape is avoided because it reads as a catalogue entry.
+A title names the finding, the object or the turn, and it is read in a list of thirty others. Plain noun phrases, verb phrases and clauses do the work. Titles opening on `A`, `An` or `The` are limited rather than banned, and the `A/The [noun] that [verb]` shape is avoided because it reads as a catalogue entry.
 
-A colon is welcome where it carries both object and angle, `Optical links in orbit: why satellites stopped calling home`, and colon titles are capped at **a fifth of a month's posts**; the ceiling is a ceiling and not a target. Mechanical uniformity across a batch is a defect even where every individual title passes.
+* *Verb clause*: `Bicarbonate does not save lives in acidotic shock`
+* *Subject and process*: `Warming turns wetlands from a sink into a source`
+* *Colon, object and angle*: `Optical links in orbit: why satellites stopped calling home`
+* *Catalogue shape to avoid*: `The paper that rewrote the field`
+
+A colon title is welcome where it carries both object and angle, and colon titles are capped at **a fifth of a month's posts**; the ceiling is a ceiling and not a target. Mechanical uniformity across a batch is a defect even where every individual title passes.
 
 ## 9. Italic and roman
 
-**9.1 Journals.** The whole title is italic, including the definite article where the journal carries one in its official name: *The Lancet*, *The New England Journal of Medicine*, *The BMJ*, *The Astrophysical Journal*. The `The` stays capitalized and inside the italics even mid-sentence, because it belongs to the name; a capitalized `The` outside the italics is the mark of a broken tag, and italicizing the word obliges it to keep the capital. Journals without an article take none (*Nature*, *Science*, *Cell*, *PNAS*, *JAMA*), and no `The` is added that the masthead does not carry. Publishers, databases and preprint servers are not italicized as journals. Volume, issue, page and article numbers stay roman and outside the italics; article titles stay roman and, when quoted, sit in single quotes.
+**9.1 Journals.** The whole title is italic, including the definite article where the journal carries one in its official name. The `The` stays capitalized and inside the italics even mid-sentence, because it belongs to the name; a capitalized `The` outside the italics is the mark of a broken tag, and italicizing the word obliges it to keep the capital. Journals without an article take none, and no `The` is added that the masthead does not carry. Publishers, databases and preprint servers are not italicized as journals. Volume, issue, page and article numbers stay roman and outside the italics; article titles stay roman and, when quoted, sit in single quotes.
 
-**9.2 Genes and proteins.** Gene symbols are italic roman capitals without spaces (*KRAS*, *TP53*, *FEM1B*, *CUL2*), and mouse-style mixed case keeps its case. A substitution following a symbol leaves the symbol italic and the substitution roman: *KRAS* G12C. Protein names, complexes and families are roman: CUL2^FEM1B, mitofusin 1, p53, the BEX proteins. A superscript on a protein goes through TeX (§10).
+* *Article inside the italics*: *The Lancet*, *The New England Journal of Medicine*, *The BMJ*
+* *Article outside the italics, lower case, rejected*: `the Lancet` → *The Lancet*
+* *Journals without an article*: *Nature*, *Science*, *Cell*, *PNAS*, *JAMA*
+* *Article title in roman, quoted*: 'Trends in wetland methane, 2000 to 2024'
 
-**9.3 Organisms.** Latin binomials and trinomials are italic, genus capitalized and species lower case, abbreviated after first mention (*Escherichia coli*, then *E. coli*). Higher taxa, strains, serovars and author designations stay roman. Virus species follow the italics of the ICTV code; virus names in ordinary prose stay roman.
+**9.2 Genes and proteins.** Gene symbols are italic roman capitals without spaces, and mouse-style mixed case keeps its case. A substitution following a symbol leaves the symbol italic and the substitution roman. Protein names, complexes and families are roman. A superscript on a protein goes through TeX (§10).
+
+* *Gene symbols*: *KRAS*, *TP53*, *FEM1B*, *CUL2*
+* *Substitution*: *KRAS* G12C
+* *Protein, roman, superscript in TeX*: `\(\mathrm{CUL2}^{\mathrm{FEM1B}}\)`
+* *Protein family, roman*: mitofusin 1, p53, the BEX proteins
+
+**9.3 Organisms.** Latin binomials and trinomials are italic, genus capitalized and species lower case, abbreviated after first mention. Higher taxa, strains, serovars and author designations stay roman. Virus species follow the italics of the ICTV code; virus names in ordinary prose stay roman.
+
+* *First mention*: *Escherichia coli*
+* *After the first mention*: *E. coli*
+* *Strain, roman*: *E. coli* K-12
+* *Higher taxon, roman*: Diptera
 
 ## 10. Notation
 
 Anything carrying a subscript, a superscript, scientific notation or an index is set in TeX rather than typed with underscores, carets or spelled-out powers. Plain numbers, percentages and units in running text take no TeX and should not be given it.
 
-Within TeX, single Latin and Greek letters are italic variables and are written bare, never as `\mathrm{letter}`; names of functions, units, acronyms and proteins are upright, and a differential or a `pH` is upright. A subscript that is a letter is italic; a subscript that is a word or a numeral is upright.
+Within TeX, single Latin and Greek letters are italic variables and are written bare; names of functions, units, acronyms and proteins are upright, and so are a differential and `pH`. A subscript that is a letter is italic; a subscript that is a word or a numeral is upright.
 
-The chain runs from `hugo.toml`, which passes `\(` and `$$` through untouched, to `static/assets/css/math.css`, which maps every KaTeX glyph class onto Computer Modern Serif and restores italics on `.mathnormal` and `.textit`, to `static/assets/js/math.js`, which renders the blocks at load. The typeface therefore has to survive the CSS that puts mathematics into the body face: a variable stays slanted while a digit or a `\mathrm` word stays roman, Body text and mathematics therefore share one family, and a rule that flattened either would be a regression. A post carrying formulas is not finished until the rendered page has been opened and the formula blocks counted.
+* *Variable, bare italic*: `\(a_\mu\)`
+* *Upright formula name*: `\(\mathrm{PI}(3,4)P_2\)`
+* *Scientific notation*: `\(1.16\times10^{-11}\)`
+* *Upright subscript*: `\(x_{\mathrm{max}}\)`
+* *A rejected spelling of the same formula*: `a_mu = 1.16 times ten to the minus eleven`
+
+The chain runs from `hugo.toml`, which passes `\(` and `$$` through untouched, to `static/assets/css/math.css`, which maps every KaTeX glyph class onto Computer Modern Serif and restores italics on `.mathnormal` and `.textit`, to `static/assets/js/math.js`, which renders the blocks at load. Body text and mathematics share one family, so a variable stays slanted while a digit or a `\mathrm` word stays roman, and a rule that flattened either would be a regression. A post carrying formulas is not finished until the rendered page has been opened and the formula blocks counted.
 
 ## 11. Citations
 
-Papers are cited by **journal and date only**: *Nature*, 6 May 2026; *The Lancet*, 9 June 2026. Running text carries no volume, issue, article number or page range, and no string of the form `Science 394, 6823` in any typography. Journal and date are enough for a reader to find the paper; the numbers only burden a sentence about the result. A DOI belongs in a link where one is given. Where a result is quoted from a preprint or a conference abstract, that is said plainly, since the journal-date form is not a licence to imply review that has not happened.
+Papers are cited by **journal and date only**. Running text carries no volume, issue, article number or page range, in any typography. Journal and date are enough for a reader to find the paper; the numbers only burden a sentence about the result. A DOI belongs in a link where one is given. Where a result is quoted from a preprint or a conference abstract, that is said plainly, since the journal-date form is not a licence to imply review that has not happened.
+
+* *The form*: *Nature*, 6 May 2026; *The Lancet*, 9 June 2026
+* *Rejected*: `Science 394, 6823` → *Science*, 6 May 2026
 
 ## 12. Orthography
 
-**12.1 Spelling families.** The `-ize` form is standard for the `-ise` family: organize, recognize, criticize, summarize, standardize, prioritize, utilize, characterize, normalize, specialize, authorize. The `-yse` form is standard for the `-yse` family: analyse, analysed, analysing, analyser, catalyse, paralysed, electrolyser, and never `-yze`. The `-ise` form survives inside proper names whose own English name uses it, among them *European Cancer Organisation*, *Africa Centres for Disease Control and Prevention* and *Organisation for Economic Co-operation and Development*, and the test is the body's own English name rather than house style. Vocabulary is British throughout: `towards`, `per cent` in prose, `programme`, `licence` as a noun, `defence`, `metre`, `tonne`, `storey`.
+**12.1 Spelling families.** The `-ize` form is standard for the `-ise` family, and the `-yse` form is standard for the `-yse` family. The `-ise` form survives inside proper names whose own English name uses it, and the test is the body's own English name rather than house style. Vocabulary is British throughout.
 
-**12.2 Quotation and dashes.** Quotation marks are straight in the source, because the display layer curls them; the source never carries a curly apostrophe or a curly quote. Outer quotes are single and inner quotes double. Body prose carries no em dash and no en dash; a comma, a colon or a new sentence does the work instead. Hyphens serve compounds, ranges and scores, and an en dash inside a proper name is written with a hyphen.
+* *`-ize`, accepted*: organize, recognize, criticize, summarize, standardize, prioritize, utilize, characterize, normalize, specialize, authorize
+* *`-yse`, accepted*: analyse, analysed, analysing, analyser, catalyse, paralysed, electrolyser
+* *Rejected spellings*: `recognise → recognize`, `analyze → analyse`, `organisation → organization`, a replacement that applies in prose only and never inside a proper name
+* *Proper names that keep `-ise`*: *European Cancer Organisation*, *Africa Centres for Disease Control and Prevention*, *Organisation for Economic Co-operation and Development*
+* *British vocabulary*: `toward → towards`, `percent → per cent`, `program → programme`, `license as a noun → licence`, `defense → defence`, `story of a building → storey`
 
-**12.3 Numerals, symbols and units.** Four-digit numerals and above take a comma every three digits, with years and code-like identifiers excepted: `1,044 h`, `2.9 GPa`, `759.5 individuals per square kilometre`, `1897`, `2025`. One to nine are words in ordinary prose and figures in measurements. Statistics are written with an italic capital *P* (`P` value, *P*=0.03, never a roman P), and a sample size with an italic lower-case *n*. Units take a space and the correct case, and unit symbols take no plural; a unit written as a word pluralizes after a numeral and stays singular as a modifier (a 1,000-nit panel).
+**12.2 Quotation and dashes.** Quotation marks are straight in the source, because the display layer curls them; the source never carries a curly apostrophe or a curly quote. Outer quotes are single and inner quotes double. Body prose carries no em dash and no en dash. Hyphens serve compounds, ranges and scores, and an en dash inside a proper name is written with a hyphen.
+
+* *Outer single, inner double*: `'He called it "the last mile"'`
+* *Rejected dash, one sentence instead*: `two teams [em dash] one city → two teams, one city`
+* *Hyphen in a score*: `3-1`
+* *En dash in a name, written with a hyphen*: `Snijders Blok-Campeau`
+
+**12.3 Numerals, symbols and units.** Four-digit numerals and above take a comma every three digits, with years and code-like identifiers excepted. One to nine are words in ordinary prose and figures in measurements. Statistics are written with an italic capital *P*, and a sample size with an italic lower-case *n*. Units take a space and the correct case, and unit symbols take no plural; a unit written as a word pluralizes after a numeral and stays singular as a modifier.
+
+* *Separated*: `1,044 h`, `12,500 tonnes`, `2,900,000 visitors`
+* *Unseparated, rejected*: `1044 h → 1,044 h`
+* *Year, exempt*: `1897`, `2025`
+* *Thousand with a year's shape, rejected*: `1,997 → 1997`
+* *Statistics, accepted*: *P*=0.03, *n*=3
+* *Statistics, rejected*: `p value → *P* value`; a roman `P` → italic *P*
+
+A unit as a modifier stays singular, which is why a panel is described as `a 1,000-nit panel` while the same figure stands alone as `1,000 nits`.
 
 **12.4 Colons and semicolons, an advisory.** Both marks are punctuation of structure, and both are easy to overwork. A semicolon joining two clauses that would stand as sentences is usually a full stop the writer did not care to type, so one in a paragraph is worth a second look and two ask for a rewrite; a colon works best where it introduces a list, a definition or a consequence, and one per paragraph is enough, with the colon of a title counted separately under §8. The guidance is a preference rather than a gate: a post that reads well with a semicolon in each paragraph is published as it stands, and no batch is held back for punctuation of this kind.
 
 ## 13. Names
 
-**13.1 The owner's spelling.** A proper noun is spelled as its owner spells it, checked against the owner's own English page before release. Where a body has an official English name, that name wins even where it breaks house rules. **NVIDIA** is all capitals. **bilibili** is the platform in lower case, **Bilibili Inc.** the listed company, and `Bilibili` alone is never used. **Nasdaq** is not `NASDAQ`, and **China's** keeps its apostrophe, as do **Huawei**, **Tencent**, **Alibaba Group**, **TSMC** and **ASML**. **U.S. Steel** keeps its points for United States Steel Corporation, which styles itself `U. S. Steel`, because the owner's name outranks house consistency, while the country itself stays `US` in running text. An official title carries its own punctuation the same way, as in the *Guiding and Establishing National Innovation for U.S. Stablecoins Act*. Institutions keep their own spelling, which is why Kennedy Space Center and European Centre for Disease Prevention and Control coexist in the same paragraph. A bulk spelling pass runs against a whitelist of proper nouns and its diff is read by hand, because a blanket substitution is how `Kennedy Space Centre` reaches the page.
+**13.1 The owner's spelling.** A proper noun is spelled as its owner spells it, checked against the owner's own English page before release. Where a body has an official English name, that name wins even where it breaks house rules. An official title carries its own punctuation the same way, as in the *Guiding and Establishing National Innovation for U.S. Stablecoins Act*. Institutions keep their own spelling, which is why the two examples below coexist in the same paragraph. A bulk spelling pass runs against a whitelist of proper nouns and its diff is read by hand, because a blanket substitution is how `Kennedy Space Centre` reaches the page.
 
-**13.2 Naming bodies.** Where a discipline's own body has settled an English form, that form overrides British and American habit alike, and the outcome is not a drift towards American spelling since several bodies chose the British form. Chemistry follows IUPAC, which gives `sulfur`, `sulfate`, `aluminium` and `caesium`. Units follow the SI brochure, which gives `metre`, `litre` and `tonne`; a bare `ton` names two different non-metric units and therefore never carries a figure. Enzymes follow IUBMB, gene and protein symbols follow HGNC or the relevant species database, viruses follow ICTV, astronomical designations follow the IAU, and organisms follow the nomenclature codes. Where no body has ruled, the question returns to §12 and British vocabulary decides, which is why `orthopaedic` stays: no authority has fixed `orthopedic`.
+* *All capitals*: NVIDIA, never `Nvidia`
+* *Platform and company*: `bilibili` for the platform, `Bilibili Inc.` for the listed company, never `Bilibili` alone
+* *Index operator*: `Nasdaq`, never `NASDAQ`
+* *Companies and country*: `China's`, with the apostrophe; `Huawei`, `Tencent`, `Alibaba Group`, `TSMC`, `ASML`
+* *Institutions, American spacing*: `Kennedy Space Center`; *British spelling, same paragraph*: `European Centre for Disease Prevention and Control`
 
-**13.3 Markets and eras.** Index names are proper nouns and take capitals on every word of the name: `Shanghai Composite`, `Shenzhen Component`, `ChiNext Index`, `CSI 300 Index`, `STAR 50`, `Nasdaq Composite`, `Hang Seng Index`, `Hang Seng TECH Index`. Where a piece turns on the index itself, the official long form is given at first mention (`SSE Composite Index`, `SZSE Component Index`, `SSE Science and Technology Innovation Board 50 Index`, `CSI 300 Index`) and the trade short form afterwards; `Shenzhen Composite` names the all-share measure and never the component. `CSI300`, `Chinext` and `SHSE` are not written. Names that a brand has restyled keep the form of their own era: the Spanish league is `LALIGA` from its June 2023 rebrand, `LaLiga` from 2015 to 2023 and `La Liga` before that, and a post dated in an earlier era uses that era's form rather than retro-fitting today's capitals.
+**13.2 Naming bodies.** Where a discipline's own body has settled an English form, that form overrides British and American habit alike, and the outcome is not a drift towards American spelling since several bodies chose the British form. Enzymes follow IUBMB, gene and protein symbols follow HGNC or the relevant species database, viruses follow ICTV, astronomical designations follow the IAU, and organisms follow the nomenclature codes. Where no body has ruled, the question returns to §12 and British vocabulary decides.
+
+* *Chemistry, IUPAC*: `sulfur`, `sulfate`, `aluminium`, `caesium`
+* *Units, SI brochure*: `metre`, `litre`, `tonne`; a bare `ton` names two different non-metric units and never carries a figure
+* *No authority, British vocabulary*: `orthopaedic`, because no body has fixed `orthopedic` and the dictionary does not decide
+
+**13.3 Markets and eras.** Index names are proper nouns and take capitals on every word of the name. Where a piece turns on the index itself, the official long form is given at first mention and the trade short form afterwards. Names that a brand has restyled keep the form of their own era, and a post dated in an earlier era uses that era's form rather than retro-fitting today's capitals.
+
+* *Index names*: `Shanghai Composite`, `Shenzhen Component`, `ChiNext Index`, `CSI 300 Index`, `STAR 50`, `Nasdaq Composite`, `Hang Seng Index`, `Hang Seng TECH Index`
+* *Long forms at first mention*: `SSE Composite Index`, `SZSE Component Index`, `SSE Science and Technology Innovation Board 50 Index`, `CSI 300 Index`
+* *The all-share measure, which is not the component*: `Shenzhen Composite`
+* *Rejected*: `CSI300 → CSI 300 Index`, `Chinext → ChiNext Index`, `SHSE → SSE Composite Index`
+* *The Spanish league, by era*: `La Liga` before 2015 → `LaLiga` from 2015 to 2023 → `LALIGA` from the June 2023 rebrand
 
 ## 14. Production
 
