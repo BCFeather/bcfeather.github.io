@@ -49,6 +49,17 @@ the body, ISO 8601 dates with `+08:00`, lowercase ASCII slugs, colon titles kept
 a batch, British `towards`, `-ize` spelling, straight quotes with singles outside and doubles
 inside, italic journal and book titles, and official spelling for proper nouns.
 
+Market indexes. Index names are proper nouns and take capitals on every word that belongs to the
+name: `Shanghai Composite`, `Shenzhen Component`, `ChiNext Index`, `CSI 300 Index`, `STAR 50`,
+`Nasdaq Composite`, `Hang Seng Index`, and `Hang Seng TECH Index`, where the compiler writes
+`TECH` in capitals. When a piece turns on the index itself, give the official long form at first
+mention — `SSE Composite Index`, `SZSE Component Index`, `ChiNext Index`, `CSI 300 Index`,
+`SSE Science and Technology Innovation Board 50 Index` — and the trade short form afterwards.
+The Shenzhen composite and the Shenzhen component are two different measures, so `Shenzhen
+Composite` is only correct for the all-share index and never for the 500-stock component. Write
+no `CSI300`, no `Chinext`, and no `SHSE`; keep `index` lower case only when it is the common
+noun rather than part of the name.
+
 ## Openings and titles
 
 Two habits spoil a page of otherwise decent prose: every paragraph opening on "The", and every

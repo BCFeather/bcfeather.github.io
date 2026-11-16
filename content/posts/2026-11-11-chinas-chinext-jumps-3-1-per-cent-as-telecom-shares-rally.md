@@ -6,7 +6,7 @@ categories: [economy]
 description: "The start-up board gained most on 11 November as money moved into the parts that link data centres together."
 ---
 
-Chinese shares rose on 11 November, and the start-up board led. The ChiNext index gained 3.11 per cent to 2,572.07, the Shenzhen component 1.32 per cent to 11,389.74 and the Shanghai composite 0.46 per cent to 3,680.64. The STAR 50 rose 2.80 per cent and the CSI 300 0.41. Turnover reached 1.68 trillion yuan, about 171.5 billion more than the previous session, and more than 3,500 stocks closed higher. The small-cap index gained 1.37 per cent and the mid-cap 1.01.
+Chinese shares rose on 11 November, and the start-up board led. ChiNext Index gained 3.11 per cent to 2,572.07, the Shenzhen Component 1.32 per cent to 11,389.74 and the Shanghai Composite 0.46 per cent to 3,680.64. The STAR 50 rose 2.80 per cent and the CSI 300 0.41. Turnover reached 1.68 trillion yuan, about 171.5 billion more than the previous session, and more than 3,500 stocks closed higher. The small-cap index gained 1.37 per cent and the mid-cap 1.01.
 
 Telecommunications carried the market. The sector rose 7.99 per cent, electronics 3.56 and machinery 2.04. The gains clustered in the parts that supply optical links to data centres: co-packaged optics rose 4.62 per cent, the F5G group 4.60 and optical fibre 4.42, while the printed-circuit group added 3.34. Memory chips rose 3.13 per cent. Banks and brokerages sat among the few large groups that lost ground.
 
@@ -16,4 +16,4 @@ Defensive names fell. Food and beverage lost 2.22 per cent, non-bank financials 
 
 Car data published the same morning helped the industrial names. The association of manufacturers reported 1.94 million new energy vehicles sold in October, 13.1 per cent more than a year earlier, and battery and plug-in cars took 64.3 per cent of all new car sales. Total sales were 3.02 million, 2 per cent more than in September. New energy vehicles have taken a rising share of total sales.
 
-Hong Kong moved the other way. The Hang Seng fell 0.98 per cent and the Hang Seng technology index 1.41, a divergence that has held for weeks. Mainland indexes are still below their levels of a year ago, and the rally on 11 November was the strongest since the summer. Whether it survives the next round of earnings is the question traders left open. Southbound money sold Hong Kong technology shares for a second day. Earnings from the hardware makers arrive later this month.
+Hong Kong moved the other way. The Hang Seng fell 0.98 per cent and the Hang Seng TECH Index 1.41, a divergence that has held for weeks. Mainland indexes are still below their levels of a year ago, and the rally on 11 November was the strongest since the summer. Whether it survives the next round of earnings is the question traders left open. Southbound money sold Hong Kong technology shares for a second day. Earnings from the hardware makers arrive later this month.

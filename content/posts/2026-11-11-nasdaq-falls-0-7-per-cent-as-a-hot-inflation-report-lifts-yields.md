@@ -6,7 +6,7 @@ categories: [economy]
 description: "The session on 10 November left NVIDIA down more than 9 per cent over two days and about 420 billion dollars of its value gone."
 ---
 
-American shares fell on Tuesday as a hotter than expected inflation report pushed bond yields higher. The Nasdaq composite lost 0.74 per cent, the Dow Jones industrial average 0.3 and the S&P 500 0.38. The technology index had been down as much as 1.7 per cent in the afternoon before it recovered part of the loss, and yields on the ten-year Treasury rose as the market moved to price another increase in official rates.
+American shares fell on Tuesday as a hotter than expected inflation report pushed bond yields higher. The Nasdaq Composite lost 0.74 per cent, the Dow Jones Industrial Average 0.3 and the S&P 500 0.38. The technology index had been down as much as 1.7 per cent in the afternoon before it recovered part of the loss, and yields on the ten-year Treasury rose as the market moved to price another increase in official rates.
 
 NVIDIA fell more than 5 per cent, and it has lost more than 9 per cent over two sessions, with about 420 billion dollars of market value gone. The drop began with the disclosure about its chief executive and continued as lawmakers renewed calls for tighter limits on exports of advanced chips to China. The Philadelphia semiconductor index fell 0.35 per cent, and the moves inside it were uneven: Broadcom rose nearly 4 per cent, NXP and TSMC more than 2, AMD and Qualcomm more than 1, while Intel and ARM fell more than 2.
 

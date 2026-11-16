@@ -6,7 +6,7 @@ categories: ["economy"]
 description: "The main index fell to its lowest since 2019 before a rebound on 6 February, and the buying that turned it came from funds that the government controls."
 ---
 
-China's CSI 300 index of the largest companies fell to its lowest level since 2019 in the first week of February, and it rebounded by about three per cent on 6 February after state-owned funds bought shares. The index had fallen by about a fifth since the summer, and the losses were concentrated in the small companies that the households hold directly.
+China's CSI 300 Index of the largest companies fell to its lowest level since 2019 in the first week of February, and it rebounded by about three per cent on 6 February after state-owned funds bought shares. The index had fallen by about a fifth since the summer, and the losses were concentrated in the small companies that the households hold directly.
 
 Buying by the state is the intervention of last resort. The funds that the government controls have been purchasing exchange-traded funds that track the index, and the announcement of the amounts has been vague enough that the market cannot price the support. A buyer who does not say how much will buy is a buyer whose effect is temporary. The funds bought about 30 billion dollars of the tracked products in a week, according to the estimates of the brokers, which is small relative to the value of the market. The funds bought about 30 billion dollars of the tracked products in a week, according to the estimates of the brokers, which is small relative to the value of the market.
 

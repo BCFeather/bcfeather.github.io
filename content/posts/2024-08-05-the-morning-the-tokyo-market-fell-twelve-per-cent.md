@@ -6,7 +6,7 @@ categories: [business]
 description: "The Nikkei fell 12.4 per cent on 5 August, its worst day since 1987. The trigger was a rate rise in Tokyo, and the amplification came from the way that foreign funds had borrowed yen to buy everything else."
 ---
 
-On 5 August the Nikkei 225 fell 12.4 per cent, its worst single day since the crash of 1987. Topix fell further. Both falls were concentrated in the first two hours of trading.
+On 5 August the Nikkei 225 fell 12.4 per cent, its worst single day since the crash of 1987. TOPIX fell further. Both falls were concentrated in the first two hours of trading.
 
 A decision taken in Tokyo on the last day of July set it off. Bank of Japan raised its policy rate to a quarter of a per cent and signalled that it would not stop there. A rate rise of that size is small in absolute terms and large against a market that had priced in nothing. Amplification came from the currency. Foreign funds had borrowed yen at a low rate and used the money to buy shares, property and emerging market debt. When the yen strengthened, those positions lost money twice, once on the asset and once on the loan. Selling the assets to repay the loan is the mechanism that turns a small rise into a large fall.
 

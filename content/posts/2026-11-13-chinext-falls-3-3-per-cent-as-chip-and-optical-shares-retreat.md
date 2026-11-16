@@ -6,7 +6,7 @@ categories: [economy]
 description: "Growth stocks gave back this week gains as artificial-intelligence hardware names led a broad sell-off on the mainland."
 ---
 
-Chinese equities fell on Friday, led by the growth stocks that had carried the market higher this week. ChiNext index dropped 3.32 per cent to 2,426.08, two days after a 3.11 per cent rally, and the session opened higher before turning sharply lower in the afternoon. The index had closed at 2,509.43 on Thursday and 2,572.07 on Tuesday, when telecom and optical shares led the advance.
+Chinese equities fell on Friday, led by the growth stocks that had carried the market higher this week. ChiNext Index dropped 3.32 per cent to 2,426.08, two days after a 3.11 per cent rally, and the session opened higher before turning sharply lower in the afternoon. The index had closed at 2,509.43 on Thursday and 2,572.07 on Tuesday, when telecom and optical shares led the advance.
 
 Shanghai Composite lost 0.59 per cent to 3,634.35, Shenzhen Component fell 2.05 per cent to 10,968.79 and STAR 50 shed 2.30 per cent to 1,279.66. Turnover on the two mainland exchanges came to 1.66 trillion yuan, 276 billion less than on Thursday, and decliners outnumbered gainers by 4,746 to 764, with 66 stocks unchanged. Financials and consumer staples accounted for most of the buying, while the ten-year treasury contract lost 0.07 per cent to 110.03 and the five-year shed 0.03 per cent.
 
