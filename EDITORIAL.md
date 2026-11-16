@@ -183,16 +183,20 @@ Papers are cited by **journal and date only**. Running text carries no volume, i
 * *Hyphen in a score*: `3-1`
 * *En dash in a name, written with a hyphen*: `Snijders Blok-Campeau`
 
-**12.3 Numerals, symbols and units.** Four-digit numerals and above take a comma every three digits, with years and code-like identifiers excepted. One to nine are words in ordinary prose and figures in measurements. Statistics are written with an italic capital *P*, and a sample size with an italic lower-case *n*. Units take a space and the correct case, and unit symbols take no plural; a unit written as a word pluralizes after a numeral and stays singular as a modifier.
+**12.3 Numerals, symbols and units.** Four-digit numerals and above take a comma every three digits, with years and code-like identifiers excepted. One to nine are words in ordinary prose and figures in measurements. Statistics are written with an italic capital *P*, and a sample size with an italic lower-case *n*. Units take a space and the correct case, and unit symbols take no plural; a unit written as a word pluralizes after a numeral and stays singular as a modifier. A unit built from two symbols keeps them apart, because a compound written as one token reads as an unfamiliar word rather than as two quantities multiplied, and the habit is especially strong in the amp-hour and watt-hour family.
 
 * *Separated*: `1,044 h`, `12,500 tonnes`, `2,900,000 visitors`
 * *Unseparated, rejected*: `1044 h → 1,044 h`
 * *Year, exempt*: `1897`, `2025`
 * *Thousand with a year's shape, rejected*: `1,997 → 1997`
 * *Statistics, accepted*: *P*=0.03, *n*=3
-* *Statistics, rejected*: `p value → *P* value`; a roman `P` → italic *P*
 
-A unit as a modifier stays singular, which is why a panel is described as `a 1,000-nit panel` while the same figure stands alone as `1,000 nits`.
+* *Statistics, rejected*: `p value → *P* value`; a roman `P` → italic *P*
+* *Charge capacity*: `mA h`, `A h`, never `mAh`
+* *Energy*: `kW h`, `MW h`, `GW h`, `TW h`, never `kWh` or `MWh`
+* *Power taken over the same hour*: `W h`, and `mW h` for the small draws
+
+A unit as a modifier stays singular, which is why a panel is described as `a 1,000-nit panel` while the same figure stands alone as `1,000 nits`. Posts dating from before this clause carry the word forms `milliamp hours` and `kilowatt hours`; they are correct English, they are not symbols, and §1.3 leaves them as published.
 
 **12.4 Colons and semicolons, an advisory.** Both marks are punctuation of structure, and both are easy to overwork. A semicolon joining two clauses that would stand as sentences is usually a full stop the writer did not care to type, so one in a paragraph is worth a second look and two ask for a rewrite; a colon works best where it introduces a list, a definition or a consequence, and one per paragraph is enough, with the colon of a title counted separately under §8. The guidance is a preference rather than a gate: a post that reads well with a semicolon in each paragraph is published as it stands, and no batch is held back for punctuation of this kind.
 
@@ -228,7 +232,7 @@ Where a push is rejected, the branch is fetched and rebased before pushing again
 
 **14.2 Checklist.** Form, per file: five to seven paragraphs and 480 to 625 words; at most two paragraphs opening on `The`; openers varied in shape, with no two of one shape and none padded; titles opening on a bare article kept within the limit, and colon titles within a fifth of the batch; one unquoted category from the nine, with the front matter keys in order and the description free of notation.
 
-Typography, per file: journal titles italic with their article inside the italics; gene symbols italic, proteins roman, binomials italic, higher taxa roman; symbols and indexed quantities in TeX with plain numbers left alone; four-digit numerals separated by commas, years and codes excepted; statistical symbols (`P` and `n`) italic; `-ize` and `-yse` as in §12, with proper names keeping official spelling; straight quotes, singles outside and doubles inside, and no em or en dash in prose; `towards`, `per cent` and British vocabulary; house names as in §13.
+Typography, per file: journal titles italic with their article inside the italics; gene symbols italic, proteins roman, binomials italic, higher taxa roman; symbols and indexed quantities in TeX with plain numbers left alone; four-digit numerals separated by commas, years and codes excepted; statistical symbols (`P` and `n`) italic; compound unit symbols spaced (`mA h`, `kW h`); `-ize` and `-yse` as in §12, with proper names keeping official spelling; straight quotes, singles outside and doubles inside, and no em or en dash in prose; `towards`, `per cent` and British vocabulary; house names as in §13.
 
 Substance, per file: every figure traced to the primary record; borrowed facts attributed and borrowed wording short; the subject either unreported or told from an angle the coverage did not take, with the opening saying what the post adds; a limitations movement present; no reproduced figure or screenshot.
 
