@@ -28,4 +28,4 @@ What the study does not show is the trigger. Day length sets the cycle, and the 
 
 For the field of bone regeneration, the value is a natural experiment. Evolution has produced a tissue that regenerates at a speed no laboratory has matched, and the cells that do it are now available to study.
 
-The antler's blood supply is a further component. A growing antler is covered in velvet, a skin rich in vessels, and the bone beneath it is highly vascular. A growth rate of centimetres per day requires a blood flow that a normal periosteum does not support, and the velvet is the struc
+The antler's blood supply is a further component. A growing antler is covered in velvet, a skin rich in vessels, and the bone beneath it is highly vascular. A growth rate of centimetres per day requires a blood flow that a normal periosteum does not support, and the velvet is the structure that supplies it.

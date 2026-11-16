@@ -24,4 +24,4 @@ For the deeper question of how the Earth's interior evolves, the result is a rem
 
 Anisotropy complicates the conclusion further. Both minerals deform faster along some crystallographic directions than others, and a mantle rock with aligned crystals is weaker or stronger depending on the direction of strain. The paper's polycrystalline average is a starting point, and a texture-aware model is the next one.
 
-The result also reframes an old observation. Seismic waves slow down in regions where the mantle is hot, and the interpretation of that slowdown depends on which mineral softens first. If periclase holds its strength, then a low-velocity zone is a thermal feature of 
+The result also reframes an old observation. Seismic waves slow down in regions where the mantle is hot, and the interpretation of that slowdown depends on which mineral softens first. If periclase holds its strength, then a low-velocity zone is a thermal feature of bridgmanite.

@@ -28,4 +28,4 @@ The clinical angle is the syndrome. If WDR4 mutations destabilize the complex, t
 
 The complex's assembly is a further question. METTL1 alone is unstable, and WDR4 keeps it folded; the structures show the interface as a set of contacts between the two proteins, and the disease mutations map onto it, which is how a structural observation becomes a mechanistic explanation.
 
-Substrate specificity is the other constraint. The complex methylates a subset of tRNAs rather than all of them, and the structures show how the enzyme reads the shape of the anticodon arm. Recognition of a fold, rather than of a sequence, is what makes the target set small a
+Substrate specificity is the other constraint. The complex methylates a subset of tRNAs rather than all of them, and the structures show how the enzyme reads the shape of the anticodon arm. Recognition of a fold, rather than of a sequence, is what makes the target set small and definable.

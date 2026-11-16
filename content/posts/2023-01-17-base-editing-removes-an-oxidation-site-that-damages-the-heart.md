@@ -24,4 +24,4 @@ The alternative is pharmacological. A small molecule that blocks oxidation of th
 
 What remains unmeasured is the long-term cost. A kinase that cannot be oxidized may lose a protective function, since oxidation also happens at low levels in healthy tissue, and the paper's time course is short. A year of follow-up in an animal model would show whether the edit is a repair or a trade.
 
-The result sits at the edge of what gene editing can do in cardiology. A permanent edit for an acquired disease is a hard sell, and a proof that the target is real is the step that makes a drug progra
+The result sits at the edge of what gene editing can do in cardiology. A permanent edit for an acquired disease is a hard sell, and a proof that the target is real is the step that makes a drug programme worth starting.

@@ -28,4 +28,4 @@ For physical chemistry, the result is a benchmark. The slowest measured ion-mole
 
 The deuteride anion is the reactant that makes the experiment possible. It is a bare proton with two electrons, and its reaction with H2 transfers a proton, which is the lightest nucleus. A heavier analogue would tunnel far more slowly and would not be measurable.
 
-Detector background is the experimental difficulty. A count rate of one event in a long run competes with noise from the apparatus, and the paper's background subtraction is what turns a handful of counts into a rate con
+Detector background is the experimental difficulty. A count rate of one event in a long run competes with noise from the apparatus, and the paper's background subtraction is what turns a handful of counts into a rate constant with an error bar.

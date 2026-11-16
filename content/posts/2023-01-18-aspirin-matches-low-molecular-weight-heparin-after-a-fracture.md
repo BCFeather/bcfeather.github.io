@@ -24,4 +24,4 @@ The guideline consequence is likely to be a menu. Aspirin for most patients with
 
 For the economics of trauma care, the difference is not trivial. An injectable drug that a patient must learn to give, or a nurse must visit to give, carries costs that a tablet does not, and a trial that shows equivalence is a trial that changes what hospitals buy.
 
-The trial also enrolled patients whose fracture was treated operatively and those treated in a cast, and the protocol did not require a particular agent for either. That heterogeneity is the point of a pragmatic design: the answer covers what orthopaedic surgeons actually do, not what a protocol com
+The trial also enrolled patients whose fracture was treated operatively and those treated in a cast, and the protocol did not require a particular agent for either. That heterogeneity is the point of a pragmatic design: the answer covers what orthopaedic surgeons actually do, not what a protocol committee would prefer.

@@ -26,4 +26,4 @@ For patients, the practical gain is a schedule that fits a life. One infusion on
 
 The trial's design is a single-arm study with a comparison to the patients' own previous treatment, a design that has to be read carefully. Annualized bleeding rates while on prophylaxis are compared with rates on the previous regimen, and the comparison is historical rather than randomized.
 
-The subgroup that had been treated on demand is the more informative one. Their bleeding rate fell by an order of magnitude when they moved to prophylaxis, and the comparison to a previous regimen is where the product's value s
+The subgroup that had been treated on demand is the more informative one. Their bleeding rate fell by an order of magnitude when they moved to prophylaxis, and the comparison to a previous regimen is where the product's value shows most clearly.

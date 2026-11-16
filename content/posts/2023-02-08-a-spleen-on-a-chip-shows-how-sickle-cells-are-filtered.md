@@ -26,4 +26,4 @@ For the field, the value is the parameter. Splenic filtration has been a black b
 
 The channel's dimensions are taken from histology. Human splenic slits are a few micrometres wide, and a red cell is about seven micrometres across, so passage demands deformation of a kind that a rigid cell cannot manage.
 Retention time is the measured quantity. A cell that passes slowly occupies a slit and reduces the flow for the cells behind it, and the device records the delay as well as the outcome. A delay is the physiologically relevant event in a spleen that is deciding whether to keep a cell.
-The oxygen control is the design's key feature. Sickle haemoglobin polymerizes when deoxygenated, and a device that can switch the gas composition while cells are in the channel reproduces the cycle that a cell experiences as it trans
+The oxygen control is the design's key feature. Sickle haemoglobin polymerizes when deoxygenated, and a device that can switch the gas composition while cells are in the channel reproduces the cycle that a cell experiences as it transits the circulation.

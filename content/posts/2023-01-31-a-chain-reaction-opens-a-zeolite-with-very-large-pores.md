@@ -26,4 +26,4 @@ What remains is the scale. A synthesis that works in a laboratory gram does not 
 
 For the field, the result is a proof that the pore-size ceiling is not fixed. Frameworks with larger pores have been made before, and the chain-condensation route is the one that can be aimed at a target rather than found by screening.
 
-Acidity is the property that matters for catalysis, and an aluminosilicate with a large pore has fewer acid sites per volume. A catalyst that admits a large molecule but offers few sites is a compromise, and the aluminium content is a variabl
+Acidity is the property that matters for catalysis, and an aluminosilicate with a large pore has fewer acid sites per volume. A catalyst that admits a large molecule but offers few sites is a compromise, and the aluminium content is a variable the synthesis can tune.

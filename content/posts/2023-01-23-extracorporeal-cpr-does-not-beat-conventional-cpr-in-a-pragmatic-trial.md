@@ -26,4 +26,4 @@ For the family at the bedside, the practical advice is unchanged. Bystander comp
 
 Neurologic outcome was scored at 30 days, a short window for a brain that may recover slowly after prolonged arrest. A trial that measured function at six months would include the patients who woke late, and their number could change the comparison.
 
-The trial was stopped early for futility, which means the confidence interval is wider than the planned one and a small benefit cannot be excluded. Small benefits are what a costly therapy ca
+The trial was stopped early for futility, which means the confidence interval is wider than the planned one and a small benefit cannot be excluded. Small benefits are what a costly therapy can least afford.

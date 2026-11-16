@@ -28,4 +28,4 @@ For the countries involved, the value is a national asset that can be measured. 
 
 The detection algorithm's features are the crown's shape and its shadow. A tree in a dryland casts a shadow that is longer than its crown at most sun angles, and the pair of crown and shadow is what a model learns to recognize. Grass and bare soil produce neither.
 
-The database's release is part of the result. Wood mass, foliage mass, root mass and carbon stock for each tree are published, which lets a country, a project or a critic recompute the totals from the same detections rather th
+The database's release is part of the result. Wood mass, foliage mass, root mass and carbon stock for each tree are published, which lets a country, a project or a critic recompute the totals from the same detections rather than trusting a summary.

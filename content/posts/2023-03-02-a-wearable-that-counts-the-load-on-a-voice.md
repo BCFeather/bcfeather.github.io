@@ -30,4 +30,4 @@ The broader lesson is about sensing. A physiological load that has no sensor is 
 
 The fabrication is where the device's comfort comes from. The sensor and the actuator are laminated into an elastomer that follows the neck's contour, and the wireless electronics sit in a package small enough that the wearer forgets it. The engineering problem is strain isolation: a patch that stretches with the skin must not stretch the sensor's own wiring.
 
-Signal processing is the harder half. The neck carries vibrations from speech, swallowing and the pulse, and the classifier has to reject the ones that are not voice. The paper's training set is what defines the classifier's accuracy, and its failure mode is a false warning or a misse
+Signal processing is the harder half. The neck carries vibrations from speech, swallowing and the pulse, and the classifier has to reject the ones that are not voice. The paper's training set is what defines the classifier's accuracy, and its failure mode is a false warning or a missed threshold.

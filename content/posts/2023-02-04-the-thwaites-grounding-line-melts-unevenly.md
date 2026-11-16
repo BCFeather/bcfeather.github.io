@@ -26,4 +26,4 @@ For the observational programme, the lesson is that the grounding line is a plac
 
 Sonar from beneath the ice shelf is the technique that made the survey possible. A vehicle lowered through a borehole maps the ice's underside and the seabed in the same pass, and the two surfaces together define the cavity through which the ocean circulates.
 The cavity's shape is the mechanism's other half. A narrow cavity restricts the exchange of water and traps the meltwater, while a wide one lets warm water replace it. The survey's bathymetry shows which stretches are wide, and those are the stretches where melt is fastest.
-Fresh meltwater is the buoyancy source that drives the circulation. It rises along the ice base and draws warmer water in behind it, and the strength of that plume depends on the melt rate it feeds. The feedback is what makes the system sensitive to small change
+Fresh meltwater is the buoyancy source that drives the circulation. It rises along the ice base and draws warmer water in behind it, and the strength of that plume depends on the melt rate it feeds. The feedback is what makes the system sensitive to small changes in ocean temperature.

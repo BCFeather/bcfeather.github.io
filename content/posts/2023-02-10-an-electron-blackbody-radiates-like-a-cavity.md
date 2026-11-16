@@ -27,4 +27,4 @@ The theoretical interest is the analogy's limits. An electron gas has a Fermi su
 For metrology, the value is a source that can be built small. A blackbody the size of a chip would calibrate detectors in places where a cavity never fits.
 
 The spectrum's shape is the test of the analogy. A photon blackbody's curve is fixed by Planck's law, and the electron gas's curve matches it over the measured band, which is the evidence that the emission is thermal rather than a set of discrete transitions.
-The device's geometry matters for the comparison. A nanotube film is an open structure with a large surface area, and radiation escapes from the whole volume rather than from a surface, which is what an i
+The device's geometry matters for the comparison. A nanotube film is an open structure with a large surface area, and radiation escapes from the whole volume rather than from a surface, which is what an ideal absorber would do.

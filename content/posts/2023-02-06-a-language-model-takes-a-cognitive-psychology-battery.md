@@ -26,4 +26,4 @@ For the field of machine cognition, the battery is a template. A standard set of
 
 The battery's tasks are chosen for their history. Each paradigm has a documented human pattern, often a deviation from optimal behaviour, and the deviation is the phenomenon that a theory has to explain. A model that reproduces the deviation is a model that has acquired the bias.
 Information search is where the parallel is closest. People tend to sample information that supports a favoured hypothesis, and the model does the same, which suggests that the bias is a consequence of the way the training data is structured rather than of a motivational state.
-Deliberation is where the parallel breaks. A person who deliberates spends time and attention, and a model that produces a longer chain of reasoning does not spend anything. The behaviour may look similar and the economics are
+Deliberation is where the parallel breaks. A person who deliberates spends time and attention, and a model that produces a longer chain of reasoning does not spend anything. The behaviour may look similar and the economics are entirely different.

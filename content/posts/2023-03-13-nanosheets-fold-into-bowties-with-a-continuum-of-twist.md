@@ -28,4 +28,6 @@ For the field, the value is a design space. Twisted nanosheets with a continuous
 
 The theoretical model accompanies the synthesis. A continuum of twist implies a continuum of chiral geometries, and the paper's model relates the sheet's elastic properties to the fold's angle, which is how the parameter is predicted rather than found.
 
-The comparison with molecular chirality is instructive. A molecule's handedness is fixed by its bonds, and a nanostructure's is set by its shape. Shape can be changed after synthesis, and that is the fre
+The comparison with molecular chirality is instructive. A molecule's handedness is fixed by its bonds, and a nanostructure's is set by its shape. Shape can be changed after synthesis, and that is the freedom the paper exploits.
+
+The folding is driven by the substrate. A sheet deposited on a surface with a defined curvature adopts a shape that minimizes its elastic energy, and the paper's method varies the curvature to vary the twist.

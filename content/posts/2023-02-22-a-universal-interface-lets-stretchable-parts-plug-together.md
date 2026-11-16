@@ -29,4 +29,4 @@ For the field, the value is a standard part. Stretchable electronics have been a
 The medical use is the nearest application. A patch that monitors a signal has to conform to skin that moves, and a device that fails at its joints is a device that a patient notices.
 
 The electrical resistance of the interface is a design variable. A joint that conducts well but stiffens the device is worse than one with slightly higher resistance that lets the whole assembly flex, and the paper's characterization reports both.
-The comparison with rigid connectors is instructive. A pin-and-socket is reliable and it imposes a rigid patch on a soft system, and the new interface trades some of that reliability for compliance. For a device that has to move with a body, t
+The comparison with rigid connectors is instructive. A pin-and-socket is reliable and it imposes a rigid patch on a soft system, and the new interface trades some of that reliability for compliance. For a device that has to move with a body, the trade is worth taking.

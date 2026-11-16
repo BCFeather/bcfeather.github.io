@@ -29,4 +29,4 @@ For conservation, the result is a note of caution and of hope. Rapid adaptation 
 The sediment chronology is the backbone. Each layer is dated by the same methods that lake cores use, and a hatched animal can be assigned to a decade. Without the chronology, a difference between layers is a difference without a date.
 The trait measurement is the phenotype. Salt tolerance is assayed in a common garden, where all genotypes experience the same conditions, so that a difference reflects genetics rather than the environment the animals were raised in.
 
-The lake's own history is the context. Salinity rose with agricultural runoff or with the climate, and the timing of the rise is what the sediment layers date. The population's response and the environmental change can therefore be
+The lake's own history is the context. Salinity rose with agricultural runoff or with the climate, and the timing of the rise is what the sediment layers date. The population's response and the environmental change can therefore be aligned year by year.

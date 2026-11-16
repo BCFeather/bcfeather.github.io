@@ -27,4 +27,4 @@ What the paper does not show is the kinetics of the switch. Acylation is slow, a
 The work also clarifies why the inducible system exists. Constitutive resistance costs the cell, because BlaZ and MecA are expensive and because the transpeptidase is less efficient than the native one. Inducibility keeps the cost down until the drug is present.
 
 The sensor also illustrates a general principle of bacterial signalling. A membrane protein with a covalent modification as its input is a switch that cannot be reset until the modification is turned over, and the lifetime of the acyl-enzyme is a built-in delay that shapes the response.
-Combination therapy follows from the mechanism. If the sensor must be acylated to induce resistance, then a drug that binds without acylating would be an inhibitor in the literal sense, and the structures show which part of the pocket a non-cova
+Combination therapy follows from the mechanism. If the sensor must be acylated to induce resistance, then a drug that binds without acylating would be an inhibitor in the literal sense, and the structures show which part of the pocket a non-covalent ligand could occupy.

@@ -1,6 +1,6 @@
 ---
 slug: "a-conflict-about-income-and-happiness-ends-in-a-joint-curve"
-title: "A conflict about income and happiness ends in a joint curve"
+title: "Income and happiness end up on one curve"
 date: "2023-03-09T09:15:00+08:00"
 categories: [science]
 description: "Two researchers whose earlier papers disagreed analyze a larger body of data and find that well-being rises with income across the range, with a plateau only among the least happy respondents. The study appears in *PNAS* on 7 March 2023."
@@ -28,4 +28,4 @@ For the field, the value is a curve that both camps can accept. A debate that ra
 
 The measurement of happiness is the weakest link. A single question about yesterday is reliable in the sense of consistency and crude in the sense of content, and a battery of questions is richer and harder to compare across surveys. The paper's choice is a compromise that the literature has settled on.
 
-The threshold's location, where the least happy group's curve flattens, is a number that policy can use. It says that beyond a certain income the marginal dollar does not improve the emotional lives of the least happy, and below 
+The threshold's location, where the least happy group's curve flattens, is a number that policy can use. It says that beyond a certain income the marginal dollar does not improve the emotional lives of the least happy, and below it the dollar does.

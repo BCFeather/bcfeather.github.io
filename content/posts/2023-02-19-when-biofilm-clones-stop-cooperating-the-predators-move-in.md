@@ -30,4 +30,4 @@ The matrix is part of the story. Extracellular polymers hold the community toget
 
 Quorum sensing is the third factor. A biofilm's cells coordinate through diffusible signals, and a signal's concentration depends on local density. Break the clusters and the signals fall below threshold, which is another route by which architecture becomes behaviour.
 
-The ecological lesson is general. Competition, cooperation and predation are usually modelled as interactions between populations, and the paper shows that geometry sets their strength. A community's shape is a parameter of 
+The ecological lesson is general. Competition, cooperation and predation are usually modelled as interactions between populations, and the paper shows that geometry sets their strength. A community's shape is a parameter of its ecology.

@@ -28,4 +28,4 @@ For cell biology, the result adds a case to a small list. Lipid transport betwee
 
 The proteins' lipid specificity is the argument's support. A Sec14 domain that binds phosphatidic acid and not its derivatives is a domain evolved for the precursor, and the specificity is what distinguishes a transport protein from a general lipid chaperone.
 The envelope's contact sites are the alternative route. The chloroplast touches the endoplasmic reticulum at several points, and lipids can move through a contact without a carrier. The paper's proteins may act where contacts are absent, which would explain why their loss produces a phenotype.
-Thylakoid lipid composition is a stress trait. Cold and drought change the ratio of saturated to unsaturated lipids, and a plant that cannot move the precursor may be less able to remodel. That connects a transport protein to yield 
+Thylakoid lipid composition is a stress trait. Cold and drought change the ratio of saturated to unsaturated lipids, and a plant that cannot move the precursor may be less able to remodel. That connects a transport protein to yield under stress.

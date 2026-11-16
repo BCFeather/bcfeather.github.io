@@ -28,4 +28,6 @@ For development economics, the value is a design that can be reused. A threshold
 
 The program's components are multiple. A multifaceted intervention combines cash, training and services, and the package makes it hard to attribute the behavioural change to any one part. The paper's discussion of that ambiguity is honest.
 
-The gender dimension is worth noting. Transfers that go to women change household bargaining, and a preference measure that is not disaggregated by gender can miss the mechanism that the program ac
+The gender dimension is worth noting. Transfers that go to women change household bargaining, and a preference measure that is not disaggregated by gender can miss the mechanism that the program actually uses.
+
+The behavioural measure is the experiment's weak point in a different way. A participant who has just completed a program may answer a game differently because of the attention the survey brings, and a control group that knows it was not selected may respond in kind.

@@ -26,4 +26,4 @@ What the study does not provide is an in vivo result. The concentrations used in
 
 The channel's gating is the reason it is druggable at all. SLO3 opens with voltage and with pH, and its sensitivity to both means that a blocker need not compete with a natural ligand; it can simply hold the pore shut in the states that matter.
 Species differences will decide how far the result travels. The mouse channel is regulated differently from the human one, and a compound selected against the human protein may not work in the standard animal model, which is a difficulty the reproductive field knows well.
-For the field, the compound's value is that it separates the channel's role in motility from its role in the acrosome reaction. The two processes happen in sequence, and a tool that can be added at a chosen moment lets an experiment is
+For the field, the compound's value is that it separates the channel's role in motility from its role in the acrosome reaction. The two processes happen in sequence, and a tool that can be added at a chosen moment lets an experiment isolate one from the other.

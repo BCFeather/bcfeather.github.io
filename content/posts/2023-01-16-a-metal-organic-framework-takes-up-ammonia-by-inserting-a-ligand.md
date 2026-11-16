@@ -22,4 +22,4 @@ The engineering gap is the bed. A powder with a phase change has to be shaped in
 
 For ammonia's role in a low-carbon economy, the result is a candidate answer to the storage problem. If the material works at the pressures and temperatures of a real system, then ammonia becomes easier to keep, and a fuel that is hard to store is a fuel that stays in the chemical plant.
 
-For the storage calculation, the relevant number is volumetric rather than gravimetric. A framework that takes up a large mass fraction of ammonia but collapses to half its volume is a worse tank than a denser material with a smaller uptake, and the paper's structural change has to be measured under 
+For the storage calculation, the relevant number is volumetric rather than gravimetric. A framework that takes up a large mass fraction of ammonia but collapses to half its volume is a worse tank than a denser material with a smaller uptake, and the paper's structural change has to be measured under pressure to settle that.

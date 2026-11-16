@@ -27,4 +27,4 @@ What the paper does not test is the behaviour in a wet environment. A hydrogel i
 The broader lesson is about how failure is designed against. Toughness is a property of a material, fatigue is a property of a structure, and a material that controls the crack tip is doing structural work at the molecular scale.
 
 The threshold is not the only number that matters. A material that resists growth below a threshold can still fail if a defect exceeds it, and the design has to ensure that manufacturing flaws stay below the critical size.
-The comparison with natural materials is suggestive. Tendons and arteries resist fatigue through a combination of stiff fibres and a soft matrix, and the crack-tip softening mechanism is a synthetic versio
+The comparison with natural materials is suggestive. Tendons and arteries resist fatigue through a combination of stiff fibres and a soft matrix, and the crack-tip softening mechanism is a synthetic version of the same strategy.

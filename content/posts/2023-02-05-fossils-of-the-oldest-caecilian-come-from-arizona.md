@@ -26,4 +26,4 @@ For the amphibian tree, the find shortens the ghost lineage. A group with a 220-
 
 The specimens were recovered by sieving sediment rather than by quarrying skeletons. Microfossils of this kind accumulate in the concentrates that wash through a screen, and the assemblage of dozens of individuals came from a single horizon, which suggests a mass mortality or a accumulation in a pond.
 The jaw's structure is the diagnostic feature. Caecilian jaws have a unique arrangement of bones and a reduced dentition, and the Chinle specimens show the arrangement in a form that is simpler than the living one, which is what a stem-group member should look like.
-The name honours the site and the collector. Funcusvermis combines the Latin for a digging worm with a reference to the Chinle's fossiliferous beds, and gilmorei honours the palaeontologist who worked the
+The name honours the site and the collector. Funcusvermis combines the Latin for a digging worm with a reference to the Chinle's fossiliferous beds, and gilmorei honours the palaeontologist who worked the formation a century ago.

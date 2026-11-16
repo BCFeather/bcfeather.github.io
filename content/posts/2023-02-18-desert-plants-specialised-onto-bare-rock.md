@@ -30,4 +30,4 @@ For conservation, rock outcrops are small and unprotected. A plant that lives on
 
 The clade's biogeography adds a second thread. Its species are scattered across desert ranges, and a range that is a chain of outcrops is a range that a plant colonizes step by step. Dispersal between islands of rock is the process the phylogeny records.
 
-The rock type may matter as much as the rock. Limestone, granite and volcanic flows weather differently and hold water differently, and a flora that specializes onto one of them is a flora that a geologic
+The rock type may matter as much as the rock. Limestone, granite and volcanic flows weather differently and hold water differently, and a flora that specializes onto one of them is a flora that a geological map can predict.

@@ -28,4 +28,4 @@ For vector control, the lesson is that behaviour is a target. A fly's attraction
 
 The fly's sensory physiology is the mechanism's foundation. Tsetse respond to carbon dioxide, to host odours and to visual cues, and the attractive blend is layered on top of a basic response to a breath. The paper's design reflects that hierarchy.
 
-The trap's geometry matters as much as the smell. A visual target with a blue and black pattern catches more flies than a plain one, and the odour adds to a visual trap rather than replacing it. The two modalities
+The trap's geometry matters as much as the smell. A visual target with a blue and black pattern catches more flies than a plain one, and the odour adds to a visual trap rather than replacing it. The two modalities are complementary.

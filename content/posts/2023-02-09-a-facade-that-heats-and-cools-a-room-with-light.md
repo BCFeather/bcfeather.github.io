@@ -27,4 +27,4 @@ What the study does not provide is a durability test. A facade is exposed to ult
 For architects, the appeal is a surface that can be designed rather than specified. A facade that changes with the season is a facade that a designer can use as a variable, and the building's thermal performance becomes a function of the surface rather than of the glazing ratio alone.
 
 The building simulation is where the paper's case is made. The authors model a room with the facade and compare its annual energy use with the same room glazed conventionally, and the saving is a function of the climate and of the control strategy rather than a single number.
-Maintenance is the hidden cost. Pumps, valves and fluid reservoirs add components that a building's operator has to service, and a facade that fails is a facade that becomes a tinted window with a maintenance bill. The design's simplicity will decide wh
+Maintenance is the hidden cost. Pumps, valves and fluid reservoirs add components that a building's operator has to service, and a facade that fails is a facade that becomes a tinted window with a maintenance bill. The design's simplicity will decide whether it is adopted.

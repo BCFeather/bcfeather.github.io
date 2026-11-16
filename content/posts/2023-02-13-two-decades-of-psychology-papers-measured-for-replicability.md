@@ -27,4 +27,4 @@ For science policy, the value is a metric that can be computed continuously. A d
 The model's features are interpretable, which is a virtue. A prediction that rests on sample size and on effect size is a prediction that a reader can check, and a reader who disagrees can recompute the estimate.
 The policy use is a dashboard. A field that publishes its replication estimates can see whether a reform changed the distribution, and a change in the distribution is the evidence that a reform worked.
 
-A second use is teaching. A course that shows students the predicted replicability of the papers it assigns is a course that teaches how to read a result, and the estimate makes the lesson concrete rath
+A second use is teaching. A course that shows students the predicted replicability of the papers it assigns is a course that teaches how to read a result, and the estimate makes the lesson concrete rather than rhetorical.

@@ -27,4 +27,4 @@ The synthetic value is a handle. A cluster that can be opened is a cluster whose
 For the field of bioinorganic chemistry, the result is a reminder that cofactors are not static objects. A cluster that breathes is a cluster that can be maintained, and maintenance is what a cell spends its effort on.
 
 The cluster's electronic states change as bonds break, and the paper tracks them by spectroscopy. A cluster that loses a sulfur becomes a different oxidant, and the sequence of states is a sequence of redox potentials that a protein could exploit.
-The synthetic result also bears on the origin of the cofactor. A cluster that assembles from iron and sulfide without a protein is a cluster that could have formed in the early ocean, and the flexibility the paper shows is what allowed a mineral to beco
+The synthetic result also bears on the origin of the cofactor. A cluster that assembles from iron and sulfide without a protein is a cluster that could have formed in the early ocean, and the flexibility the paper shows is what allowed a mineral to become an enzyme.

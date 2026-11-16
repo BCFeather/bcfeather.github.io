@@ -29,4 +29,4 @@ For memory research, the result removes a dichotomy. Consolidation and planning 
 For artificial agents, the analogy is suggestive. A system that learns from experience and one that plans from a model both use stored trajectories, and the hippocampus may be the place where the two uses are implemented in the same tissue.
 
 The hippocampal dependence is a further clue. Replay is associated with the hippocampal formation, and the paper's recordings come from electrodes placed across that region. A signature that appears in one subfield and not another would localize the function, and the dataset permits that analysis.
-The behavioural consequence is measurable. Participants whose replay shows more planning-like events choose better on the model-based trials, and the correlation is the evidence that the signatures mean something for performance rather t
+The behavioural consequence is measurable. Participants whose replay shows more planning-like events choose better on the model-based trials, and the correlation is the evidence that the signatures mean something for performance rather than being epiphenomena.

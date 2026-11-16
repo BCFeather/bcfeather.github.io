@@ -30,4 +30,4 @@ The market context is the fibre-optic link. Coherent transceivers need tunable l
 
 The device's footprint is a selling point. A bench-top tunable laser occupies a rack, and an integrated one occupies a chip. The transition from rack to chip is what makes a lidar affordable for a car, and the paper's platform is a route to that transition.
 
-The modulation bandwidth is set by the electrode's geometry. A travelling-wave electrode matches the electrical and optical velocities, and a lumped electrode does not. The paper's design uses the former, and the bandwidth it reports is the 
+The modulation bandwidth is set by the electrode's geometry. A travelling-wave electrode matches the electrical and optical velocities, and a lumped electrode does not. The paper's design uses the former, and the bandwidth it reports is the consequence.

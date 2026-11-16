@@ -28,4 +28,4 @@ The collaboration is the model. An art historian's knowledge of provenance and a
 
 The measurement of contrast is a standard image analysis. A painting is digitized, the sky region is identified, and the local contrast is computed across scales. The method is reproducible, which is what lets two centuries of canvases be compared with each other.
 The painters' own accounts support the reading. Turner complained about the London air and Monet chose to paint in the fog, and both described the atmosphere as a subject. A painter who chooses smog as a subject is a painter who documents it.
-Sceptics will ask about varnish and fading. A canvas's colours change with age, and a pigment that darkens would mimic haze. The paper's controls include works from the same period in clear-air locations, and the contrast between t
+Sceptics will ask about varnish and fading. A canvas's colours change with age, and a pigment that darkens would mimic haze. The paper's controls include works from the same period in clear-air locations, and the contrast between them is the evidence.

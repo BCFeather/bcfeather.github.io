@@ -22,4 +22,4 @@ What the work does not settle is the range of shapes. Natural sediment spans pla
 
 The broader lesson is about how empirical laws age. A law fitted to a laboratory material becomes a law about that material, and the step from the laboratory to the field is a step in the variables, not only in the coefficients.
 
-Field calibration is the next requirement. A transport law with a shape parameter asks a survey to measure shape as well as size, and shape is currently reported in words rather than numbers. A standard descriptor, such as a perimeter-area ratio from a sieved sample, would make the correction usable by engineer
+Field calibration is the next requirement. A transport law with a shape parameter asks a survey to measure shape as well as size, and shape is currently reported in words rather than numbers. A standard descriptor, such as a perimeter-area ratio from a sieved sample, would make the correction usable by engineers who never run a flume.

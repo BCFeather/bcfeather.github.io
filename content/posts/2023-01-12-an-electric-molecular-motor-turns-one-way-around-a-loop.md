@@ -22,4 +22,4 @@ What the paper does not yet show is a motor coupled to a function. A ring that t
 
 The comparison with biological motors is instructive. ATP synthase and the bacterial flagellum achieve direction with a fixed structure and a chemical gradient, and their efficiency is set by evolution rather than by design. A synthetic motor that runs on a potentiostat is cruder and more controllable, and controllability is what a technology needs first.
 
-The next steps are lifetime and speed. A motor that survives thousands of cycles without fatigue, and one that turns fast enough to move something visible, would mark the transition from chemistry to engineering. The paper's demonstration of direction is the preconditi
+The next steps are lifetime and speed. A motor that survives thousands of cycles without fatigue, and one that turns fast enough to move something visible, would mark the transition from chemistry to engineering. The paper's demonstration of direction is the precondition for both.

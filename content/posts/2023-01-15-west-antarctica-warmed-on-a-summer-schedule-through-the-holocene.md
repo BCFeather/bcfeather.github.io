@@ -24,4 +24,4 @@ For ice-sheet projections, the result changes the diagnostic. A reconstruction t
 
 The seasonality also matters for the interpretation of past ice-core carbon dioxide. Air is trapped in the firn at the end of summer, and a record dated by accumulation assumes that the trapping happens at a known time of year. A summer-weighted temperature and a summer-weighted trapping age are consistent with each other, which the older reconstructions were not.
 
-A summer-paced record also explains why some earlier West Antarctic reconstructions disagreed with each other. Cores with different accumulation seasons weight the same insolation forcing differently, and the disagreement was in the weighting rath
+A summer-paced record also explains why some earlier West Antarctic reconstructions disagreed with each other. Cores with different accumulation seasons weight the same insolation forcing differently, and the disagreement was in the weighting rather than in the ice.

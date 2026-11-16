@@ -29,4 +29,4 @@ For the origin-of-eukaryotes field, the implication is that complexity is not a 
 The membrane itself is evidence of another capacity. A cell that extends protrusions has to bend its membrane and keep it curved, and the archaeal lipids differ from bacterial ones, so the mechanics of that bending is a question the paper's images raise without answering.
 
 Comparison with eukaryotic actin is the test of ancestry. The archaeal filaments are thinner and their assembly is less well understood, and the sequence similarity is enough to identify the family but not enough to predict the behaviour. The paper's images supply the behaviour.
-For the debate about the eukaryotic host, a cytoskeleton is the argument in favour of a cell that could engulf. The counterargument, that phagocytosis requires more than actin, is not answered by the images, and the field will argue ov
+For the debate about the eukaryotic host, a cytoskeleton is the argument in favour of a cell that could engulf. The counterargument, that phagocytosis requires more than actin, is not answered by the images, and the field will argue over which came first.
