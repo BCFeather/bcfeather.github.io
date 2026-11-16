@@ -161,7 +161,7 @@ The chain runs from `hugo.toml`, which passes `\(` and `$$` through untouched, t
 
 ## 11. Citations
 
-Papers are cited by **journal and date only**. Running text carries no volume, issue, article number or page range, in any typography. Journal and date are enough for a reader to find the paper; the numbers only burden a sentence about the result. A DOI belongs in a link where one is given. Where a result is quoted from a preprint or a conference abstract, that is said plainly, since the journal-date form is not a licence to imply review that has not happened.
+Papers are cited by **journal and date only**. Running text carries no volume, issue, article number or page range, in any typography. Journal and date are enough for a reader to find the paper; the numbers only burden a sentence about the result. Do not include DOIs. Where a result is quoted from a preprint or a conference abstract, that is said plainly, since the journal-date form is not a licence to imply review that has not happened.
 
 * *The form*: *Nature*, 6 May 2026; *The Lancet*, 9 June 2026
 * *Rejected*: `Science 394, 6823` → *Science*, 6 May 2026
