@@ -3,7 +3,7 @@ slug: "a-reverse-doped-oxide-lifts-perovskite-fill-factors"
 title: "A reverse-doped oxide lifts the fill factor of centimetre-scale perovskite cells"
 date: "2022-01-27T09:25:00+08:00"
 categories: [science]
-description: "Nitrogen-doped titanium oxide cut series resistance in *Nature*'s report of 1-square-centimetre perovskite cells with fill factors above 86 per cent."
+description: "Nitrogen-doped titanium oxide cut series resistance, and one-square-centimetre cells reached a certified 22.6 per cent with fill factors above 86 per cent."
 ---
 
 Perovskite photovoltaics reached high efficiencies quickly because the absorber is forgiving: it tolerates defects, it can be deposited from solution, and its bandgap can be tuned. The efficiency record nevertheless stalled in the low twenties, and the reason had less to do with the absorber than with the layers that carry charge away from it. A cell that absorbs light well but cannot extract the current has a high open-circuit voltage and a poor fill factor. The same absorber that tolerates defects also tolerates the interfacial losses that a silicon cell would not survive, which is why the transport layers, not the perovskite, set the ceiling.

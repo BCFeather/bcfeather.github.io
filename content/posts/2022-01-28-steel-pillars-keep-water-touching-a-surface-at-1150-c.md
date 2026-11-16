@@ -3,7 +3,7 @@ slug: "steel-pillars-keep-water-touching-a-surface-at-1150-c"
 title: "Steel pillars keep water touching a surface at 1,150 °C"
 date: "2022-01-28T10:05:00+08:00"
 categories: [science]
-description: "A structured thermal armour held the Leidenfrost point 600 °C above earlier designs while preserving heat transfer, as reported in *Nature*."
+description: "An armour of steel pillars, a wicking membrane and venting channels held the Leidenfrost point at 1,150 °C while preserving heat transfer."
 ---
 
 Drop water onto a hot plate and, past a certain temperature, the drop stops boiling rapidly and starts skittering. A vapour layer separates liquid from solid, heat transfer collapses, and the surface stops cooling. The effect is named for Leidenfrost, and in metallurgy and in reactor safety it is a practical ceiling: the hotter the surface, the worse water cools it. In a loss-of-coolant accident the effect can strand heat in a fuel rod just when removal matters most, and in die casting it sets the cycle time.

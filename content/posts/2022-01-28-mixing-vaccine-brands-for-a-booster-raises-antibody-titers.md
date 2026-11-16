@@ -3,7 +3,7 @@ slug: "mixing-vaccine-brands-for-a-booster-raises-antibody-titers"
 title: "Mixing vaccine brands for a booster raises antibody titers"
 date: "2022-01-28T11:40:00+08:00"
 categories: [science]
-description: "A phase 1-2 trial of 458 adults found that heterologous boosters raised neutralising antibody titers by factors of 6 to 73, as reported in *The New England Journal of Medicine*."
+description: "Among 458 adults, heterologous boosters raised neutralising antibody titers by factors of 6 to 73, more than homologous boosters did."
 ---
 
 Booster campaigns began with the assumption that the third dose should match the first two. That assumption is administrative as much as immunological, since a programme that mixes products must track more combinations, and the trials that would justify mixing were run late. The question mattered most for the adenovirus-vectored vaccine, whose protection against infection had fallen furthest. A programme that could mix products could protect those recipients without waiting for a matching supply.
@@ -16,6 +16,6 @@ The T-cell result is the more interesting half. CD8+ responses were more durable
 
 Reactogenicity was comparable to the primary series. More than half of participants reported injection-site pain, malaise, headache or myalgia, which is the price of a reactogenic boost and the reason mixing is a clinical decision rather than an automatic one. The trial was not powered to compare reactogenicity across the nine combinations, so the comparison stays descriptive.
 
-The trial measures titers at days 15 and 29, not protection. A pseudovirus neutralisation titer is a surrogate, the cohort is small for subgroup comparisons, and the follow-up is short. Whether the higher titers translate into fewer infections, and for how long, requires the observational studies that national programmes were already running.
+A pseudovirus titer is a surrogate for protection, and the trial measures it at days 15 and 29 rather than over a season of exposure. The cohort is small for subgroup comparisons and the follow-up is short. Whether the higher titers translate into fewer infections, and for how long, requires the observational studies that national programmes were already running. The trial also closed before Omicron became dominant, so the titers describe responses to earlier variants.
 
 For a programme deciding what to offer someone primed with a viral vector, the result supports a heterologous mRNA or vector boost on immunological grounds. The operational constraint remains supply, and a mixed schedule is only as good as the register that records which product each person received. A register that records only the number of doses, and not the product, makes a mixed schedule impossible to evaluate after the fact.
