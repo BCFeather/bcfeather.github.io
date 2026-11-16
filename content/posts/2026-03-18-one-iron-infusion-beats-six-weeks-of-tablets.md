@@ -3,12 +3,12 @@ slug: "one-iron-infusion-beats-six-weeks-of-tablets"
 title: "One iron infusion beats six weeks of tablets"
 date: "2026-03-18T14:05:00+08:00"
 categories: [science]
-description: "In Nigerian women with anaemia after childbirth, a single intravenous dose of ferric carboxymaltose restored haemoglobin and iron stores faster than six weeks of oral ferrous sulphate, and the benefit persisted at six months."
+description: "In Nigerian women with anaemia after childbirth, a single intravenous dose of ferric carboxymaltose restored haemoglobin and iron stores faster than six weeks of oral ferrous sulfate, and the benefit persisted at six months."
 ---
 
 Postpartum anaemia is common and undertreated. Blood loss at delivery is routine, the iron reserves of pregnancy are depleted by the fetus, and the result is a woman who is tired, breathless and less able to care for a newborn at exactly the moment when she has the least capacity to spare. Oral iron is the standard treatment in most of the world, and oral iron is slow, poorly tolerated and inconsistently absorbed.
 
-A trial in Nigeria tested the alternative. The IVON-PP trial, led by Professor Bosede Afolabi at the University of Lagos with collaborators in the United Kingdom and funded by the Bill & Melinda Gates Foundation, randomised women with postpartum anaemia to a single intravenous infusion of ferric carboxymaltose or to oral ferrous sulphate twice daily for six weeks. The results appeared in *The Lancet Global Health* on 18 March.
+A trial in Nigeria tested the alternative. The IVON-PP trial, led by Professor Bosede Afolabi at the University of Lagos with collaborators in the United Kingdom and funded by the Bill & Melinda Gates Foundation, randomised women with postpartum anaemia to a single intravenous infusion of ferric carboxymaltose or to oral ferrous sulfate twice daily for six weeks. The results appeared in *The Lancet Global Health* on 18 March.
 
 Intravenous iron corrected haemoglobin faster and restored iron stores more completely. The women who received the infusion reached target haemoglobin sooner, their ferritin rose to levels that oral iron does not reach in the same period, and the effect was still present six months after delivery, which is the point at which the next pregnancy may already be being planned.
 
