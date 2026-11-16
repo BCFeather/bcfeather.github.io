@@ -1,6 +1,6 @@
 ---
 slug: "nippon-steel-agrees-to-buy-us-steel-for-14-billion-dollars"
-title: "Nippon Steel agrees to buy US Steel for 14 billion dollars"
+title: "Nippon Steel agrees to buy U.S. Steel for 14 billion dollars"
 date: "2023-12-18T09:20:00+08:00"
 categories: [business]
 description: "The all-cash offer of 55 dollars a share beat the rival bid, and the union and the politicians have objected to the foreign owner."
