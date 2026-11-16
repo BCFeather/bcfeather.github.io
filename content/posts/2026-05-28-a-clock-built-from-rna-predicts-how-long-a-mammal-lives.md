@@ -8,7 +8,7 @@ description: "Transcriptomes from more than 25 tissues across four species carry
 
 Ageing clocks began with methylation marks on DNA and moved through protein levels and clinical variables. A paper in *Nature* on 28 May adds the transcriptome, and does it across species rather than within one. That matters because most clocks are calibrated on a single organism and fail when moved, and a comparative clock has to find the part of ageing that is conserved rather than the part that is peculiar to a mouse.
 
-Alexander Tyshkovskiy, Vadim Gladyshev and colleagues analyzed more than 11,000 transcriptomic signatures drawn from more than 25 tissue types in mice, rats, macaques and humans. The question was whether ageing leaves a pattern in gene expression that is conserved across mammals, or whether each species and each tissue drifts in its own direction.
+Alexander Tyshkovskiy, Vadim Gladyshev and colleagues analysed more than 11,000 transcriptomic signatures drawn from more than 25 tissue types in mice, rats, macaques and humans. The question was whether ageing leaves a pattern in gene expression that is conserved across mammals, or whether each species and each tissue drifts in its own direction.
 
 Conservation turned out to be substantial. Genes tied to cellular senescence, inflammation and apoptosis were up-regulated with age, while genes for wound healing, cell differentiation and extracellular matrix synthesis were down-regulated. Those are broad programmes rather than single markers, and their consistent direction across species is what allows a single model to read several tissues at once.
 

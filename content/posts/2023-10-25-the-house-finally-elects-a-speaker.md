@@ -6,7 +6,7 @@ categories: [news]
 description: "Mike Johnson of Louisiana was elected Speaker on 25 October 2023 by 220 votes to 209, ending twenty-two days without a speaker and installing a conservative who had voted against certifying the 2020 election."
 ---
 
-Republicans elected Mike Johnson of Louisiana as Speaker on 25 October, with 220 votes to 209 and no defections, ending a vacancy that had lasted twenty-two days and paralyzed the House. Johnson was the fourth nominee the conference tried, after Steve Scalise, Jim Jordan and Tom Emmer each failed to reach a majority on the floor, and he won on the first ballot because the factions that had blocked the others could agree on him.
+Republicans elected Mike Johnson of Louisiana as Speaker on 25 October, with 220 votes to 209 and no defections, ending a vacancy that had lasted twenty-two days and paralysed the House. Johnson was the fourth nominee the conference tried, after Steve Scalise, Jim Jordan and Tom Emmer each failed to reach a majority on the floor, and he won on the first ballot because the factions that had blocked the others could agree on him.
 
 His record is short and unambiguous. He entered Congress in 2017 after a career as a constitutional lawyer, he led the amicus brief signed by more than a hundred Republicans in a Texas case that sought to overturn the 2020 election, and he voted against certifying the results in Pennsylvania and Arizona. He has opposed abortion rights without exceptions, sponsored a national abortion ban, and voted against the spending deals and the aid packages that the previous Speaker had negotiated. He had never held elected office before the seat he won in 2016. He has also worked as a lawyer for a conservative advocacy group and as a talk-radio commentator.
 

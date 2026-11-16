@@ -6,7 +6,7 @@ categories: [science]
 description: "Seven thousand eight hundred and eighty tumours across thirty-three cancer types were sorted into seventeen patterns of chromosomal damage, and the patterns turned out to predict how tumours respond to drugs."
 ---
 
-Cancer genomes are damaged in patterns, and a paper in *Nature* on 30 June argues that the patterns can be catalogued the way mutations are. A team led by Ruben Drews and colleagues at Cambridge and elsewhere analyzed seven thousand eight hundred and eighty tumours covering thirty-three cancer types and sorted the copy number changes they found into seventeen signatures. Each signature is a characteristic way in which chromosomes gain, lose or rearrange pieces of themselves.
+Cancer genomes are damaged in patterns, and a paper in *Nature* on 30 June argues that the patterns can be catalogued the way mutations are. A team led by Ruben Drews and colleagues at Cambridge and elsewhere analysed seven thousand eight hundred and eighty tumours covering thirty-three cancer types and sorted the copy number changes they found into seventeen signatures. Each signature is a characteristic way in which chromosomes gain, lose or rearrange pieces of themselves.
 
 Chromosomal instability is the condition that produces those changes. A cell that loses the machinery for accurate division ends up with the wrong number of chromosomes, with fragments that have detached and rejoined elsewhere, and with stretches of DNA copied many times over. This kind of damage is present in most cancers and had been described case by case, with no common system for measuring it or for comparing one tumour with another.
 

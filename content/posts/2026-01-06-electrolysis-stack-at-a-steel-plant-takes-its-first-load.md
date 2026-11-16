@@ -6,7 +6,7 @@ categories: [technology]
 description: "A 12-megawatt solid-oxide electrolysis stack has begun producing hydrogen inside a working steel plant, using the plant's off-gas and its grid connection. The economics rest on the oxygen the stack also sells."
 ---
 
-Steelmaking produces hydrogen as a by-product and consumes it as a reductant, which makes a steel plant an unusual host for an electrolyzer. A 12-megawatt solid-oxide stack began operating inside a working plant this month, producing 4,800 cubic metres of hydrogen an hour from steam and the plant's own waste heat.
+Steelmaking produces hydrogen as a by-product and consumes it as a reductant, which makes a steel plant an unusual host for an electrolyser. A 12-megawatt solid-oxide stack began operating inside a working plant this month, producing 4,800 cubic metres of hydrogen an hour from steam and the plant's own waste heat.
 
 Solid-oxide cells are the choice because of temperature. The stack operates at 750 degrees Celsius, where part of the energy for splitting water comes in as heat rather than electricity, so the electrical demand per kilogram of hydrogen is about 20 per cent lower than a low-temperature alkaline or PEM system. The plant's reheating furnaces supply that heat without extra fuel.
 

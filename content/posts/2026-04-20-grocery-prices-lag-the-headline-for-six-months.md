@@ -6,7 +6,7 @@ categories: [economy]
 description: "Supermarket prices follow commodity costs with a lag of five to seven months, and the lag is asymmetric: rises pass through faster than falls. A study of scanner data across 12,000 products quantifies both."
 ---
 
-The price of a loaf of bread and the price of wheat are connected through a supply chain that takes time, and the connection is not symmetric. A study published this month analyzed scanner data from 12,000 grocery products over eight years and found a lag of five to seven months from commodity cost to shelf price, shorter on the way up than on the way down.
+The price of a loaf of bread and the price of wheat are connected through a supply chain that takes time, and the connection is not symmetric. A study published this month analysed scanner data from 12,000 grocery products over eight years and found a lag of five to seven months from commodity cost to shelf price, shorter on the way up than on the way down.
 
 Asymmetry carries the finding. When wheat rose, shelf prices adjusted within five months; when it fell, the adjustment took seven, and the pass-through ratio was 0.7 on the way down against 0.9 on the way up.
 
