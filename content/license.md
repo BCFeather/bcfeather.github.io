@@ -7,6 +7,8 @@ type: page
 
 The open-source software I publish, and the building blocks this website depends on, are covered by the licences below.
 
+Body text and mathematical notation are set in Computer Modern: the CMU Serif web fonts are served from this site, and TeX fragments are rendered in the same family, so prose and formulas share one typeface.
+
 ## Software by Caozhe Bao
 
 Code that I release under the name **BCFeather** and / or **Caozhe Bao** is licensed under the MIT License unless a specific project ships with its own licence file, in which case that file takes precedence.
@@ -34,11 +36,12 @@ This website is built with [Hugo](https://gohugo.io) and hosted by [GitHub Pages
 | [Hugo](https://gohugo.io) | Static site generator | Apache License 2.0 |
 | [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) | Theme stylesheet and scripts, reused in a Hugo port of the layout | MIT |
 | [Bootstrap](https://getbootstrap.com) | CSS framework | MIT |
-| [Lato](https://fonts.google.com/specimen/Lato), [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+3) | Web fonts | SIL Open Font License 1.1 |
+| [CMU Serif](https://cm-unicode.sourceforge.io/), a Unicode build of [Computer Modern](https://ctan.org/pkg/cm-unicode) | Body text and mathematical notation, self-hosted from this site | SIL Open Font License 1.1 |
+| [Lato](https://fonts.google.com/specimen/Lato), [Source Sans 3](https://fonts.google.com/specimen/Source+Sans+3) | Interface text in the theme chrome, loaded from Google Fonts | SIL Open Font License 1.1 |
 | [Font Awesome](https://fontawesome.com) | Icons | Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT |
 | [tocbot](https://tscanlin.github.io/tocbot/) | Table of contents | MIT |
 | [Glightbox](https://biati-digital.github.io/glightbox/) | Lightbox | MIT |
-| [MathJax](https://www.mathjax.org) | Mathematics rendering | Apache 2.0 (loaded on pages that use mathematics) |
+| [KaTeX](https://katex.org) | Mathematics rendering, set in the same Computer Modern family as the prose | MIT (loaded on pages that contain mathematics) |
 | [utterances](https://utteranc.es) | Comments | MIT |
 | [dayjs](https://day.js.org) | Date formatting in the browser | MIT |
 | [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search) | Search over the generated index | MIT |

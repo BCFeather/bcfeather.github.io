@@ -42,6 +42,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2/dist/loading-attribute-polyfill.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox@3/dist/css/glightbox.min.css">
   <script src="/assets/js/dist/theme.min.js"></script>
+  <script defer src="/assets/js/smartquotes.js"></script>
   {{- if and $isPost (or (strings.Contains .RawContent "\\(") (strings.Contains .RawContent "$$")) }}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
   <link rel="stylesheet" href="/assets/css/math.css">
