@@ -1,5 +1,5 @@
 ---
-slug: "a-bacterial-ligase-stops-the-gut-from-expelling-infected-cells"
+slug: "bacterial-ligase-stops-the-gut-from-expelling-infected-cells"
 title: "Bacterial ligase stops the gut from expelling infected cells"
 date: "2025-12-09T09:45:00+08:00"
 categories: [science]

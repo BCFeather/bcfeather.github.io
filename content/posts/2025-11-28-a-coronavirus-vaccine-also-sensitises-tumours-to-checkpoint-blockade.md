@@ -1,5 +1,5 @@
 ---
-slug: "a-coronavirus-vaccine-also-sensitises-tumours-to-checkpoint-blockade"
+slug: "coronavirus-vaccines-sensitise-tumours-to-checkpoint-blockade"
 title: "Coronavirus vaccines sensitise tumours to checkpoint blockade"
 date: "2025-11-28T09:50:00+08:00"
 categories: [science]

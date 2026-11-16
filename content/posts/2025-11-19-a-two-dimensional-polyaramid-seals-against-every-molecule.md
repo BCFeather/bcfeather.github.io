@@ -1,5 +1,5 @@
 ---
-slug: "a-two-dimensional-polyaramid-seals-against-every-molecule"
+slug: "two-dimensional-polyaramid-films-seal-against-every-molecule"
 title: "Two-dimensional polyaramid films seal against every molecule"
 date: "2025-11-19T09:15:00+08:00"
 categories: [science]

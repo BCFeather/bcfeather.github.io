@@ -1,5 +1,5 @@
 ---
-slug: "the-macrophages-that-keep-skin-capillaries-young-disappear"
+slug: "skin-capillaries-lose-their-macrophages-with-age"
 title: "Skin capillaries lose their macrophages with age"
 date: "2025-12-11T09:30:00+08:00"
 categories: [science]

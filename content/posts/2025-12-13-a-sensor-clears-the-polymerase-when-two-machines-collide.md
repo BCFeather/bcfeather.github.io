@@ -1,5 +1,5 @@
 ---
-slug: "a-sensor-clears-the-polymerase-when-two-machines-collide"
+slug: "kctd10-clears-the-polymerase-when-two-machines-collide"
 title: "KCTD10 clears the polymerase when two machines collide"
 date: "2025-12-13T09:35:00+08:00"
 categories: [science]

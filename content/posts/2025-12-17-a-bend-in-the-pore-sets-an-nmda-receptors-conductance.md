@@ -1,5 +1,5 @@
 ---
-slug: "a-bend-in-the-pore-sets-an-nmda-receptors-conductance"
+slug: "bend-in-the-pore-sets-an-nmda-receptors-conductance"
 title: "Bend in the pore sets an NMDA receptor's conductance"
 date: "2025-12-17T09:40:00+08:00"
 categories: [science]

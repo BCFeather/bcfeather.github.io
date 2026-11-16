@@ -1,5 +1,5 @@
 ---
-slug: "a-consent-built-image-set-gives-fairness-tests-something-to-stand-on"
+slug: "consent-built-image-set-gives-fairness-tests-something-to-stand-on"
 title: "Consent-built image set gives fairness tests something to stand on"
 date: "2025-12-03T09:40:00+08:00"
 categories: [science]

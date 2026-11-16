@@ -1,5 +1,5 @@
 ---
-slug: "a-fly-switches-off-its-own-leg-sensors-while-it-walks"
+slug: "proprioceptors-go-quiet-while-the-fly-walks"
 title: "Proprioceptors go quiet while the fly walks"
 date: "2025-11-25T09:35:00+08:00"
 categories: [science]

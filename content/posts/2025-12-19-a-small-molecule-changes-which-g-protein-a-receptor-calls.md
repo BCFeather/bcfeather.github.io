@@ -1,5 +1,5 @@
 ---
-slug: "a-small-molecule-changes-which-g-protein-a-receptor-calls"
+slug: "small-molecule-changes-which-g-protein-a-receptor-calls"
 title: "Small molecule changes which G protein a receptor calls"
 date: "2025-12-19T09:25:00+08:00"
 categories: [science]

@@ -1,5 +1,5 @@
 ---
-slug: "a-robot-runs-the-loop-for-multi-element-electrocatalysts"
+slug: "robots-close-the-loop-on-multi-element-electrocatalysts"
 title: "Robots close the loop on multi-element electrocatalysts"
 date: "2025-11-20T09:25:00+08:00"
 categories: [science]

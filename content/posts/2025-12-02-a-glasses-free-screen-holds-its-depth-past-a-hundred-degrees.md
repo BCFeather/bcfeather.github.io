@@ -1,5 +1,5 @@
 ---
-slug: "a-glasses-free-screen-holds-its-depth-past-a-hundred-degrees"
+slug: "glasses-free-screen-holds-its-depth-past-a-hundred-degrees"
 title: "Glasses-free screen holds its depth past a hundred degrees"
 date: "2025-12-02T09:30:00+08:00"
 categories: [science]
