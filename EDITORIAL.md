@@ -1,118 +1,76 @@
 # Editorial manual
 
-This manual is intended for AI agents that assist Caozhe Bao, and explains how posts are chosen, written, typeset and verified on this site. The rules apply to every batch
-from 2022 onwards, and they are written to be checkable: each section ends with something a script
-or a reader can test.
+## 1. Purpose and authority
 
-## 1. The site's job
+**1.1 What the site is.** This site publishes dated notes on science, technology, sport, business and public affairs. A post records what happened, how it was measured, and what remains unsettled, for a reader who wants the mechanism and not the announcement. The archive is a record rather than a service: there is no live feed, no duty to cover a subject because others are covering it, and no post that exists only to mark that something occurred.
 
-This is a personal record of what a year looked like from the inside of the science and the news,
-written for a reader who wants the mechanism rather than the headline. Posts are dated notes, not a
-rolling service: there is no live feed, no column for world affairs, and no obligation to cover a
-story because it is being covered elsewhere.
+**1.2 How the manual binds.** The manual governs form; the primary record governs fact. Where a clause here conflicts with the official usage of a body named in §13, that body's usage prevails for the name it owns, and this manual prevails everywhere else. Clauses carrying a numeral are checked mechanically before release; the remainder are editorial judgement and are checked by reading. A batch is not released until both kinds have been applied.
 
-Two consequences follow. Selection is deliberate, so a month is planned as a set rather than
-accumulated day by day. And every post must stand on its own a year later, which is why the
-substance is the framework, the measurement and the limit, never the excitement.
+**1.3 Standing of the archive.** Rules bind new writing. They are not instructions to rewrite published posts, except where a clause says so explicitly. A slug already in circulation is fixed for the life of the URL, and no rule about spelling, capitals or titles reaches back through it.
 
-### Originality against press coverage
+## 2. Selection
 
-A story that newspapers, wire services, broadcasters, magazines or trade outlets have already run
-is not disqualified, but it is not free either. It has to be told from a different angle or at a
-different depth, and the difference has to be visible within the first two paragraphs.
+**2.1 The primary record.** Substance comes from the paper, the filing, the statute, the dataset, the transcript, or the institution's own statement. Journalism is a lead to that record and never the record itself, so a figure that appears only in a report is either traced to its origin or left out of the sentence.
 
-* The substance comes from the primary record: the paper, the filing, the regulation, the dataset,
-  the transcript. A report about that record is a lead, never the source of the numbers.
-* Where coverage is dense and the post would only restate it, skip the story. A slot spent
-  repackaging a story that ran everywhere is a slot taken from something unreported.
-* Where the subject has to run, the opening says what the post adds: the measurement and its
-  interval, the design, the cost, the confounder, or the mechanism the coverage skipped.
-* Facts borrowed from a report are attributed in the sentence to the outlet that published them.
-  A news outlet never stands in as the citation for a scientific result, which keeps the
-  journal-date form of §11.
-* Borrowed wording stays short and sits in single quotes, no longer than a sentence. No table,
-  figure, chart or screenshot is reproduced from a report or from a paper; a figure that is
-  needed is redrawn from the primary data or left out.
-* Language and country do not matter. A Chinese, Japanese, German, French or Spanish report
-  saturates a topic in the same way an English one does, and a result counts as saturated once
-  several outlets have run it.
-* The test is whether a reader who has already seen the coverage learns something new. If not,
-  the post does not exist.
+**2.2 Saturation and angle.** A subject already carried by wires, papers, broadcasters and trade outlets is not disqualified, but it must be told at a depth or from an angle the coverage did not take, and the first two paragraphs must show that difference: the interval, the design, the cost, the mechanism, the confounder. Where a post would only restate what has been read everywhere, the slot is spent elsewhere. Coverage in any language saturates a subject equally; a result is saturated once several outlets have run it.
 
-## 2. Monthly volume
+**2.3 Attribution and quotation.** A fact taken from a report is attributed in the sentence to the outlet that published it. Borrowed wording is kept under a sentence in length and set in single quotes. A news outlet never serves as the citation for a scientific result; §11 governs that form.
 
-Each month of 2026 carries **63 to 69 posts**, and the total is naturally uneven across months:
-a run of identical numbers reads like a quota rather than a year. Randomly select a number between 63 to 69 and keep it as the number of posts of one single, certain month.
+**2.4 Prohibitions.** A post does not reproduce a table, figure or screenshot from a report or a paper; where an image carries the argument it is redrawn from the primary data or omitted. It does not present an inference as a finding, and it does not forecast.
 
-Work through a month in batches and keep the daily rhythm roughly even: a month should not open
-with nine posts and close with two. When a batch is added to an already populated month, spread the
-new dates across the month instead of stacking them on the last three days.
+## 3. A month as a set
 
-## 3. The mix
+Each month is planned as a set. Day-by-day accumulation produces a pile with no shape, and the shape is what makes an archive readable later.
 
-A month leans away from political news and towards science, technology, sport and paper digests.
+**3.1 Volume.** A month carries between **63 and 69** posts. The figure is chosen once for that month and then held; adjacent months take different figures, because a run of identical totals reads as a quota. Batches are dated across the month, so that no month opens with a crowd and closes with a pair, and new material never stacks on the last three days.
 
-| Kind | Rough share per month |
+**3.2 Kinds.** A month leans away from political news and towards science, technology and the paper digest.
+
+| Kind | Posts per month |
 | --- | --- |
-| Science and paper digests | 12 to 15 |
+| Paper digests | 12 to 15 |
 | Technology | 8 to 10 |
 | Sport | 3 to 4 |
 | Business and economy | 4 to 6 |
 | Culture and society | 2 to 3 |
-| Essays | 1 to 3, never the bulk of a batch |
-| News, politics included | 3 to 4, written as case notes |
+| Essays | 1 to 3 |
+| News, politics included, written as case notes | 3 to 4 |
 
-A digest is a reading note on a paper or a result: what was done, how it was measured, what the
-authors claim and what they do not. It is the highest-value kind of post here and should carry the
-largest single share. Where a month needs volume, digests are the instrument: they can be sourced
-in bulk, they date naturally and they age well.
+A digest states what was done, how it was measured, what the authors claim and what they leave open. It is the highest-value form here, it ages better than news, it can be sourced in bulk and dated honestly, and it therefore carries the largest share; a month that needs volume is met with digests rather than with commentary.
 
-Essays stay scarce. A batch of twenty digests should carry at most one or two reflective pieces,
-and a piece that is neither report nor digest should be able to say what it adds.
+Essays stay scarce: at most one or two in a batch of twenty, and never the bulk of one. A piece that is neither report nor digest must be able to say what it adds.
 
-### Current affairs as case notes
+**3.3 Politics as a case note.** A political post is written for political science or area studies. The event is the occasion; the substance is the institution, the incentive, the rule, or the bureaucracy that produced the outcome. It offers no editorial judgement and takes no side, including by implication; it aims neither praise nor blame at named figures and parties; it does not extend into adjacent disputes; it keeps to factual synthesis and institutional analysis, states the limits of what is known, and labels an inference as an inference.
 
-When a post touches politics, it is a case note for political science or area studies: the event is
-the pretext and the substance is the institution, the mechanism, the incentive structure, the way a
-rule or a bureaucracy or an electoral system produces an outcome. Constraints:
+## 4. Architecture of a post
 
-* no editorializing and no side-taking, including by implication;
-* no lavish praise or blame aimed at named politicians or parties;
-* no extension into adjacent sensitive geopolitical disputes;
-* claims stay as factual synthesis plus institutional analysis, with the limits of what is known
-  stated plainly;
-* a post is not a forecast, and an inference is labelled as one.
+**4.1 Length and paragraphs.** Five to seven paragraphs, six by default; **480 to 625 words** in the body. Five suits a compact result with few caveats; seven where the method or the background needs a movement of its own. Four or fewer is thin, eight or more is swollen, and a post that appears to need either is reorganised rather than stretched. A paragraph of 75 to 100 words is the working unit, and six of them land near the floor. Padding is never the remedy for a short draft: a body under 480 words is unfinished, not terse. The upper bound is soft, since a dense result occasionally earns the room.
 
-## 4. The shape of a post
+**4.2 Movements.** Six, in their usual order: the situation before the result and why it was unresolved; what was done, with the journal and the date; the central number with its interval or its comparison; the mechanism or the design that makes the finding credible; what the result does not show; and what would settle the question next or alter practice. The order may flex; the omissions may not. A digest without a limitations movement reads as publicity, and a digest without numbers reads as an abstract rewritten.
 
-Six paragraphs is the default, not a rule. Between **five and seven** is allowed when the material
-asks for it: five when the result is compact and the caveats are few, seven when the methods or the
-background need a movement of their own. Four or fewer is thin and eight or more is bloat; a post
-that seems to need either should be reorganised rather than stretched. Between **480 and 625 words**
-in the body, with 480 as a floor and not a number to clear by three words: a paragraph of 75 to 100
-words is the working unit, and five to seven of them land near 500. The upper bound is soft, since a
-dense result occasionally needs the room, but padding is never the fix for a short post, and a post
-under 480 words is unfinished rather than terse.
+**4.3 The body.** No markdown headings, no bold, no bullet lists standing in for prose, no images unless the post is about the image. Links are sparing and always to the primary source.
 
-The movements, in their usual order:
+## 5. Sentences and paragraphs
 
-1. the situation before the result, and why it was unresolved;
-2. what was done, with the paper, the journal and the date;
-3. the central number or finding, with its interval or its comparison;
-4. the mechanism that makes the finding credible, or the design that makes it interpretable;
-5. what the result does not show: the confounder, the cost, the missing follow-up;
-6. what would settle it next, or how it changes practice.
+**5.1 The definite article.** No more than **two paragraphs in six** open on `The`, and a month is not allowed to lean on it either. Where a paragraph would naturally begin with a definite subject, front the predicate, the result or the circumstance instead: `Supply is the difficult half`; `Worth naming are the limits`; `Where the mission shows its character is the engineering`. Numbered scaffolding is a list in disguise: either number the items openly or drop the frame.
 
-The order can flex; the omissions cannot. A digest with no limitations paragraph reads as
-publicity, and a digest with no numbers reads as an abstract rewritten.
+**5.2 Variety of openers.** Paragraph openings should differ in shape within a post. A fronted adverbial or prepositional phrase, a subordinate clause, a participle, an appositive, a comparative and, once or twice, a short declarative that acts as a beat: these are the available shapes, and a post that uses three of them is doing well. Two openers of one shape is the fault: two time phrases, two `Because` clauses, two clefts, two participle openings. An opener lengthened by a clause that carries no information is worse than the plain sentence it displaced. This clause governs new writing; it is not a warrant for rewriting the archive.
 
-Body rules: no `<h2>` and no other markdown headings inside the body, no bold for emphasis, no
-bullet lists standing in for prose, no images unless the post is about the image. Links are sparing
-and always to the primary source.
+**5.3 Habits on ration.** `rather than` appears about once in a post; it is a serviceable phrase that becomes a tic when every contrast reaches for it. `not ... but ...` is used only where the contrast is the point. Consecutive paragraphs do not open on the same grammatical subject, and a batch does not share a single sentence rhythm from first post to last.
 
-## 5. Front matter
+**5.4 Rewriting.** A revised sentence is read against the one it replaces: the clause carrying the number, the caveat or the attribution must survive the revision. Bulk edits are verified by comparing word counts per changed line before anything is pushed.
 
-The key order is fixed, and the file name is `<YYYY-MM-DD>-<slug>.md`:
+## 6. Voice
+
+**6.1 Register.** Formal, declarative, unexcited. The model is a departmental seminar note rather than a newsletter: statements are complete, verbs are active where the actor is known, and the tense is the present or the simple past unless the sequence requires otherwise. The first person appears where a judgement is genuinely the author's, and then once.
+
+**6.2 Marks of machine prose.** A short list covers most of what damages a page. The triad that exists for rhythm rather than for content; the negated frame that announces what a story is not before saying what it is; the rhetorical question answered in the following clause; the closing sentence that restates the post; the verb that inflates a plain one (`delve`, `leverage`, `underscore`, `showcase`); the metaphor imported from another domain; the empty intensifier (`crucial`, `pivotal`, `significant`) standing where a number belongs. One instance in a paragraph is a lapse; three in a post is a failed draft.
+
+**6.3 Honesty about certainty.** Hedging is reserved for what is genuinely unsettled: the interval, the unreplicated result, the estimate built on an assumption. Confidence tracks evidence, so a claim measured once is written as measured once, and a claim repeated by everyone is still written with its source.
+
+## 7. Front matter and filenames
+
+The filename is `<YYYY-MM-DD>-<slug>.md` and the key order is fixed:
 
 ```
 ---
@@ -124,304 +82,68 @@ description: "One plain sentence, no TeX, readable without the body."
 ---
 ```
 
-* `slug`: lowercase ASCII, hyphen separated, no dates, and **immutable once published**: changing
-  it breaks the URL. Titles may change; slugs may not. A slug is an identifier rather than prose, so
-  a post that went out before a spelling rule keeps the spelling it was published with; §12 governs
-  the text, the title and the description, never a URL already in circulation.
-* `title`: roman text, no markdown italics, no formula notation.
-* `date`: ISO 8601 with the `+08:00` offset, minute-level precision, varied within the day.
-* `categories`: exactly one, in square brackets like `[science]`, no inner quotes, drawn from the nine: `news`, `science`, `economy`,
-  `business`, `technology`, `essay`, `sport`, `culture`, `society`. No tags.
-* `description`: one sentence of plain prose, no backslash, no caret or underscore notation, no
-  abbreviated name that would need TeX. Write the chemistry or the complex out in words. YAML
-  double-quoted values cannot carry `\(`; a description that needs it is the wrong description.
+* `slug`: lower-case ASCII, hyphenated, no date, and immutable once published, since a change breaks the URL. A slug is an identifier, not prose, so it keeps whatever spelling it carried on release. Titles may be revised; slugs may not.
+* `title`: roman text, no markdown italic, no formula notation.
+* `date`: ISO 8601 with the `+08:00` offset, to the minute, varied across the working day.
+* `categories`: exactly one, unquoted inside square brackets, from the nine of `news`, `science`, `economy`, `business`, `technology`, `essay`, `sport`, `culture`, `society`. No tags.
+* `description`: one sentence of plain prose. No TeX, no backslash, no caret, no underscore notation, no abbreviated formula that a reader would have to decode. A description that needs notation is the wrong description; write the compound or the quantity in words.
 
-## 6. Titles
+## 8. Titles
 
-Limit the amount of titles beginning with `A`, `An` or `The`, but not strictly prohibited. Avoid the `A/The [noun] that [verb]` shape, which reads
-like a catalogue entry. Prefer a plain noun phrase, a verb phrase, or a clause that names the
-finding: `Bicarbonate does not save lives in acidotic shock`, `Warming turns wetlands from a sink
-into a source`.
+A title names the finding, the object or the turn, and it is read in a list of thirty others. Plain noun phrases, verb phrases and clauses do the work: `Bicarbonate does not save lives in acidotic shock`, `Warming turns wetlands from a sink into a source`. Titles opening on `A`, `An` or `The` are limited rather than banned, and the `A/The [noun] that [verb]` shape is avoided because it reads as a catalogue entry.
 
-Colons are allowed and welcome in moderation, because a colon title can carry both the object and
-the angle: `Optical links in orbit: why satellites stopped calling home`. The ceiling is **a fifth
-of a month's posts**, and it is a ceiling, not a target. Mechanical title patterns are a defect
-even when each individual title is acceptable.
+A colon is welcome where it carries both object and angle, `Optical links in orbit: why satellites stopped calling home`, and colon titles are capped at **a fifth of a month's posts**; the ceiling is a ceiling and not a target. Mechanical uniformity across a batch is a defect even where every individual title passes.
 
-## 7. Openings
+## 9. Italic and roman
 
-Two habits spoil a page of otherwise decent prose: every paragraph opening on `The`, and every
-paragraph built on the same scaffolding.
+**9.1 Journals.** The whole title is italic, including the definite article where the journal carries one in its official name: *The Lancet*, *The New England Journal of Medicine*, *The BMJ*, *The Astrophysical Journal*. The `The` stays capitalized and inside the italics even mid-sentence, because it belongs to the name; a capitalized `The` outside the italics is the mark of a broken tag, and italicizing the word obliges it to keep the capital. Journals without an article take none (*Nature*, *Science*, *Cell*, *PNAS*, *JAMA*), and no `The` is added that the masthead does not carry. Publishers, databases and preprint servers are not italicized as journals. Volume, issue, page and article numbers stay roman and outside the italics; article titles stay roman and, when quoted, sit in single quotes.
 
-Paragraph openings. Keep the count of paragraphs whose first word is `The` to **at most two of
-six** in a post, and never let it dominate a month. When a paragraph would naturally start with a
-definite subject, front the predicate, the result or the circumstance instead: `Supply is the
-difficult half`, `Worth naming are the limits`, `Where the mission shows its character is the
-engineering`, `Fourth comes the constraint that decides the outcome`. A run of `The first thing is
-... The second thing is ...` is a list pretending to be prose: number the items explicitly or drop
-the scaffolding.
+**9.2 Genes and proteins.** Gene symbols are italic roman capitals without spaces (*KRAS*, *TP53*, *FEM1B*, *CUL2*), and mouse-style mixed case keeps its case. A substitution following a symbol leaves the symbol italic and the substitution roman: *KRAS* G12C. Protein names, complexes and families are roman: CUL2^FEM1B, mitofusin 1, p53, the BEX proteins. A superscript on a protein goes through TeX (§10).
 
-Opening sentences. Diversify them rather than ban them: several paragraphs in a row that open on the
-same short subject-verb shape (`Output rose.` `Prices fell.` `Costs stayed flat.`) turn prose into a
-list, and that sameness is the defect, not the simple sentence itself. A short declarative opener is
-a useful beat after a paragraph of long ones and is welcome once or twice in a post. For the rest,
-shift the shape: front an adverbial or a prepositional phrase (`On the second night of the dome, the
-hospitals filled`; `For a foundry that is sold out, the risk is not demand`), lead with a
-subordinate clause (`When the committee met again, the forecast had changed`; `Where the measurement
-is silent, the argument moves to cost`), or open on a participle, an appositive or a comparative
-(`Seen from the floor, the queue looked orderly`; `Four titles in six years, and the comparison
-follows`). What to avoid is repetition and the padding that imitates complexity: no two openers of
-the same shape in one post (two fronted time phrases, two `Because` clauses, two cleft sentences, two
-participle openers), and an opener lengthened with a clause that carries no information is worse
-than the plain sentence it replaced. The guidance binds posts written from this revision onwards
-and is not a retrofitting instruction for the archive.
+**9.3 Organisms.** Latin binomials and trinomials are italic, genus capitalized and species lower case, abbreviated after first mention (*Escherichia coli*, then *E. coli*). Higher taxa, strains, serovars and author designations stay roman. Virus species follow the italics of the ICTV code; virus names in ordinary prose stay roman.
 
-Sentence habits. Keep `rather than` to about one occurrence per post; the phrase is fine once and
-becomes a tic when every contrast in a paragraph reach for it. Do not write `not ... but ...` as a reflex; the construction is allowed when the
-contrast is the point and should otherwise be cut. Do not open consecutive paragraphs with the same
-grammatical subject, and do not let a whole batch share one sentence rhythm.
+## 10. Notation
 
-Grammar. Any rewritten sentence has to be checked against the sentence it replaces: the clause that
-carried the number, the caveat or the attribution must survive the rewrite. Bulk edits are verified
-by comparing word counts per changed line before anything is pushed.
+Anything carrying a subscript, a superscript, scientific notation or an index is set in TeX rather than typed with underscores, carets or spelled-out powers. Plain numbers, percentages and units in running text take no TeX and should not be given it.
 
-## 8. Journal titles
+Within TeX, single Latin and Greek letters are italic variables and are written bare, never as `\mathrm{letter}`; names of functions, units, acronyms and proteins are upright, and a differential or a `pH` is upright. A subscript that is a letter is italic; a subscript that is a word or a numeral is upright.
 
-Italicize the whole title, including the definite article when the journal carries one in its
-official name: *The Lancet*, *The New England Journal of Medicine*, *The BMJ*, *The Astrophysical
-Journal*, *The Cryosphere*, *The Lancet Oncology*, *The Lancet Psychiatry*, *The Lancet Healthy
-Longevity*.
-
-The `The` of a journal name stays capitalized and inside the italics even mid-sentence, because it
-belongs to the name and not to the sentence. A capitalized `The` sitting outside the italics is the
-sign that the markup is wrong; italicizing the word also obliges it to keep the capital.
-
-Journals without an article take none: *Nature*, *Science*, *Cell*, *PNAS*, *JAMA*, *Physical
-Review Letters*, *Nature Medicine*, *Nature Biotechnology*, *Med*. Do not add a `The` the masthead
-does not carry, and do not italicize a publisher, a database or a preprint server as if it were a
-journal.
-
-Volume, issue, page and article numbers stay roman and outside the italics; article titles stay
-roman and, when quoted, sit in single quotes. See §11 for what may appear in running text at all.
-
-## 9. Genes, proteins, organisms
-
-Gene symbols are italic, roman capitals, no spaces: *KRAS*, *TP53*, *BRCA1*, *FEM1B*, *CUL2*,
-*MFN1*, *OPA1*, *Serinc2* (mouse-style mixed case keeps its case). A mutation written after a gene
-symbol leaves the symbol italic and the substitution roman: *KRAS* G12C.
-
-Protein names are roman, including complexes and families: CUL2^FEM1B, mitofusin 1 and 2, OPA1
-protein, p53, the BEX proteins. Where a protein is written with a superscript, the superscript goes
-through TeX (§10) rather than a caret.
-
-Latin binomials and trinomials are italic, genus capitalized and species lower case, abbreviated
-after the first mention: *Escherichia coli*, then *E. coli*; *Homo sapiens*; *Homo longi*;
-*Pterocetus diamantinae*. Higher taxa, strain, serovar and author designations stay roman: *E. coli*
-K-12, Diptera, *Salmonella enterica* serovar Typhimurium. Virus species follow ICTV italics; virus
-names in ordinary prose stay roman.
-
-## 10. Notation and TeX
-
-Anything with a subscript, a superscript, scientific notation or a symbol carrying an index is set
-in TeX rather than typed with underscores, carets or spelled-out powers: \(\mathrm{PI}(3,4)P_2\),
-\(\mathrm{CUL2}^{\mathrm{FEM1B}}\), \(a_\mu = 116\,592\,070.5(14.8)\times10^{-11}\),
-\(1.16\times10^{-10}\). Single-letter variables and simple arithmetic take the same treatment when
-they carry an index or a symbol. Plain numbers, percentages and units in running text do not need
-TeX and should not get it.
-
-Inside TeX, ligatures follow the conventions of a journal. Single Latin and Greek letters are
-italic variables, so they are written bare: \(a\), \(x\), \(\mu\), \(\lambda\), never
-`\mathrm{a}`. Names of functions, units, acronyms, protein names and anything that is a word rather
-than a quantity are upright: \(\mathrm{PI}(3,4)P_2\), \(\mathrm{CUL2}^{\mathrm{FEM1B}}\),
-`\mathrm{d}` for a differential, `\mathrm{pH}`. Digits, operators, brackets and punctuation are
-upright by default and need no markup. Subscripts carry the same distinction: an index that is a
-letter is italic (\(a_n\)), a label that is a word or a numeral is upright
-(\(\mathrm{GB300}\), \(x_{\mathrm{max}}\)).
-
-The typography has to survive the CSS override that puts mathematics in the body face.
-`static/assets/css/math.css` maps every KaTeX glyph class onto Computer Modern Serif and then
-restores `font-style: italic` on `.mathnormal` and `.textit`, so a variable stays slanted while
-digits and `\mathrm` stays roman. A rule that flattened italic for the sake of a single font family
-would be a regression, and the check in §15 includes a formula page for that reason.
-
-The chain is already in place: passthrough for `\(` and `$$` in `hugo.toml`, `static/assets/css/
-math.css`, `static/assets/js/math.js`, and a font stack of Computer Modern Serif for body text and
-for mathematics, so rendered formulas match the prose. A post with formulas is not finished until
-the page has been opened and the `.katex` blocks counted.
+The typeface has to survive the CSS that puts mathematics into the body face: `static/assets/css/math.css` maps every KaTeX glyph class onto Computer Modern Serif and restores italics on `.mathnormal` and `.textit`, so a variable stays slanted while a digit or a `\mathrm` word stays roman. Body text and mathematics therefore share one family, and a rule that flattened either would be a regression. A post carrying formulas is not finished until the rendered page has been opened and the formula blocks counted.
 
 ## 11. Citations
 
-Papers are cited by **journal and date only**: *Nature*, 6 May 2026; *The Lancet*, 9 June 2026;
-*The New England Journal of Medicine*, 5 June 2026.
+Papers are cited by **journal and date only**: *Nature*, 6 May 2026; *The Lancet*, 9 June 2026. Running text carries no volume, issue, article number or page range, and no string of the form `Science 394, 6823` in any typography. Journal and date are enough for a reader to find the paper; the numbers only burden a sentence about the result. A DOI belongs in a link where one is given. Where a result is quoted from a preprint or a conference abstract, that is said plainly, since the journal-date form is not a licence to imply review that has not happened.
 
-No volume, issue, article number or page range in running text, and no strings of the form
-`Science 394, 6823`, with or without italics. The date and the journal are enough for a reader to
-find the paper; the numbers only add noise to a sentence about the result. A DOI belongs in a link
-when one is given, not in the sentence.
+## 12. Orthography
 
-Where a result is quoted from a preprint or a conference abstract, say so; the journal-date form is
-not a licence to imply peer review that has not happened.
+**12.1 Spelling families.** The `-ize` form is standard for the `-ise` family: organize, recognize, criticize, summarize, standardize, prioritize, utilize, characterize, normalize, specialize, authorize. The `-yse` form is standard for the `-yse` family: analyse, analysed, analysing, analyser, catalyse, paralysed, electrolyser, and never `-yze`. The `-ise` form survives inside proper names whose own English name uses it. Vocabulary is British throughout: `towards`, `per cent` in prose, `programme`, `licence` as a noun, `defence`, `metre`, `tonne`, `storey`.
 
-## 12. Spelling and punctuation
+**12.2 Quotation and dashes.** Quotation marks are straight in the source, because the display layer curls them; the source never carries a curly apostrophe or a curly quote. Outer quotes are single and inner quotes double. Body prose carries no em dash and no en dash; a comma, a colon or a new sentence does the work instead. Hyphens serve compounds, ranges and scores, and an en dash inside a proper name is written with a hyphen.
 
-* **`-ize`** is the standard for the `-ise` family: organize, recognize, criticize, summarize,
-  standardize, prioritize, utilize, minimize, characterize, randomize, normalize, specialize,
-  authorize.
-* **`-yse`** is the standard for the `-yse` family, British rather than Oxford: analyse, analysed,
-  analysing, analyser, catalyse, catalysed, paralysed, electrolyser. Never `-yze`.
-* **`-ise` is preserved inside proper names** whose official spelling uses it: *European Cancer
-  Organisation*, *Africa Centres for Disease Control and Prevention*, *Organisation for Economic
-  Co-operation and Development*. The test is the organization's own English name, not house style.
-* British vocabulary throughout: *towards* (never `toward`), *per cent* in prose, *programme*,
-  *licence* as a noun, *defence* as a common noun, *metre*, *tonne*, *storey*.
-* Straight quotes always. Never a curly apostrophe or a curly quotation mark; the display layer
-  curls them (`static/assets/js/smartquotes.js`), the source does not. Outer quotes are single, inner
-  quotes are double: 'He called it "the last mile".'
-* No em dash and no en dash in body prose; use a comma, a colon or a new sentence. Hyphens are fine
-  in compounds, ranges and scores (`8-0`), and an en dash may survive inside a proper name that
-  carries one, written with a hyphen in our text (*Snijders Blok-Campeau* syndrome).
-* Statistical significance is written with an italic capital: *P* value, *P*=0.03, never `p value` and never a roman P.
-  The sample size takes an italic lower-case letter: *n*=3, *n*=4, never a roman `n`, because both are algebraic
-  symbols and the numbers beside them stay roman.
-* Numerals: figures for measurements, percentages and years; words for one to nine in ordinary
-  prose. Units take a space and the correct case: 26.86 per cent, 2.9 GPa, 1,044 h, 5.3 million
-  years, 759.5 individuals per square kilometre.
-* **Thousands separators.** Numerals of four digits or more take a comma every three digits:
-  1,044 h, 12,500 tonnes, 3,000 nits, 2,900,000 visitors. Years are the exception and carry no
-  comma (1897, 2025), and neither do identifiers that are codes rather than quantities: DOIs,
-  ISO standard numbers, model numbers, section numbers, statute numbers, page ranges. `1044 h`
-  fails this rule, and `1,997` fails the year exception.
-* **Unit names.** Symbols take no plural: 2.9 GPa, 1,044 h, 30 kg. A unit written
-  as a word follows ordinary English: plural after a numeral in prose (1,000 nits, five metres,
-  three tonnes), singular where it modifies a noun or sits on a specification line (a 1,000-nit
-  panel, 1,000 nit on a datasheet row). This covers *tonne*, *metre*, *storey* and *nit* as well
-  as the SI vocabulary the house style already uses.
+**12.3 Numerals, symbols and units.** Four-digit numerals and above take a comma every three digits, with years and code-like identifiers excepted: `1,044 h`, `2.9 GPa`, `759.5 individuals per square kilometre`, `1897`, `2025`. One to nine are words in ordinary prose and figures in measurements. Statistics are written with an italic capital *P* (`P` value, *P*=0.03, never a roman P), and a sample size with an italic lower-case *n*. Units take a space and the correct case, and unit symbols take no plural; a unit written as a word pluralizes after a numeral and stays singular as a modifier (a 1,000-nit panel).
 
-## 13. Proper nouns and house names
+## 13. Names
 
-The spelling of a proper noun follows its owner, not this manual. Verify the official English form
-before publishing; where a body has an official English name, that name wins even when it breaks
-the house spelling rules.
+**13.1 The owner's spelling.** A proper noun is spelled as its owner spells it, checked against the owner's own English page before release. Where a body has an official English name, that name wins even where it breaks house rules. **NVIDIA** is all capitals. **bilibili** is the platform in lower case, **Bilibili Inc.** the listed company, and `Bilibili` alone is never used. **Nasdaq** is not `NASDAQ`. Institutions keep their own spelling, which is why Kennedy Space Center and European Centre for Disease Prevention and Control coexist in the same paragraph. A bulk spelling pass runs against a whitelist of proper nouns and its diff is read by hand, because a blanket substitution is how `Kennedy Space Centre` reaches the page.
 
-* **NVIDIA**, all capitals, never `Nvidia`.
-* **bilibili** for the platform, all lower case; **Bilibili Inc.** for the listed company; never
-  `Bilibili` alone.
-* **Nasdaq**, not `NASDAQ`; **China's**, with the apostrophe; **Huawei**, **Tencent**, **Alibaba
-  Group**, **TSMC**, **ASML**.
-* **LALIGA**, one word in capitals, for the Spanish league from its June 2023 rebrand onwards; the
-  competitions it runs take the same form (`LALIGA EA SPORTS`, `LALIGA HYPERMOTION`). The name was
-  styled **LaLiga** from 2015 to 2023 and `La Liga` before that, so a post dated in an earlier era
-  uses the form that era's own materials used and does not retro-fit the capitals.
-* Institutions keep their own spelling: Kennedy Space Center, Carter Center, Lincoln Center, World
-  Trade Center, Defense Production Act, Japan Self-Defense Forces, Centers for Disease Control and
-  Prevention; against European Centre for Disease Prevention and Control, Satish Dhawan Space
-  Centre, Centre Court, Africa Centres for Disease Control and Prevention. A bulk spelling swap
-  must run against a proper-noun whitelist and the diff be read by hand afterwards; a blanket
-  replacement is how `Kennedy Space Centre` gets published.
+**13.2 Naming bodies.** Where a discipline's own body has settled an English form, that form overrides British and American habit alike, and the outcome is not a drift towards American spelling since several bodies chose the British form. Chemistry follows IUPAC, which gives `sulfur`, `sulfate`, `aluminium` and `caesium`. Units follow the SI brochure, which gives `metre`, `litre` and `tonne`; a bare `ton` names two different non-metric units and therefore never carries a figure. Enzymes follow IUBMB, gene and protein symbols follow HGNC or the relevant species database, viruses follow ICTV, astronomical designations follow the IAU, and organisms follow the nomenclature codes. Where no body has ruled, the question returns to §12 and British vocabulary decides.
 
-### Names fixed by an international body
+**13.3 Markets and eras.** Index names are proper nouns and take capitals on every word of the name: `Shanghai Composite`, `Shenzhen Component`, `ChiNext Index`, `CSI 300 Index`, `STAR 50`, `Nasdaq Composite`, `Hang Seng Index`, `Hang Seng TECH Index`. Where a piece turns on the index itself, the official long form is given at first mention and the trade short form afterwards; `Shenzhen Composite` names the all-share measure and never the component. `CSI300`, `Chinext` and `SHSE` are not written. Names that a brand has restyled keep the form of their own era: the Spanish league is `LALIGA` from its June 2023 rebrand, `LaLiga` from 2015 to 2023 and `La Liga` before that, and a post dated in an earlier era uses that era's form rather than retro-fitting today's capitals.
 
-Where a discipline's own naming body has settled an English form, that form overrides the British and
-the American habit alike. The rule is not a drift towards American spelling, because several of these
-bodies chose the British form.
+## 14. Production
 
-* Chemistry follows IUPAC: element 16 is `sulfur`, and with it `sulfate`, `sulfide` and `sulfuric
-  acid`; the same table also gives `aluminium` and `caesium`. ISO drafting rules follow IUPAC here,
-  and the Royal Society of Chemistry switched in 1992, so `sulphur` survives only in general prose.
-* Units follow the BIPM's SI brochure: `metre`, `litre`, `tonne`, and a symbol never takes a plural.
-  A bare `ton` names the 2,000-pound unit in the United States and the 2,240-pound unit in Britain,
-  so it never carries a figure: 1,000 kg is `tonne`, and `metric ton` appears only inside a
-  quotation from an American official text. Poetry and verse rhythm take `metre`, because that sense
-  descends from Latin `metrum`; only a measuring instrument is `meter` in British usage.
-* Enzymes follow IUBMB, gene and protein symbols follow HGNC or the species database for an organism,
-  viruses follow ICTV, and astronomical designations follow the IAU.
-* Organisms follow the nomenclature codes, so binomials stay Latin and italic.
-* Where no body has ruled, the question returns to §12: `orthopaedic` stays, because no authority has
-  fixed `orthopedic` and British vocabulary governs the site.
+**14.1 Method.** For each batch: collect sources and hold a candidate list with journal, date and the figure the post will turn on, dropping a candidate whose figure cannot be verified; draft into `content/posts/<date>-<slug>.md` with the front matter order of §7; apply the checklist of 14.2 and repair the file rather than the checklist; build with the local Hugo binary and run `scripts/gen-json.py`, confirming that the search, featured and index counts move by exactly the number of posts added and that categories still report nine; open one or two rendered pages where a post carries formulas or unusual markup; commit content and, where the change is technical, this manual and the static or layout assets, never the build output; push, wait for both workflows, then fetch each new URL once. A first failure followed by a success on the second attempt is a timeout; a persistent failure is a build fault to be fixed rather than retried.
 
-### Market indexes
+Where a push is rejected, the branch is fetched and rebased before pushing again. Where a workflow fails, the content is corrected and a new commit is pushed; failed jobs are not re-run on the old tree. History is not rewritten by amendment or force.
 
-Index names are proper nouns and take capitals on every word that belongs to the name: `Shanghai
-Composite`, `Shenzhen Component`, `ChiNext Index`, `CSI 300 Index`, `STAR 50`, `Nasdaq Composite`,
-`Hang Seng Index`, and `Hang Seng TECH Index`, where the compiler writes `TECH` in capitals.
+**14.2 Checklist.** Form, per file: five to seven paragraphs and 480 to 625 words; at most two paragraphs opening on `The`; openers varied in shape, with no two of one shape and none padded; titles opening on a bare article kept within the limit, and colon titles within a fifth of the batch; one unquoted category from the nine, with the front matter keys in order and the description free of notation.
 
-When a piece turns on the index itself, give the official long form at first mention (`SSE
-Composite Index`, `SZSE Component Index`, `ChiNext Index`, `CSI 300 Index`, `SSE Science and
-Technology Innovation Board 50 Index`), and the trade short form afterwards. The Shenzhen
-composite and the Shenzhen component are two different measures, so `Shenzhen Composite` is only
-correct for the all-share index and never for the 500-stock component.
+Typography, per file: journal titles italic with their article inside the italics; gene symbols italic, proteins roman, binomials italic, higher taxa roman; symbols and indexed quantities in TeX with plain numbers left alone; four-digit numerals separated by commas, years and codes excepted; statistical symbols (`P` and `n`) italic; `-ize` and `-yse` as in §12, with proper names keeping official spelling; straight quotes, singles outside and doubles inside, and no em or en dash in prose; `towards`, `per cent` and British vocabulary; house names as in §13.
 
-Write no `CSI300`, no `Chinext`, and no `SHSE`; keep `index` lower case only when it is the common
-noun rather than part of the name. The same discipline applies to other exchanges' benchmarks: the
-owner's capitalization, checked against the exchange's own English page.
+Substance, per file: every figure traced to the primary record; borrowed facts attributed and borrowed wording short; the subject either unreported or told from an angle the coverage did not take, with the opening saying what the post adds; a limitations movement present; no reproduced figure or screenshot.
 
-## 14. Working method
+Per batch: the month's total within 63 and 69 and different from its neighbours; dates spread; the mix of §3 holding with digests carrying the largest share; index counts moving by exactly the number added; every new URL answering 200 on the live site.
 
-For each batch:
+**14.3 The backlog.** The older archive carries standing defects: posts of four or fewer or eight or more paragraphs, posts below 480 words, titles opening on `A`, `An` or `The`, and paragraphs opening on `The` more than twice. They are a separate project, cleared in batches with titles rewritten and slugs untouched so that links survive. New work must not add to the count, and no clause in this manual is read as an instruction to repair the archive wholesale.
 
-1. gather sources first, and keep a list of candidate papers with journal, date and the number the
-   post will turn on; drop a candidate whose number cannot be verified rather than writing around
-   it;
-2. read the skill in `https://github.com/blader/humanizer/blob/main/SKILL.md` and remember it; 
-3. draft into `content/posts/<date>-<slug>.md` with the front matter order of §5;
-3. run the checklist in §15 and fix the file, not the checklist;
-4. build with `../toolchain/hugo --buildFuture --gc -d public` and run `python3 scripts/gen-json.py`,
-   confirming that `search`, `featured` and `index` moved by exactly the number of posts added and
-   that `categories` still reports nine;
-5. open one or two rendered pages locally when a post carries formulas or unusual markup;
-6. commit only `content/posts` (plus `EDITORIAL.md`, `static/`, `layouts/`, `assets/`, `hugo.toml`
-   when the change is technical); `public/`, `_site/` and `vendor/` are build output and never
-   committed;
-7. push, wait for both workflows, then fetch each new URL once. A first `000` is usually a timeout
-   and a retry returns `200`; a persistent `000` is a build or routing fault to be fixed.
-
-When a push is rejected, `git fetch origin main` and rebase before pushing again. When a workflow
-fails, fix the content and push a new commit; do not re-run failed jobs on the old tree.
-
-## 15. Pre-publication checklist
-
-Per file:
-
-* five to seven paragraphs, six by default, 480 to 625 words;
-* at most two paragraphs opening on `The`;
-* paragraph openers vary in shape: a plain short statement is allowed as a beat, but no two openers
-  share the same shape and no opener is lengthened with a clause that adds nothing;
-* no title beginning with `A`, `An` or `The`; colon titles within a fifth of the batch;
-* one unquoted category from the nine; no tags; `slug`, `title`, `date`, `categories`,
-  `description` in that order;
-* `description` free of TeX, backslashes and formula notation;
-* journal titles italic with their `The` inside the italics and capitalized; article titles roman;
-* gene symbols italic, proteins roman, Latin binomials italic, higher taxa roman;
-* symbols and index-bearing quantities in TeX; plain numbers left alone;
-* four-digit numerals carry a comma separator, with years and code-like identifiers excepted;
-* unit words pluralize after a numeral and stay singular as modifiers; symbols never take a plural;
-* citations as journal plus date only, with no volume, issue, page or article number;
-* `-ize` for the `-ise` family, `-yse` for analyse and its relatives, official spelling inside
-  proper names;
-* straight quotes only, singles outside and doubles inside; no em or en dash in prose;
-* `towards`, `per cent`, British vocabulary, and the house forms of §13, with internationally fixed
-  chemical, unit, gene and taxonomic names taken from the naming body rather than the dictionary;
-* substance traced to the primary record, with borrowed facts attributed to the outlet that ran
-  them and borrowed wording short and single-quoted;
-* the subject is either unreported or told from an angle the coverage did not take, and the
-  opening states what the post adds; no table, figure or screenshot reproduced from a report.
-
-Per batch:
-
-* the month's total lands in 63 to 69 and differs from its neighbours;
-* dates are spread across the month, not stacked at its end;
-* the mix of §3 holds, with digests carrying the largest share and essays kept few;
-* index counts move by the number of posts added, and `categories` reports nine;
-* every new URL answers `200` on the live site.
-
-## 16. Known backlog
-
-These are standing defects in the older archive, not permissions for new work: posts with four or
-fewer, or eight or more paragraphs, posts below 480 words, titles beginning with `A/An/The`, and paragraphs opening on
-`The` more than twice. New posts must not add to any of them. Clearing the archive is a separate
-project, done in batches with titles rewritten but slugs left untouched so that links survive.
-
-Two slugs went out before §12 settled on `-ize` and therefore still show `authorises` and `recognise`
-(`meta-pays-its-first-dividend-and-authorises-fifty-billion-dollars-of-buybacks`,
-`ireland-norway-and-spain-recognise-a-palestinian-state`). They stay as published under §5; only
-their titles, descriptions and bodies carry the house spelling.
+Two slugs were published before §12 settled on `-ize` and therefore still carry `authorises` and `recognise`. They stay as published under §7; only their titles, descriptions and bodies carry the house spelling.
