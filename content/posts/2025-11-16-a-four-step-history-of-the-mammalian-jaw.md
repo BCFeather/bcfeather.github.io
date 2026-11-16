@@ -1,12 +1,12 @@
 ---
 slug: "a-four-step-history-of-the-mammalian-jaw"
 title: "Mammalian jaw history in four fossil steps"
-date: "2025-09-25T09:40:00+08:00"
+date: "2025-11-16T09:40:00+08:00"
 categories: [science]
-description: "In *Nature*, 24 September 2025, researchers use fossils from Sichuan and Yunnan to reconstruct the evolution of the mammalian jaw in four stages, showing that the transformation of jaw bones into ear bones happened along multiple independent routes. The study turns a textbook story into a branching history."
+description: "In the 13 November issue of *Nature*, researchers use fossils from Sichuan and Yunnan to reconstruct the evolution of the mammalian jaw in four stages, showing that the transformation of jaw bones into ear bones happened along multiple independent routes. The study turns a textbook story into a branching history."
 ---
 
-Every biology textbook tells the mammalian jaw's story: the bones that chew in mammals are descended from the bones that bit in their reptile-like ancestors, and the middle ear bones of mammals, the hammer and anvil, are jaw bones that changed jobs. It is one of the most famous transformations in vertebrate evolution, a neat example of how evolution repurposes what it already has. A paper in *Nature*, 24 September 2025 argues that the story, as usually told, is too neat. Using fossils from Sichuan and Yunnan, the authors reconstruct the evolution of the jaw in a four-stage sequence, and show that the transformation was not a single straight line but a set of repeated, parallel solutions.
+Every biology textbook tells the mammalian jaw's story: the bones that chew in mammals are descended from the bones that bit in their reptile-like ancestors, and the middle ear bones of mammals, the hammer and anvil, are jaw bones that changed jobs. It is one of the most famous transformations in vertebrate evolution, a neat example of how evolution repurposes what it already has. A paper in the 13 November issue of *Nature* argues that the story, as usually told, is too neat. Using fossils from Sichuan and Yunnan, the authors reconstruct the evolution of the jaw in a four-stage sequence, and show that the transformation was not a single straight line but a set of repeated, parallel solutions.
 
 New fossils anchor the sequence. The study draws on specimens from two famous localities: a multituberculate-like fossil from Zigong in Sichuan and a morganucodontan from Lufeng in Yunnan, both of which preserve the jaw joint region in unusual detail. From these and related material, the team proposes four stages in the evolution of the jaw joint, tracking how the bones of the jaw progressively reorganized, with the quadrate and articular bones moving towards the roles they would eventually play in the ear. The sequence is not merely chronological; it is anatomical, a step-by-step account of how chewing apparatuses changed shape and function.
 
