@@ -8,7 +8,7 @@ description: "Efanesoctocog alfa given once weekly keeps factor VIII activity hi
 
 Haemophilia A is managed by replacing the missing clotting factor, and the schedule has been the compromise. A standard factor VIII product has a half-life of about twelve hours, so prophylaxis means infusions two or three times a week, and adherence among teenagers is poor for reasons that are easy to understand.
 
-The product tested in the *New England Journal of Medicine*, 26 January 2023 is engineered to last longer. Efanesoctocog alfa is a fusion that binds factor VIII to von Willebrand factor and to a fragment that extends its circulation, and the result is a half-life measured in days rather than hours.
+The product tested in *The New England Journal of Medicine*, 26 January 2023 is engineered to last longer. Efanesoctocog alfa is a fusion that binds factor VIII to von Willebrand factor and to a fragment that extends its circulation, and the result is a half-life measured in days rather than hours.
 
 The trial gave the product once weekly to patients with severe haemophilia A, some of whom had been on prophylaxis and some of whom had been treated on demand. The primary measure was the annualized bleeding rate, and the reported rates were low, in the range that prophylaxis aims for.
 

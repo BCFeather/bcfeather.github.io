@@ -8,7 +8,7 @@ description: "A multicentre pragmatic trial finds extracorporeal CPR and convent
 
 Extracorporeal membrane oxygenation can restore circulation when compressions cannot, and single-centre series have reported survival rates that seemed to justify building programmes around it. The question a health system has to answer is whether those rates survive the move from a specialised unit to a set of ordinary hospitals.
 
-The trial in the *New England Journal of Medicine*, 26 January 2023 randomized patients with refractory out-of-hospital cardiac arrest caused by an initial ventricular arrhythmia to extracorporeal CPR or to conventional advanced life support. It was pragmatic, run across centres and with the logistics each centre could actually provide.
+The trial in *The New England Journal of Medicine*, 26 January 2023 randomized patients with refractory out-of-hospital cardiac arrest caused by an initial ventricular arrhythmia to extracorporeal CPR or to conventional advanced life support. It was pragmatic, run across centres and with the logistics each centre could actually provide.
 
 The outcome was survival with a favourable neurologic result at 30 days, and the two arms were similar. The paper's own reading is that reproduction of the earlier single-centre results is not self-evident when the intervention is implemented in practice.
 

@@ -8,7 +8,7 @@ description: "The PREVENT CLOT trial finds aspirin noninferior to low-molecular-
 
 Orthopaedic trauma produces a patient who cannot walk, has a broken bone with torn tissue around it, and carries the risk of a clot that travels to the lung. Prophylaxis is standard, and the standard has been low-molecular-weight heparin, an injectable drug that costs more and is harder to give at home than a tablet.
 
-The trial reported in the *New England Journal of Medicine*, 19 January 2023 asks whether aspirin is good enough. Patients with a fracture of an extremity were randomized to aspirin or to low-molecular-weight heparin, and the primary outcome was death from any cause within 90 days, a composite that captures the events prophylaxis is meant to prevent.
+The trial reported in *The New England Journal of Medicine*, 19 January 2023 asks whether aspirin is good enough. Patients with a fracture of an extremity were randomized to aspirin or to low-molecular-weight heparin, and the primary outcome was death from any cause within 90 days, a composite that captures the events prophylaxis is meant to prevent.
 
 The numbers are close. Death occurred in 47 of 6,101 patients assigned aspirin, a 90-day probability of 0.78 per cent, and in 45 of 6,110 assigned heparin, 0.73 per cent. The difference of 0.05 percentage points fell inside the prespecified margin for noninferiority, and the trial reported low rates of deep-vein thrombosis, pulmonary embolism and death in both groups.
 

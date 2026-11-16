@@ -3,12 +3,12 @@ slug: "restrictive-fluids-in-sepsis-do-not-raise-or-lower-mortality"
 title: "Restrictive fluids in sepsis do not raise or lower mortality"
 date: "2023-01-19T09:30:00+08:00"
 categories: [science]
-description: "In the *New England Journal of Medicine*, published online 21 January 2023, the CLOVERS trial finds that a restrictive fluid strategy with earlier vasopressors gives the same 90-day mortality as a liberal strategy in sepsis-induced hypotension."
+description: "In *The New England Journal of Medicine*, published online 21 January 2023, the CLOVERS trial finds that a restrictive fluid strategy with earlier vasopressors gives the same 90-day mortality as a liberal strategy in sepsis-induced hypotension."
 ---
 
 Sepsis lowers blood pressure by dilating vessels and leaking fluid into tissue, and the first response is fluid. How much fluid, and when to stop giving it and start a vasopressor instead, has been argued for two decades without a definitive trial.
 
-The trial reported in the *New England Journal of Medicine* on 21 January 2023 enrolled patients with sepsis-induced hypotension that persisted after one to three litres of fluid. They were randomized to a restrictive strategy, with limited fluid and earlier vasopressors, or to a liberal strategy with more fluid and vasopressors only when needed.
+The trial reported in *The New England Journal of Medicine* on 21 January 2023 enrolled patients with sepsis-induced hypotension that persisted after one to three litres of fluid. They were randomized to a restrictive strategy, with limited fluid and earlier vasopressors, or to a liberal strategy with more fluid and vasopressors only when needed.
 
 The result is a null. Mortality before discharge home by day 90 did not differ significantly between the groups, in either direction. The trial was designed to detect a difference, and the absence of one is reported with a confidence interval that excludes large effects.
 

@@ -6,7 +6,7 @@ categories: [science]
 description: "A Phase 2 trial reported on 6 May corrected the defect behind a severe combined immunodeficiency in 14 of 15 infants, using a lentiviral vector and a low-dose conditioning regimen. Follow-up is three years, and the durability question is still open."
 ---
 
-Rare immune disorders caused by a single gene have been the most tractable target for gene therapy since the 1990s, and the field's history is a sequence of successes followed by insertional complications. A Phase 2 trial reported in the *New England Journal of Medicine* on 6 May adds a careful entry to the success column: 14 of 15 infants with a defect in a cytokine receptor gene achieved functional immune reconstitution.
+Rare immune disorders caused by a single gene have been the most tractable target for gene therapy since the 1990s, and the field's history is a sequence of successes followed by insertional complications. A Phase 2 trial reported in *The New England Journal of Medicine* on 6 May adds a careful entry to the success column: 14 of 15 infants with a defect in a cytokine receptor gene achieved functional immune reconstitution.
 
 The disease is severe combined immunodeficiency caused by mutations in the interleukin-7 receptor alpha chain, a condition in which T cells fail to develop. Untreated, infants die of infections within the first two years. Haematopoietic stem cell transplant from a matched donor cures most, but a matched donor is available for well under half.
 
