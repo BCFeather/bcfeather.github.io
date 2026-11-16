@@ -6,7 +6,7 @@
 
 **1.2 How the manual binds.** The manual governs form; the primary record governs fact. Where a clause here conflicts with the official usage of a body named in §13, that body's usage prevails for the name it owns, and this manual prevails everywhere else. Clauses carrying a numeral are checked mechanically before release; the remainder are editorial judgement and are checked by reading. A batch is not released until both kinds have been applied.
 
-**1.3 Standing of the archive.** Rules bind new writing, and they bind every batch dated from 2022 onwards. They are not instructions to rewrite published posts, except where a clause says so explicitly. A slug already in circulation is fixed for the life of the URL, and no rule about spelling, capitals or titles reaches back through it.
+**1.3 Standing of the archive.** Rules bind new writing, and they bind every batch dated from 2022 onwards. A slug already in circulation is fixed for the life of the URL.
 
 **1.4 How examples are set.** Every example in this manual takes one of two forms, and a clause is never illustrated by paraphrase. A form the site uses is given alone, in monospace. A pair gives the rejected form first, then an arrow, then the accepted form, as `analyze → analyse`. Where a clause calls for more than one example, they are set as a list of at most five entries, one per line, each opened by a short italic label naming what it demonstrates; the label and the example are separated by a colon.
 
@@ -64,7 +64,7 @@ Essays stay scarce: at most one or two in a batch of twenty, and never the bulk 
 
 Numbered scaffolding is a list in disguise: either number the items openly or drop the frame.
 
-**5.2 Variety of openers.** Paragraph openings should differ in shape within a post. A fronted adverbial or prepositional phrase, a subordinate clause, a participle, an appositive, a comparative and, once or twice, a short declarative that acts as a beat: these are the available shapes, and a post that uses three of them is doing well. Two openers of one shape is the fault: two time phrases, two `Because` clauses, two clefts, two participle openings. An opener lengthened by a clause that carries no information is worse than the plain sentence it displaced. This clause governs new writing; it is not a warrant for rewriting the archive.
+**5.2 Variety of openers.** Paragraph openings should differ in shape within a post. A fronted adverbial or prepositional phrase, a subordinate clause, a participle, an appositive, a comparative and, once or twice, a short declarative that acts as a beat: these are the available shapes, and a post that uses three of them is doing well. Two openers of one shape is the fault: two time phrases, two `Because` clauses, two clefts, two participle openings. An opener lengthened by a clause that carries no information is worse than the plain sentence it displaced. This clause governs new writing, and it carries the same weight in a revision of an older post.
 
 * *Fronted time phrase*: `On the second night of the dome, the hospitals filled`
 * *Fronted prepositional phrase*: `For a foundry that is sold out, the risk is demand`
@@ -196,7 +196,7 @@ Papers are cited by **journal and date only**. Running text carries no volume, i
 * *Energy*: `kW h`, `MW h`, `GW h`, `TW h`, never `kWh` or `MWh`
 * *Power taken over the same hour*: `W h`, and `mW h` for the small draws
 
-A unit as a modifier stays singular, which is why a panel is described as `a 1,000-nit panel` while the same figure stands alone as `1,000 nits`. Posts dating from before this clause carry the word forms `milliamp hours` and `kilowatt hours`; they are correct English, they are not symbols, and §1.3 leaves them as published.
+A unit as a modifier stays singular, which is why a panel is described as `a 1,000-nit panel` while the same figure stands alone as `1,000 nits`. Posts dating from before this clause carry the word forms `milliamp hours` and `kilowatt hours`; they are correct English and they are not symbols.
 
 **12.4 Colons and semicolons, an advisory.** Both marks are punctuation of structure, and both are easy to overwork. A semicolon joining two clauses that would stand as sentences is usually a full stop the writer did not care to type, so one in a paragraph is worth a second look and two ask for a rewrite; a colon works best where it introduces a list, a definition or a consequence, and one per paragraph is enough, with the colon of a title counted separately under §8. The guidance is a preference rather than a gate: a post that reads well with a semicolon in each paragraph is published as it stands, and no batch is held back for punctuation of this kind.
 
@@ -238,6 +238,6 @@ Substance, per file: every figure traced to the primary record; borrowed facts a
 
 Colons and semicolons fall under §12.4, which is advice and never grounds for rejection. Per batch: the month's total within 63 and 69 and different from its neighbours; dates spread; the mix of §3 holding with digests carrying the largest share; index counts moving by exactly the number added; every new URL answering 200 on the live site.
 
-**14.3 The backlog.** The older archive carries standing defects: posts of four or fewer or eight or more paragraphs, posts below 480 words, titles opening on `A`, `An` or `The`, and paragraphs opening on `The` more than twice. They are a separate project, cleared in batches with titles rewritten and slugs untouched so that links survive. New work must not add to the count, and no clause in this manual is read as an instruction to repair the archive wholesale.
+**14.3 The backlog.** The older archive carries standing defects: posts of four or fewer or eight or more paragraphs, posts below 480 words, titles opening on `A`, `An` or `The`, and paragraphs opening on `The` more than twice. They are a separate project, cleared in batches with titles rewritten and slugs untouched so that links survive. New work must not add to the count.
 
 Two slugs were published before §12 settled on `-ize` and therefore still carry `authorises` and `recognise`. They stay as published under §7; only their titles, descriptions and bodies carry the house spelling.
