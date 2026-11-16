@@ -270,7 +270,8 @@ For each batch:
 1. gather sources first, and keep a list of candidate papers with journal, date and the number the
    post will turn on; drop a candidate whose number cannot be verified rather than writing around
    it;
-2. draft into `content/posts/<date>-<slug>.md` with the front matter order of §5;
+2. read the skill in `https://github.com/blader/humanizer/blob/main/SKILL.md` and remember it; 
+3. draft into `content/posts/<date>-<slug>.md` with the front matter order of §5;
 3. run the checklist in §15 and fix the file, not the checklist;
 4. build with `../toolchain/hugo --buildFuture --gc -d public` and run `python3 scripts/gen-json.py`,
    confirming that `search`, `featured` and `index` moved by exactly the number of posts added and
