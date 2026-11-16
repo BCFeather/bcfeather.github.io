@@ -1,0 +1,19 @@
+---
+slug: "vagus-nerve-stimulation-clears-the-sham-bar-in-rheumatoid-arthritis"
+title: "Vagus nerve stimulation clears the sham bar in rheumatoid arthritis"
+date: "2025-12-24T10:40:00+08:00"
+categories: [science]
+description: "An implanted stimulator on the cervical vagus nerve reached an ACR20 response in 35.2 per cent of patients against 24.2 per cent under a sham device at three months, in rheumatoid arthritis that had stopped answering biologic drugs."
+---
+
+Rheumatoid arthritis treatment runs on drugs that block the inflammatory molecules themselves, and a share of patients stop responding to all of them. Anti-TNF agents, interleukin-6 blockade, T-cell costimulation modulation: each is chosen against the last, and none is aimed at the pathway that organizes the response. That pathway is neural. Inflammatory signalling from organs travels the vagus nerve, and in animal work stimulation of its distal branch lowered circulating cytokines, which made it plausible that a current rather than a molecule could carry an anti-inflammatory effect. Plausible had not meant demonstrated in a device trial.
+
+John R. P. Tesser and colleagues reported a pivotal trial of that idea in *Nature Medicine* on 22 December 2025. A pulse generator was implanted at the neck against the cervical vagus nerve in 242 patients across 41 American sites, all of them treated for moderate-to-high disease activity after biologic drugs had failed. Half received active stimulation and half an implanted device delivering no current, so the sham arm was surgical, not pill-shaped.
+
+At three months, 35.2 per cent of the active group reached ACR20, the standard measure of a 20 per cent improvement in swollen and tender joint counts and associated markers, against 24.2 per cent under sham. The difference stratified by site was 11.8 percentage points, with a 95 per cent confidence interval from 0.6 to 23.1 and a *P* of 0.0209. EULAR-classified good or moderate response reached 60.7 per cent against 41.7 per cent, a difference of 19 points, interval 7.3 to 31.7, *P* equal to 0.0048. Patients then moved to an open-label extension reported to twelve months.
+
+Understating the design would misrepresent the finding. A sham arm with an implanted device and no current is the most demanding control available to a surgical therapy, because it holds the incision, the anaesthesia and the hardware constant, and the 24.2 per cent response beneath it is the placebo floor that RA trials carry. The margin over that floor is what the interval describes. The anatomy of the effect matters too: stimulation is applied to a branch of a nerve, and the spleen is where the immune response the device targets is assembled, which is why the mechanism reads differently from a drug that reaches every tissue at once.
+
+What the trial does not show is equally specified. The controlled phase ran three months, and the authors state plainly that the duration was capped by regulatory guidance, not by choice, so durability past that window is not established by these arms. The observed effect of 11.8 points was smaller than the 25 points the trial was designed to detect, which changes how the sample size should be read. Joint counts are assessed by the same clinicians who know nothing of allocation during the blinded phase, but the open-label extension has no such protection, and medication changes there are hard to interpret. Implantation complications belong to a surgical control group that also underwent surgery.
+
+A longer blinded comparison would settle durability, and a trial in patients who have not already exhausted biologics would test where in the sequence this sits. Practice already has a hook: a device that clears a sham floor gives an option to patients who have run out of them, at the cost of an operation.

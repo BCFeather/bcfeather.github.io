@@ -1,0 +1,19 @@
+---
+slug: "junos-microwaves-put-europas-ice-shell-at-twenty-nine-kilometres"
+title: "Juno's microwaves put Europa's ice shell at twenty-nine kilometres"
+date: "2025-12-22T10:10:00+08:00"
+categories: [science]
+description: "Microwave brightness temperatures from one Juno flyby constrain Europa's ice shell to 29 kilometres with a 10-kilometre margin, a figure produced by an inversion model and not by direct ranging."
+---
+
+Europa's ocean is the most interesting body of water in the solar system after our own, and everything about it turns on a thickness nobody had measured. A shell a few kilometres thick means the ice fractures through to the water and exchange runs fast. A thick shell means the ocean is sealed from the surface for millions of years, and a mission designed to sample it is pointed at the wrong place. Competing estimates have spanned that gap without closing it, because gravity measurements see the whole moon's tidal flexing, which reports the shell's mechanical response and not its depth.
+
+S. M. Levin and Z. Zhang, equal first authors at the Jet Propulsion Laboratory on the Caltech campus, used a different sense. Juno carries a microwave radiometer with six channels spanning 0.6 to 22 gigahertz, and microwaves at those frequencies penetrate ice instead of bouncing off it, so the instrument reads a brightness temperature that rises from inside the shell. During the flyby of 29 September 2022 the spacecraft passed 360 kilometres above the surface, and each channel collected 129 soundings. Their analysis appears in *Nature Astronomy* on 17 December 2025.
+
+The data fit a thermally conductive ice shell 29 kilometres thick over ocean, with an uncertainty of 10 kilometres, and a near-surface zone of cracks, pores or other scatterers reaching hundreds of metres down at characteristic radii smaller than a few centimetres. The best-fitting solution gives those scatterers a volume fraction of 0.045, a scale height of 219 metres and a particle-size power-law index of -3.96. A shell of this thickness implies heat flow of 15 to 35 milliwatts per square metre, above the roughly 10 milliwatts per square metre that radioactivity in the rock alone would supply.
+
+Six frequencies look into six different depths, so the vertical structure is read from the shape of one spectrum, not from any single number. The modelling runs radiative transfer with volume scattering joined to a thermal model of the upper layer, with the parameters solved together by Markov chain Monte Carlo. Calibration of the brightness temperature is better than 2 per cent in absolute terms, and the differential uncertainty between channels is under 0.5 kelvin, which is what makes a difference of a few kelvin across the band meaningful.
+
+The margin deserves more attention than the central value. Uncertainty from the thickness measurement itself is quoted at 0.2 kilometres, and at about 1 kilometre once model residuals are counted. The 10-kilometre figure comes mostly from unmodelled lateral structure: a systematic variation of 1.7 kelvin along the track would move the estimate by 9.3 kilometres. The fit assumes pure water ice with no convecting layer, and convection would make the total shell thicker than the conductive layer reported. Dissolved salt pulls the other way, lowering the thickness estimate by about 5 kilometres at a concentration of 15 milligrams per kilogram. The soundings cover roughly 10 degrees south to 30 degrees north latitude, so the result describes a region rather than a moon.
+
+Measured and inverted are not the same claim, and the difference matters here. Brightness temperature is measured; thickness is what a model says could produce it. An independent flyby at a different emission angle would test whether the lateral term dominating the error bar can be pinned down, and an ocean beneath a shell in the twenties sits with the slow-exchange picture and not the thin-and-leaky one.
