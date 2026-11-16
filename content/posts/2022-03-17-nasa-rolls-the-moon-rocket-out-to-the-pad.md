@@ -6,7 +6,7 @@ categories: [technology]
 description: "A crawler carries 98 metres of rocket six kilometres at walking pace, and a machine assembled from the budgets of forty states begins the rehearsals that will decide when it flies."
 ---
 
-The crawler-transporter began moving the Space Launch System out of the assembly building at Kennedy Space Centre on the evening of 17 March, and the journey to pad 39B took about ten hours at a speed that a person could walk. The rocket stood on a mobile launcher with its umbilicals attached, and the whole assembly weighed more than 5,000 tonnes. Crowds watched from the causeway, and the agency streamed the rollout live, which is what an agency does when the machine has cost more than the science it carries.
+The crawler-transporter began moving the Space Launch System out of the assembly building at Kennedy Space Center on the evening of 17 March, and the journey to pad 39B took about ten hours at a speed that a person could walk. The rocket stood on a mobile launcher with its umbilicals attached, and the whole assembly weighed more than 5,000 tonnes. Crowds watched from the causeway, and the agency streamed the rollout live, which is what an agency does when the machine has cost more than the science it carries.
 
 Numbers describe a rocket built to a specification written in 2011. The Block 1 version stands 98 metres tall, produces 5.75 million pounds of thrust at liftoff from four engines and two solid boosters, and can send 27 tonnes towards the Moon. The core stage holds liquid hydrogen and liquid oxygen, the upper stage is a modified Delta Cryogenic Second Stage, and the payload is the Orion capsule, which was designed for four astronauts and tested without any aboard on this flight.
 
