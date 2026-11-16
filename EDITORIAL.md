@@ -83,3 +83,13 @@ and it is a ceiling, not a target.
 Grammar. Any rewritten sentence has to be checked against the sentence it replaces: the clause
 that carried the number, the caveat or the attribution must survive the rewrite. Bulk edits are
 verified by comparing word counts per changed line before anything is pushed.
+
+Journal titles. Italicize the entire title, including the definite article when the journal
+carries one in its official name: *The Lancet*, *The New England Journal of Medicine*, *The BMJ*,
+*The Astrophysical Journal*, *The Cryosphere*. A journal's `The` stays capitalized and inside the
+italics even mid-sentence, because it belongs to the name and not to the sentence; a capitalized
+`The` sitting outside the italics is the sign that the markup is wrong, and italicizing the word
+also obliges it to keep the capital. Journals without an article take none: *Nature*, *Science*,
+*Cell*, *PNAS*, *JAMA*, *Physical Review Letters*, *Nature Medicine*, *The Lancet Oncology* and
+*The Lancet Psychiatry* take the article their titles carry. Volume and page numbers stay roman
+and outside the italics, and article titles stay roman, in single quotes.
