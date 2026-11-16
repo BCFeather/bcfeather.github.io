@@ -159,6 +159,21 @@ engineering`, `Fourth comes the constraint that decides the outcome`. A run of `
 ... The second thing is ...` is a list pretending to be prose: number the items explicitly or drop
 the scaffolding.
 
+Opening sentences. A paragraph's first sentence is read as a heading, so it must not be a bare simple
+sentence of subject, verb and object; a post whose paragraphs all open on `Output rose.` or `Prices
+fell.` reads like a list of bullet points set as prose. Give the opener a movement: front an
+adverbial or a prepositional phrase (`On the second night of the dome, the hospitals filled`;
+`For a foundry that is sold out, the risk is not demand`), lead with a subordinate clause (`When the
+committee met again, the forecast had changed`; `Where the measurement is silent, the argument
+moves to cost`), or open on a participle, an appositive or a comparative (`Seen from the floor,
+the queue looked orderly`; `Four titles in six years, and the comparison follows`). At most one
+paragraph in a post may open on a plain six-word-or-shorter statement of fact, and no two openers
+in a post may share the same shape: two fronted time phrases, two `Because` clauses, two cleft
+sentences or two participle openers in one post is a defect even when each sentence is
+grammatical. The rule binds posts written from this revision onwards; the archive is not
+retrofitted, and a paragraph whose opener was padded only to reach the word count is still a
+simple sentence.
+
 Sentence habits. Keep `rather than` to about one occurrence per post; the phrase is fine once and
 becomes a tic when every contrast in a paragraph reach for it. Do not write `not ... but ...` as a reflex; the construction is allowed when the
 contrast is the point and should otherwise be cut. Do not open consecutive paragraphs with the same
@@ -359,6 +374,9 @@ Per file:
 
 * five to seven paragraphs, six by default, 480 to 625 words;
 * at most two paragraphs opening on `The`;
+* no paragraph opens on a bare simple sentence: the first sentence of each paragraph carries a
+  fronted adverbial, a subordinate clause or a participle, at most one plain statement of six words
+  or fewer stands as an opener, and no two openers share the same shape;
 * no title beginning with `A`, `An` or `The`; colon titles within a fifth of the batch;
 * one unquoted category from the nine; no tags; `slug`, `title`, `date`, `categories`,
   `description` in that order;
