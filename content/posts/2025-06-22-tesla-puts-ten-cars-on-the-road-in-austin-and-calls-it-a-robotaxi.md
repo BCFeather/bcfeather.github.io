@@ -12,7 +12,7 @@ Safety architecture is the part the company does not advertise. A Tesla employee
 
 The first customers were not a random sample. Most of the accounts that posted videos were Tesla enthusiasts with a company mention in their profile, and several livestreamed the entire trip, which is a form of marketing that a regulated taxi operator would not be allowed to rely on. Anecdotes from that population are evidence about enthusiasm and not about safety.
 
-The economics are the harder question. A flat fare of 4.20 dollars is below the cost of the trip in most cities, which makes the launch a marketing expense rather than a business, and a fleet of ten cars cannot generate the utilisation that makes a robotaxi cheaper than a human driver. The company says the software needs no mapping and no specialised hardware, which is the claim that would make scaling cheap if it holds.
+The economics are the harder question. A flat fare of 4.20 dollars is below the cost of the trip in most cities, which makes the launch a marketing expense rather than a business, and a fleet of ten cars cannot generate the utilization that makes a robotaxi cheaper than a human driver. The company says the software needs no mapping and no specialized hardware, which is the claim that would make scaling cheap if it holds.
 
 Regulation is the gate that the company has to pass next. Texas has a light touch regime that allows autonomous vehicles to operate without a permit, and the states that matter for revenue, California among them, require incident reporting and a longer record. A service that is legal in one state is a pilot, not a product.
 

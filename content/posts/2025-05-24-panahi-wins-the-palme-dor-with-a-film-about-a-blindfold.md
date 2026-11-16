@@ -6,7 +6,7 @@ categories: [culture]
 description: "Jafar Panahi won the Palme d'Or on 24 May for a film in which five former prisoners argue over whether the man they have captured is the prosecutor who tortured them."
 ---
 
-A festival jury has to choose between films that are good and films that matter, and this year it chose one that is both. The 78th Cannes Film Festival closed on 24 May with the Palme d'Or going to Jafar Panahi for *It Was Just an Accident*, a film about five people who believe they have recognised the prosecutor who had them tortured, and who cannot be sure because they were blindfolded.
+A festival jury has to choose between films that are good and films that matter, and this year it chose one that is both. The 78th Cannes Film Festival closed on 24 May with the Palme d'Or going to Jafar Panahi for *It Was Just an Accident*, a film about five people who believe they have recognized the prosecutor who had them tortured, and who cannot be sure because they were blindfolded.
 
 Story is drawn from the director's own imprisonment. Panahi was arrested in 2010, convicted of propaganda against the regime, banned from filmmaking for twenty years, and kept working anyway, smuggling *This Is Not a Film* to Cannes on a flash drive in 2011. A travel ban of fifteen years was lifted in 2023, and this was his first return to the festival in two decades.
 

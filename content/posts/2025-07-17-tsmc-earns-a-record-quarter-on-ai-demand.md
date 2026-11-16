@@ -10,7 +10,7 @@ A foundry earns a record when its customers cannot get enough of one product, an
 
 High performance computing is now the majority. The segment that serves accelerators and networking accounted for 60 per cent of revenue, smartphones fell to about a quarter, and the mix has inverted in three years, which is why the company's results now track the capital budgets of five customers and not the phone cycle. A gross margin near 60 per cent in a capital-intensive industry is a margin that reflects scarcity at the leading edge, and it is also a margin that the company has said it will defend by raising prices rather than by cutting costs.
 
-Advanced nodes carry the margin. Three nanometre and five nanometre output ran at full utilisation, the company raised prices for some processes, and the cost of converting a fab from one node to the next is being recovered from a customer base that has no alternative at the leading edge.
+Advanced nodes carry the margin. Three nanometre and five nanometre output ran at full utilization, the company raised prices for some processes, and the cost of converting a fab from one node to the next is being recovered from a customer base that has no alternative at the leading edge.
 
 Capital spending is the tell. The company kept its plan for the year at 38 to 42 billion dollars and said the spending would be weighted towards the second half, which is a schedule that implies confidence in 2026 demand and a willingness to build capacity before the orders are signed.
 

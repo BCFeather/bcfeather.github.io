@@ -14,7 +14,7 @@ Vingegaard was the only rider within ten minutes. The Danish rider attacked twic
 
 Team is half the result. UAE Team Emirates controlled the flat stages, set the pace on the climbs and chased every breakaway that threatened the jersey, and a squad that costs more than most of its rivals combined is a squad that can afford to spend riders on a single objective. A rival who is answered twice has run out of ideas, and the podium behind him was settled by a time trial rather than by a climb, which is the part of a modern Tour that rewards the rider who can hold a fixed position for an hour.
 
-Route suited the winner. Twenty-five kilometres of time trial, four summit finishes and no cobbles is a course that rewards a climber who can ride alone, and the organisers' choice was criticised in the winter and vindicated in July by a race that was decided uphill.
+Route suited the winner. Twenty-five kilometres of time trial, four summit finishes and no cobbles is a course that rewards a climber who can ride alone, and the organisers' choice was criticized in the winter and vindicated in July by a race that was decided uphill.
 
 Field was thinner than the headline suggests. Several contenders crashed out in the first week, two teams lost their leaders to illness, and the podium was settled before the final weekend, which is a race that produces a clear winner and a less interesting month. A route with no cobbles and no crosswinds removes the two stages where a weaker climber can lose the race by misfortune, which is an argument the organisers made in the winter and the result answered in July.
 

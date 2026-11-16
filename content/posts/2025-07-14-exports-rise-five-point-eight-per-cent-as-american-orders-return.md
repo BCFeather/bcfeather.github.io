@@ -12,7 +12,7 @@ The American line improved without recovering. Exports to the United States fell
 
 Diversification is doing the structural work. Shipments to Southeast Asia rose 13 per cent in the first half, with Thailand up 22 per cent, Vietnam up nearly 20 per cent and India up more than 18, and part of that is final demand and part is transhipment through countries that face a lower rate. A route that runs through a country with a lower rate is a route that adds a factory and a certificate of origin, and it is the arrangement that makes a decoupling expensive for everyone involved.
 
-Imports turning positive is the more interesting number. A 1.1 per cent increase after months of decline suggests that domestic demand is stabilising and that firms are buying components again, and it also suggests that the front-loading of the spring has run its course and that inventories are being rebuilt at a normal pace.
+Imports turning positive is the more interesting number. A 1.1 per cent increase after months of decline suggests that domestic demand is stabilizing and that firms are buying components again, and it also suggests that the front-loading of the spring has run its course and that inventories are being rebuilt at a normal pace.
 
 Prices are absorbing part of the duty. Export prices have fallen in some categories and the volume has held, which means producers are sharing the cost with their American buyers, and the share each side bears is the number that the tariff literature argues about and that the customs data can only hint at. A tariff that is split between producer and buyer is a tariff that distorts less than the headline rate suggests, and it is still a tariff that raises the price of a container and lowers the volume of trade.
 
