@@ -63,7 +63,7 @@
   }
 
   function run() {
-    var roots = document.querySelectorAll('article .content, #post-description, .post-desc');
+    var roots = document.querySelectorAll('article .content, .desc');
     for (var i = 0; i < roots.length; i++) {
       if (roots[i].dataset && roots[i].dataset.smartquotes === 'done') continue;
       convert(roots[i]);
