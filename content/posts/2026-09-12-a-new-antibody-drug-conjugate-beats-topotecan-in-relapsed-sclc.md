@@ -1,0 +1,19 @@
+---
+slug: "a-new-antibody-drug-conjugate-beats-topotecan-in-relapsed-sclc"
+title: "New antibody-drug conjugate beats topotecan in relapsed SCLC"
+date: "2026-09-12T14:05:00+08:00"
+categories: [science]
+description: "Tambotatug pelitecan extended median survival to 13.3 months from 9.4 in relapsed small-cell lung cancer, with a hazard ratio of 0.46 and fewer severe adverse events than topotecan."
+---
+
+Small-cell lung cancer is the tumour that teaches oncologists humility. It responds to platinum chemotherapy in most patients, shrinks fast, and returns within months, and second-line treatment has offered little beyond topotecan, a drug that buys weeks and costs marrow. Decades of trials have failed to move the median survival beyond about nine months, and the disease has become a byword for the gap between response and benefit. Patients who progress after first-line treatment are usually symptomatic, and the median age in the trial was in the mid-sixties.
+
+Antibody-drug conjugates changed expectations in breast cancer and in other solid tumours by delivering a cytotoxic payload to cells that express a chosen surface antigen, and the approach has been tried in small-cell lung cancer with mixed results. Tambotatug pelitecan pairs an antibody against a tumour-associated antigen with a camptothecin-class payload, and the TAISHAN-302 trial compared it with topotecan in 451 patients whose disease had progressed after first-line platinum therapy. Results appeared in *The New England Journal of Medicine* on 12 September. The trial was run across sites in China, and the population reflects that, which matters for how the results travel to other health systems.
+
+Survival separated clearly. Median overall survival was 13.3 months with the conjugate against 9.4 months with topotecan, and the stratified hazard ratio for death was 0.46, with a confidence interval of 0.35 to 0.62. Progression-free survival was 7.4 months against 2.8 months, a hazard ratio of 0.29, and confirmed responses occurred in 59.1 per cent of patients against 9.7 per cent. The magnitude of the response difference is the kind that changes a standard of care, and the survival difference is large enough to be visible in a Kaplan-Meier plot without a statistical test.
+
+The toxicity comparison is the unusual part. Grade 3 or higher adverse events occurred in 55.4 per cent of patients on the conjugate and 77.9 per cent on topotecan, which reverses the assumption that a more effective drug must be a harsher one. Topotecan's marrow suppression is cumulative and poorly tolerated in a population that has already received platinum and etoposide, and sparing patients that burden matters as much as the survival gain. A gentler regimen also allows more patients to stay on treatment long enough to benefit from it, which is how efficacy and tolerability reinforce each other.
+
+An open-label design invites caution, since investigators knew which treatment each patient received and response assessment was theirs to make. The trial was also reported at a prespecified interim analysis, which inflates the apparent effect and will need confirmation at final follow-up. Neither objection erases a hazard ratio of 0.46, and both shape how confidently the result should be described. Subgroup analyses will show whether the benefit holds in patients with brain metastases, who are usually excluded from trials and make up a substantial share of relapses.
+
+The practical question is access and sequencing. A conjugate that doubles progression-free survival will be expensive, and its place in a treatment pathway that is being rewritten by first-line immunotherapy remains unsettled. For patients who relapse after platinum, the trial offers the first second-line option in years that changes the shape of the survival curve. Cost-effectiveness will decide adoption in publicly funded systems, and the price of conjugates has been the constraint on every one of them so far.

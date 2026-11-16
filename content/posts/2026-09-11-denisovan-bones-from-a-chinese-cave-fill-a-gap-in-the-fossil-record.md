@@ -1,0 +1,19 @@
+---
+slug: "denisovan-bones-from-a-chinese-cave-fill-a-gap-in-the-fossil-record"
+title: "Denisovan bones from a Chinese cave fill a gap in the fossil record"
+date: "2026-09-11T09:20:00+08:00"
+categories: [science]
+description: "Fossils dated to between 167,000 and 134,000 years ago in south-west China give the Denisovans a face, a toolkit and a home far from the Siberian cave that named them."
+---
+
+Denisovans entered the record through a finger bone and two teeth, which is not much material on which to build a picture of a whole population. The name comes from Denisova Cave in the Altai mountains of Siberia, where the remains were first identified in 2010, and for fifteen years the group has been known almost entirely from DNA extracted from sediment and from fragments too small to describe a skeleton. Genetic evidence kept pointing towards East Asia and Oceania, where Denisovan ancestry survives in modern genomes, yet the fossil evidence that would anchor that geography was missing. Sediment DNA had already placed them there, and a fossil had not.
+
+Two papers published in *Nature* on 11 September fill part of the gap. Excavations in a cave in south-west China produced hominin fossils and associated artefacts dated to roughly 167,000 to 134,000 years before present, and the authors identify the remains as Denisovan. The dating places the site in the middle of the last interglacial, a warm period when forests spread across what is now southern China. The site sits at an altitude that today supports temperate forest, and the sediments record a sequence of occupation rather than a single burial event.
+
+The importance lies in what can be measured from bones, which is something a genome cannot supply. Teeth and jaw fragments carry information about diet, growth and the shape of a face that a genome cannot supply, and the pairing of the two kinds of evidence is how palaeoanthropology turns a genetic lineage into a population. The site also gives the group a position on a map that agrees with what the genomes had already implied. Taken with the artefacts, the bones describe a population living in a cave over tens of thousands of years, which is a different claim from a single individual passing through.
+
+The artefacts are the more surprising half of the finding. Analysis of the stone and bone tools suggests that these Denisovans made simple bone implements, a behaviour that resembles what Neanderthals were doing in Europe and western Asia. Whether that resemblance reflects shared inheritance, convergence under similar pressures, or direct contact between the two groups is a question the material cannot settle by itself. Both groups were making tools from bone at roughly the same time, and the question is whether the habit travelled with people or was invented twice.
+
+Interpretation will be contested, because a species identification from fragmentary fossils is an inference and not a reading. The authors support their case with morphology and with protein and DNA evidence recovered from the sediments, and other specialists will want to see how the alternative explanations are excluded. The claim is defensible and it is still a claim, which is how fossil taxonomy has always worked. Independent dating and independent morphology would settle most of the doubt, and only one of the two is available.
+
+Taken together, the papers make the Denisovans a population with a place, a date range and a way of making tools. That is a modest advance next to what a full skeleton would give, and it is a large one next to what existed before. The cave will keep producing material for years, and the next question is whether any of it preserves enough anatomy to describe a face. A single skeleton would settle more than these two papers can, and caves in that region have produced material before.

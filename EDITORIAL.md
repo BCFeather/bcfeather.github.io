@@ -135,7 +135,8 @@ engineering`, `Fourth comes the constraint that decides the outcome`. A run of `
 ... The second thing is ...` is a list pretending to be prose: number the items explicitly or drop
 the scaffolding.
 
-Sentence habits. Do not write `not ... but ...` as a reflex; the construction is allowed when the
+Sentence habits. Keep `rather than` to about one occurrence per post; the phrase is fine once and
+becomes a tic when every contrast in a paragraph reach for it. Do not write `not ... but ...` as a reflex; the construction is allowed when the
 contrast is the point and should otherwise be cut. Do not open consecutive paragraphs with the same
 grammatical subject, and do not let a whole batch share one sentence rhythm.
 
