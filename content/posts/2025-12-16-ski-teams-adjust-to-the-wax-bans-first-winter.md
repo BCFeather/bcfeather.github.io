@@ -18,6 +18,6 @@ Cost moved down and up at once. A hydrocarbon wax costs 20 dollars and a stone g
 
 Cold snow is the harder case. A dry, cold base has little free water and a structure that manages water does nothing, and the hydrocarbon wax that replaced the fluorocarbon is 0.4 per cent slower in those conditions. The gap is where the rule's cost falls.
 
-A ban's enforcement is a laboratory test rather than a race-morning check. A ski's base is scraped and analysed for fluorine, and a positive result is a disqualification that arrives after the race. A team's risk is a base that was prepared with a banned product in a previous season and cleaned imperfectly.
+A ban's enforcement is a laboratory test rather than a race-morning check. A ski's base is scraped and analyzed for fluorine, and a positive result is a disqualification that arrives after the race. A team's risk is a base that was prepared with a banned product in a previous season and cleaned imperfectly.
 
 A rule changes where skill lives, and this winter shows the move. A banned material removes one variable and exposes another, and the sport's hierarchy is now set by the person who reads the snow.

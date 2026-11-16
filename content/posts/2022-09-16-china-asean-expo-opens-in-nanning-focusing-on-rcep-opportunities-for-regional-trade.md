@@ -8,7 +8,7 @@ description: "The China-ASEAN Expo opened in Nanning, centred on RCEP implementa
 
 The 19th China‑ASEAN Expo and accompanying Business and Investment Summit opened in Nanning, with the theme of sharing RCEP opportunities and advancing the China‑ASEAN Free Trade Area 3.0. The annual gathering brought together government officials, business representatives and industry delegates from across Southeast Asia and China.
 
-The Regional Comprehensive Economic Partnership had entered force earlier that year, cutting tariffs, simplifying rules of origin and creating a unified framework for trade across the region. Expo organisers said the fair served as a practical platform for firms to understand new RCEP provisions, connect supply chains and explore cross‑border investment.
+The Regional Comprehensive Economic Partnership had entered force earlier that year, cutting tariffs, simplifying rules of origin and creating a unified framework for trade across the region. Expo organizers said the fair served as a practical platform for firms to understand new RCEP provisions, connect supply chains and explore cross‑border investment.
 
 Exhibition zones covered agricultural products, green energy, digital trade, advanced manufacturing and cross‑border logistics. Small and medium‑sized enterprises from ASEAN countries displayed coffee, fruit, handicrafts and processed food, while Chinese firms showcased new energy equipment, smart agricultural tools and digital service solutions. Many exhibitors signed framework agreements on the opening day.
 

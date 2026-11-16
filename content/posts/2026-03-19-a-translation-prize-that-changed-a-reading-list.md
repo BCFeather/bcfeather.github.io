@@ -18,7 +18,7 @@ The translation market it serves is small and fragile. Roughly 3 per cent of boo
 
 Selection controversy is part of the prize's history. Two years ago the jury chose a novel whose translator had worked from an intermediate language rather than the original, and the resulting argument produced a rule requiring disclosure of the source language. This year the rule was applied for the first time, and one entry was withdrawn before the shortlist.
 
-What the prize does to a reading list is measurable and modest. Booksellers report that customers who buy one shortlisted title buy another, which is a cross-selling effect that a bestseller does not produce. The organisers describe the goal as building a habit rather than selling a book.
+What the prize does to a reading list is measurable and modest. Booksellers report that customers who buy one shortlisted title buy another, which is a cross-selling effect that a bestseller does not produce. The organizers describe the goal as building a habit rather than selling a book.
 
 Sustainability is the open question. The prize depends on a foundation grant renewed every five years and on the booksellers' commitment, and both are voluntary. A commercial sponsor would bring money and editorial pressure, which is the trade every literary prize makes.
 

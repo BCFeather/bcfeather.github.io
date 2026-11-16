@@ -12,7 +12,7 @@ Discretionary goods were weak. The apparel fell by the high single digits, and t
 
 Margins improved. The gross margin was about 27 per cent, up about 2 points, as the markdowns and the freight costs fell. The company said the inventory was down about 8 per cent, and the clearance had been lighter than a year ago. The company said the freight costs had fallen by about 20 per cent from the peak, and the effect on the margin was about 1 point.
 
-Theft is the problem. The company said the shrink had cut about 0.5 points from the margin, and the organised retail crime had been the largest part. The management said the locks and the staffing would cost about 500 million dollars this year. The company has about 1,900 stores, and the one of the new small-format stores is about 20 this year. The company has been closing about 10 of its stores a year, and the remodels have been about 200 this year.
+Theft is the problem. The company said the shrink had cut about 0.5 points from the margin, and the organized retail crime had been the largest part. The management said the locks and the staffing would cost about 500 million dollars this year. The company has about 1,900 stores, and the one of the new small-format stores is about 20 this year. The company has been closing about 10 of its stores a year, and the remodels have been about 200 this year.
 
 Its guidance was kept. The company expects the comparable sales to fall by the mid single digits for the year, and the earnings per share of about 7 to 8 dollars. The market had expected a cut, and the shares rose on the confirmation. The company said the back-to-school season had started slowly, and the one of the holiday would be the test.
 

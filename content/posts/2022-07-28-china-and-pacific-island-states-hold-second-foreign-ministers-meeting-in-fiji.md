@@ -14,6 +14,6 @@ Maritime governance and sustainable ocean management formed another key area. Pa
 
 Economic and practical cooperation packages included infrastructure, agricultural technical training, public health assistance and tourism recovery support after pandemic border closures. The joint statement stressed that all cooperation follows the principles of equality, mutual respect and openness, and does not target any third party.
 
-Diplomatic observers noted that the Pacific region faces intense geostrategic competition, while island governments prioritise immediate survival challenges such as climate shocks and economic recovery. The meeting provided a steady channel for dialogue, rather than creating exclusive security blocs.
+Diplomatic observers noted that the Pacific region faces intense geostrategic competition, while island governments prioritize immediate survival challenges such as climate shocks and economic recovery. The meeting provided a steady channel for dialogue, rather than creating exclusive security blocs.
 
 Leaders also agreed to maintain regular consultation mechanisms and arrange more youth exchanges, academic visits and media cooperation. For Pacific island states, partnerships with external partners bring extra resources, while they retain full ownership of their own regional agenda. The two sides will continue coordinating at multilateral forums on ocean and climate issues.

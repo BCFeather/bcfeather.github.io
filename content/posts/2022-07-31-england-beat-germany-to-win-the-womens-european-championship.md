@@ -3,10 +3,10 @@ slug: "england-beat-germany-to-win-the-womens-european-championship"
 title: "England beat Germany in extra time to win the women's European championship"
 date: "2022-07-31T23:45:00+08:00"
 categories: [sport]
-description: "Eighty-seven thousand people watch at Wembley as the substitutes score the equaliser and the winner, and the country wins its first major title since 1966."
+description: "Eighty-seven thousand people watch at Wembley as the substitutes score the equalizer and the winner, and the country wins its first major title since 1966."
 ---
 
-England won the women's European championship on Sunday at Wembley, beating Germany two goals to one after extra time, and it is the first major tournament that an England team has won since 1966. The crowd was eighty-seven thousand and one hundred and ninety-two, which is the largest for a final in the history of the competition, men's or women's. The equaliser came from a substitute in the second half and the winner came from another substitute in the second period of extra time. The match was watched by a television audience that the broadcasters said was the largest of the year.
+England won the women's European championship on Sunday at Wembley, beating Germany two goals to one after extra time, and it is the first major tournament that an England team has won since 1966. The crowd was eighty-seven thousand and one hundred and ninety-two, which is the largest for a final in the history of the competition, men's or women's. The equalizer came from a substitute in the second half and the winner came from another substitute in the second period of extra time. The match was watched by a television audience that the broadcasters said was the largest of the year.
 
 From the first minute it was the game the tournament had promised. Germany pressed from the start and England defended with a back three that had been the base of the campaign, and the first half produced few chances. Germany took the lead in the second half through a shot from the edge of the area, and England responded within ten minutes when a cross from the left was turned in at the far post. The winner came from a corner that the defence failed to clear, and the substitute who scored it had come on six minutes earlier.
 

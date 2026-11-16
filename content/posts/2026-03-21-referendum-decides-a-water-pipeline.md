@@ -20,7 +20,7 @@ Cost is the contested number. The authority's estimate is 340 million, and a cit
 
 The comparison with other infrastructure votes is the analytical point. Referendums on water projects in three other regions turned on the same question, and the ones that passed included a transfer payment to the upstream municipalities. This one did not, and passed anyway on the strength of the downstream majority.
 
-The authority's next step is procurement, and the vote changes the terms. A tender issued after a yes vote can specify a 30-year operating contract, which the authority argues lowers the price; the opposition argues that it locks in a cost the upstream municipalities will subsidise.
+The authority's next step is procurement, and the vote changes the terms. A tender issued after a yes vote can specify a 30-year operating contract, which the authority argues lowers the price; the opposition argues that it locks in a cost the upstream municipalities will subsidize.
 
 Hydrology is the constraint the vote could not settle. The donor basin's surplus is estimated at 60 million cubic metres a year in a wet year and 20 in a dry one, and the pipeline's capacity is 45. A dry decade would make the transfer contentious again.
 

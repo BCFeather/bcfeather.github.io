@@ -20,7 +20,7 @@ Technology cost is falling. A label costs 4 dollars and lasts five years, and a 
 
 Comparison with online retail is the strategic frame. An online store has always changed prices continuously, and a physical store's paper tickets were the last friction in the channel. Removing that friction makes the two channels comparable, which is what the chain says it wanted.
 
-Privacy is the emerging constraint. A label that displays a price can also display a message, and two chains are testing a personalised offer shown at the shelf, triggered by a loyalty card. Consumer groups have objected, and one jurisdiction has asked for an opinion on whether that constitutes profiling.
+Privacy is the emerging constraint. A label that displays a price can also display a message, and two chains are testing a personalized offer shown at the shelf, triggered by a loyalty card. Consumer groups have objected, and one jurisdiction has asked for an opinion on whether that constitutes profiling.
 
 Failure behaviour matters for a store. A label whose battery dies shows the last price, which is legally the price at the till, and the chain has added a battery check to the weekly routine rather than a monitoring system.
 

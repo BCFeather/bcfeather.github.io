@@ -1,6 +1,6 @@
 ---
 slug: "meta-pays-its-first-dividend-and-authorises-fifty-billion-dollars-of-buybacks"
-title: "Meta pays its first dividend and authorises fifty billion dollars of buybacks"
+title: "Meta pays its first dividend and authorizes fifty billion dollars of buybacks"
 date: "2024-02-02T09:20:00+08:00"
 categories: ["business"]
 description: "The company reported revenue of 40.1 billion dollars for the quarter and announced a payout of fifty cents a share, and the shares rose by about a fifth."

@@ -14,7 +14,7 @@ Losses followed the size threshold. A 3-centimetre stone breaks roof tiles and d
 
 Repricing is now sector-wide. Reinsurance renewals in the region cleared at 15 to 25 per cent higher rates for property-catastrophe cover, and primary insurers passed 8 to 12 per cent to policyholders. The line's profitability is being restored through price rather than through a change in exposure.
 
-The model revision is the substantive fix. Two modelling firms have published updated hail hazard layers with an explicit convective-storm parameterisation, and both raise the 1-in-100 hail size by 1.5 centimetres in the affected corridor. Insurers are re-rating on those layers.
+The model revision is the substantive fix. Two modelling firms have published updated hail hazard layers with an explicit convective-storm parameterization, and both raise the 1-in-100 hail size by 1.5 centimetres in the affected corridor. Insurers are re-rating on those layers.
 
 Policy response is limited. Building codes in the region require impact resistance for roof coverings in a zone drawn in 1990, and hail events have occurred outside it. A code update is under consideration and would apply only to new construction.
 

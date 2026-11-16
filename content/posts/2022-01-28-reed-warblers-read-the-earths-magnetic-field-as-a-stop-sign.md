@@ -3,7 +3,7 @@ slug: "reed-warblers-read-the-earths-magnetic-field-as-a-stop-sign"
 title: "Reed warblers read the Earth's magnetic field as a stop sign"
 date: "2022-01-28T23:55:00+08:00"
 categories: [science]
-description: "A century of ringing records shows that a small migrant returns to the exact latitude where it hatched, and a new analysis argues that the bird decides when to stop by sensing the field rather than by recognising the place."
+description: "A century of ringing records shows that a small migrant returns to the exact latitude where it hatched, and a new analysis argues that the bird decides when to stop by sensing the field rather than by recognizing the place."
 ---
 
 Ringers have marked migratory birds with numbered metal bands for more than a century, and the records they left behind carry a puzzle. A reed warbler that hatches in a reedbed in southern England will spend the winter in West Africa and, if it survives, come back to the same reedbed, arriving within days of the date its parents did. Birds return with such precision that the operation looks less like navigation than like recognition of a place. Ringing has been in decline for years, and this paper is one of the arguments for keeping it funded.
