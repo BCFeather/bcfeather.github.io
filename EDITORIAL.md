@@ -30,13 +30,15 @@ Each month is planned as a set. Day-by-day accumulation produces a pile with no 
 
 | Kind | Posts per month |
 | --- | --- |
-| Paper digests | 12 to 15 |
+| Paper digests | at least 12, and the rest of the month |
 | Technology | 8 to 10 |
 | Sport | 3 to 4 |
 | Business and economy | 4 to 6 |
 | Culture and society | 2 to 3 |
-| Essays | 1 to 3 |
+| Essays | 2 to 5 |
 | News, politics included, written as case notes | 3 to 4 |
+
+Every row but the digest is a floor for the mix: it guarantees that the kind appears in proportion without capping it, and the digest row absorbs the remainder, so a month of 63 carries about 30 digests. Read as ceilings, the bands would allow at most about 44 posts in a month, which is below the volume 3.1 requires, and the archive has never been read that way: every month of 2026 carries 26 to 37 science posts and 4 to 6 essays, which is why the essay band runs from 2 to 5 here rather than from 1 to 3.
 
 A digest states what was done, how it was measured, what the authors claim and what they leave open. It is the highest-value form here, it ages better than news, it can be sourced in bulk and dated honestly, and it therefore carries the largest share; a month that needs volume is met with digests rather than with commentary.
 
