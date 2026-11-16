@@ -3,7 +3,7 @@ slug: "an-ecg-model-finds-a-risk-group-nobody-had-labeled"
 title: "An ECG model finds a risk group nobody had labelled"
 date: "2026-06-24T09:30:00+08:00"
 categories: [science]
-description: "A deep-learning model trained on thousands of electrocardiograms identifies people at risk of sudden cardiac death whom existing criteria miss, a Nature briefing reports."
+description: "A deep-learning model trained on thousands of electrocardiograms identifies people at risk of sudden cardiac death whom existing criteria miss, a *Nature* briefing reports."
 ---
 
 Sudden cardiac death takes people who are, by the standards of routine testing, not obviously sick. Ejection fraction is the criterion that decides who receives a defibrillator, and most people who die suddenly have a fraction above the threshold, which is why the search for better predictors has run for two decades. The criterion has a long history and a poor sensitivity, and every attempt to improve it has run into the same problem: the people who die suddenly are not a well-defined clinical group.

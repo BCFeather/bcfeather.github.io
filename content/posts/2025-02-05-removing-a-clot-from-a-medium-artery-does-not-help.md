@@ -3,7 +3,7 @@ slug: "removing-a-clot-from-a-medium-artery-does-not-help"
 title: "Removing a clot from a medium artery does not help"
 date: "2025-02-05T20:40:00+08:00"
 categories: [science]
-description: "A randomized trial reported in The New England Journal of Medicine found no benefit from endovascular thrombectomy in strokes caused by occlusion of a medium-sized vessel, with a good outcome in 41.6 per cent against 43.1 per cent with usual care."
+description: "A randomized trial reported in *The New England Journal of Medicine* found no benefit from endovascular thrombectomy in strokes caused by occlusion of a medium-sized vessel, with a good outcome in 41.6 per cent against 43.1 per cent with usual care."
 ---
 
 Stroke treatment was transformed by the demonstration that a clot in a large artery can be pulled out, and the trials that established it changed guidelines within a year. The success raised the question of the next size down: a clot in a medium vessel produces a smaller deficit and a smaller territory, and the procedure is harder because the vessels are thinner, further from the catheter and more likely to be reached only after the clot has organized.

@@ -3,7 +3,7 @@ slug: "a-fixed-course-of-two-drugs-beats-chemoimmunotherapy-in-cll"
 title: "Fixed course of two drugs beats chemoimmunotherapy in CLL"
 date: "2025-02-05T09:20:00+08:00"
 categories: [science]
-description: "Three-year progression-free survival was 76.5 per cent with acalabrutinib plus venetoclax and 83.1 per cent with the same pair plus obinutuzumab, against 66.5 per cent with chemoimmunotherapy, in the AMPLIFY trial reported in The New England Journal of Medicine."
+description: "Three-year progression-free survival was 76.5 per cent with acalabrutinib plus venetoclax and 83.1 per cent with the same pair plus obinutuzumab, against 66.5 per cent with chemoimmunotherapy, in the AMPLIFY trial reported in *The New England Journal of Medicine*."
 ---
 
 Chronic lymphocytic leukaemia was treated with chemotherapy and an antibody for twenty years, and the regimen worked well enough that patients could expect years of remission. The arrival of targeted drugs changed the arithmetic: a Bruton tyrosine kinase inhibitor taken indefinitely controls the disease in most patients, and a BCL-2 inhibitor given for a fixed year can produce remissions deep enough that treatment can stop.

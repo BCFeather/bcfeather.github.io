@@ -3,7 +3,7 @@ slug: "warming-turns-wetlands-from-a-sink-into-a-source"
 title: "Warming turns wetlands from a sink into a source"
 date: "2026-06-25T09:20:00+08:00"
 categories: [science]
-description: "A Nature study finds that methane emissions from temperate wetlands rise with warming while carbon dioxide uptake falls, pushing many of them towards becoming net sources of greenhouse gas."
+description: "A *Nature* study finds that methane emissions from temperate wetlands rise with warming while carbon dioxide uptake falls, pushing many of them towards becoming net sources of greenhouse gas."
 ---
 
 Wetlands have been counted as a brake on climate because peat accumulates carbon over millennia, drawing carbon dioxide out of the air faster than decay returns it. That accounting has always depended on the water table staying high, since saturated peat decays slowly and methane-producing microbes thrive only in the absence of oxygen. The accounting assumes the water table stays near the surface, and drainage for agriculture breaks that assumption directly, which is why drained peatlands already emit heavily in many temperate regions. Restoration has therefore to be judged against the emissions the site would produce if left alone, which is a different question from the one most monitoring programmes ask.

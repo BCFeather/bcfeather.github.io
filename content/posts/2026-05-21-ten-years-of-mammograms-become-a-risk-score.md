@@ -3,7 +3,7 @@ slug: "ten-years-of-mammograms-become-a-risk-score"
 title: "Ten years of mammograms become a risk score"
 date: "2026-05-21T09:25:00+08:00"
 categories: [science]
-description: "A Science paper builds a ten-year breast cancer risk model from digital mammograms alone, using image-derived features rather than questionnaires and family history."
+description: "A *Science* paper builds a ten-year breast cancer risk model from digital mammograms alone, using image-derived features rather than questionnaires and family history."
 ---
 
 Breast screening programmes decide who gets a mammogram from age and a handful of risk factors. Family history, reproductive history and genetic testing explain part of the risk and miss part of it, and most women who develop breast cancer have none of the strong risk factors on the list. Screening programmes also have a capacity problem, and a model that concentrates extra imaging on the women most likely to benefit is a way to spend a fixed budget better.

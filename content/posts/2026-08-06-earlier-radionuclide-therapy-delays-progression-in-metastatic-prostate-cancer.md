@@ -3,7 +3,7 @@ slug: "earlier-radionuclide-therapy-delays-progression-in-metastatic-prostate-ca
 title: "Earlier radionuclide therapy delays progression in metastatic prostate cancer"
 date: "2026-08-06T09:20:00+08:00"
 categories: [science]
-description: "A phase 3 trial reported in The Lancet gives lutetium-177 PSMA-617 to patients at diagnosis rather than after resistance, cutting the risk of progression or death by 28 per cent."
+description: "A phase 3 trial reported in *The Lancet* gives lutetium-177 PSMA-617 to patients at diagnosis rather than after resistance, cutting the risk of progression or death by 28 per cent."
 ---
 
 Metastatic prostate cancer has a standard backbone of androgen deprivation with an androgen receptor pathway inhibitor, and for a decade the targeted radionuclide lutetium-177 PSMA-617 has been reserved for patients whose disease had already progressed on that backbone. Reserving it meant sequencing the drug last, which is where a therapy with a survival benefit tends to be least useful. The question was whether moving it forward, into the first-line combination, buys more time. Sequencing questions are the hardest ones in oncology, because every trial that moves a drug forward removes evidence about what it would have done later.

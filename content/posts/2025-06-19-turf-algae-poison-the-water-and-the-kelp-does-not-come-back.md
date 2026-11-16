@@ -3,7 +3,7 @@ slug: "turf-algae-poison-the-water-and-the-kelp-does-not-come-back"
 title: "Turf algae poison the water and the kelp does not come back"
 date: "2025-06-19T09:20:00+08:00"
 categories: [science]
-description: "A study in Science reports that turf algae release compounds that suppress kelp recovery, which helps explain why grazed kelp forests stay bare for years after the herbivores are removed."
+description: "A study in *Science* reports that turf algae release compounds that suppress kelp recovery, which helps explain why grazed kelp forests stay bare for years after the herbivores are removed."
 ---
 
 A kelp forest that has been grazed down is supposed to grow back when the urchins are removed, and in many places it does not, which is the observation that a paper in Science published on 22 May set out to explain. The authors report that turf algae, the low mat of weed that colonizes a bare reef, release compounds that suppress the recruitment and growth of kelp, so the new state defends itself against the old one.

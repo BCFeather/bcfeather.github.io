@@ -3,7 +3,7 @@ slug: "jupiters-bow-shock-shows-how-electrons-get-fast"
 title: "Jupiter's bow shock shows how electrons get fast"
 date: "2026-06-04T09:20:00+08:00"
 categories: [science]
-description: "Observations at Jupiter's bow shock catch electrons being accelerated in situ, a Nature paper reports, supporting a mechanism that may operate wherever a shock moves through plasma."
+description: "Observations at Jupiter's bow shock catch electrons being accelerated in situ, a *Nature* paper reports, supporting a mechanism that may operate wherever a shock moves through plasma."
 ---
 
 Cosmic rays arrive at Earth with energies no known thermal process can produce, and the accelerators have been sought for a century. Supernova remnants, pulsar winds and shocks around galaxy clusters are candidates, and the problem with all of them is that the acceleration happens far away and cannot be watched as it occurs. Spacecraft have flown through shocks at Earth, at Jupiter and at Saturn, and each pass produced particle spectra that theorists tried to fit after the fact.

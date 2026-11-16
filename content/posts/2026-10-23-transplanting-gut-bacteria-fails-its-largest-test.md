@@ -3,7 +3,7 @@ slug: "transplanting-gut-bacteria-fails-its-largest-test"
 title: "Transplanting gut bacteria fails its largest test"
 date: "2026-10-23T19:30:00+08:00"
 categories: [science]
-description: "A phase 3 trial in The Lancet finds donor faecal transplants no better than placebo for irritable bowel syndrome, although the donor microbes did take hold."
+description: "A phase 3 trial in *The Lancet* finds donor faecal transplants no better than placebo for irritable bowel syndrome, although the donor microbes did take hold."
 ---
 
 Faecal microbiota transplantation has been the most oversold procedure in gastroenterology, and the largest trial of it in irritable bowel syndrome has now reported. The phase 3 study, published in *The Lancet* in October, randomized 448 people with moderate to severe IBS to donor transplants or placebo and found no difference in symptoms at 90 days: 40 per cent of the transplant group met the improvement threshold against 38 per cent of the placebo group. It is the largest trial of the procedure in the condition, and it arrives after years in which clinics have offered the treatment on the strength of much smaller studies.

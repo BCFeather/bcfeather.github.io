@@ -3,7 +3,7 @@ slug: "science-names-the-webb-telescope-its-breakthrough"
 title: "Six and a half metres of gold: Science names the Webb telescope its breakthrough"
 date: "2022-12-15T18:00:00+08:00"
 categories: [science]
-description: "Science names the James Webb Space Telescope its breakthrough of 2022, after a first year of images and disputed atmosphere results."
+description: "*Science* names the James Webb Space Telescope its breakthrough of 2022, after a first year of images and disputed atmosphere results."
 ---
 Announcement came from the journal on 15 December, and the choice was the least surprising of its recent decisions. The telescope had been launched on Christmas Day in 2021, and its first full-colour images had been published in July. Between those two dates the instrument had unfolded in space, cooled to its operating temperature and begun to work. Each of those steps had been designed to be performed without a human hand nearby, and any of them could have ended the mission.
 

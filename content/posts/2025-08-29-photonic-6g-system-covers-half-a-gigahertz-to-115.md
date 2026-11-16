@@ -3,7 +3,7 @@ slug: "photonic-6g-system-covers-half-a-gigahertz-to-115"
 title: "Photonic 6G system covers half a gigahertz to 115"
 date: "2025-08-29T09:20:00+08:00"
 categories: [technology]
-description: "A Nature paper describes a photonic wireless system that tunes from 0.5 to 115 gigahertz, a range that no single electronic front end has managed, and does so by mixing light rather than by switching circuits."
+description: "A *Nature* paper describes a photonic wireless system that tunes from 0.5 to 115 gigahertz, a range that no single electronic front end has managed, and does so by mixing light rather than by switching circuits."
 ---
 
 Wireless systems have always been built around a band. A handset is designed for a set of frequencies, a base station is designed for the same set, and the electronics that amplify and filter the signal work well only near the frequency they were built for. The result is a patchwork of standards, each with its own hardware.

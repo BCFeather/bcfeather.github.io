@@ -3,7 +3,7 @@ slug: "two-ai-assistants-propose-experiments-and-check-them"
 title: "Two AI assistants propose experiments and check them"
 date: "2026-05-20T09:20:00+08:00"
 categories: [technology]
-description: "Nature reports two multi-agent systems that generate hypotheses, design experiments and revise their own conclusions, with early validation in biomedicine."
+description: "*Nature* reports two multi-agent systems that generate hypotheses, design experiments and revise their own conclusions, with early validation in biomedicine."
 ---
 
 AI for science has spent most of its credibility on prediction: protein folds, crystal structures, weather. A paper in *Nature* on 20 May moves the claim one step earlier in the process, to the part where a hypothesis is chosen and an experiment is designed to test it.

@@ -3,7 +3,7 @@ slug: "a-claim-of-a-superconductor-that-works-at-room-temperature"
 title: "Claim of a room-temperature superconductor draws scrutiny"
 date: "2023-03-08T09:20:00+08:00"
 categories: [science]
-description: "A paper in Nature described a material conducting without resistance at 21 degrees, and other groups began trying to repeat it."
+description: "A paper in *Nature* described a material conducting without resistance at 21 degrees, and other groups began trying to repeat it."
 ---
 
 Nature published the paper on 8 March, describing a compound of lutetium, hydrogen and nitrogen. The authors said it conducted electricity without resistance at 21 degrees Celsius and at a pressure of about 10,000 atmospheres. That combination, if it held, would be the first material to superconduct at room temperature without extreme cold. The compound was named reddmatter by the authors, and other groups referred to it by its chemical formula.

@@ -3,7 +3,7 @@ slug: "golgi-vesicles-carry-the-lipid-that-lets-mitochondria-fuse"
 title: "Golgi vesicles carry the lipid that lets mitochondria fuse"
 date: "2026-10-08T20:15:00+08:00"
 categories: [science]
-description: "A Science paper shows that Golgi-derived vesicles carrying the lipid phosphatidylinositol 3,4-bisphosphate are recruited to mitochondrial fusion sites, which makes fusion a problem of lipid traffic rather than of proteins alone."
+description: "A *Science* paper shows that Golgi-derived vesicles carrying the lipid phosphatidylinositol 3,4-bisphosphate are recruited to mitochondrial fusion sites, which makes fusion a problem of lipid traffic rather than of proteins alone."
 ---
 
 Mitochondria fuse and divide constantly, and the textbook account of fusion is a story about proteins: mitofusins on the outer membrane, OPA1 on the inner one, and cardiolipin in the membrane where the two organelles meet. A paper in *Science* on 8 October adds a third party to that account. Sho Aki, Mayuko Segawa and colleagues in Julien Prudent's laboratory at Cambridge report that vesicles derived from the Golgi, carrying the lipid phosphatidylinositol 3,4-bisphosphate, are recruited to fusion sites and are required for the membranes to merge.

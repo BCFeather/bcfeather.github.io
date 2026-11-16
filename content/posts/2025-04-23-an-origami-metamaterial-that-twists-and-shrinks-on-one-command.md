@@ -3,7 +3,7 @@ slug: "an-origami-metamaterial-that-twists-and-shrinks-on-one-command"
 title: "Origami metamaterial that twists and shrinks on one command"
 date: "2025-04-23T14:05:00+08:00"
 categories: [science]
-description: "A chiral metamaterial reported in Nature on 23 April twists through 90 degrees, contracts 25 per cent in plane and shrinks more than half in height, all driven by a single input."
+description: "A chiral metamaterial reported in *Nature* on 23 April twists through 90 degrees, contracts 25 per cent in plane and shrinks more than half in height, all driven by a single input."
 ---
 
 Metamaterials get their properties from structure and not from chemistry, and the structures that engineers can build have a recurring problem: the motions they produce are coupled. A lattice that twists also shortens, and a lattice that shortens also twists, so a device that needs one motion has to accept the other. Earlier chiral designs also worked within a strain of about 2 per cent, which is a demonstration and not a mechanism.

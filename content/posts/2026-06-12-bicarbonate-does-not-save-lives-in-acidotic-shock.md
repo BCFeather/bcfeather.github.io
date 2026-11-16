@@ -3,7 +3,7 @@ slug: "bicarbonate-does-not-save-lives-in-acidotic-shock"
 title: "Bicarbonate does not save lives in acidotic shock"
 date: "2026-06-12T09:20:00+08:00"
 categories: [science]
-description: "The SODa-BIC trial, reported in The New England Journal of Medicine, finds no mortality benefit from sodium bicarbonate in critically ill adults with metabolic acidosis and shock."
+description: "The SODa-BIC trial, reported in *The New England Journal of Medicine*, finds no mortality benefit from sodium bicarbonate in critically ill adults with metabolic acidosis and shock."
 ---
 
 Metabolic acidosis in a patient with shock is a signal that the circulation is failing, and clinicians have given sodium bicarbonate for decades on the reasoning that correcting the pH will improve the response to vasopressors and to inotropes. The evidence for that reasoning has always been thin. The two commonest settings are sepsis and cardiogenic shock, and in both the lactate that drives the acidosis is produced by tissue that is not being perfused. The sickest patients are the ones most likely to receive it, and confounding by indication is why an observational signal has persisted for so long.

@@ -3,7 +3,7 @@ slug: "quantum-sensor-network-listening-for-dark-matter-walls"
 title: "Quantum sensor network listening for dark matter walls"
 date: "2026-01-31T10:18:00+08:00"
 categories: [science]
-description: "On 29 January, *Nature* published work by a team at the University of Science and Technology of China describing the first quantum sensing network built on nuclear spins, five sensors spread between Hefei and Hangzhou, synchronized by satellite, and pointed at one of the stranger predictions of dark matter physics."
+description: "On 29 January, *Nature* published work by a team at the University of *Science* and Technology of China describing the first quantum sensing network built on nuclear spins, five sensors spread between Hefei and Hangzhou, synchronized by satellite, and pointed at one of the stranger predictions of dark matter physics."
 ---
 
 On 29 January, *Nature* published a result that reads like a physics thought experiment made real. A team at the University of Science and Technology of China, led by Peng Xinhua and Jiang Min, has built the first quantum sensing network based on nuclear spins, spread five sensors between Hefei and Hangzhou, synchronized them with satellite time, and pointed them at the sky in search of something that may not exist: a wall of dark matter. The search is as much about the instrument as the quarry, because the network is the part that is genuinely new.

@@ -3,7 +3,7 @@ slug: "a-perovskite-module-that-holds-its-efficiency-through-the-heat"
 title: "Perovskite module that holds its efficiency through the heat"
 date: "2025-05-29T20:40:00+08:00"
 categories: [science]
-description: "A perovskite minimodule reported in Science on 29 May reached about 23 per cent efficiency on 6 square centimetre subcells and lost less than 9 per cent after 2,200 hours at 55 degrees."
+description: "A perovskite minimodule reported in *Science* on 29 May reached about 23 per cent efficiency on 6 square centimetre subcells and lost less than 9 per cent after 2,200 hours at 55 degrees."
 ---
 
 Perovskite solar cells have been the most efficient laboratory curiosity in photovoltaics for a decade and the least durable product, a combination that has kept them out of factories while their record efficiency climbed. The efficiency record has climbed above 26 per cent for small cells, and the commercial question has always been whether a module can hold that number through the heat and humidity of a rooftop in summer, where a panel sits at 60 degrees for hours and cycles every night.

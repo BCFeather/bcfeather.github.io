@@ -3,7 +3,7 @@ slug: "artemisinin-resistance-repeats-its-southeast-asian-timetable-in-africa"
 title: "Artemisinin resistance repeats its Southeast Asian timetable in Africa"
 date: "2025-10-08T09:30:00+08:00"
 categories: [science]
-description: "A compilation of 112,933 Plasmodium falciparum samples traces kelch13 markers from 1980 to 2023 and finds African patterns echoing Southeast Asia a decade earlier."
+description: "A compilation of 112,933 *Plasmodium falciparum* samples traces kelch13 markers from 1980 to 2023 and finds African patterns echoing Southeast Asia a decade earlier."
 ---
 
 Artemisinin combination therapy clears malaria parasites quickly, and the partner drug finishes the job. Partial resistance to the artemisinin half shows up as slower clearance rather than as outright failure, which is why it can spread before it is noticed. Southeast Asia lost a decade to that slow drift, and the markers involved concentrate in one gene, *kelch13*, whose mutations are the best-established predictor. Surveillance data existed, but scattered across papers and databases, and no single view followed the markers across regions.

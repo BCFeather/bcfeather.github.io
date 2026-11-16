@@ -3,7 +3,7 @@ slug: "a-spleen-on-a-chip-shows-how-sickle-cells-are-filtered"
 title: "A spleen on a chip shows how sickle cells are filtered"
 date: "2023-02-08T09:25:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, Yuhao Qiang, Ming Dao and colleagues build a microfluidic model of the human spleen and use it to show how abnormal red blood cells are retained and eliminated, with implications for sickle cell disease."
+description: "Yuhao Qiang, Ming Dao and colleagues build a microfluidic model of the human spleen and use it to show how abnormal red blood cells are retained and eliminated, with implications for sickle cell disease. The study appears in *PNAS* on 7 February 2023."
 ---
 
 The spleen removes damaged red blood cells from circulation, and it does so in a way that is hard to observe. The organ's open circulation forces cells through narrow slits between endothelial cells, and a cell that cannot deform is retained and eventually cleared.
@@ -26,4 +26,4 @@ For the field, the value is the parameter. Splenic filtration has been a black b
 
 The channel's dimensions are taken from histology. Human splenic slits are a few micrometres wide, and a red cell is about seven micrometres across, so passage demands deformation of a kind that a rigid cell cannot manage.
 Retention time is the measured quantity. A cell that passes slowly occupies a slit and reduces the flow for the cells behind it, and the device records the delay as well as the outcome. A delay is the physiologically relevant event in a spleen that is deciding whether to keep a cell.
-The oxygen control is the design's key feature. Sickle haemoglobin polymerizes when deoxygenated, and a device that can switch the gas composition while cells are in the channel reproduces the cycle that a cell experiences as it transits the circulation.
+The oxygen control is the design's key feature. Sickle haemoglobin polymerizes when deoxygenated, and a device that can switch the gas composition while cells are in the channel reproduces the cycle that a cell experiences as it trans

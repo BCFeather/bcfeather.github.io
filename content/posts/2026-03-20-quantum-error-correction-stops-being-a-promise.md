@@ -3,7 +3,7 @@ slug: "quantum-error-correction-stops-being-a-promise"
 title: "Quantum error correction stops being a promise"
 date: "2026-03-20T08:47:00+08:00"
 categories: [technology]
-description: "On 18 March a team at the University of Science and Technology of China reported a logical qubit whose error rate fell below that of its physical components, the first demonstration at scale of the threshold that makes fault-tolerant quantum computing possible. The field has talked about this for thirty years; now it has to be practical."
+description: "On 18 March a team at the University of *Science* and Technology of China reported a logical qubit whose error rate fell below that of its physical components, the first demonstration at scale of the threshold that makes fault-tolerant quantum computing possible. The field has talked about this for thirty years; now it has to be practical."
 ---
 
 On 18 March a team at the University of Science and Technology of China reported something the quantum computing field has promised for three decades: a logical qubit whose error rate is lower than the error rates of the physical qubits that make it up. The result, published with the full set of raw measurements, is the first demonstration at scale of the threshold that turns a laboratory curiosity into an engineering programme. It is not a quantum computer that solves useful problems. It is the correction mechanism that such a computer will be built on, and that is a different and more important kind of milestone.

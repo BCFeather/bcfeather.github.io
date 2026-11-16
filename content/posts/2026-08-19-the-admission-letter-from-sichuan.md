@@ -3,7 +3,7 @@ slug: "the-admission-letter-from-sichuan"
 title: "Admission letter from Sichuan"
 date: "2026-08-19T12:47:00+08:00"
 categories: [essay]
-description: "In mid-August the letter came: the College of Life Sciences at Sichuan University, in Chengdu, twelve hundred kilometres from my home city of Chizhou. A short essay on what an admission letter carries when it crosses half the country."
+description: "In mid-August the letter came: the College of Life *Science*s at Sichuan University, in Chengdu, twelve hundred kilometres from my home city of Chizhou. A short essay on what an admission letter carries when it crosses half the country."
 ---
 
 In mid-August, in the heat of a Chizhou summer, the letter came by courier. I knew what it was before I opened it, because the whole household knew, the way every household in the city knows, that the envelope with the university's name on it has been the family's business since June. When I finally read the first line, Sichuan University, and the words 'College of Life Sciences', my mother was already on the phone to my grandparents, and the news was travelling through the apartment building faster than it could be repeated properly. In a city where the exam is still the main door to a different life, an admission letter is a public event.

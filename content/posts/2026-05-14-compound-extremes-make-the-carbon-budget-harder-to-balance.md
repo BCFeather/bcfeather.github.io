@@ -3,7 +3,7 @@ slug: "compound-extremes-make-the-carbon-budget-harder-to-balance"
 title: "Compound extremes make the carbon budget harder to balance"
 date: "2026-05-14T09:20:00+08:00"
 categories: [science]
-description: "Hot-humid spells and drought-heat events grow more frequent with cumulative carbon dioxide emissions, and the severest combinations rise fastest, according to a modelling study in Nature."
+description: "Hot-humid spells and drought-heat events grow more frequent with cumulative carbon dioxide emissions, and the severest combinations rise fastest, according to a modelling study in *Nature*."
 ---
 
 Climate risk is usually counted one hazard at a time: a heatwave, a drought, a flood. The events that do damage tend to arrive together, and a paper in *Nature* on 14 May argues that the pairing has a direct relationship with how much carbon dioxide has been emitted in total.

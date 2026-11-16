@@ -3,7 +3,7 @@ slug: "two-dimensional-polyaramid-films-seal-against-every-molecule"
 title: "Two-dimensional polyaramid films seal against every molecule"
 date: "2025-11-19T09:15:00+08:00"
 categories: [science]
-description: "In Nature, 13 November 2025, two-dimensional polyaramid polymers form nanometre-thin films with the lowest gas permeability of any polymer, orders of magnitude below conventional barriers, despite having no crystallinity."
+description: "In *Nature*, 13 November 2025, two-dimensional polyaramid polymers form nanometre-thin films with the lowest gas permeability of any polymer, orders of magnitude below conventional barriers, despite having no crystallinity."
 ---
 
 Barrier films are judged by what gets through them. Packaging for food, displays and solar modules relies on polymers that slow the passage of oxygen and water vapour, and the standard materials achieve that by being thick and semi-crystalline: the crystals force a tortuous path, and thickness makes the path long. A polymer that is amorphous and nanometres thin should, by that logic, be a poor barrier.

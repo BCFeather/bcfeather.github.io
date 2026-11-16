@@ -3,7 +3,7 @@ slug: "plastic-fragments-turn-up-in-brain-tissue"
 title: "Plastic fragments turn up in brain tissue"
 date: "2025-02-04T09:20:00+08:00"
 categories: [science]
-description: "A study published in Nature Medicine found polymer particles in every brain sample it examined, and the correlation with dementia is not yet an explanation."
+description: "A study published in *Nature Medicine* found polymer particles in every brain sample it examined, and the correlation with dementia is not yet an explanation."
 ---
 
 A paper published in Nature Medicine in early February reported that every human brain sample its authors examined contained microscopic plastic fragments, with concentrations higher than those found in liver or kidney tissue. The median concentration was on the order of a few thousand micrograms per gram of tissue, and polyethylene was the most common polymer identified. The samples came from autopsies and from a tissue bank, and the study compared them with samples collected decades earlier. The comparison across decades found concentrations rising over time, which is the part of the result that reads as a trend rather than as a snapshot.

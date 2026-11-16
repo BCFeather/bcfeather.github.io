@@ -3,7 +3,7 @@ slug: "flot-chemotherapy-beats-chemoradiotherapy-in-oesophageal-cancer"
 title: "FLOT chemotherapy beats chemoradiotherapy in oesophageal cancer"
 date: "2025-01-22T09:20:00+08:00"
 categories: [science]
-description: "Three-year progression-free survival was 51.6 per cent with perioperative FLOT and 35.0 per cent with preoperative chemoradiotherapy in a trial reported in The New England Journal of Medicine, a hazard ratio of 0.66 for progression or death."
+description: "Three-year progression-free survival was 51.6 per cent with perioperative FLOT and 35.0 per cent with preoperative chemoradiotherapy in a trial reported in *The New England Journal of Medicine*, a hazard ratio of 0.66 for progression or death."
 ---
 
 Oesophageal cancer that has spread to local lymph nodes is treated with a combination of surgery, chemotherapy and radiotherapy, and the combinations have competed for twenty years. The European standard has been perioperative chemotherapy with the FLOT regimen, four drugs given before and after the operation. The American standard has been chemoradiotherapy before surgery, on the strength of a trial published in 2012.

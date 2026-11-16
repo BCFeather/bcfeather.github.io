@@ -3,7 +3,7 @@ slug: "a-clock-built-from-rna-predicts-how-long-a-mammal-lives"
 title: "A clock built from RNA predicts how long a mammal lives"
 date: "2026-05-28T09:20:00+08:00"
 categories: [science]
-description: "Transcriptomes from more than 25 tissues across four species carry ageing signals conserved enough to estimate chronological age and forecast mortality, a Nature paper reports."
+description: "Transcriptomes from more than 25 tissues across four species carry ageing signals conserved enough to estimate chronological age and forecast mortality, a *Nature* paper reports."
 ---
 
 Ageing clocks began with methylation marks on DNA and moved through protein levels and clinical variables. A paper in *Nature* on 28 May adds the transcriptome, and does it across species rather than within one. That matters because most clocks are calibrated on a single organism and fail when moved, and a comparative clock has to find the part of ageing that is conserved rather than the part that is peculiar to a mouse.

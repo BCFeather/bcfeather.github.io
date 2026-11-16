@@ -3,7 +3,7 @@ slug: "oceans-absorb-another-record-year-of-heat"
 title: "Oceans absorb another record year of heat"
 date: "2026-02-19T18:56:00+08:00"
 categories: [science]
-description: "An international team led by the Chinese Academy of Sciences reported in January 2026 that the upper 2,000 metres of the ocean absorbed about 23 additional zetajoules of heat in 2025, the ninth consecutive annual record. The warming rate has doubled since 2005, and the heat is not sitting evenly across basins."
+description: "An international team led by the Chinese Academy of *Science*s reported in January 2026 that the upper 2,000 metres of the ocean absorbed about 23 additional zetajoules of heat in 2025, the ninth consecutive annual record. The warming rate has doubled since 2005, and the heat is not sitting evenly across basins."
 ---
 
 About 90 per cent of the excess heat trapped by greenhouse gases does not warm the air. It goes into the ocean, and the ocean has been accumulating it year after year, quietly, without the daily temperature maps that make land heatwaves visible. The peer-reviewed paper accepted in January 2026 by Advances in Atmospheric Sciences, led by Yuying Pan and Lijing Cheng of the Institute of Atmospheric Physics at the Chinese Academy of Sciences, with an international co-author team including John Abraham, Kevin Trenberth and Karina von Schuckmann, reports that 2025 was the hottest year the upper ocean has experienced in the instrumental record.

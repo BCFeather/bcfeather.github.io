@@ -3,7 +3,7 @@ slug: "a-ringdown-wave-shows-the-horizon-doing-what-kerr-said"
 title: "A ringdown wave shows the horizon doing what Kerr said"
 date: "2026-06-24T09:20:00+08:00"
 categories: [science]
-description: "A Nature paper reports a residual wave in the ringdown of GW250114 whose measured properties match the predictions for a Kerr black hole, opening a direct probe of frame dragging."
+description: "A *Nature* paper reports a residual wave in the ringdown of GW250114 whose measured properties match the predictions for a Kerr black hole, opening a direct probe of frame dragging."
 ---
 
 Gravitational-wave astronomy has spent a decade measuring the inspiral and merger of black holes. The ringdown that follows, the brief oscillation as the merged object settles into a rotating hole, carries information about the horizon itself, and that part of the signal has been much harder to extract because it is short and faint. The signal is a fraction of a second long and its amplitude falls exponentially, which makes the measurement a test of how quickly a perturbed horizon radiates away its deformation.

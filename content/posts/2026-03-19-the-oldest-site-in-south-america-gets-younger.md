@@ -3,7 +3,7 @@ slug: "the-oldest-site-in-south-america-gets-younger"
 title: "South America's oldest site gets younger"
 date: "2026-03-19T09:20:00+08:00"
 categories: [science]
-description: "A stratigraphic reanalysis published in Science dates the Monte Verde site in southern Chile to the mid-Holocene, a revision that, if accepted, removes the strongest pre-Clovis claim from the continent."
+description: "A stratigraphic reanalysis published in *Science* dates the Monte Verde site in southern Chile to the mid-Holocene, a revision that, if accepted, removes the strongest pre-Clovis claim from the continent."
 ---
 
 Monte Verde sits in a peat bog in southern Chile and has been the anchor of an argument for thirty years. Excavations there produced plant remains, hearths and a footprint, dated to roughly fourteen thousand years ago, and the site became the standard evidence that people reached the southern cone before the Laurentide ice sheet began to retreat.

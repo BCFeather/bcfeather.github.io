@@ -3,7 +3,7 @@ slug: "decoupling-two-layers-makes-flexible-solar-modules-grow"
 title: "Decoupling two layers makes flexible solar modules grow"
 date: "2026-10-22T18:35:00+08:00"
 categories: [science]
-description: "A Science paper separates the self-assembled monolayer step from the perovskite step, and flexible modules reach 22.31 per cent on 5 x 5 centimetre panels."
+description: "A *Science* paper separates the self-assembled monolayer step from the perovskite step, and flexible modules reach 22.31 per cent on 5 x 5 centimetre panels."
 ---
 
 Flexible perovskite modules have trailed their rigid cousins for a reason that is chemical rather than architectural. A paper in *Science* on 22 October reports a fix for it, and the numbers are the argument: a certified 26.86 per cent on a small flexible cell, 22.31 per cent on a 5 by 5 centimetre module, 20.63 per cent on a 10 by 10 centimetre one and 20.15 per cent on a panel larger still. Wu and colleagues at Soochow University led the work, reported in *Science* on 22 October.

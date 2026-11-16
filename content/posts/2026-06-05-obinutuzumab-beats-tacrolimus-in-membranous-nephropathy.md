@@ -3,7 +3,7 @@ slug: "obinutuzumab-beats-tacrolimus-in-membranous-nephropathy"
 title: "Obinutuzumab beats tacrolimus in membranous nephropathy"
 date: "2026-06-05T09:20:00+08:00"
 categories: [science]
-description: "A randomized trial in The New England Journal of Medicine reports complete remission in 37 per cent of patients given obinutuzumab against 6 per cent given tacrolimus at two years in primary membranous nephropathy."
+description: "A randomized trial in *The New England Journal of Medicine* reports complete remission in 37 per cent of patients given obinutuzumab against 6 per cent given tacrolimus at two years in primary membranous nephropathy."
 ---
 
 Primary membranous nephropathy is an autoimmune disease in which antibodies against the phospholipase A2 receptor deposit in the glomerulus and damage the filtration barrier. Proteinuria follows, and the risk of kidney failure rises with it, so the treatment is aimed at the antibody-producing B cells. The antibody titre against the receptor is the marker that predicts response, and it falls when B-cell depletion works. Proteinuria is the variable that clinicians follow, and a partial remission that lowers it substantially also lowers the risk of progression.

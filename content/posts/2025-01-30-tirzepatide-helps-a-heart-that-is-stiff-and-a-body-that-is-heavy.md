@@ -3,7 +3,7 @@ slug: "tirzepatide-helps-a-heart-that-is-stiff-and-a-body-that-is-heavy"
 title: "Tirzepatide helps a heart that is stiff and a body that is heavy"
 date: "2025-01-30T09:20:00+08:00"
 categories: [science]
-description: "In the SUMMIT trial reported in The New England Journal of Medicine, tirzepatide improved symptoms and exercise capacity in patients with heart failure and preserved ejection fraction who were also obese, a population that has had no drug licensed for it."
+description: "In the SUMMIT trial reported in *The New England Journal of Medicine*, tirzepatide improved symptoms and exercise capacity in patients with heart failure and preserved ejection fraction who were also obese, a population that has had no drug licensed for it."
 ---
 
 Heart failure with preserved ejection fraction is the form that appears in older patients, in women more often than men, and in people with obesity, diabetes and hypertension. The heart muscle contracts normally and the ventricle does not fill well, so the pressure inside rises with exercise and the patient becomes breathless. Trials of drugs that work in the other form of heart failure failed in this one for twenty years.

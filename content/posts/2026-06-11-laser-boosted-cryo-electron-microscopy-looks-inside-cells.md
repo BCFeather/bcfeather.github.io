@@ -3,7 +3,7 @@ slug: "laser-boosted-cryo-electron-microscopy-looks-inside-cells"
 title: "Laser-boosted cryo-electron microscopy looks inside cells"
 date: "2026-06-11T09:25:00+08:00"
 categories: [science]
-description: "Science reports a cryo-electron microscopy method that uses laser excitation to sharpen images of proteins in their cellular context, opening drug targets that structural biology has struggled to reach."
+description: "*Science* reports a cryo-electron microscopy method that uses laser excitation to sharpen images of proteins in their cellular context, opening drug targets that structural biology has struggled to reach."
 ---
 
 Cryo-electron microscopy has transformed structural biology by freezing molecules in a thin film of vitreous ice and imaging them with electrons. The method works best on purified, rigid particles, and the proteins that matter most in drug discovery are often neither: they sit in membranes, in complexes, or inside cells. Synchrotron and free-electron laser sources have been used to improve diffraction for years, and the same physics applies to imaging with electrons.

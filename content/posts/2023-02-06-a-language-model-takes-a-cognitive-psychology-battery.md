@@ -3,7 +3,7 @@ slug: "a-language-model-takes-a-cognitive-psychology-battery"
 title: "A language model takes a cognitive psychology battery"
 date: "2023-02-06T09:15:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, Marcel Binz and Eric Schulz run GPT-3 through classic experiments from cognitive psychology and find human-like patterns in some tasks and distinctly non-human behaviour in others."
+description: "Marcel Binz and Eric Schulz run GPT-3 through classic experiments from cognitive psychology and find human-like patterns in some tasks and distinctly non-human behaviour in others. The study appears in *PNAS* on 7 February 2023."
 ---
 
 Psychologists have a century of experiments designed to expose how minds work, and each experiment isolates a bias or a capacity. A language model trained to predict text has no mind in that sense, and the battery is a way of asking what it does have.
@@ -26,4 +26,4 @@ For the field of machine cognition, the battery is a template. A standard set of
 
 The battery's tasks are chosen for their history. Each paradigm has a documented human pattern, often a deviation from optimal behaviour, and the deviation is the phenomenon that a theory has to explain. A model that reproduces the deviation is a model that has acquired the bias.
 Information search is where the parallel is closest. People tend to sample information that supports a favoured hypothesis, and the model does the same, which suggests that the bias is a consequence of the way the training data is structured rather than of a motivational state.
-Deliberation is where the parallel breaks. A person who deliberates spends time and attention, and a model that produces a longer chain of reasoning does not spend anything. The behaviour may look similar and the economics are entirely different.
+Deliberation is where the parallel breaks. A person who deliberates spends time and attention, and a model that produces a longer chain of reasoning does not spend anything. The behaviour may look similar and the economics are

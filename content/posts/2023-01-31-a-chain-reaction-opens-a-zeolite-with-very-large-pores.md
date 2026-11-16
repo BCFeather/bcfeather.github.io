@@ -3,7 +3,7 @@ slug: "a-chain-reaction-opens-a-zeolite-with-very-large-pores"
 title: "A chain reaction opens a zeolite with very large pores"
 date: "2023-01-31T09:35:00+08:00"
 categories: [science]
-description: "In Science, 19 January 2023, Alvaro Mayoral, Miguel Camblor, Fei-Jian Chen, Jihong Yu and colleagues use chain-condensation reactions in a silicate precursor to build Si-O-Si bridges and produce an extra-large-pore, low-density zeolite."
+description: "Alvaro Mayoral, Miguel Camblor, Fei-Jian Chen, Jihong Yu and colleagues use chain-condensation reactions in a silicate precursor to build Si-O-Si bridges and produce an extra-large-pore, low-density zeolite. The paper is published in *Science* on 19 January 2023."
 ---
 
 Zeolites are crystalline aluminosilicates with pores of molecular dimensions, and their pores decide what they can do. A catalyst that has to admit a bulky molecule needs a pore larger than the twelve-membered rings that most frameworks offer, and making one has been a synthetic problem for decades.
@@ -26,4 +26,4 @@ What remains is the scale. A synthesis that works in a laboratory gram does not 
 
 For the field, the result is a proof that the pore-size ceiling is not fixed. Frameworks with larger pores have been made before, and the chain-condensation route is the one that can be aimed at a target rather than found by screening.
 
-Acidity is the property that matters for catalysis, and an aluminosilicate with a large pore has fewer acid sites per volume. A catalyst that admits a large molecule but offers few sites is a compromise, and the aluminium content is a variable the synthesis can tune.
+Acidity is the property that matters for catalysis, and an aluminosilicate with a large pore has fewer acid sites per volume. A catalyst that admits a large molecule but offers few sites is a compromise, and the aluminium content is a variabl

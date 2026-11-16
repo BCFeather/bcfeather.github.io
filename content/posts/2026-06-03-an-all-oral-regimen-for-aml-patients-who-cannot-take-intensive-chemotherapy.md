@@ -3,7 +3,7 @@ slug: "an-all-oral-regimen-for-aml-patients-who-cannot-take-intensive-chemothera
 title: "An all-oral regimen for AML patients who cannot take intensive chemotherapy"
 date: "2026-06-03T09:25:00+08:00"
 categories: [science]
-description: "A phase 1/2 trial published in The New England Journal of Medicine reports that oral decitabine-cedazuridine combined with venetoclax produced durable responses in newly diagnosed acute myeloid leukaemia unsuitable for intensive induction."
+description: "A phase 1/2 trial published in *The New England Journal of Medicine* reports that oral decitabine-cedazuridine combined with venetoclax produced durable responses in newly diagnosed acute myeloid leukaemia unsuitable for intensive induction."
 ---
 
 Acute myeloid leukaemia in an older or frail patient is treated with a hypomethylating agent plus venetoclax, a combination that improved survival over the hypomethylating agent alone and became the standard for people who cannot tolerate intensive induction. Both components have usually been given intravenously or subcutaneously in the trials that established them. Those patients are typically over seventy-five or have cardiac, pulmonary or renal disease that makes anthracycline and cytarabine induction dangerous. Transfusion support and prophylactic antimicrobials still have to be arranged, and those visits are the practical limit on how far home treatment can go.

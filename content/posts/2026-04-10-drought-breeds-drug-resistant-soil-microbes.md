@@ -3,7 +3,7 @@ slug: "drought-breeds-drug-resistant-soil-microbes"
 title: "Drought breeds drug-resistant soil microbes"
 date: "2026-04-10T14:05:00+08:00"
 categories: [science]
-description: "A Caltech team writing in Nature Microbiology on 23 March shows that dry soils harbour more antibiotic producers and more resistance genes, and that aridity lines up with resistant infections in hospitals across 116 countries."
+description: "A Caltech team writing in *Nature* Microbiology on 23 March shows that dry soils harbour more antibiotic producers and more resistance genes, and that aridity lines up with resistant infections in hospitals across 116 countries."
 ---
 
 The world's antibiotic-resistance problem is usually told as a clinic story: doctors prescribe too much, bacteria evolve, the drugs stop working. A paper in *Nature Microbiology* on 23 March, led by Xiaoyu Shan in Dianne Newman's laboratory at the California Institute of Technology, widens the frame. The authors argue that a second, quieter selection pressure has been running in the background, driven not by prescription pads but by the weather. Drought, they show, is itself a force that selects for drug-resistant bacteria.

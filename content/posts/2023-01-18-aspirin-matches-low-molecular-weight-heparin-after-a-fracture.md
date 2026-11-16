@@ -3,7 +3,7 @@ slug: "aspirin-matches-low-molecular-weight-heparin-after-a-fracture"
 title: "Aspirin matches low-molecular-weight heparin after a fracture"
 date: "2023-01-18T09:20:00+08:00"
 categories: [science]
-description: "In the New England Journal of Medicine, 19 January 2023, the PREVENT CLOT trial finds aspirin noninferior to low-molecular-weight heparin for preventing death after orthopaedic trauma, with 47 deaths among 6,101 aspirin patients and 45 among 6,110 given heparin."
+description: "The PREVENT CLOT trial finds aspirin noninferior to low-molecular-weight heparin for preventing death after orthopaedic trauma, with 47 deaths among 6,101 aspirin patients and 45 among 6,110 given heparin. The paper is published in *New England Journal of Medicine* on 19 January 2023."
 ---
 
 Orthopaedic trauma produces a patient who cannot walk, has a broken bone with torn tissue around it, and carries the risk of a clot that travels to the lung. Prophylaxis is standard, and the standard has been low-molecular-weight heparin, an injectable drug that costs more and is harder to give at home than a tablet.
@@ -24,4 +24,4 @@ The guideline consequence is likely to be a menu. Aspirin for most patients with
 
 For the economics of trauma care, the difference is not trivial. An injectable drug that a patient must learn to give, or a nurse must visit to give, carries costs that a tablet does not, and a trial that shows equivalence is a trial that changes what hospitals buy.
 
-The trial also enrolled patients whose fracture was treated operatively and those treated in a cast, and the protocol did not require a particular agent for either. That heterogeneity is the point of a pragmatic design: the answer covers what orthopaedic surgeons actually do, not what a protocol committee would prefer.
+The trial also enrolled patients whose fracture was treated operatively and those treated in a cast, and the protocol did not require a particular agent for either. That heterogeneity is the point of a pragmatic design: the answer covers what orthopaedic surgeons actually do, not what a protocol com

@@ -3,7 +3,7 @@ slug: "a-second-obesity-drug-clears-its-own-bar"
 title: "A second obesity drug clears its own bar"
 date: "2026-06-07T09:20:00+08:00"
 categories: [science]
-description: "Survodutide, a dual glucagon and GLP-1 receptor agonist, produced significantly greater weight loss than placebo in a phase 3 trial reported in The New England Journal of Medicine on 7 June."
+description: "Survodutide, a dual glucagon and GLP-1 receptor agonist, produced significantly greater weight loss than placebo in a phase 3 trial reported in *The New England Journal of Medicine* on 7 June."
 ---
 
 The obesity drug market has been defined by incretin mimetics, and each new agent is asked the same question: does it beat placebo by enough to matter, and does it beat the drugs already available. The first of those is answered by a placebo-controlled trial, and the second needs a head-to-head comparison that few sponsors run. Placebo-controlled trials also define the safety profile that a head-to-head comparison would later have to match.

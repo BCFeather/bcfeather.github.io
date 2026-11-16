@@ -3,7 +3,7 @@ slug: "telitacicept-cuts-protein-leak-in-iga-nephropathy"
 title: "Telitacicept cuts protein leak in IgA nephropathy"
 date: "2026-05-13T09:20:00+08:00"
 categories: [science]
-description: "An interim analysis in The New England Journal of Medicine reports a 55 per cent relative reduction in urinary protein excretion with telitacicept in IgA nephropathy."
+description: "An interim analysis in *The New England Journal of Medicine* reports a 55 per cent relative reduction in urinary protein excretion with telitacicept in IgA nephropathy."
 ---
 
 IgA nephropathy is the commonest primary glomerular disease in many countries, and its course is measured in decades of slowly declining kidney function. Protein in the urine is the variable that predicts that decline, so a drug that lowers proteinuria is judged on that number before anyone knows whether dialysis is delayed. That endpoint is what the field uses because complete remission is rare and partial remission still predicts a slower loss of filtration.

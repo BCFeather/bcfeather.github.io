@@ -3,7 +3,7 @@ slug: "two-lipid-transfer-proteins-supply-the-chloroplast"
 title: "Two lipid transfer proteins supply the chloroplast"
 date: "2023-02-15T09:25:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, a study shows that Arabidopsis Sec14 proteins SFH5 and SFH7 mediate interorganelle transport of phosphatidic acid and regulate chloroplast development, filling a gap in how thylakoid lipids reach the organelle."
+description: "A study shows that Arabidopsis Sec14 proteins SFH5 and SFH7 mediate interorganelle transport of phosphatidic acid and regulate chloroplast development, filling a gap in how thylakoid lipids reach the organelle. It appears in *PNAS* on 7 February 2023."
 ---
 
 The chloroplast's thylakoid membrane is a specialized lipid environment, and the lipids are not made there. They are synthesized in the endoplasmic reticulum, and they have to cross the cytosol and the chloroplast envelope to reach the thylakoids.
@@ -28,4 +28,4 @@ For cell biology, the result adds a case to a small list. Lipid transport betwee
 
 The proteins' lipid specificity is the argument's support. A Sec14 domain that binds phosphatidic acid and not its derivatives is a domain evolved for the precursor, and the specificity is what distinguishes a transport protein from a general lipid chaperone.
 The envelope's contact sites are the alternative route. The chloroplast touches the endoplasmic reticulum at several points, and lipids can move through a contact without a carrier. The paper's proteins may act where contacts are absent, which would explain why their loss produces a phenotype.
-Thylakoid lipid composition is a stress trait. Cold and drought change the ratio of saturated to unsaturated lipids, and a plant that cannot move the precursor may be less able to remodel. That connects a transport protein to yield under stress.
+Thylakoid lipid composition is a stress trait. Cold and drought change the ratio of saturated to unsaturated lipids, and a plant that cannot move the precursor may be less able to remodel. That connects a transport protein to yield 

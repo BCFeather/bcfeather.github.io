@@ -3,7 +3,7 @@ slug: "two-hundred-thousand-cells-give-intracellular-organization-a-ruler"
 title: "Two hundred thousand cells give intracellular organization a ruler"
 date: "2023-01-28T09:35:00+08:00"
 categories: [science]
-description: "In Nature, 4 January 2023, Matheus Viana, Susanne Rafelski and colleagues image more than 200,000 human induced pluripotent stem cells in three dimensions and build a framework for measuring cell shape and the position and organization of major organelles."
+description: "Matheus Viana, Susanne Rafelski and colleagues image more than 200,000 human induced pluripotent stem cells in three dimensions and build a framework for measuring cell shape and the position and organization of major organelles. The work is reported in *Nature* on 4 January 2023."
 ---
 
 A cell's shape and the arrangement of its parts are outputs of its state, and measuring them has been an artisanal activity: a few hundred cells, a handful of markers, a paper's worth of images. The result is a literature of beautiful pictures and few quantitative generalizations.
@@ -27,4 +27,4 @@ The long-term use is comparison across conditions. A drug screen that reads cell
 Image analysis at this scale depends on segmentation, and the paper's pipeline is built to handle the failures: a cell whose nucleus touches its neighbour, a mitotic cell whose shape is unlike any other in the population. The quality control is part of the result.
 The framework also defines a notion of a typical cell, and typicality is what a perturbation is measured against. A drug that moves the population's mean shape by a small amount is detectable when the reference distribution is known and the variance is measured.
 For the stem-cell field, the dataset addresses a practical problem: pluripotent cells in culture drift, and a quantitative description of their organization gives a benchmark against which a new line or a new medium can be compared.
-The next version of the atlas would need live imaging. Fixed cells give a snapshot, and the organization's dynamics, such as how the nucleus repositions before division, require a time series that the current dataset does not include.
+The next version of the atlas would need live imaging. Fixed cells give a snapshot, and the organization's dynamics, such as how the nucleus repositions before division, require a time series that the current da

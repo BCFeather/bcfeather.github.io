@@ -3,7 +3,7 @@ slug: "replay-in-the-hippocampus-serves-two-purposes-at-once"
 title: "Replay in the hippocampus serves two purposes at once"
 date: "2023-02-20T09:20:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, G. Elliott Wimmer, Raymond Dolan and colleagues find distinct replay signatures in the hippocampus for prospective decision-making and for memory preservation, separating two functions that had been hard to tell apart."
+description: "G. Elliott Wimmer, Raymond Dolan and colleagues find distinct replay signatures in the hippocampus for prospective decision-making and for memory preservation, separating two functions that had been hard to tell apart. The work is reported in *PNAS* on 7 February 2023."
 ---
 
 The hippocampus replays experience when it is not happening. A sequence of places that was walked through during the day is reactivated during sleep, and the reactivation has been interpreted as consolidation, as planning, or as both.
@@ -29,4 +29,4 @@ For memory research, the result removes a dichotomy. Consolidation and planning 
 For artificial agents, the analogy is suggestive. A system that learns from experience and one that plans from a model both use stored trajectories, and the hippocampus may be the place where the two uses are implemented in the same tissue.
 
 The hippocampal dependence is a further clue. Replay is associated with the hippocampal formation, and the paper's recordings come from electrodes placed across that region. A signature that appears in one subfield and not another would localize the function, and the dataset permits that analysis.
-The behavioural consequence is measurable. Participants whose replay shows more planning-like events choose better on the model-based trials, and the correlation is the evidence that the signatures mean something for performance rather than being epiphenomena.
+The behavioural consequence is measurable. Participants whose replay shows more planning-like events choose better on the model-based trials, and the correlation is the evidence that the signatures mean something for performance rather t

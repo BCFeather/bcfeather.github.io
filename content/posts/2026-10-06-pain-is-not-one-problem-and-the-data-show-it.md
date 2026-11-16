@@ -3,7 +3,7 @@ slug: "pain-is-not-one-problem-and-the-data-show-it"
 title: "Pain is not one problem and the data show it"
 date: "2026-10-06T18:20:00+08:00"
 categories: [science]
-description: "A Nature Medicine analysis of 6.1 million people in 118 countries maps pain by body area, age and country income, and the patterns differ sharply."
+description: "A *Nature Medicine* analysis of 6.1 million people in 118 countries maps pain by body area, age and country income, and the patterns differ sharply."
 ---
 
 Pain research usually counts diagnoses, which means it counts the people who reached a clinic. A study published in *Nature Medicine* in October took the other route and analysed self-reported pain from 6,125,459 people aged five to over a hundred, in 118 countries and territories, with data collected between 1990 and 2025. The result is a map, and the map is not flat. Reporting pain rather than seeking care removes the filter that clinics impose, though it adds one of its own: surveys reach the people who answer them.

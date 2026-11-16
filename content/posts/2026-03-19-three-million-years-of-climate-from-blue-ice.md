@@ -3,7 +3,7 @@ slug: "three-million-years-of-climate-from-blue-ice"
 title: "Three million years of climate from blue ice"
 date: "2026-03-19T20:40:00+08:00"
 categories: [science]
-description: "Two papers in Nature use ancient ice exposed at the surface of Antarctica to reconstruct three million years of climate, and find that ocean temperature did more than greenhouse gases to drive the major transitions."
+description: "Two papers in *Nature* use ancient ice exposed at the surface of Antarctica to reconstruct three million years of climate, and find that ocean temperature did more than greenhouse gases to drive the major transitions."
 ---
 
 Continuous ice cores reach back about eight hundred thousand years, which covers the recent glacial cycles and misses the transitions that set them up. Older ice exists, but it is not in a continuous column, because the layers have been folded and thinned by flow. At a few places in Antarctica, ice that old is exposed at the surface, brought up by the flow and ablated by the wind, and the Allan Hills blue ice area is one of those places.

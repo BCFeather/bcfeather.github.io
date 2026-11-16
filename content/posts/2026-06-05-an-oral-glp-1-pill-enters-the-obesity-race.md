@@ -3,7 +3,7 @@ slug: "an-oral-glp-1-pill-enters-the-obesity-race"
 title: "An oral GLP-1 pill enters the obesity race"
 date: "2026-06-05T09:25:00+08:00"
 categories: [science]
-description: "A phase 2b trial in Nature Medicine reports weight loss with aleniglipron, an oral small-molecule GLP-1 receptor agonist, in people with overweight or obesity."
+description: "A phase 2b trial in *Nature Medicine* reports weight loss with aleniglipron, an oral small-molecule GLP-1 receptor agonist, in people with overweight or obesity."
 ---
 
 Incretin therapy is injected, and the injection is the part of the treatment that patients most often cite when they stop. An oral small molecule that activates the same receptor would remove that barrier, and several companies have been chasing one for a decade. The injections are weekly, self-administered, and require refrigeration, and each of those requirements removes some patients from treatment. Patients report that the injection is the part of the regimen they most resent, more than the nausea.

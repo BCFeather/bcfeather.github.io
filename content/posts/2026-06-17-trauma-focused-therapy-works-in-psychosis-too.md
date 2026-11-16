@@ -3,7 +3,7 @@ slug: "trauma-focused-therapy-works-in-psychosis-too"
 title: "Trauma-focused therapy works in psychosis too"
 date: "2026-06-17T09:20:00+08:00"
 categories: [science]
-description: "The STAR trial, published in The Lancet, finds that trauma-focused cognitive behavioural therapy reduces PTSD symptoms in people with psychosis, a group usually excluded from such trials."
+description: "The STAR trial, published in *The Lancet*, finds that trauma-focused cognitive behavioural therapy reduces PTSD symptoms in people with psychosis, a group usually excluded from such trials."
 ---
 
 People with psychotic disorders experience post-traumatic stress at high rates, and the trauma is often caused by the illness itself: involuntary admission, restraint, and the fear that accompanies psychosis. Treatment guidelines have nonetheless excluded them from trauma-focused therapy, on the grounds that talking about the trauma might destabilize the psychosis. The exclusion rests on a clinical intuition rather than on trial evidence, and the intuition is that discussing trauma will inflame delusions or trigger relapse. Trauma-focused work asks a patient to revisit the memory deliberately, which is precisely what services have feared.

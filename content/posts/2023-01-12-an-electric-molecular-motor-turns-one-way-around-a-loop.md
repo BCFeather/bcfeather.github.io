@@ -3,7 +3,7 @@ slug: "an-electric-molecular-motor-turns-one-way-around-a-loop"
 title: "Electric molecular motor turns one way around a loop"
 date: "2023-01-12T09:30:00+08:00"
 categories: [science]
-description: "In Nature, 11 January 2023, Long Zhang, Yunyan Qiu, Fraser Stoddart and colleagues describe a [3]catenane motor driven by redox reactions whose two rings move unidirectionally around a circular track."
+description: "Long Zhang, Yunyan Qiu, Fraser Stoddart and colleagues describe a [3]catenane motor driven by redox reactions whose two rings move unidirectionally around a circular track. It appears in *Nature* on 11 January 2023."
 ---
 
 Molecular machines have been built from many parts, and the hardest part has been direction. A motor that spins randomly is a rotor; a motor that spins one way is a machine, and the difference requires a ratchet, a fuel and a sequence that never lets the system slip backwards.
@@ -22,4 +22,4 @@ What the paper does not yet show is a motor coupled to a function. A ring that t
 
 The comparison with biological motors is instructive. ATP synthase and the bacterial flagellum achieve direction with a fixed structure and a chemical gradient, and their efficiency is set by evolution rather than by design. A synthetic motor that runs on a potentiostat is cruder and more controllable, and controllability is what a technology needs first.
 
-The next steps are lifetime and speed. A motor that survives thousands of cycles without fatigue, and one that turns fast enough to move something visible, would mark the transition from chemistry to engineering. The paper's demonstration of direction is the precondition for both.
+The next steps are lifetime and speed. A motor that survives thousands of cycles without fatigue, and one that turns fast enough to move something visible, would mark the transition from chemistry to engineering. The paper's demonstration of direction is the preconditi

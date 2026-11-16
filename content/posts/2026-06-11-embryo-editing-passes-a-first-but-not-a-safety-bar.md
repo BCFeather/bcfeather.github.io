@@ -3,7 +3,7 @@ slug: "embryo-editing-passes-a-first-but-not-a-safety-bar"
 title: "Embryo editing passes a first, but not a safety bar"
 date: "2026-06-11T09:30:00+08:00"
 categories: [science]
-description: "Science reports that a gene-editing experiment in human embryos has produced a cleaner result than earlier attempts, while the safety questions that stopped the field remain unanswered."
+description: "*Science* reports that a gene-editing experiment in human embryos has produced a cleaner result than earlier attempts, while the safety questions that stopped the field remain unanswered."
 ---
 
 Editing the DNA of a human embryo is the one experiment in genetics that everyone agrees needs a bar higher than the one for a mouse. The 2018 case that produced gene-edited children was condemned worldwide, and the field has since been effectively paused in most jurisdictions while the technical problems were worked on.

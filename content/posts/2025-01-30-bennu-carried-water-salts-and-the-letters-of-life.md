@@ -3,7 +3,7 @@ slug: "bennu-carried-water-salts-and-the-letters-of-life"
 title: "Bennu carried water, salts and the letters of life"
 date: "2025-01-30T14:05:00+08:00"
 categories: [science]
-description: "Samples returned from the asteroid Bennu contain amino acids, all five nucleobases used by DNA and RNA, and salts formed in ancient brines, according to two papers published on 30 January in Nature and Nature Astronomy."
+description: "Samples returned from the asteroid Bennu contain amino acids, all five nucleobases used by DNA and RNA, and salts formed in ancient brines, according to two papers published on 30 January in *Nature* and *Nature Astronomy*."
 ---
 
 The OSIRIS-REx spacecraft collected material from the surface of Bennu in 2020 and delivered 121.6 grams of it to Earth in September 2023, which is the largest sample from an asteroid ever returned and the first that was kept sealed from the atmosphere on the way home. The sample is a piece of a body that formed in the outer solar system 4.5 billion years ago and has been altered little since.

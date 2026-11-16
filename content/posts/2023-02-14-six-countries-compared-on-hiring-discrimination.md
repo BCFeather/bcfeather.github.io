@@ -3,7 +3,7 @@ slug: "six-countries-compared-on-hiring-discrimination"
 title: "Six countries compared on hiring discrimination"
 date: "2023-02-14T09:20:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, Lincoln Quillian and John Lee assemble discrimination estimates from correspondence experiments in six Western countries and ask whether the level of discrimination in hiring has changed over recent decades."
+description: "Lincoln Quillian and John Lee assemble discrimination estimates from correspondence experiments in six Western countries and ask whether the level of discrimination in hiring has changed over recent decades. The study appears in *PNAS* on 7 February 2023."
 ---
 
 Hiring discrimination is measured by sending identical applications that differ only in the applicant's name, and counting the callbacks. The method is called a correspondence experiment, and it has been run hundreds of times since the 1970s.
@@ -29,4 +29,4 @@ For the field, the value is a baseline. A country that measures its own discrimi
 The standardization is the technical core. Different experiments use different occupations, different minority groups and different measures of callback, and a meta-analysis has to convert them to a common scale before any comparison is meaningful.
 Occupational variation is a confound worth naming. Discrimination is higher in customer-facing jobs where an employer imagines a client's reaction, and lower in manual work where a skill is easy to verify. A country's occupational mix can change its average.
 The direction of the trend is not uniform. Some countries show an improvement that the reforms explain, and others show a flat line that the reforms do not. The paper's contribution is to make the flat lines visible, because a flat line is a policy failure.
-For researchers, the dataset is a resource. New correspondence experiments can be placed in the series, and a result that contradicts the trend can be examined for a methodological difference rather than assumed to be an error.
+For researchers, the dataset is a resource. New correspondence experiments can be placed in the series, and a result that contradicts the trend can be examined for a methodological difference rather than ass

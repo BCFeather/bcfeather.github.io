@@ -3,7 +3,7 @@ slug: "clasping-folds-give-graphene-films-strength-and-give"
 title: "Folded flakes give graphene films both strength and stretch"
 date: "2026-10-14T19:40:00+08:00"
 categories: [science]
-description: "A Nature paper reports a graphene film that reaches 2.9 GPa in strength while stretching 5 per cent, because the flakes are folded and clasped rather than stacked flat."
+description: "A *Nature* paper reports a graphene film that reaches 2.9 GPa in strength while stretching 5 per cent, because the flakes are folded and clasped rather than stacked flat."
 ---
 
 A paper in *Nature* on 14 October reports a graphene film that reaches 2.9 GPa in tensile strength, stretches 5 per cent before it breaks, and absorbs 84.5 megajoules per cubic metre on the way there. Wang Lidan, Liao Yangchao and colleagues at several Chinese and American laboratories built the film from folded flakes rather than flat ones, and the fold is the point. The route is mechanical rather than chemical, which is why it can be scaled on the film-handling equipment that manufacturers already own.

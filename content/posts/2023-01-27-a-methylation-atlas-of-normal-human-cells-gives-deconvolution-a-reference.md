@@ -3,7 +3,7 @@ slug: "a-methylation-atlas-of-normal-human-cells-gives-deconvolution-a-reference
 title: "A methylation atlas of normal human cells gives deconvolution a reference"
 date: "2023-01-27T09:25:00+08:00"
 categories: [science]
-description: "In Nature, 4 January 2023, Netanel Loyfer, Tommy Kaplan and colleagues report a DNA methylation atlas of normal human cell types built from deep whole-genome bisulfite sequencing, with fragment-level markers for deconvolving mixtures and liquid biopsies."
+description: "Netanel Loyfer, Tommy Kaplan and colleagues report a DNA methylation atlas of normal human cell types built from deep whole-genome bisulfite sequencing, with fragment-level markers for deconvolving mixtures and liquid biopsies. The study appears in *Nature* on 4 January 2023."
 ---
 
 DNA methylation is the most stable mark a cell carries, and it is the mark that tells you what a cell is. A biopsy is a mixture of cells, and reading the mixture requires knowing what each component looks like in its pure form.
@@ -27,4 +27,4 @@ What the field gains is a standard. Assays that report cell-type proportions can
 The atlas also documents variability within a cell type. Methylation at some regions differs between donors or with age, and a reference that averages over donors builds that variability into the marker set, which is safer than a marker that only works in one individual.
 For cancer detection, the relevant comparison is between a normal reference and a tumour profile. A tumour's methylation is often a distorted version of its cell of origin, and an atlas of normal types gives the distortion a baseline to be measured against.
 The computational side matters as much as the sequencing. A reference matrix is only useful if the deconvolution method's assumptions match the data, and the paper provides both the matrix and the analysis framework, which is what makes it adoptable.
-Clinical translation will require a smaller panel. Whole-genome bisulfite sequencing is expensive, and a test built on a few hundred fragment-level markers would lose resolution but gain throughput, and the atlas is the resource from which such a panel can be chosen.
+Clinical translation will require a smaller panel. Whole-genome bisulfite sequencing is expensive, and a test built on a few hundred fragment-level markers would lose resolution but gain throughput, and the atlas is the resource from which such a 

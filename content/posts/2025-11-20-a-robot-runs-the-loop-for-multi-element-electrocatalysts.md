@@ -3,7 +3,7 @@ slug: "robots-close-the-loop-on-multi-element-electrocatalysts"
 title: "Robots close the loop on multi-element electrocatalysts"
 date: "2025-11-20T09:25:00+08:00"
 categories: [science]
-description: "In Nature, 13 November 2025, a multimodal robotic platform synthesises, characterizes and tests multi-element electrocatalysts in a closed loop, searching a composition space too large for manual experiment."
+description: "In *Nature*, 13 November 2025, a multimodal robotic platform synthesises, characterizes and tests multi-element electrocatalysts in a closed loop, searching a composition space too large for manual experiment."
 ---
 
 Electrocatalysts for water splitting, fuel cells and carbon dioxide reduction are usually alloys of three or four metals, and their performance depends on the ratio. A quaternary system with ten candidate elements has thousands of distinguishable compositions, and each one has to be made, characterized and tested under the same conditions before a comparison means anything. Manual experiment covers a corner of that space in a thesis.

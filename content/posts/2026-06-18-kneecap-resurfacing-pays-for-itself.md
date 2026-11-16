@@ -3,7 +3,7 @@ slug: "kneecap-resurfacing-pays-for-itself"
 title: "Kneecap resurfacing pays for itself"
 date: "2026-06-18T09:20:00+08:00"
 categories: [science]
-description: "The KAT trial in The Lancet finds little long-term clinical difference between resurfacing the kneecap and leaving it alone during knee replacement, with resurfacing showing a small consistent advantage and better value."
+description: "The KAT trial in *The Lancet* finds little long-term clinical difference between resurfacing the kneecap and leaving it alone during knee replacement, with resurfacing showing a small consistent advantage and better value."
 ---
 
 Total knee replacement is one of the most common elective operations, and one of its recurring arguments is whether to resurface the patella. Leaving it alone is quicker and cheaper; resurfacing adds a polyethylene component and a few minutes of operating time, and surgeons have disagreed for decades about which produces better outcomes. The disagreement has been settled by the size of the effect rather than by the direction, and trials have generally found differences too small to detect. Registry data suggest that patellar problems account for a meaningful share of revisions, which is why the question keeps returning.

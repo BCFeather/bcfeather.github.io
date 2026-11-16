@@ -3,7 +3,7 @@ slug: "deep-learning-clears-the-spring-barrier-for-el-nino"
 title: "Deep learning clears the spring barrier for El Niño"
 date: "2026-05-21T09:20:00+08:00"
 categories: [science]
-description: "A Science paper reports a model that tracks tropical winds and subsurface ocean heat and forecasts El Niño up to sixteen months ahead, past the spring predictability barrier."
+description: "A *Science* paper reports a model that tracks tropical winds and subsurface ocean heat and forecasts El Niño up to sixteen months ahead, past the spring predictability barrier."
 ---
 
 El Niño forecasts die in the spring. Models initialized between February and May struggle to say what the tropical Pacific will look like at the end of the year, when the event peaks, and the failure has a name: the spring predictability barrier. A paper in *Science* on 21 May reports a data-driven model that gets past it. The barrier is a real physical problem as well as a statistical one: spring is when the coupled system is least constrained by its own memory, and small differences in wind decide which way the year goes.

@@ -3,7 +3,7 @@ slug: "broad-ras-blockade-doubles-survival-in-pancreatic-cancer"
 title: "Broad RAS blockade doubles survival in pancreatic cancer"
 date: "2026-05-31T09:25:00+08:00"
 categories: [science]
-description: "Daraxonrasib, an oral inhibitor that blocks active RAS regardless of the mutation, doubled median survival in previously treated metastatic pancreatic cancer, The New England Journal of Medicine reports."
+description: "Daraxonrasib, an oral inhibitor that blocks active RAS regardless of the mutation, doubled median survival in previously treated metastatic pancreatic cancer, *The New England Journal of Medicine* reports."
 ---
 
 Pancreatic cancer has been the graveyard of targeted therapy. *KRAS* is mutated in more than nine in ten cases, and for thirty years the protein was considered undruggable because it has no deep pocket to bind. Covalent inhibitors for the G12C substitution worked in lung cancer and had almost no application here, because pancreatic tumours carry G12D and G12V far more often. That history is why the result reads as a departure rather than an increment, and why the same question is now being asked of every RAS-driven tumour.

@@ -3,7 +3,7 @@ slug: "obexelimab-lowers-the-flare-rate-in-igg4-related-disease"
 title: "Obexelimab lowers the flare rate in IgG4-related disease"
 date: "2026-06-02T09:20:00+08:00"
 categories: [science]
-description: "INDIGO, reported in The New England Journal of Medicine, finds that weekly obexelimab reduced flares and glucocorticoid exposure in IgG4-related disease."
+description: "INDIGO, reported in *The New England Journal of Medicine*, finds that weekly obexelimab reduced flares and glucocorticoid exposure in IgG4-related disease."
 ---
 
 IgG4-related disease is a fibro-inflammatory condition that can enlarge the pancreas, the salivary glands, the orbits and the aorta, and it is treated with glucocorticoids because nothing else has been convincingly shown to change its course. Relapse on tapering is common, and cumulative steroid dose becomes the main source of harm. The diagnosis is made on histology and on the pattern of organ involvement, and it is frequently mistaken for cancer until a biopsy settles the question. Organ enlargement responds to steroids within weeks, and the difficulty is what happens after the dose is reduced.

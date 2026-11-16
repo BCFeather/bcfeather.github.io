@@ -3,7 +3,7 @@ slug: "a-sheltered-cavity-between-earth-and-the-moon"
 title: "Earth's magnetic shadow reaches past the Moon's orbit"
 date: "2026-04-15T13:35:00+08:00"
 categories: [science]
-description: "Analysis of three years of data from China's Chang'e-4 lander, cross-checked with NASA's LRO, reveals a pocket of reduced cosmic-ray flux on the lunar dayside, carved by Earth's magnetic field. Published in Science Advances on 25 March."
+description: "Analysis of three years of data from China's Chang'e-4 lander, cross-checked with NASA's LRO, reveals a pocket of reduced cosmic-ray flux on the lunar dayside, carved by Earth's magnetic field. Published in *Science* Advances on 25 March."
 ---
 
 Between Earth and the Moon, the space environment is usually described as empty and hostile: a vacuum laced with cosmic rays, a radiation dose that is one of the quiet hazards of any human mission beyond low orbit. A paper in *Science Advances* on 25 March complicates that picture. Far from uniform, the radiation field in Earth-Moon space contains a sheltered pocket, a cavity of reduced cosmic-ray flux, and its existence changes how missions might plan their exposure.

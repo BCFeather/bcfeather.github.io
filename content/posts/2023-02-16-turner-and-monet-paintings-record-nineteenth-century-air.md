@@ -3,7 +3,7 @@ slug: "turner-and-monet-paintings-record-nineteenth-century-air"
 title: "Turner and Monet paintings record nineteenth-century air"
 date: "2023-02-16T09:15:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, an analysis of paintings by Turner and Monet finds that changes in the haze and colour of their work track the air pollution of the industrial cities where they painted, turning canvases into a record of nineteenth-century atmospheres."
+description: "An analysis of paintings by Turner and Monet finds that changes in the haze and colour of their work track the air pollution of the industrial cities where they painted, turning canvases into a record of nineteenth-century atmospheres. The study appears in *PNAS* on 7 February 2023."
 ---
 
 Art historians read paintings for style, and atmospheric scientists read them for haze. The two disciplines rarely meet, and a canvas that depicts a city has a sky whose colour and contrast were set by the air between the painter and the view.
@@ -28,4 +28,4 @@ The collaboration is the model. An art historian's knowledge of provenance and a
 
 The measurement of contrast is a standard image analysis. A painting is digitized, the sky region is identified, and the local contrast is computed across scales. The method is reproducible, which is what lets two centuries of canvases be compared with each other.
 The painters' own accounts support the reading. Turner complained about the London air and Monet chose to paint in the fog, and both described the atmosphere as a subject. A painter who chooses smog as a subject is a painter who documents it.
-Sceptics will ask about varnish and fading. A canvas's colours change with age, and a pigment that darkens would mimic haze. The paper's controls include works from the same period in clear-air locations, and the contrast between them is the evidence.
+Sceptics will ask about varnish and fading. A canvas's colours change with age, and a pigment that darkens would mimic haze. The paper's controls include works from the same period in clear-air locations, and the contrast between t

@@ -3,7 +3,7 @@ slug: "a-fifth-of-the-standard-dose-of-yellow-fever-vaccine-works"
 title: "Fraction of the yellow fever dose works as well"
 date: "2025-02-19T14:05:00+08:00"
 categories: [science]
-description: "A trial in The New England Journal of Medicine found that 500 international units of yellow fever vaccine produced the same seroconversion as the standard 13,803 units, which could stretch a fragile supply during outbreaks."
+description: "A trial in *The New England Journal of Medicine* found that 500 international units of yellow fever vaccine produced the same seroconversion as the standard 13,803 units, which could stretch a fragile supply during outbreaks."
 ---
 
 Yellow fever vaccine is made from a live attenuated virus and is given as a single dose that protects for decades, which makes it one of the most effective vaccines in use. The problem is supply. The world's production comes from a handful of facilities, and a shortage in 2016 during an outbreak in Angola and Congo exhausted the stockpile and forced a dose-splitting policy that had never been tested in a trial.

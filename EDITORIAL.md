@@ -105,7 +105,12 @@ description: "One plain sentence, no TeX, readable without the body."
 * `title`: roman text, no markdown italic, no formula notation.
 * `date`: ISO 8601 with the `+08:00` offset, to the minute, varied across the working day.
 * `categories`: exactly one, unquoted inside square brackets, from the nine listed below. No tags.
-* `description`: one sentence of plain prose. No TeX, no backslash, no caret, no underscore notation, no abbreviated formula that a reader would have to decode. A description that needs notation is the wrong description; write the compound or the quantity in words.
+* `description`: one sentence of plain prose. No TeX, no backslash, no caret, no underscore notation, no abbreviated formula that a reader would have to decode. A description that needs notation is the wrong description; write the compound or the quantity in words. Italics are carried in markdown asterisks exactly as the body carries them (§9): journal titles, gene symbols and Latin binomials are italic; article titles, protein names, strain designations and programme names are roman. The page renders the description as markdown before it is displayed and strips the markup for the meta tags, so the asterisks cost nothing in a search preview. A description with a journal name set in roman is the commonest fault in this field.
+
+* *Journal italic, as it should be written*: `In *Nature*, 13 November 2025, the group reports ...`
+* *Gene italic beside a roman protein*: `Loss-of-function variants in *ABCA7* leave the transporter missing ...`
+* *Journal in roman, rejected*: `In Nature, 13 November 2025, the group reports ...`
+* *Notation smuggled into a description, rejected*: `... raises the coefficient above 10^{-9} ...` → `... raises the coefficient above one part in a billion ...`
 
 * *The nine categories*: `news`, `science`, `economy`, `business`, `technology`, `essay`, `sport`, `culture`, `society`
 * *A category as it appears in the file*: `categories: [science]`
@@ -230,7 +235,7 @@ A unit as a modifier stays singular, which is why a panel is described as `a 1,0
 
 Where a push is rejected, the branch is fetched and rebased before pushing again. Where a workflow fails, the content is corrected and a new commit is pushed; failed jobs are not re-run on the old tree. History is not rewritten by amendment or force.
 
-**14.2 Checklist.** Form, per file: five to seven paragraphs and 480 to 625 words; at most two paragraphs opening on `The`; openers varied in shape, with no two of one shape and none padded; titles opening on a bare article kept within the limit, and colon titles within a fifth of the batch; one unquoted category from the nine, with the front matter keys in order and the description free of notation.
+**14.2 Checklist.** Form, per file: five to seven paragraphs and 480 to 625 words; at most two paragraphs opening on `The`; openers varied in shape, with no two of one shape and none padded; titles opening on a bare article kept within the limit, and colon titles within a fifth of the batch; one unquoted category from the nine, with the front matter keys in order and the description free of notation and set in the italics of §9.
 
 Typography, per file: journal titles italic with their article inside the italics; gene symbols italic, proteins roman, binomials italic, higher taxa roman; symbols and indexed quantities in TeX with plain numbers left alone; four-digit numerals separated by commas, years and codes excepted; statistical symbols (`P` and `n`) italic; compound unit symbols spaced (`mA h`, `kW h`); `-ize` and `-yse` as in §12, with proper names keeping official spelling; straight quotes, singles outside and doubles inside, and no em or en dash in prose; `towards`, `per cent` and British vocabulary; house names as in §13.
 

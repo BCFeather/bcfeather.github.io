@@ -3,7 +3,7 @@ slug: "soft-polymers-survive-fatigue-when-the-crack-tip-softens"
 title: "Soft polymers survive fatigue when the crack tip softens"
 date: "2023-02-11T09:15:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, Binhong Liu, Shaoxing Qu, Guangmin Zhou and colleagues show that a crack-tip-softening design raises the fatigue threshold of soft polymer networks, a property that toughness alone does not provide."
+description: "Binhong Liu, Shaoxing Qu, Guangmin Zhou and colleagues show that a crack-tip-softening design raises the fatigue threshold of soft polymer networks, a property that toughness alone does not provide. The work is reported in *PNAS* on 7 February 2023."
 ---
 
 Soft materials fail in two different ways. A single large load tears them, and a repeated small load slowly grows a crack until it does. The first is toughness, the second is fatigue, and the two are governed by different physics.
@@ -27,4 +27,4 @@ What the paper does not test is the behaviour in a wet environment. A hydrogel i
 The broader lesson is about how failure is designed against. Toughness is a property of a material, fatigue is a property of a structure, and a material that controls the crack tip is doing structural work at the molecular scale.
 
 The threshold is not the only number that matters. A material that resists growth below a threshold can still fail if a defect exceeds it, and the design has to ensure that manufacturing flaws stay below the critical size.
-The comparison with natural materials is suggestive. Tendons and arteries resist fatigue through a combination of stiff fibres and a soft matrix, and the crack-tip softening mechanism is a synthetic version of the same strategy.
+The comparison with natural materials is suggestive. Tendons and arteries resist fatigue through a combination of stiff fibres and a soft matrix, and the crack-tip softening mechanism is a synthetic versio

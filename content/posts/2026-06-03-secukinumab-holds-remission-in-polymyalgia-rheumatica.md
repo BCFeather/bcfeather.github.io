@@ -3,7 +3,7 @@ slug: "secukinumab-holds-remission-in-polymyalgia-rheumatica"
 title: "Secukinumab holds remission in polymyalgia rheumatica"
 date: "2026-06-03T09:20:00+08:00"
 categories: [science]
-description: "A phase 3 trial in The New England Journal of Medicine reports that secukinumab sustained remission in 41 per cent of patients with polymyalgia rheumatica at 52 weeks, a disease that has relied on steroids for sixty years."
+description: "A phase 3 trial in *The New England Journal of Medicine* reports that secukinumab sustained remission in 41 per cent of patients with polymyalgia rheumatica at 52 weeks, a disease that has relied on steroids for sixty years."
 ---
 
 Polymyalgia rheumatica is treated with glucocorticoids and has been since the 1950s. Patients start at a moderate dose, taper over a year or two, and a large fraction relapse on the way down, which leaves them on steroids long enough to acquire the bone, glucose and blood pressure problems that steroids cause. The disease affects people over fifty, women more often than men, and its symptoms of shoulder and hip girdle pain and morning stiffness are common enough that diagnosis is often delayed.

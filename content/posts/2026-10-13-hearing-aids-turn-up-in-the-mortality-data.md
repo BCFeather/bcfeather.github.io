@@ -3,7 +3,7 @@ slug: "hearing-aids-turn-up-in-the-mortality-data"
 title: "Hearing aids turn up in the mortality data"
 date: "2026-10-13T20:45:00+08:00"
 categories: [science]
-description: "A pooled analysis in The Lancet Healthy Longevity links greater hearing loss to higher mortality, and finds hearing-aid use associated with lower risk."
+description: "A pooled analysis in *The Lancet* Healthy Longevity links greater hearing loss to higher mortality, and finds hearing-aid use associated with lower risk."
 ---
 
 Hearing loss has been on the list of modifiable risk factors for dementia for a few years. A pooled analysis published in *The Lancet Healthy Longevity* on 13 October adds a harder endpoint. Investigators combined individual participant data from population-based studies in Australia, Iceland and the United States, then replicated the result in a Norwegian cohort, and found that mortality rises with the severity of hearing loss, a gradient that survived the adjustments the investigators could make.

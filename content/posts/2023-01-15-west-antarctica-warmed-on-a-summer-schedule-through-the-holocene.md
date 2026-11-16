@@ -3,7 +3,7 @@ slug: "west-antarctica-warmed-on-a-summer-schedule-through-the-holocene"
 title: "West Antarctica warmed on a summer schedule through the Holocene"
 date: "2023-01-15T09:35:00+08:00"
 categories: [science]
-description: "In Nature, 11 January 2023, a continuous water-isotope record from the West Antarctic Ice Sheet Divide ice core shows that summer insolation, not annual mean sunshine, set West Antarctic temperatures through the Holocene."
+description: "A continuous water-isotope record from the West Antarctic Ice Sheet Divide ice core shows that summer insolation, not annual mean sunshine, set West Antarctic temperatures through the Holocene. The study appears in *Nature* on 11 January 2023."
 ---
 
 Ice cores are read as archives of temperature, and the reading depends on an assumption about when the snow fell. In West Antarctica, most accumulation happens in summer, so a core's isotope record is weighted towards one season, and a temperature reconstructed from it is a summer temperature whether the reconstruction says so or not.
@@ -24,4 +24,4 @@ For ice-sheet projections, the result changes the diagnostic. A reconstruction t
 
 The seasonality also matters for the interpretation of past ice-core carbon dioxide. Air is trapped in the firn at the end of summer, and a record dated by accumulation assumes that the trapping happens at a known time of year. A summer-weighted temperature and a summer-weighted trapping age are consistent with each other, which the older reconstructions were not.
 
-A summer-paced record also explains why some earlier West Antarctic reconstructions disagreed with each other. Cores with different accumulation seasons weight the same insolation forcing differently, and the disagreement was in the weighting rather than in the ice.
+A summer-paced record also explains why some earlier West Antarctic reconstructions disagreed with each other. Cores with different accumulation seasons weight the same insolation forcing differently, and the disagreement was in the weighting rath

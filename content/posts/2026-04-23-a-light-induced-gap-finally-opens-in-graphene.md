@@ -3,7 +3,7 @@ slug: "a-light-induced-gap-finally-opens-in-graphene"
 title: "Floquet gap in graphene seen for the first time"
 date: "2026-04-23T11:10:00+08:00"
 categories: [science]
-description: "A Tsinghua group writing in Nature Materials on 22 March reports the first direct spectroscopic observation of the long-sought Floquet gap in graphene, opened with a mid-infrared laser and splitting the Dirac crossing into two."
+description: "A Tsinghua group writing in *Nature Materials* on 22 March reports the first direct spectroscopic observation of the long-sought Floquet gap in graphene, opened with a mid-infrared laser and splitting the Dirac crossing into two."
 ---
 
 For more than a decade, graphene has been the proving ground for a beguiling idea: that a beam of light, shone at the right frequency, can rewrite the electronic band structure of a material on the fly, turning a metal into something else, momentarily, while the light is on. The idea is called Floquet engineering, and graphene, with its clean and simple electronic structure, was always the model system for it. The trouble was that the signature of success, a gap opened where the bands cross, had never actually been seen. A paper in *Nature Materials* on 22 March, from Shuyun Zhou's group at Tsinghua, reports that gap at last.

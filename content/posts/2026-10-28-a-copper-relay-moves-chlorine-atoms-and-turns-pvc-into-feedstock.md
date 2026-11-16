@@ -3,7 +3,7 @@ slug: "a-copper-relay-moves-chlorine-atoms-and-turns-pvc-into-feedstock"
 title: "A copper relay moves chlorine atoms and turns PVC into feedstock"
 date: "2026-10-28T20:10:00+08:00"
 categories: [science]
-description: "Xie Jin's group at Nanjing University reports switchable chlorine atom transfer catalysis in Nature, with applications from small chlorinated molecules to polyvinyl chloride."
+description: "Xie Jin's group at Nanjing University reports switchable chlorine atom transfer catalysis in *Nature*, with applications from small chlorinated molecules to polyvinyl chloride."
 ---
 
 Chlorinated hydrocarbons are cheap, abundant and awkward to use. A paper from Nanjing University in *Nature* on 28 October reports a copper-catalysed reaction that moves a chlorine atom from one carbon to another on demand, and applies the same chemistry to polyvinyl chloride as well as to small molecules. Xie Jin and colleagues call the reaction a switchable chlorine atom transfer, and the switching is done by changing which copper species is present rather than by changing the temperature.

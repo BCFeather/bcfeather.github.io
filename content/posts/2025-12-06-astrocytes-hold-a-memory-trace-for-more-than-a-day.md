@@ -3,7 +3,7 @@ slug: "astrocytes-hold-a-memory-trace-for-more-than-a-day"
 title: "Astrocytes hold a memory trace for more than a day"
 date: "2025-12-06T09:35:00+08:00"
 categories: [science]
-description: "In Nature, 15 October 2025, Ken-ichi Dewa, Kodai Kaseda and Jun Nagai show that emotional experience evokes astrocyte signalling that forms an ensemble, reinforced by repeated experience, and that this ensemble stabilises memory over several days."
+description: "In *Nature*, 15 October 2025, Ken-ichi Dewa, Kodai Kaseda and Jun Nagai show that emotional experience evokes astrocyte signalling that forms an ensemble, reinforced by repeated experience, and that this ensemble stabilises memory over several days."
 ---
 
 Memory research has been a study of neurons, and the supporting cells were treated as scaffolding. Astrocytes outnumber neurons in some brain regions, they contact synapses in vast numbers, and they change shape and chemistry in response to activity. Whether they participate in memory, rather than merely supporting it, has been an open question with few experiments behind it.

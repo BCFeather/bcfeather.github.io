@@ -3,7 +3,7 @@ slug: "a-muscle-preserving-drug-rides-along-with-tirzepatide"
 title: "A muscle-preserving drug rides along with tirzepatide"
 date: "2026-06-08T09:20:00+08:00"
 categories: [science]
-description: "A phase 2 trial in Nature Medicine tests apitegromab, an antibody that blocks myostatin signalling, as a way of preserving lean mass during weight loss with tirzepatide."
+description: "A phase 2 trial in *Nature Medicine* tests apitegromab, an antibody that blocks myostatin signalling, as a way of preserving lean mass during weight loss with tirzepatide."
 ---
 
 Incretin-driven weight loss takes fat and muscle together, and the muscle component worries clinicians who treat older patients, because lean mass is what keeps people standing, walking and out of hospital. The fraction lost is typically a quarter to a third of total weight, which in a person with sarcopenia is a meaningful reduction in reserve. The concern is sharpest in older adults, where the loss of a kilogram of muscle can mean the difference between walking independently and needing help. Resistance training preserves some lean mass during weight loss, and a drug that does the same without exercise would be attractive to patients who do not train.

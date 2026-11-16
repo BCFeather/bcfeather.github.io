@@ -3,7 +3,7 @@ slug: "the-sensor-that-turns-on-beta-lactam-resistance-in-staphylococcus"
 title: "The sensor that turns on beta-lactam resistance in Staphylococcus"
 date: "2023-01-29T09:15:00+08:00"
 categories: [science]
-description: "In Nature, 4 January 2023, J. Andrew Alexander, Natalie Strynadka and colleagues report cryo-electron microscopy structures of BlaR1 that show how the sensor protein signals through cleavage of BlaI and induces the beta-lactamase blaZ and the resistant transpeptidase mecA."
+description: "J. Andrew Alexander, Natalie Strynadka and colleagues report cryo-electron microscopy structures of BlaR1 that show how the sensor protein signals through cleavage of BlaI and induces the beta-lactamase blaZ and the resistant transpeptidase mecA. The paper is published in *Nature* on 4 January 2023."
 ---
 
 Staphylococcus aureus resists penicillins by two routes, and both are switched on by the same sensor. The bacterium carries a membrane protein, BlaR1, that detects the drug and transmits the signal inward, and a repressor, BlaI, that sits on the DNA until the signal arrives.
@@ -27,4 +27,4 @@ What the paper does not show is the kinetics of the switch. Acylation is slow, a
 The work also clarifies why the inducible system exists. Constitutive resistance costs the cell, because BlaZ and MecA are expensive and because the transpeptidase is less efficient than the native one. Inducibility keeps the cost down until the drug is present.
 
 The sensor also illustrates a general principle of bacterial signalling. A membrane protein with a covalent modification as its input is a switch that cannot be reset until the modification is turned over, and the lifetime of the acyl-enzyme is a built-in delay that shapes the response.
-Combination therapy follows from the mechanism. If the sensor must be acylated to induce resistance, then a drug that binds without acylating would be an inhibitor in the literal sense, and the structures show which part of the pocket a non-covalent ligand could occupy.
+Combination therapy follows from the mechanism. If the sensor must be acylated to induce resistance, then a drug that binds without acylating would be an inhibitor in the literal sense, and the structures show which part of the pocket a non-cova

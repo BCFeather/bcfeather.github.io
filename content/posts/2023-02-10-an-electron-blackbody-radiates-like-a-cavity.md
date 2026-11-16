@@ -3,7 +3,7 @@ slug: "an-electron-blackbody-radiates-like-a-cavity"
 title: "An electron blackbody radiates like a cavity"
 date: "2023-02-10T09:25:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, Ke Zhang, Kaili Jiang and colleagues define an electron blackbody built from carbon nanotubes and measure radiation spectra that follow a thermal law, extending the blackbody concept from photons to electrons."
+description: "Ke Zhang, Kaili Jiang and colleagues define an electron blackbody built from carbon nanotubes and measure radiation spectra that follow a thermal law, extending the blackbody concept from photons to electrons. The work is reported in *PNAS* on 7 February 2023."
 ---
 
 A blackbody is an ideal absorber, and Planck's law for its radiation started quantum mechanics. The concept is defined for photons in a cavity, and the question of whether an electron gas can be made to behave as an ideal absorber has been theoretical.
@@ -27,4 +27,4 @@ The theoretical interest is the analogy's limits. An electron gas has a Fermi su
 For metrology, the value is a source that can be built small. A blackbody the size of a chip would calibrate detectors in places where a cavity never fits.
 
 The spectrum's shape is the test of the analogy. A photon blackbody's curve is fixed by Planck's law, and the electron gas's curve matches it over the measured band, which is the evidence that the emission is thermal rather than a set of discrete transitions.
-The device's geometry matters for the comparison. A nanotube film is an open structure with a large surface area, and radiation escapes from the whole volume rather than from a surface, which is what an ideal absorber would do.
+The device's geometry matters for the comparison. A nanotube film is an open structure with a large surface area, and radiation escapes from the whole volume rather than from a surface, which is what an i

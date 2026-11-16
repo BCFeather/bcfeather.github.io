@@ -3,7 +3,7 @@ slug: "a-drug-built-in-six-months-for-one-baby"
 title: "A drug built in six months for one baby"
 date: "2026-07-09T11:19:00+08:00"
 categories: [science]
-description: "A baby with a fatal urea-cycle disorder received a CRISPR base-editing therapy designed from scratch for a single mutation, developed in about six months. The New England Journal of Medicine paper that turns N-of-1 treatment from an idea into a precedent."
+description: "A baby with a fatal urea-cycle disorder received a CRISPR base-editing therapy designed from scratch for a single mutation, developed in about six months. *The New England Journal of Medicine* paper that turns N-of-1 treatment from an idea into a precedent."
 ---
 
 Most rare genetic diseases have no therapy, because a drug built for a few hundred patients at most cannot pay for itself. The result is a long tail of conditions that are untreatable not because the biology is intractable but because the economics do not work. A case reported in the New England Journal of Medicine on 15 May 2025 attacks that problem from the other end: build the medicine for one patient, and accept that the patient is the whole market.

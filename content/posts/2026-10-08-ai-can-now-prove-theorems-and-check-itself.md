@@ -3,7 +3,7 @@ slug: "ai-can-now-prove-theorems-and-check-itself"
 title: "AI can now prove theorems and check itself"
 date: "2026-10-08T09:50:00+08:00"
 categories: [technology]
-description: "A Science perspective argues that machine mathematics has crossed from assistance to research contribution, and that formal proof search is what makes the results verifiable."
+description: "A *Science* perspective argues that machine mathematics has crossed from assistance to research contribution, and that formal proof search is what makes the results verifiable."
 ---
 
 On 8 October *Science* published a perspective by Jeremy Avigad and Matthew Ballard with a plain claim in its title: artificial intelligence can now solve research problems in mathematics and verify its answers. Beside it, in the same issue, sits a research article on AI-driven formal proof search, which reports machine-assisted proofs of problems at research level rather than of exercises. Together they mark a change in what the field is arguing about.

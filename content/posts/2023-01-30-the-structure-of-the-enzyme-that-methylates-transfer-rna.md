@@ -3,7 +3,7 @@ slug: "the-structure-of-the-enzyme-that-methylates-transfer-rna"
 title: "The structure of the enzyme that methylates transfer RNA"
 date: "2023-01-30T09:25:00+08:00"
 categories: [science]
-description: "In Nature, 4 January 2023, Victor Ruiz-Arroyo, Yunsun Nam and colleagues report cryo-electron microscopy structures of METTL1-WDR4 that show how the complex recognizes tRNA and installs the m7G modification, with a companion paper from Jiazhi Li and Richard Gregory."
+description: "Victor Ruiz-Arroyo, Yunsun Nam and colleagues report cryo-electron microscopy structures of METTL1-WDR4 that show how the complex recognizes tRNA and installs the m7G modification, with a companion paper from Jiazhi Li and Richard Gregory. It appears in *Nature* on 4 January 2023."
 ---
 
 Transfer RNA carries a set of chemical modifications, and one of them sits at the wobble position of the anticodon or in the variable loop. Methylation at guanine N7 is added by a two-protein complex, and the complex is conserved from yeast to humans.
@@ -28,4 +28,4 @@ The clinical angle is the syndrome. If WDR4 mutations destabilize the complex, t
 
 The complex's assembly is a further question. METTL1 alone is unstable, and WDR4 keeps it folded; the structures show the interface as a set of contacts between the two proteins, and the disease mutations map onto it, which is how a structural observation becomes a mechanistic explanation.
 
-Substrate specificity is the other constraint. The complex methylates a subset of tRNAs rather than all of them, and the structures show how the enzyme reads the shape of the anticodon arm. Recognition of a fold, rather than of a sequence, is what makes the target set small and definable.
+Substrate specificity is the other constraint. The complex methylates a subset of tRNAs rather than all of them, and the structures show how the enzyme reads the shape of the anticodon arm. Recognition of a fold, rather than of a sequence, is what makes the target set small a

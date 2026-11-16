@@ -3,7 +3,7 @@ slug: "a-plant-turns-autophagy-into-a-way-to-keep-infected-cells-alive"
 title: "A plant turns autophagy into a way to keep infected cells alive"
 date: "2026-05-28T09:30:00+08:00"
 categories: [science]
-description: "Science reports that selective autophagy in Arabidopsis protects virus-infected cells by destroying an immune regulator, with two metabolic enzymes acting as the receptors."
+description: "*Science* reports that selective autophagy in Arabidopsis protects virus-infected cells by destroying an immune regulator, with two metabolic enzymes acting as the receptors."
 ---
 
 Autophagy is usually filed under housekeeping: a cell digests its own components when nutrients run short or when damaged organelles need clearing. A paper in *Science* on 28 May describes a use that runs against that reading, in plants infected by a positive-sense single-stranded RNA virus. The setting is a model plant, not a crop, which is the usual first step and the usual reason a result takes a decade to reach a field.

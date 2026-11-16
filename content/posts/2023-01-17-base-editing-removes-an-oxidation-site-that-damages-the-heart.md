@@ -3,7 +3,7 @@ slug: "base-editing-removes-an-oxidation-site-that-damages-the-heart"
 title: "Base editing removes an oxidation site that damages the heart"
 date: "2023-01-17T09:15:00+08:00"
 categories: [science]
-description: "In Science, 13 January 2023, Simon Lebek and colleagues use CRISPR base editing to delete the two codons that let CaMKII-delta be switched on by oxidation, protecting mouse and human iPSC-derived heart muscle from ischaemia-reperfusion injury."
+description: "Simon Lebek and colleagues use CRISPR base editing to delete the two codons that let CaMKII-delta be switched on by oxidation, protecting mouse and human iPSC-derived heart muscle from ischaemia-reperfusion injury. The study appears in *Science* on 13 January 2023."
 ---
 
 Calcium-calmodulin kinase II is a signalling enzyme with a switch that is not supposed to exist. In the heart, its delta isoform is activated by calcium, and it is also activated when two methionine residues in its regulatory domain are oxidized. The second route is a damage pathway, and it is the one that runs during a heart attack.
@@ -24,4 +24,4 @@ The alternative is pharmacological. A small molecule that blocks oxidation of th
 
 What remains unmeasured is the long-term cost. A kinase that cannot be oxidized may lose a protective function, since oxidation also happens at low levels in healthy tissue, and the paper's time course is short. A year of follow-up in an animal model would show whether the edit is a repair or a trade.
 
-The result sits at the edge of what gene editing can do in cardiology. A permanent edit for an acquired disease is a hard sell, and a proof that the target is real is the step that makes a drug programme worth starting.
+The result sits at the edge of what gene editing can do in cardiology. A permanent edit for an acquired disease is a hard sell, and a proof that the target is real is the step that makes a drug progra

@@ -3,7 +3,7 @@ slug: "a-microglial-subset-that-makes-osteopontin-drives-alzheimer-pathology"
 title: "A microglial subset that makes osteopontin drives Alzheimer pathology"
 date: "2023-02-07T09:30:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, a study identifies a CD11c-positive microglial subset that produces osteopontin and contributes to the neuropathology of Alzheimer's disease, with a commentary by Lawrence Steinman on the protein's role."
+description: "A study identifies a CD11c-positive microglial subset that produces osteopontin and contributes to the neuropathology of Alzheimer's disease, with a commentary by Lawrence Steinman on the protein's role. The study appears in *PNAS* on 7 February 2023."
 ---
 
 Microglia are the immune cells of the brain, and in Alzheimer's disease they accumulate around plaques and change their state. The change has been described as activation, which is too coarse a word for a population that contains several distinct phenotypes.
@@ -26,4 +26,4 @@ The commentary's point is the broader one: an intrinsically disordered protein t
 
 The subset's marker is a integrin subunit, which is why the cells are identifiable by flow cytometry as well as by imaging. A surface marker makes a population sortable, and a sortable population can be profiled separately from the bulk tissue, which is how the transcriptomic signature was defined.
 Osteopontin's receptors are integrins, and the microglial subset's own integrin expression suggests an autocrine loop. A cell that secretes a ligand for a receptor it displays is a cell that can sustain its own state, and that self-sustaining quality is what makes the subset persist.
-The plaque microenvironment is where the subset accumulates. Amyloid deposits are a surface for microglial clustering, and a cluster is a place where secreted mediators reach high local concentration. The pathology may be a property of the cluster rather than of any single cell.
+The plaque microenvironment is where the subset accumulates. Amyloid deposits are a surface for microglial clustering, and a cluster is a place where secreted mediators reach high local concentration. The pathology may be a property of the cluster rather than

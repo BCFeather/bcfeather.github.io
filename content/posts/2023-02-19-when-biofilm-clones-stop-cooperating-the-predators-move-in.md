@@ -3,7 +3,7 @@ slug: "when-biofilm-clones-stop-cooperating-the-predators-move-in"
 title: "When biofilm clones stop cooperating, predators move in"
 date: "2023-02-19T09:25:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, a study of multispecies biofilms finds that the spatial architecture of clonal cooperation breaks down under predation, changing the ecology of the community and the way its members compete."
+description: "A study of multispecies biofilms finds that the spatial architecture of clonal cooperation breaks down under predation, changing the ecology of the community and the way its members compete. It appears in *PNAS* on 7 February 2023."
 ---
 
 A biofilm is a community with a structure. Bacteria attach to a surface, secrete a matrix, and divide in place, so that the descendants of a founder stay together. That spatial arrangement is what makes cooperation possible, because a cell that pays a cost can benefit its relatives.
@@ -30,4 +30,4 @@ The matrix is part of the story. Extracellular polymers hold the community toget
 
 Quorum sensing is the third factor. A biofilm's cells coordinate through diffusible signals, and a signal's concentration depends on local density. Break the clusters and the signals fall below threshold, which is another route by which architecture becomes behaviour.
 
-The ecological lesson is general. Competition, cooperation and predation are usually modelled as interactions between populations, and the paper shows that geometry sets their strength. A community's shape is a parameter of its ecology.
+The ecological lesson is general. Competition, cooperation and predation are usually modelled as interactions between populations, and the paper shows that geometry sets their strength. A community's shape is a parameter of 

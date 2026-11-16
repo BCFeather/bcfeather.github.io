@@ -3,7 +3,7 @@ slug: "azithromycin-clears-the-bacteria-and-leaves-the-wheeze"
 title: "Azithromycin clears the bacteria and leaves the wheeze"
 date: "2026-05-18T09:20:00+08:00"
 categories: [science]
-description: "A trial in The New England Journal of Medicine finds that azithromycin does not reduce wheezing severity in preschoolers in the emergency department, even when it clears the bacteria."
+description: "A trial in *The New England Journal of Medicine* finds that azithromycin does not reduce wheezing severity in preschoolers in the emergency department, even when it clears the bacteria."
 ---
 
 Preschool children arrive in emergency departments with wheezing, and a substantial share carry bacteria that antibiotics could kill. The temptation to treat is strong, the guidelines are ambiguous, and the trial reported in *The New England Journal of Medicine* on 18 May puts a number on the question. The trial was designed around that ambiguity, and its two-cohort structure is what allows the result to speak to both the child with a detectable pathogen and the child without one.

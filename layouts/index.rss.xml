@@ -27,7 +27,7 @@
     {{- with .Params.categories }}
     <category term="{{ index . 0 }}"/>
     {{- end }}
-    <summary>{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify }}{{ end }}</summary>
+    <summary>{{ with .Description }}{{ . | markdownify | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }}</summary>
   </entry>
   {{- end }}
 </feed>

@@ -3,7 +3,7 @@ slug: "five-million-years-of-whales-on-the-seafloor"
 title: "Five million years of whales on the seafloor"
 date: "2026-06-11T09:20:00+08:00"
 categories: [science]
-description: "Surveying the deep Pacific floor, researchers mapped 485 whale-fossil sites and five active whale falls, with the oldest remains dated to about 5.3 million years, Nature reports."
+description: "Surveying the deep Pacific floor, researchers mapped 485 whale-fossil sites and five active whale falls, with the oldest remains dated to about 5.3 million years, *Nature* reports."
 ---
 
 When a whale dies in the open ocean its carcass sinks and becomes a concentrated patch of food on a seafloor that is otherwise close to empty. The resulting community, a whale fall, supports worms, bivalves and crustaceans for decades, and some of those organisms are found nowhere else.

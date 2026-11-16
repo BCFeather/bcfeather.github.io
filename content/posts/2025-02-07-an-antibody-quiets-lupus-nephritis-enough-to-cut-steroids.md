@@ -3,7 +3,7 @@ slug: "an-antibody-quiets-lupus-nephritis-enough-to-cut-steroids"
 title: "Antibody quiets lupus nephritis enough to cut steroids"
 date: "2025-02-07T14:05:00+08:00"
 categories: [science]
-description: "A trial in The New England Journal of Medicine found that obinutuzumab added to standard care produced a complete renal response in 46.4 per cent of patients with active lupus nephritis at 76 weeks, against 33.1 per cent with placebo."
+description: "A trial in *The New England Journal of Medicine* found that obinutuzumab added to standard care produced a complete renal response in 46.4 per cent of patients with active lupus nephritis at 76 weeks, against 33.1 per cent with placebo."
 ---
 
 Lupus nephritis is the complication of systemic lupus erythematosus that damages the kidney, and it affects a third of patients with the disease. The treatment has been high-dose corticosteroids with mycophenolate or cyclophosphamide for decades, and the regimen works well enough to preserve kidney function in most patients while producing the infections, weight gain, bone loss and diabetes that a long course of steroids causes.

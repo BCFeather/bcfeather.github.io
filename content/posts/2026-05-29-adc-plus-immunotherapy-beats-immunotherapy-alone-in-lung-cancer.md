@@ -3,7 +3,7 @@ slug: "adc-plus-immunotherapy-beats-immunotherapy-alone-in-lung-cancer"
 title: "ADC plus immunotherapy beats immunotherapy alone in lung cancer"
 date: "2026-05-29T09:25:00+08:00"
 categories: [science]
-description: "A phase 3 trial published in The Lancet reports that a TROP2 antibody-drug conjugate combined with pembrolizumab cut the risk of progression or death by 65 per cent in first-line lung cancer without driver mutations."
+description: "A phase 3 trial published in *The Lancet* reports that a TROP2 antibody-drug conjugate combined with pembrolizumab cut the risk of progression or death by 65 per cent in first-line lung cancer without driver mutations."
 ---
 
 Immunotherapy alone sets the floor for first-line treatment of advanced non-small-cell lung cancer without a targetable driver. Pembrolizumab helps a minority durably, and chemotherapy added to it improves the average at the cost of tolerability. A third ingredient that lifts the average without that cost has been the goal of a large trial programme. The trial was run in China, which matters for the size of the population and for how quickly the result will be tested in other health systems with different PD-L1 testing practice.

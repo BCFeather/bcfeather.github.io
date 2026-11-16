@@ -3,7 +3,7 @@ slug: "every-iron-sulfur-bond-in-a-cluster-can-break-and-reform"
 title: "Every iron-sulfur bond in a cluster can break and reform"
 date: "2023-02-12T09:30:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, Niklas Thompson, Daniel Suess and colleagues show that all iron-sulfur bonds in a cuboidal Fe-S cluster can cleave and re-form, a flexibility that may explain how these cofactors are assembled and repaired in enzymes."
+description: "Niklas Thompson, Daniel Suess and colleagues show that all iron-sulfur bonds in a cuboidal Fe-S cluster can cleave and re-form, a flexibility that may explain how these cofactors are assembled and repaired in enzymes. It appears in *PNAS* on 7 February 2023."
 ---
 
 Iron-sulfur clusters are among the oldest cofactors in biology, and they sit at the active sites of enzymes that move electrons, fix nitrogen and reduce carbon dioxide. Their assembly and repair are processes that cells perform carefully, and the chemistry involved has been difficult to observe.
@@ -27,4 +27,4 @@ The synthetic value is a handle. A cluster that can be opened is a cluster whose
 For the field of bioinorganic chemistry, the result is a reminder that cofactors are not static objects. A cluster that breathes is a cluster that can be maintained, and maintenance is what a cell spends its effort on.
 
 The cluster's electronic states change as bonds break, and the paper tracks them by spectroscopy. A cluster that loses a sulfur becomes a different oxidant, and the sequence of states is a sequence of redox potentials that a protein could exploit.
-The synthetic result also bears on the origin of the cofactor. A cluster that assembles from iron and sulfide without a protein is a cluster that could have formed in the early ocean, and the flexibility the paper shows is what allowed a mineral to become an enzyme.
+The synthetic result also bears on the origin of the cofactor. A cluster that assembles from iron and sulfide without a protein is a cluster that could have formed in the early ocean, and the flexibility the paper shows is what allowed a mineral to beco

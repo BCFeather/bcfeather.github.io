@@ -3,7 +3,7 @@ slug: "arousal-gives-brain-dynamics-a-single-embedding-axis"
 title: "Arousal gives brain dynamics a single embedding axis"
 date: "2025-11-26T09:45:00+08:00"
 categories: [science]
-description: "In Nature, 13 November 2025, researchers reframe arousal as a latent dynamical system and use it to reconstruct multidimensional measurements of large-scale brain dynamics in mice on the timescale of seconds."
+description: "In *Nature*, 13 November 2025, researchers reframe arousal as a latent dynamical system and use it to reconstruct multidimensional measurements of large-scale brain dynamics in mice on the timescale of seconds."
 ---
 
 Recordings of the brain produce more dimensions than any model can use. An electrode array sees thousands of neurons, a calcium image sees thousands of pixels, and each of them varies on its own schedule. The usual response is to reduce the data with a method chosen in advance, which is a way of deciding what the brain is doing before looking at what it does.

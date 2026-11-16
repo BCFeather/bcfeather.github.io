@@ -3,7 +3,7 @@ slug: "a-personalized-vaccine-makes-ovarian-tumours-visible-to-the-immune-system
 title: "A personalized vaccine makes ovarian tumours visible to the immune system"
 date: "2026-10-14T21:30:00+08:00"
 categories: [science]
-description: "A phase 1 trial in Nature Medicine finds neoantigen vaccines with PD-1 blockade feasible in ovarian cancer, with immune responses in many patients and resistance traced to antigen presentation."
+description: "A phase 1 trial in *Nature Medicine* finds neoantigen vaccines with PD-1 blockade feasible in ovarian cancer, with immune responses in many patients and resistance traced to antigen presentation."
 ---
 
 Ovarian cancer is the solid tumour where immunotherapy has most consistently failed, for a reason that is now well described: the tumours carry few mutations, so there are few foreign peptides for a T cell to recognize. A phase 1 trial reported in *Nature Medicine* on 14 October tests the obvious response, which is to manufacture the target rather than wait for it. Ovarian cancer is also the tumour where trials of checkpoint blockade alone have failed most consistently, which makes it the right place to test a combination.

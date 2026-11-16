@@ -3,7 +3,7 @@ slug: "two-decades-of-psychology-papers-measured-for-replicability"
 title: "Two decades of psychology papers measured for replicability"
 date: "2023-02-13T09:20:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, Wu Youyou, Yang Yang and Brian Uzzi estimate the replicability of psychology papers published over two decades using a machine-learning model trained on text and statistics, finding variation by subfield and by era."
+description: "Wu Youyou, Yang Yang and Brian Uzzi estimate the replicability of psychology papers published over two decades using a machine-learning model trained on text and statistics, finding variation by subfield and by era. The study appears in *PNAS* on 7 February 2023."
 ---
 
 The replication crisis in psychology produced a set of manual replication projects, each of which re-ran a sample of studies and reported how many held up. Manual replication is expensive, and a discipline publishes far more papers than any project can re-run.
@@ -27,4 +27,4 @@ For science policy, the value is a metric that can be computed continuously. A d
 The model's features are interpretable, which is a virtue. A prediction that rests on sample size and on effect size is a prediction that a reader can check, and a reader who disagrees can recompute the estimate.
 The policy use is a dashboard. A field that publishes its replication estimates can see whether a reform changed the distribution, and a change in the distribution is the evidence that a reform worked.
 
-A second use is teaching. A course that shows students the predicted replicability of the papers it assigns is a course that teaches how to read a result, and the estimate makes the lesson concrete rather than rhetorical.
+A second use is teaching. A course that shows students the predicted replicability of the papers it assigns is a course that teaches how to read a result, and the estimate makes the lesson concrete rath

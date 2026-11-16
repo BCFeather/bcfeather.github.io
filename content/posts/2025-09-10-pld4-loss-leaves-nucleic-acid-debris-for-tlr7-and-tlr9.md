@@ -3,7 +3,7 @@ slug: "pld4-loss-leaves-nucleic-acid-debris-for-tlr7-and-tlr9"
 title: "PLD4 loss leaves nucleic acid debris for TLR7 and TLR9"
 date: "2025-09-10T09:30:00+08:00"
 categories: [science]
-description: "Five patients with recessive PLD4 mutations show that a nuclease keeps single-stranded nucleic acid away from the receptors that drive interferon."
+description: "Five patients with recessive *PLD4* mutations show that a nuclease keeps single-stranded nucleic acid away from the receptors that drive interferon."
 ---
 
 Systemic lupus erythematosus is an autoimmune disease in which the body reacts to its own nucleic acids, and the rare monogenic cases show which molecules hold that reaction in check. Phospholipase D family member 4 had been suspected because mice without the gene develop autoimmunity, but no human disease had been tied to it. A study in *Nature* now reports five patients with lupus and recessive loss-of-function variants in *PLD4*, which turns the mouse phenotype into a human one and gives the enzyme a job.

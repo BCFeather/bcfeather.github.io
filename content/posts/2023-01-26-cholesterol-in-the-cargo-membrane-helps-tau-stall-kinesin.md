@@ -3,7 +3,7 @@ slug: "cholesterol-in-the-cargo-membrane-helps-tau-stall-kinesin"
 title: "Cholesterol in the cargo membrane helps tau stall kinesin"
 date: "2023-01-26T09:30:00+08:00"
 categories: [science]
-description: "In PNAS, 17 January 2023, Qiaochu Li, Jing Xu and colleagues show that cholesterol in the membrane of a cargo amplifies the inhibition that tau exerts on kinesin-1 transport, linking membrane composition to the microtubule-associated protein's effect on intracellular traffic."
+description: "Qiaochu Li, Jing Xu and colleagues show that cholesterol in the membrane of a cargo amplifies the inhibition that tau exerts on kinesin-1 transport, linking membrane composition to the microtubule-associated protein's effect on intracellular traffic. The paper is published in *PNAS* on 17 January 2023."
 ---
 
 Molecular motors carry cargo along microtubules, and the cargo is usually wrapped in a membrane. The motor attaches to the membrane, the membrane has a lipid composition, and the composition differs between organelles and between healthy and diseased cells.
@@ -27,4 +27,4 @@ The broader implication is that transport defects in disease may be partly a mem
 The measurement that carries the argument is the motor's run length. A kinesin that detaches sooner travels less far per encounter with the microtubule, and the paper's distributions of run length show the effect of cholesterol even when tau is held constant.
 Cholesterol also orders the bilayer, and an ordered bilayer binds the motor's tail differently. The paper separates the mechanical effect from the binding effect by varying the lipid composition without changing the motor's attachment chemistry.
 For neurodegenerative disease, the practical question is whether lowering membrane cholesterol would restore transport. Statins lower plasma cholesterol and not membrane cholesterol, and the brain's lipid metabolism is largely independent of the liver's, so the pharmacological route is not obvious.
-What the study leaves open is the number of motors per cargo. A vesicle carries several kinesins, and their cooperation changes the load each one feels; the reconstitution's motor density is a parameter other laboratories will want to vary.
+What the study leaves open is the number of motors per cargo. A vesicle carries several kinesins, and their cooperation changes the load each one feels; the reconstitution's motor density is a parameter other labora

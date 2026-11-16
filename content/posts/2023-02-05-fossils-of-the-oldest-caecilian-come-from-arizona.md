@@ -3,7 +3,7 @@ slug: "fossils-of-the-oldest-caecilian-come-from-arizona"
 title: "Fossils of the oldest caecilian come from Arizona"
 date: "2023-02-05T09:25:00+08:00"
 categories: [science]
-description: "In Nature, 23 February 2023, Ben Kligman and colleagues describe 76 fossils of Funcusvermis gilmorei from the Triassic Chinle Formation, the oldest known caecilian, dated to about 220 million years ago."
+description: "Ben Kligman and colleagues describe 76 fossils of Funcusvermis gilmorei from the Triassic Chinle Formation, the oldest known caecilian, dated to about 220 million years ago. The paper is published in *Nature* on 23 February 2023."
 ---
 
 Caecilians are amphibians that look like earthworms, live underground in the tropics, and have almost no fossil record. Their origin has been a gap in the tetrapod tree, and the gap has been filled by inference rather than by specimens.
@@ -26,4 +26,4 @@ For the amphibian tree, the find shortens the ghost lineage. A group with a 220-
 
 The specimens were recovered by sieving sediment rather than by quarrying skeletons. Microfossils of this kind accumulate in the concentrates that wash through a screen, and the assemblage of dozens of individuals came from a single horizon, which suggests a mass mortality or a accumulation in a pond.
 The jaw's structure is the diagnostic feature. Caecilian jaws have a unique arrangement of bones and a reduced dentition, and the Chinle specimens show the arrangement in a form that is simpler than the living one, which is what a stem-group member should look like.
-The name honours the site and the collector. Funcusvermis combines the Latin for a digging worm with a reference to the Chinle's fossiliferous beds, and gilmorei honours the palaeontologist who worked the formation a century ago.
+The name honours the site and the collector. Funcusvermis combines the Latin for a digging worm with a reference to the Chinle's fossiliferous beds, and gilmorei honours the palaeontologist who worked the

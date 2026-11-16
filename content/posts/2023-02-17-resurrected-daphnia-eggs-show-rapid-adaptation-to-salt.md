@@ -3,7 +3,7 @@ slug: "resurrected-daphnia-eggs-show-rapid-adaptation-to-salt"
 title: "Resurrected Daphnia eggs show rapid adaptation to salt"
 date: "2023-02-17T09:30:00+08:00"
 categories: [science]
-description: "In PNAS, 7 February 2023, Matthew Wersebe and Lawrence Weider hatch dormant Daphnia eggs from lake sediments and find genomic and phenotypic evidence that the population adapted rapidly to rising salinity, a keystone species tracking an environmental change."
+description: "Matthew Wersebe and Lawrence Weider hatch dormant Daphnia eggs from lake sediments and find genomic and phenotypic evidence that the population adapted rapidly to rising salinity, a keystone species tracking an environmental change. The work is reported in *PNAS* on 7 February 2023."
 ---
 
 Dormant eggs are a library. A lake's sediment holds decades of resting eggs produced by the zooplankton that lived in it, and each layer corresponds to a year. Hatching them gives a living sample of a past population.
@@ -29,4 +29,4 @@ For conservation, the result is a note of caution and of hope. Rapid adaptation 
 The sediment chronology is the backbone. Each layer is dated by the same methods that lake cores use, and a hatched animal can be assigned to a decade. Without the chronology, a difference between layers is a difference without a date.
 The trait measurement is the phenotype. Salt tolerance is assayed in a common garden, where all genotypes experience the same conditions, so that a difference reflects genetics rather than the environment the animals were raised in.
 
-The lake's own history is the context. Salinity rose with agricultural runoff or with the climate, and the timing of the rise is what the sediment layers date. The population's response and the environmental change can therefore be aligned year by year.
+The lake's own history is the context. Salinity rose with agricultural runoff or with the climate, and the timing of the rise is what the sediment layers date. The population's response and the environmental change can therefore be

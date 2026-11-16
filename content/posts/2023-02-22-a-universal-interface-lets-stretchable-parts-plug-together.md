@@ -3,7 +3,7 @@ slug: "a-universal-interface-lets-stretchable-parts-plug-together"
 title: "A universal interface lets stretchable parts plug together"
 date: "2023-02-22T09:15:00+08:00"
 categories: [science]
-description: "In Nature, 16 February 2023, a universal interface for stretchable devices allows soft electronic components to be assembled and reconnected without losing electrical contact under strain, addressing the weak point in wearable and implantable circuits."
+description: "A universal interface for stretchable devices allows soft electronic components to be assembled and reconnected without losing electrical contact under strain, addressing the weak point in wearable and implantable circuits. The paper is published in *Nature* on 16 February 2023."
 ---
 
 Stretchable electronics have a common failure point, and it is not the material. A soft conductor can stretch, a soft substrate can bend, and the joint between them is where the device breaks. An interface that survives strain is the component the field has needed.
@@ -29,4 +29,4 @@ For the field, the value is a standard part. Stretchable electronics have been a
 The medical use is the nearest application. A patch that monitors a signal has to conform to skin that moves, and a device that fails at its joints is a device that a patient notices.
 
 The electrical resistance of the interface is a design variable. A joint that conducts well but stiffens the device is worse than one with slightly higher resistance that lets the whole assembly flex, and the paper's characterization reports both.
-The comparison with rigid connectors is instructive. A pin-and-socket is reliable and it imposes a rigid patch on a soft system, and the new interface trades some of that reliability for compliance. For a device that has to move with a body, the trade is worth taking.
+The comparison with rigid connectors is instructive. A pin-and-socket is reliable and it imposes a rigid patch on a soft system, and the new interface trades some of that reliability for compliance. For a device that has to move with a body, t

@@ -3,7 +3,7 @@ slug: "chemical-tools-finally-reach-the-arrestin-arm-of-gpcr-signalling"
 title: "Chemical tools finally reach the arrestin arm of GPCR signalling"
 date: "2026-06-24T09:25:00+08:00"
 categories: [science]
-description: "A Nature paper reports the first small molecules that bind beta-arrestins directly and inhibit their activity, giving pharmacology a handle on the arm of G protein-coupled receptor signalling that drugs have never touched."
+description: "A *Nature* paper reports the first small molecules that bind beta-arrestins directly and inhibit their activity, giving pharmacology a handle on the arm of G protein-coupled receptor signalling that drugs have never touched."
 ---
 
 G protein-coupled receptors are the largest family of drug targets, and almost every drug that acts on them works through the G protein arm of the pathway. The other arm, mediated by beta-arrestin, recruits the receptor into a different set of responses, including desensitization and, for some receptors, signalling of its own. The two arms are not independent: a receptor that recruits arrestin is also desensitized, so blocking the arm changes both signalling and the lifetime of the active receptor.

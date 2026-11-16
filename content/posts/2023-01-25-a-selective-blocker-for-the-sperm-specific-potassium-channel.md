@@ -3,7 +3,7 @@ slug: "a-selective-blocker-for-the-sperm-specific-potassium-channel"
 title: "A selective blocker for the sperm-specific potassium channel"
 date: "2023-01-25T09:20:00+08:00"
 categories: [science]
-description: "In PNAS, 24 January 2023, Maximilian Lyon, Ping Li and colleagues identify a selective inhibitor of SLO3, the potassium channel that carries the main potassium current in human sperm, giving the field a tool to test what that current does to motility."
+description: "Maximilian Lyon, Ping Li and colleagues identify a selective inhibitor of SLO3, the potassium channel that carries the main potassium current in human sperm, giving the field a tool to test what that current does to motility. The paper is published in *PNAS* on 24 January 2023."
 ---
 
 Sperm are excitable cells in the electrical sense, though they have no nerves. Their membranes carry ion channels that set the resting potential and drive the calcium influx which triggers the acrosome reaction, and one channel, SLO3, carries the principal potassium current in human sperm.
@@ -26,4 +26,4 @@ What the study does not provide is an in vivo result. The concentrations used in
 
 The channel's gating is the reason it is druggable at all. SLO3 opens with voltage and with pH, and its sensitivity to both means that a blocker need not compete with a natural ligand; it can simply hold the pore shut in the states that matter.
 Species differences will decide how far the result travels. The mouse channel is regulated differently from the human one, and a compound selected against the human protein may not work in the standard animal model, which is a difficulty the reproductive field knows well.
-For the field, the compound's value is that it separates the channel's role in motility from its role in the acrosome reaction. The two processes happen in sequence, and a tool that can be added at a chosen moment lets an experiment isolate one from the other.
+For the field, the compound's value is that it separates the channel's role in motility from its role in the acrosome reaction. The two processes happen in sequence, and a tool that can be added at a chosen moment lets an experiment is

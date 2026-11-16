@@ -3,7 +3,7 @@ slug: "teclistamab-moves-earlier-in-multiple-myeloma"
 title: "Teclistamab moves earlier in multiple myeloma"
 date: "2026-05-29T09:20:00+08:00"
 categories: [science]
-description: "A phase 3 trial reported in The New England Journal of Medicine finds that teclistamab beats standard combinations in patients with one to three previous lines of myeloma therapy."
+description: "A phase 3 trial reported in *The New England Journal of Medicine* finds that teclistamab beats standard combinations in patients with one to three previous lines of myeloma therapy."
 ---
 
 Bispecific antibodies entered myeloma at the end of the line, in patients who had exhausted proteasome inhibitors, immunomodulatory drugs and anti-CD38 therapy. The question that follows every effective salvage drug is whether it does more good earlier, when the patient is less heavily pretreated and the immune system is less damaged. That sequencing logic is what the trial tests, and it is the same logic that moved anti-CD38 antibodies and CAR-T products earlier in the disease course.

@@ -3,7 +3,7 @@ slug: "an-asgard-archaeon-builds-an-actin-cytoskeleton"
 title: "An Asgard archaeon builds an actin cytoskeleton"
 date: "2023-01-31T09:20:00+08:00"
 categories: [science]
-description: "In Nature, 12 January 2023, Thiago Rodrigues-Oliveira, Christa Schleper and colleagues culture Candidatus Lokiarchaeum ossiferum and show an elaborate cell with an actin-based cytoskeleton and extensive membranous protrusions."
+description: "Thiago Rodrigues-Oliveira, Christa Schleper and colleagues culture Candidatus Lokiarchaeum ossiferum and show an elaborate cell with an actin-based cytoskeleton and extensive membranous protrusions. The study appears in *Nature* on 12 January 2023."
 ---
 
 The eukaryotic cell is distinguished by compartments and by a cytoskeleton, and the genes for both are found in archaea that have never been cultured. Asgard archaea carry eukaryotic signature proteins, including actin homologues, and the question has been what those genes build.
@@ -29,4 +29,4 @@ For the origin-of-eukaryotes field, the implication is that complexity is not a 
 The membrane itself is evidence of another capacity. A cell that extends protrusions has to bend its membrane and keep it curved, and the archaeal lipids differ from bacterial ones, so the mechanics of that bending is a question the paper's images raise without answering.
 
 Comparison with eukaryotic actin is the test of ancestry. The archaeal filaments are thinner and their assembly is less well understood, and the sequence similarity is enough to identify the family but not enough to predict the behaviour. The paper's images supply the behaviour.
-For the debate about the eukaryotic host, a cytoskeleton is the argument in favour of a cell that could engulf. The counterargument, that phagocytosis requires more than actin, is not answered by the images, and the field will argue over which came first.
+For the debate about the eukaryotic host, a cytoskeleton is the argument in favour of a cell that could engulf. The counterargument, that phagocytosis requires more than actin, is not answered by the images, and the field will argue ov

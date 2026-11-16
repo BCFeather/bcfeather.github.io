@@ -3,7 +3,7 @@ slug: "finite-antisense-course-produces-functional-cure-in-hepatitis-b"
 title: "Finite antisense course produces functional cure in hepatitis B"
 date: "2026-05-28T09:40:00+08:00"
 categories: [science]
-description: "Two phase 3 trials in The New England Journal of Medicine report that bepirovirsen, given for a fixed course, produced a functional cure in about one in five patients with chronic hepatitis B."
+description: "Two phase 3 trials in *The New England Journal of Medicine* report that bepirovirsen, given for a fixed course, produced a functional cure in about one in five patients with chronic hepatitis B."
 ---
 
 Chronic hepatitis B is managed rather than cured. Nucleotide analogues suppress the virus indefinitely and rarely clear the surface antigen, so patients stay on treatment for decades and remain at risk of cirrhosis and liver cancer. A functional cure, meaning sustained loss of hepatitis B surface antigen with undetectable viral DNA, has been the field's target for a generation. The trials also matter for what they say about the standard of care, since a functional cure rate of zero on placebo is a reminder that decades of antiviral therapy have not changed the underlying reservoir.

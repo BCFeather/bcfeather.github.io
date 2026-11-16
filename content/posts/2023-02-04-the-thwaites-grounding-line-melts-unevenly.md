@@ -3,7 +3,7 @@ slug: "the-thwaites-grounding-line-melts-unevenly"
 title: "The Thwaites grounding line melts unevenly"
 date: "2023-02-04T09:20:00+08:00"
 categories: [science]
-description: "In Nature, 16 February 2023, a survey of the Thwaites Glacier grounding line finds heterogeneous melting along the ice-ocean boundary, with some stretches retreating far faster than the surrounding ice suggests."
+description: "A survey of the Thwaites Glacier grounding line finds heterogeneous melting along the ice-ocean boundary, with some stretches retreating far faster than the surrounding ice suggests. The work is reported in *Nature* on 16 February 2023."
 ---
 
 Thwaites Glacier drains a basin the size of a large country, and its grounding line, where the ice lifts off the seabed and floats, is the hinge on which West Antarctic mass loss turns. The line has retreated inland for decades, and the rate has been inferred from satellites that see the surface rather than the base.
@@ -26,4 +26,4 @@ For the observational programme, the lesson is that the grounding line is a plac
 
 Sonar from beneath the ice shelf is the technique that made the survey possible. A vehicle lowered through a borehole maps the ice's underside and the seabed in the same pass, and the two surfaces together define the cavity through which the ocean circulates.
 The cavity's shape is the mechanism's other half. A narrow cavity restricts the exchange of water and traps the meltwater, while a wide one lets warm water replace it. The survey's bathymetry shows which stretches are wide, and those are the stretches where melt is fastest.
-Fresh meltwater is the buoyancy source that drives the circulation. It rises along the ice base and draws warmer water in behind it, and the strength of that plume depends on the melt rate it feeds. The feedback is what makes the system sensitive to small changes in ocean temperature.
+Fresh meltwater is the buoyancy source that drives the circulation. It rises along the ice base and draws warmer water in behind it, and the strength of that plume depends on the melt rate it feeds. The feedback is what makes the system sensitive to small change

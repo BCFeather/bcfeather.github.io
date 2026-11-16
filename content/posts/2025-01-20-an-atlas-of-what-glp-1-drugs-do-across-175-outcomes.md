@@ -3,7 +3,7 @@ slug: "an-atlas-of-what-glp-1-drugs-do-across-175-outcomes"
 title: "Atlas of what GLP-1 drugs do across 175 outcomes"
 date: "2025-01-20T20:40:00+08:00"
 categories: [science]
-description: "A study in Nature Medicine maps the associations between GLP-1 receptor agonists and 175 health outcomes in a large cohort, finding lower risks for several conditions outside diabetes and higher risks for a defined set of gastrointestinal and renal problems."
+description: "A study in *Nature Medicine* maps the associations between GLP-1 receptor agonists and 175 health outcomes in a large cohort, finding lower risks for several conditions outside diabetes and higher risks for a defined set of gastrointestinal and renal problems."
 ---
 
 GLP-1 receptor agonists began as diabetes drugs, became obesity drugs and are now being tested for heart failure, kidney disease, sleep apnoea, addiction and neurodegeneration. Each indication has its own trial, and the trials are expensive, which is why the list of conditions that the class might treat has grown faster than the evidence for most of them.

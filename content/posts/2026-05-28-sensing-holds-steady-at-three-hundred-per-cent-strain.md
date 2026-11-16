@@ -3,7 +3,7 @@ slug: "sensing-holds-steady-at-three-hundred-per-cent-strain"
 title: "Sensing holds steady at three hundred per cent strain"
 date: "2026-05-28T09:35:00+08:00"
 categories: [science]
-description: "A Science paper combines liquid metals, carbon nanotube composites and soft coatings into an electrochemical sensor that keeps its readings while stretched to three times its length."
+description: "A *Science* paper combines liquid metals, carbon nanotube composites and soft coatings into an electrochemical sensor that keeps its readings while stretched to three times its length."
 ---
 
 Wearable sensors fail at the joint. A patch that reads glucose or lactate through the skin has to survive bending, stretching and sweating, and the electrode that works on a forearm at rest drifts the moment the wearer lifts something. A paper in *Science* on 28 May reports a device that holds its electrochemical readout under strain up to 300 per cent, which is more than a joint asks for. The 300 per cent figure is also a design margin rather than a use case, since skin on a knee stretches by less than half of that in ordinary movement, and the margin is what allows a device to survive a fall.

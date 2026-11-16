@@ -3,7 +3,7 @@ slug: "mitochondria-tethered-to-the-nucleus-keep-the-power-on"
 title: "Mitochondria tethered to the nucleus keep the power on"
 date: "2026-06-10T09:20:00+08:00"
 categories: [science]
-description: "Physical connections between mitochondria and the nucleus help supply the energy that gene transcription demands, according to a Nature paper on a tether that had been seen but not explained."
+description: "Physical connections between mitochondria and the nucleus help supply the energy that gene transcription demands, according to a *Nature* paper on a tether that had been seen but not explained."
 ---
 
 DNA is read in the nucleus and RNA is made, and that work costs energy: nucleotide triphosphates are consumed at rates that rise sharply when a cell switches on a large programme of gene expression. Mitochondria are the power plants, and the question of how the two organelles are coupled has been answered mainly in terms of metabolites diffusing through the cytoplasm. The distance a metabolite has to travel is short either way, but the local concentration at the nuclear envelope can be much higher when the source is tethered.

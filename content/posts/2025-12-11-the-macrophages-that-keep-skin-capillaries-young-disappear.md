@@ -3,7 +3,7 @@ slug: "skin-capillaries-lose-their-macrophages-with-age"
 title: "Skin capillaries lose their macrophages with age"
 date: "2025-12-11T09:30:00+08:00"
 categories: [science]
-description: "In Nature, 15 October 2025, Kailin Mesa and colleagues show that capillary-associated macrophages are selectively lost with age, and that their absence impairs vascular repair and reduces tissue perfusion in older mice."
+description: "In *Nature*, 15 October 2025, Kailin Mesa and colleagues show that capillary-associated macrophages are selectively lost with age, and that their absence impairs vascular repair and reduces tissue perfusion in older mice."
 ---
 
 Ageing skin looks thinner and feels colder, and the microcirculation underneath it is part of the reason. Capillaries in the dermis carry oxygen and nutrients to a tissue that is constantly rebuilding itself, and their density and their repair capacity decline with age. The cells responsible for keeping them in good order have been less well identified.

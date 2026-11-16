@@ -3,7 +3,7 @@ slug: "being-small-and-living-in-the-dark-survived-the-impact"
 title: "Being small and living in the dark survived the impact"
 date: "2026-05-28T09:25:00+08:00"
 categories: [science]
-description: "A numerical model published in Nature finds that tiny polar marine organisms outlived the Cretaceous-Paleogene extinction because they needed less energy and tolerated darkness."
+description: "A numerical model published in *Nature* finds that tiny polar marine organisms outlived the Cretaceous-Paleogene extinction because they needed less energy and tolerated darkness."
 ---
 
 Mass extinctions are usually explained by what killed things. The Cretaceous-Paleogene event, 66 million years ago, killed most of the marine plankton alongside the dinosaurs, yet some groups came through, and why has never been settled because the event bundled several stresses together.

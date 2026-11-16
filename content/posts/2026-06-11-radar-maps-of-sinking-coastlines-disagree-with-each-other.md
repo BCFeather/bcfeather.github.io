@@ -3,7 +3,7 @@ slug: "radar-maps-of-sinking-coastlines-disagree-with-each-other"
 title: "Radar maps of sinking coastlines disagree with each other"
 date: "2026-06-11T09:35:00+08:00"
 categories: [science]
-description: "Satellite radar measurements of land subsidence produce contradictory results in several coastal cities, Science reports, and the discrepancy matters for flood planning."
+description: "Satellite radar measurements of land subsidence produce contradictory results in several coastal cities, *Science* reports, and the discrepancy matters for flood planning."
 ---
 
 Coastal cities sink, and the rate matters as much as the sea level. Subsidence of a few millimetres a year compounds over decades, and a city built on delta sediments can subside by centimetres, which is the difference between a defence that holds and one that is overtopped. Delta cities combine sediment compaction, groundwater extraction and sea level rise, and the three are hard to separate from orbit.

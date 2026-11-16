@@ -3,7 +3,7 @@ slug: "apalutamide-before-surgery-changes-the-pathology"
 title: "Apalutamide before surgery changes the pathology"
 date: "2026-05-31T09:20:00+08:00"
 categories: [science]
-description: "Adding apalutamide to androgen deprivation before prostatectomy raised pathological complete response and improved metastasis-free survival, according to a phase 3 trial in The New England Journal of Medicine."
+description: "Adding apalutamide to androgen deprivation before prostatectomy raised pathological complete response and improved metastasis-free survival, according to a phase 3 trial in *The New England Journal of Medicine*."
 ---
 
 Surgery for high-risk prostate cancer removes the gland and then finds, in the pathology report, that disease had already spread beyond the capsule. Adjuvant radiotherapy and hormone therapy follow, but the operation has by then delivered its verdict without having changed the outcome. Neoadjuvant strategies have failed in this disease before, and the failures were usually explained by the trial being too short or the drug too weak rather than by the idea being wrong.
