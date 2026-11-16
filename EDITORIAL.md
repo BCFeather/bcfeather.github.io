@@ -125,7 +125,9 @@ description: "One plain sentence, no TeX, readable without the body."
 ```
 
 * `slug`: lowercase ASCII, hyphen separated, no dates, and **immutable once published**: changing
-  it breaks the URL. Titles may change; slugs may not.
+  it breaks the URL. Titles may change; slugs may not. A slug is an identifier rather than prose, so
+  a post that went out before a spelling rule keeps the spelling it was published with; §12 governs
+  the text, the title and the description, never a URL already in circulation.
 * `title`: roman text, no markdown italics, no formula notation.
 * `date`: ISO 8601 with the `+08:00` offset, minute-level precision, varied within the day.
 * `categories`: exactly one, in square brackets like `[science]`, no inner quotes, drawn from the nine: `news`, `science`, `economy`,
@@ -323,6 +325,10 @@ bodies chose the British form.
   acid`; the same table also gives `aluminium` and `caesium`. ISO drafting rules follow IUPAC here,
   and the Royal Society of Chemistry switched in 1992, so `sulphur` survives only in general prose.
 * Units follow the BIPM's SI brochure: `metre`, `litre`, `tonne`, and a symbol never takes a plural.
+  A bare `ton` names the 2,000-pound unit in the United States and the 2,240-pound unit in Britain,
+  so it never carries a figure: 1,000 kg is `tonne`, and `metric ton` appears only inside a
+  quotation from an American official text. Poetry and verse rhythm take `metre`, because that sense
+  descends from Latin `metrum`; only a measuring instrument is `meter` in British usage.
 * Enzymes follow IUBMB, gene and protein symbols follow HGNC or the species database for an organism,
   viruses follow ICTV, and astronomical designations follow the IAU.
 * Organisms follow the nomenclature codes, so binomials stay Latin and italic.
@@ -410,3 +416,8 @@ These are standing defects in the older archive, not permissions for new work: p
 fewer, or eight or more paragraphs, posts below 480 words, titles beginning with `A/An/The`, and paragraphs opening on
 `The` more than twice. New posts must not add to any of them. Clearing the archive is a separate
 project, done in batches with titles rewritten but slugs left untouched so that links survive.
+
+Two slugs went out before §12 settled on `-ize` and therefore still show `authorises` and `recognise`
+(`meta-pays-its-first-dividend-and-authorises-fifty-billion-dollars-of-buybacks`,
+`ireland-norway-and-spain-recognise-a-palestinian-state`). They stay as published under §5; only
+their titles, descriptions and bodies carry the house spelling.

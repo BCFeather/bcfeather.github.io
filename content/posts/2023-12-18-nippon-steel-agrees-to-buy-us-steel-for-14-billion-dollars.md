@@ -8,7 +8,7 @@ description: "The all-cash offer of 55 dollars a share beat the rival bid, and t
 
 Nippon Steel agreed to buy United States Steel for about 14.1 billion dollars in cash on 18 December, or 55 dollars a share, which is about 40 per cent above the price before the bid was reported. The offer is about 55 dollars a share, and the deal is the largest purchase of an American company by a Japanese one in decades. The board approved the deal on 17 December, and the two companies said the transaction would close in the second half of next year. The two boards approved the transaction at the weekend, and the companies said the closing would take about nine months.
 
-A premium prices the assets. The American mills have been rebuilt with the electric furnaces, and the demand for the steel for the cars and the appliances is the most profitable in the world. A mill that is new is a cost that is sunk. The company has about 20 million tons of the capacity, and the combined group would be the third largest outside China.
+A premium prices the assets. The American mills have been rebuilt with the electric furnaces, and the demand for the steel for the cars and the appliances is the most profitable in the world. A mill that is new is a cost that is sunk. The company has about 18 million tonnes of capacity, and the combined group would be the third largest outside China.
 
 A rival bid was higher on paper. The other suitor had offered about 54 dollars but with the structure that the union had backed, and the board chose the cash. A cash that is certain is a premium that is paid. The other bid came from a rival American mill, and the board said the cash offer was the one that the shareholders prefer.
 
