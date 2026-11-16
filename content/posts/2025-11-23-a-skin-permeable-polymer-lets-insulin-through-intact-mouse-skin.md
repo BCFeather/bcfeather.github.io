@@ -1,6 +1,6 @@
 ---
 slug: "a-skin-permeable-polymer-lets-insulin-through-intact-mouse-skin"
-title: "A skin-permeable polymer lets insulin through intact mouse skin"
+title: "Insulin crosses intact mouse skin on a barrier-loosening polymer"
 date: "2025-11-23T10:12:00+08:00"
 categories: [science]
 description: "A polymer that loosens the skin's lipid barrier reversibly has delivered therapeutic doses of insulin through unbroken mouse skin, an approach that would remove the needle from a daily routine without the heat sensitivity of other alternatives."
@@ -19,4 +19,3 @@ What the work does not establish is the variability between individuals. Barrier
 The comparison with other non-injectable routes is instructive. Oral delivery avoids the skin entirely but requires chemical modification that can alter the dose; inhaled delivery reaches the bloodstream quickly but depends on a device and on refrigerated supply; a topical route needs neither, at the price of a two-step application and an hour's wait before dosing.
 
 A barrier that can be opened and closed to order changes the economics of a daily medicine as much as the experience of taking it. The reversibility is the property that makes the approach plausible rather than merely potent: a permeability enhancer that does not recover would be a wound, not a formulation, and the six-hour return to baseline is the result that separates the two.
-
