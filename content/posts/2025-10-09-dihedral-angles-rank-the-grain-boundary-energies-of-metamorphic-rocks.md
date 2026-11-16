@@ -1,0 +1,19 @@
+---
+slug: "dihedral-angles-rank-the-grain-boundary-energies-of-metamorphic-rocks"
+title: "Dihedral angles rank the grain boundary energies of metamorphic rocks"
+date: "2025-10-09T10:40:00+08:00"
+categories: [science]
+description: "A compilation of equilibrium dihedral angles in high-grade metamorphic rocks orders the energies of grain boundaries and interphase boundaries, with implications for experiments on synthetic aggregates."
+---
+
+Where two minerals meet in a rock, the angle at which their boundaries join records the balance of interfacial energies. That angle is set by the same physics that governs sintering, grain growth and the strength of a two-phase aggregate, and it can be read from a thin section with a microscope. Texturally equilibrated high-grade rocks therefore hold a large set of measurements that no experiment has been able to produce at geological time scales. The method requires the angles to be at equilibrium, which a texturally equilibrated rock satisfies by definition.
+
+*Journal of Petrology* published the compilation and its interpretation on 1 October 2025. The authors gathered equilibrium dihedral angles measured in texturally equilibrated high-grade metamorphic rocks and asked what the angles say about the relative energies of the boundaries involved. The dataset spans many mineral pairs, which is the point: single-pair studies could not establish whether a pattern held across compositions. Each angle is a ratio of two energies, so a compilation of angles is a compilation of ratios, and the analysis works in those terms throughout.
+
+The pattern is that for the great majority of mineral pairs the energy of the interface between the two phases is lower than the energies of both grain boundaries. That ordering is common in two-phase metallic systems, and the paper uses the comparison to show how unusual it is: in experimental charges of alkali halides and ceramics the interphase energy sits between the two grain boundary energies instead. For metals the explanation is familiar from sintering, where a low interphase energy lets the second phase spread along the boundaries.
+
+That contrast points to history. Published dihedral angles for the olivine-pyroxene pair in experimental charges differ from those measured in natural peridotites, and the difference is attributed to deformation, reaction and recrystallization over long times. A synthetic aggregate annealed for hours has not developed the boundary network that a rock develops over a metamorphic cycle, so its angles describe a different microstructure. If history sets the angles, then an experiment designed to measure interfacial energy is also measuring its own annealing time.
+
+The compilation also ranks grain boundary energies within metamorphic rocks. Energy correlates with mineral density and with the crystalloblastic series, which orders minerals by the tendency of their grains to grow large. The authors argue that the series is the better predictor of the two for boundary energy, and that this is the more interesting claim because it links a textural observation to a measurable physical quantity. Density enters because it tracks how tightly the structure packs, and the series because it tracks which minerals coarsen first.
+
+What the ranking does not supply is a calibrated value in absolute units. Dihedral angles give ratios, and converting them requires at least one known energy, so the ordering is relative and any absolute number enters as an assumption. The dataset is also biased towards rocks that equilibrated, since unequilibrated textures were excluded by construction, which is what makes the pattern clean and the sampling narrow. A single calibrated pair would turn the ranking into absolute values, and that measurement is the one the field lacks.

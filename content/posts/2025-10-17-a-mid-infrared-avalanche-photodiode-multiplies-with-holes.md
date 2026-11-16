@@ -1,0 +1,19 @@
+---
+slug: "a-mid-infrared-avalanche-photodiode-multiplies-with-holes"
+title: "Mid-infrared avalanche photodiode multiplies with holes"
+date: "2025-10-17T10:00:00+08:00"
+categories: [technology]
+description: "An antimonide separate absorption and multiplication avalanche photodiode reaches a gain near 1,000 at 3.9 micrometres by starting the ionisation chain with holes."
+---
+
+Mid-infrared detectors see heat, and wavelengths beyond 3 micrometres carry the fingerprints of gases and the thermal signature of anything near room temperature. Avalanche photodiodes amplify a weak return inside the device, which is what makes them useful for lidar and for free-space links, but amplification brings excess noise unless one carrier type dominates the multiplication. Electrons multiply quietly in silicon; in the antimonide family the valence band offsets favour holes. Room-temperature operation at these wavelengths has been the goal for two decades, and every step towards it trades gain against dark current.
+
+*Applied Physics Letters* published the device on 6 October 2025. The structure is a separate absorption and multiplication avalanche photodiode with an InAsSb absorber and an AlGaAsSb multiplier, designed so that holes start the ionisation chain. A shallow mesa etch keeps the sidewall area small, and multiplier sections of several widths were compared, with 300 nm performing best. Absorber and multiplier are lattice matched, which is why the structure can be grown without strain relaxation at the interface. The mesa depth was chosen so that the absorber depletes fully at operating bias.
+
+At 80 kelvin the cutoff wavelength is about 3.9 micrometres and the device operates background-limited up to roughly 200 kelvin. Breakdown arrives at about minus 17.7 volts and moves with temperature at 9.7 millivolts per kelvin. Multiplication gain approaches 1,000, and peak current responsivity exceeds 50 amperes per watt, the figure that makes a weak return detectable. Responsivity above 50 amperes per watt means one photon yields tens of electrons on average, and the gain figure explains how. Both are quoted at the same bias, which makes them comparable.
+
+The design choice is the valence band offset. A small offset between absorber and multiplier lets holes cross without a tall barrier, so ionisation starts with the carrier whose multiplication carries the lower excess noise. The shallow mesa addresses the other loss channel, since an etched sidewall at these bandgaps conducts leakage along its surface, and the 300 nm multiplier balances gain against that leakage. The carrier choice is deliberate, since hole-initiated multiplication carries the lower excess noise in these alloys.
+
+Limitations are thermal and electrical. Operation at 80 kelvin needs cooling that a fielded sensor must carry, and the 200 kelvin ceiling still sits below ambient. Tunnelling appears between punch-through and breakdown, presumably because the field penetrates the narrow-gap absorber, and that leakage caps how far the bias can be raised before dark current dominates. No array is reported. Cooling to 80 kelvin is affordable in a laboratory and expensive on a drone, which is where most of these detectors would end up. Dark current density at the highest bias reached is not reported.
+
+Two developments would make the device practical. Raising the operating temperature is a question of band structure and of defect density in the multiplier, and a waveguide geometry would shorten the absorber so that less tunnelling current accumulates. Neither is demonstrated here, and the paper's contribution is a single detector with a measured gain, a measured noise floor and a clear account of where the leakage comes from. A focal plane array would need uniformity across thousands of mesas, and that is a growth problem rather than a design one.

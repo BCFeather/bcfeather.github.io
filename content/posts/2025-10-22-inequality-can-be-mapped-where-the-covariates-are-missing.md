@@ -1,0 +1,19 @@
+---
+slug: "inequality-can-be-mapped-where-the-covariates-are-missing"
+title: "Inequality can be mapped where the covariates are missing"
+date: "2025-10-22T09:40:00+08:00"
+categories: [science]
+description: "A covariate-free small area estimator built on GAMLSS reduces the variance of regional Gini, Theil and Atkinson estimates and needs no design information for its error."
+---
+
+Survey samples are sized for a country, not for a province, so an estimate of inequality for a small area inherits a standard error large enough to swamp the difference between regions. Small area estimation fixes this by borrowing strength across areas through a model, and the unit-level version of the method needs covariates for every person in the sample. Those covariates are often unavailable, and assembling them can cost more than the survey itself. A region with a few dozen respondents yields an interval so wide that the point estimate carries no policy weight.
+
+*Journal of the Royal Statistical Society: Series A* published a simplified approach on 3 October 2025. The authors drop the covariates and model the response distribution directly with a generalized additive model for location, scale and shape, which is fitted per area with the sample it has. The application estimates inequality among foreign residents in Italy, broken down by region and by whether the area is urban, peri-urban or rural. Because the model is fitted within each area, no linking variable is needed, and that simplification is what makes the method usable where the covariates are not.
+
+Three indices are estimated here, not one. Gini, Theil and Atkinson each summarise a different part of the distribution, and a method that works for the mean-based one need not work for the entropy-based ones. Against direct estimators the model-based version lowers the variance in the design-based simulation the authors run, which is the check that matters when the true values are known by construction. Direct estimators are unbiased but noisy at this sample size, so the comparison tests variance rather than bias. That distinction matters when the estimator is used to rank regions.
+
+The mechanism is that inequality is a functional of the whole distribution, so modelling only the mean cannot deliver it. GAMLSS supplies the location, the scale and the shape, and the indices are then computed from the fitted distribution instead of from the handful of observations an area happens to contain. Mean squared error comes from a nonparametric bootstrap over domains, which avoids the design information that a parametric MSE would require. The distribution is fitted to the observations of the area itself, so borrowing happens through the parametric form rather than through shared covariates.
+
+What the method cannot do is recover structure that the covariates would have carried. Without them the model borrows only within an area, so an area with very few observations still gets a wide interval, and the shape family is assumed, not chosen from the data. The application is one country and one population, and the bootstrap treats domains as exchangeable in a way a complex survey design does not. Exchangeability is an assumption about the areas, and it is the price paid for an error estimate that needs no design variables.
+
+Extensions are straightforward in principle. Adding covariates back where they exist would sharpen the areas that have them, and the same estimator can produce percentile ratios or poverty head counts, which are other functionals of the fitted distribution. A comparison against register-based estimates in a country that has them would test the method where the truth is actually observed. Register data would also show whether the method's intervals cover the true value at the nominal rate, which is the property a statistical office cares about most.

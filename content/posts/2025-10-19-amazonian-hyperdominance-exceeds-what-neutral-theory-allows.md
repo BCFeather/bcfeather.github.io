@@ -1,0 +1,19 @@
+---
+slug: "amazonian-hyperdominance-exceeds-what-neutral-theory-allows"
+title: "Amazonian hyperdominance exceeds what neutral theory allows"
+date: "2025-10-19T09:30:00+08:00"
+categories: [science]
+description: "A basin-wide test against a neutral model finds that the proportion of hyperdominant Amazonian tree species and the abundances of the dominants both fall outside the neutral range."
+---
+
+Amazonian tree surveys keep returning the same result: a small number of species account for half of all individuals. Hyperdominance of that kind looks like evidence that the community is organised by something other than chance, because a neutral model in which all species compete equally would spread abundance more evenly. Testing the claim at basin scale is hard, since the neutral prediction depends on dispersal, and dispersal at that scale is exactly what cannot be measured directly. Plot coverage is uneven across the basin, which is why the test compares distributions rather than raw counts.
+
+*Journal of Ecology* published the test on 10 October 2025. The authors compare Amazon-wide inventory data with the simplest neutral model, one in which dispersal is global, and then argue that the comparison is conservative: adding dispersal limitation can only reduce the hyperdominance the neutral model predicts, so a failure of the simple model implies a failure of the realistic one. Global dispersal is a strong assumption, and the argument works because relaxing it moves the prediction in one direction only. Species abundance distributions were fitted alongside the hyperdominance statistic.
+
+Two quantities are compared here, not one. The proportion of species that qualify as hyperdominant and the abundances of the dominant species both fall outside the range the neutral model generates, which is a stronger test than a single statistic would be. The authors also check that the result survives rarefaction intended to account for taxonomic uncertainty in the inventories. Two statistics give the test more to fail on, and the rejection here holds for both of them.
+
+The conclusion is that something deterministic is at work, though the paper does not say which process. Habitat specialization, disturbance history and dispersal barriers can each concentrate abundance, and the test separates none of them. Alternative modes of speciation were examined too, and none let the neutral framework fit both hyperdominance and the species abundance distribution at once. Each candidate process leaves a different signature in the abundance distribution, and the comparison narrows the field without eliminating it. Habitat specialization would concentrate abundance on particular soils, which the inventory could test directly.
+
+Limitations follow from the data. Inventories aggregate plots of different sizes and ages, and a plot sampled once cannot show whether a dominant species is dominant persistently. The neutral model is a simplification whose parameters are assumed rather than fitted, so a rejection is evidence against that model, not a measurement of the force that replaces it. Rarefaction cannot recover what the inventories never recorded, and taxonomic revision may still shift which species count as dominant. The neutral model also assumes a fixed community size, which a basin-scale forest does not have.
+
+The approach travels. Any large inventory can be tested the same way, and the value of a conservative test is that a rejection informs without a full parameter fit. The next step is to name the mechanism, which means asking what the hyperdominant species share: range size, wood density, dispersal mode, or the capacity to regenerate after disturbance. Traits are the cheapest route, since a herbarium and a wood density database can be joined to the inventory without new fieldwork. A positive result would turn a statistical rejection into a list of species that carry the pattern.
