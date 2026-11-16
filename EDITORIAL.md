@@ -226,8 +226,18 @@ not a licence to imply peer review that has not happened.
   carries one, written with a hyphen in our text (*Snijders Blok-Campeau* syndrome).
 * Statistical significance is written with an italic capital: *P* value, *P*=0.03, never `p value` and never a roman P.
 * Numerals: figures for measurements, percentages and years; words for one to nine in ordinary
-  prose. Units take a space and the correct case: 26.86 per cent, 2.9 GPa, 1044 h, 5.3 million
+  prose. Units take a space and the correct case: 26.86 per cent, 2.9 GPa, 1,044 h, 5.3 million
   years, 759.5 individuals per square kilometre.
+* **Thousands separators.** Numerals of four digits or more take a comma every three digits:
+  1,044 h, 12,500 tonnes, 3,000 nits, 2,900,000 visitors. Years are the exception and carry no
+  comma (1897, 2025), and neither do identifiers that are codes rather than quantities: DOIs,
+  ISO standard numbers, model numbers, section numbers, statute numbers, page ranges. `1044 h`
+  fails this rule, and `1,997` fails the year exception.
+* **Unit names.** Symbols take no plural: 2.9 GPa, 1,044 h, 30 kg. A unit written
+  as a word follows ordinary English: plural after a numeral in prose (1,000 nits, five metres,
+  three tonnes), singular where it modifies a noun or sits on a specification line (a 1,000-nit
+  panel, 1,000 nit on a datasheet row). This covers *tonne*, *metre*, *storey* and *nit* as well
+  as the SI vocabulary the house style already uses.
 
 ## 13. Proper nouns and house names
 
@@ -299,6 +309,8 @@ Per file:
 * journal titles italic with their `The` inside the italics and capitalized; article titles roman;
 * gene symbols italic, proteins roman, Latin binomials italic, higher taxa roman;
 * symbols and index-bearing quantities in TeX; plain numbers left alone;
+* four-digit numerals carry a comma separator, with years and code-like identifiers excepted;
+* unit words pluralize after a numeral and stay singular as modifiers; symbols never take a plural;
 * citations as journal plus date only, with no volume, issue, page or article number;
 * `-ize` for the `-ise` family, `-yse` for analyse and its relatives, official spelling inside
   proper names;
