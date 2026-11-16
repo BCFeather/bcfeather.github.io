@@ -4,6 +4,8 @@ title: "Three waves of land colonisation reused the same genetic functions"
 date: "2025-11-19T10:15:00+08:00"
 categories: [science]
 description: "Comparing 154 animal genomes shows the move from water to land came in three waves and kept reusing the same biological functions, though each lineage reached them through different genes."
+aliases:
+  - "/posts/land-locked-africa-gains-36-per-cent-more-cultivated-area/"
 ---
 
 Animals left the water many times, and every departure was an independent attempt at the same problems: drying out, breathing air, reproducing without a pond, sensing a world lit by the sun. Because the experiments repeat, the transition to land is the clearest case in evolution for asking whether genomes converge on a few solutions or invent new ones each time. Earlier answers rested on vivid cases such as the eye and the wing; a comparison published in *Nature* on 12 November puts 154 genomes behind the question.
