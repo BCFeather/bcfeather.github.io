@@ -6,7 +6,7 @@ categories: [science]
 description: "In households with two parents and unvaccinated children, two vaccinated parents reduced a child's infection risk by 71.7 per cent against Alpha and 58.1 per cent against Delta."
 ---
 
-When vaccines were authorised for adults and not for children, the question for a household was indirect: could a parent's immunity protect a child who could not yet be vaccinated? The answer matters for school policy, for the timing of paediatric authorisation, and for the modelling that decides when a population reaches herd protection. Paediatric vaccines were not authorised in the United States until the autumn of 2021, which left a long window in which children depended on the immunity of the adults around them.
+When vaccines were authorized for adults and not for children, the question for a household was indirect: could a parent's immunity protect a child who could not yet be vaccinated? The answer matters for school policy, for the timing of paediatric authorization, and for the modelling that decides when a population reaches herd protection. Paediatric vaccines were not authorized in the United States until the autumn of 2021, which left a long window in which children depended on the immunity of the adults around them.
 
 An Israeli group studied households with two parents and unvaccinated children and no history of infection, and compared the risk of a child testing positive according to parental vaccination. Two periods were analysed separately because the dominant variant changed: 17 January to 28 March 2021, when Alpha circulated and two doses were compared with none, and 11 July to 30 September 2021, when Delta circulated and a booster was compared with two doses. The paper appeared in *Science*, 27 January 2022.
 

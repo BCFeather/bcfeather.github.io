@@ -1,9 +1,9 @@
 ---
 slug: "bnt162b2-protects-children-from-omicron-hospitalisation"
-title: "Two doses protect children from Omicron hospitalisation, less so from infection"
+title: "Two doses protect children from Omicron hospitalization, less so from infection"
 date: "2022-03-30T09:20:00+08:00"
 categories: [science]
-description: "In a test-negative study at 31 US hospitals, two doses of BNT162b2 were 93 per cent effective against adolescent hospitalisation during Delta, and protection against Omicron hospitalisation was lower and waned faster."
+description: "In a test-negative study at 31 US hospitals, two doses of BNT162b2 were 93 per cent effective against adolescent hospitalization during Delta, and protection against Omicron hospitalization was lower and waned faster."
 ---
 
 Vaccinating children against COVID was argued on the grounds that the disease is mild in most of them and that the benefit is mainly indirect. Omicron changed the arithmetic, because it infected children in large numbers and hospitalized more of them than any earlier wave. Pediatric wards filled during the Omicron wave in a way they had not in earlier waves, and the question of whether vaccination reduced that pressure became urgent for health systems.
