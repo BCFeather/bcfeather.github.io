@@ -50,7 +50,7 @@ Essays stay scarce: at most one or two in a batch of twenty, and never the bulk 
 
 **4.1 Length and paragraphs.** Five to seven paragraphs, six by default; **480 to 625 words** in the body. Five suits a compact result with few caveats; seven where the method or the background needs a movement of its own. Four or fewer is thin, eight or more is swollen, and a post that appears to need either is reorganised rather than stretched. A paragraph of 75 to 100 words is the working unit, and six of them land near the floor. Padding is never the remedy for a short draft: a body under 480 words is unfinished, not terse. The upper bound is soft, since a dense result occasionally earns the room.
 
-**4.2 Movements.** Six, in their usual order: the situation before the result and why it was unresolved; what was done, with the journal and the date; the central number with its interval or its comparison; the mechanism or the design that makes the finding credible; what the result does not show; and what would settle the question next or alter practice. The order may flex; the omissions may not. A digest without a limitations movement reads as publicity, and a digest without numbers reads as an abstract rewritten.
+**4.2 Movements.** Six, in their usual order: the situation before the result and why it was unresolved; what was done, with the journal and the date placed wherever that paragraph wants them; the central number with its interval or its comparison; the mechanism or the design that makes the finding credible; what the result does not show; and what would settle the question next or alter practice. The order may flex; the omissions may not. A digest without a limitations movement reads as publicity, and a digest without numbers reads as an abstract rewritten.
 
 **4.3 The body.** No markdown headings, no bold, no bullet lists standing in for prose, no images unless the post is about the image, no links.
 
@@ -173,8 +173,13 @@ The chain runs from `hugo.toml`, which passes `\(` and `$$` through untouched, t
 
 Papers are cited by **journal and date only**. Running text carries no volume, issue, article number or page range, in any typography. Journal and date are enough for a reader to find the paper; the numbers only burden a sentence about the result. Do not include DOIs. Where a result is quoted from a preprint or a conference abstract, that is said plainly, since the journal-date form is not a licence to imply review that has not happened.
 
-* *The form*: *Nature*, 6 May 2026; *The Lancet*, 9 June 2026
-* *Rejected*: `Science 394, 6823` → *Science*, 6 May 2026
+A venue is placed where the sentence needs it, and the place differs from post to post. It may arrive with the result as the result is first stated, ride on the authors in a subordinate clause, take the subject position itself, or wait for a later paragraph where what the journal accepted tells the reader how to weigh the claim. Four posts that each end on `was published in *X*` are the habit this clause exists to break; the closing form is allowed once in a batch and never as the default. Consecutive posts do not close the same way.
+
+* *Result stated, venue in apposition*: `The group reports in *Nature* that the gap widens ...`
+* *Venue as subject*: `*Science* carries the result this week ...`
+* *Venue inside a condition*: `Work published in *Cell* in June puts the figure at ...`
+* *Attribution trailing the finding*: `..., the authors write in a preprint posted on 2 August 2024`
+* *The same closing sentence in every post, rejected*: four posts ending `was published in *X*`
 
 ## 12. Orthography
 
@@ -239,11 +244,11 @@ A unit as a modifier stays singular, which is why a panel is described as `a 1,0
 
 Where a push is rejected, the branch is fetched and rebased before pushing again. Where a workflow fails, the content is corrected and a new commit is pushed; failed jobs are not re-run on the old tree. History is not rewritten by amendment or force.
 
-**14.2 Checklist.** Form, per file: five to seven paragraphs and 480 to 625 words; at most two paragraphs opening on `The`; openers varied in shape, with no two of one shape and none padded; titles opening on a bare article kept within the limit, titles carrying nothing that would need italics, and colon titles within a fifth of the batch; one unquoted category from the nine, with the front matter keys in order and the description free of notation and set in the italics of §9.
+**14.2 Checklist.** Form, per file: five to seven paragraphs and 480 to 625 words; at most two paragraphs opening on `The`; openers varied in shape, with no two of one shape and none padded; titles opening on a bare article kept within the limit, titles carrying nothing that would need italics, and colon titles within a fifth of the batch; one unquoted category from the nine, with the front matter keys in order and the description free of notation and set in the italics of §9, and with the venue not always closing the post.
 
 Typography, per file: journal titles italic with their article inside the italics; gene symbols italic, proteins roman, binomials italic, higher taxa roman; symbols and indexed quantities in TeX with plain numbers left alone; four-digit numerals separated by commas, years and codes excepted; statistical symbols (`P` and `n`) italic; compound unit symbols spaced (`mA h`, `kW h`); `-ize` and `-yse` as in §12, with proper names keeping official spelling; straight quotes, singles outside and doubles inside, and no em or en dash in prose; `towards`, `per cent` and British vocabulary; house names as in §13.
 
-Substance, per file: every figure traced to the primary record; borrowed facts attributed and borrowed wording short; the subject either unreported or told from an angle the coverage did not take, with the opening saying what the post adds; a limitations movement present; no reproduced figure or screenshot.
+Substance, per file: every figure traced to the primary record; borrowed facts attributed and borrowed wording short; the subject either unreported or told from an angle the coverage did not take, with the opening saying what the post adds; a limitations movement present; no reproduced figure or screenshot. Per batch: venues placed in at least three different positions across four posts.
 
 Colons and semicolons fall under §12.4, which is advice and never grounds for rejection. Per batch: the month's total within 63 and 69 and different from its neighbours; dates spread; the mix of §3 holding with digests carrying the largest share; index counts moving by exactly the number added; every new URL answering 200 on the live site.
 
