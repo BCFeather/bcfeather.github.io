@@ -1,41 +1,21 @@
 ---
 slug: "the-charge-transfer-gap-explains-a-superconductor-s-ceiling"
 title: "Charge-transfer gap explains a superconductor's ceiling"
-date: "2023-07-14T09:40:00+08:00"
+date: "2023-07-14T09:55:00+08:00"
 categories: [science]
-description: "A correlation between the charge-transfer gap and the maximum transition temperature in cuprates suggests a ceiling set by the material's electronic structure, according to work published in *Science* on 14 July 2023."
+description: "Compiling spectra across cuprate families links the energy needed to move an electron from oxygen to copper with the highest transition temperature each family reaches."
 ---
 
-The cuprates have been the central problem of unconventional superconductivity for decades, and their transition temperatures cluster in a range that no composition has escaped. Whether the ceiling is chemical or fundamental is a question with consequences for the search.
+The cuprates have been the central problem of unconventional superconductivity for decades, and their transition temperatures cluster in a range no composition has escaped. Whether that ceiling is chemical or fundamental is a question with consequences for the search. In *Science* on 14 July 2023, it is argued to be electronic. The authors correlate the charge-transfer gap, the energy needed to move an electron from a ligand to a metal, with the maximum transition temperature across a family of cuprates, and find a relation.
 
-The analysis in *Science*, 14 July 2023 argues that it is electronic. The authors correlate the charge-transfer gap, the energy needed to move an electron from a ligand to a metal, with the maximum transition temperature across a family of cuprates, and find a relation.
+Correlation is the finding. A larger gap corresponds to a lower ceiling, and the relation holds across compositions and structural families. Physical meaning is the cost of charge transfer, since a cuprate's superconductivity involves electrons shared between copper and oxygen, and a large gap localises them and weakens the sharing.
 
-The correlation is the finding. A larger gap corresponds to a lower ceiling, and the relation holds across compositions and across structural families.
+Mechanism is a competition. Superconductivity in these materials depends on mixing between copper's orbitals and oxygen's, and a gap too large reduces the mixing pairing requires. Design rule follows. A material with a smaller gap is a candidate for a higher ceiling, and the gap is measurable before a synthesis is attempted.
 
-The mechanism is a competition. Superconductivity in these materials depends on the mixing between the copper's orbitals and the oxygen's, and a gap that is too large reduces the mixing that the pairing requires.
+Spectroscopy supplies the measurement. The gap appears in optical and photoemission spectra, and a compilation across many compounds is what makes the correlation statistically meaningful; the optical edge is the workhorse, since a compilation of edges is a compilation of gaps.
 
-The implication is a design rule. A material with a smaller charge-transfer gap is a candidate for a higher ceiling, and the gap is measurable before a synthesis is attempted.
+Scepticism is warranted. A correlation across a family can be confounded by another variable tracking both, and control for structure and doping is the argument against coincidence. Doping forms the second axis, because a cuprate's ceiling is reached at optimal doping, and the comparison is made at each family's optimum rather than at a fixed composition.
 
-The measurement is spectroscopic. The gap appears in optical and in photoemission spectra, and the authors' compilation across many compounds is what makes the correlation statistically meaningful.
+Pressure supplies the test. A pressure changing the gap should change the ceiling, and the observed dependence is consistent; it is also the cleanest evidence, because pressure moves the gap continuously and a ceiling following the gap is a ceiling the gap sets. Sample sets the limitation, as the cuprates are one family and a relation within one says nothing about another's ceiling. A material is what the paper does not provide, since a rule identifying a candidate is not a synthesis, and the candidate must be made and measured.
 
-The scepticism is warranted. A correlation across a family can be confounded by another variable that tracks both, and the authors' control for structure and for doping is the argument against a coincidence.
-
-The pressure experiments are the test. A pressure that changes the gap should change the ceiling, and the observed pressure dependence is consistent with the relation.
-
-The limitation is the sample. The cuprates are one family, and a relation within a family says nothing about a different family's ceiling.
-
-What the paper does not provide is a material. A rule that identifies a candidate is not a synthesis, and the candidate has to be made and measured.
-
-For superconductivity, the value is a constraint made explicit. The field's search has been empirical, and a ceiling with a measured cause is a search with a direction.
-
-The gap's physical meaning is the cost of charge transfer. A cuprate's superconductivity involves electrons that are shared between copper and oxygen, and a gap that is large localizes them and weakens the sharing.
-
-The doping's role is the second axis. A cuprate's ceiling is reached at an optimal doping, and the authors' comparison is made at each family's optimum rather than at a fixed composition.
-
-The structural family is a control variable. A single-layer and a bilayer cuprate differ in their interlayer coupling, and the correlation survives across the families, which strengthens the case.
-
-The optical measurement is the workhorse. A charge-transfer gap appears as an absorption edge, and a compilation of edges across many samples is a compilation of gaps.
-
-The high-pressure test is the cleanest evidence. Pressure changes the gap continuously, and a ceiling that follows the gap under pressure is a ceiling that the gap sets.
-
-The competing explanation is the phonon. A stronger electron-phonon coupling would raise a conventional ceiling, and the cuprates' ceiling does not follow that variable.
+Superconductivity gains a constraint made explicit, since the search has been empirical and a ceiling with a measured cause is a search with a direction. Phonons are the competing explanation, because stronger electron-phonon coupling would raise a conventional ceiling, and the cuprate ceiling does not follow that variable. A prediction tested on a composition nobody has made is the next step, and a small-gap candidate from the rule is the experiment that would turn a correlation into a recipe. A family with a different ligand would test the rule outside the cuprates, and a gap-ceiling relation surviving there would be a claim about chemistry rather than about one class of material.
