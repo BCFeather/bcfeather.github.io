@@ -14,7 +14,7 @@ A preprint posted to arXiv on 1 July 2024 models that contact flow. The authors 
 
 The analysis proceeds in three stages. Asymptotic expansions identify the mode that grows, a linear stability analysis gives its wavelength, and a nonlinear treatment fixes the amplitude and the tilt of the chevrons. The asymptotic step also shows which parameter controls the transition from uniform flow to a periodic pattern.
 
-Energy dissipation is the organising principle. Among the flows that the confinement allows, the pattern that survives is the one that the authors argue minimises dissipation, which turns a stability calculation into a selection rule. The dissipation argument is checked against the experimental images and not assumed, which is what makes the selection rule testable.
+Energy dissipation is the organizing principle. Among the flows that the confinement allows, the pattern that survives is the one that the authors argue minimizes dissipation, which turns a stability calculation into a selection rule. The dissipation argument is checked against the experimental images and not assumed, which is what makes the selection rule testable.
 
 Symmetry is a modelling convenience. The calculation is done for an active film between two identical smectic slabs, and the paper shows that the conclusions carry over when the lower slab is replaced by water, which is what the experiment actually uses. Replacing the second slab by water changes the boundary condition at one wall only, and the mode that survives is the antisymmetric one.
 
