@@ -179,6 +179,8 @@ A venue is placed where the sentence needs it, and the place differs from post t
 * *Venue as subject*: `*Science* carries the result this week ...`
 * *Venue inside a condition*: `Work published in *Cell* in June puts the figure at ...`
 * *Attribution trailing the finding*: `..., the authors write in a preprint posted on 2 August 2024`
+* *The form itself*: *Nature*, 6 May 2026; *The Lancet*, 9 June 2026
+* *Volume and page numbers, rejected*: `Science 394, 6823` → *Science*, 6 May 2026
 * *The same closing sentence in every post, rejected*: four posts ending `was published in *X*`
 
 ## 12. Orthography
