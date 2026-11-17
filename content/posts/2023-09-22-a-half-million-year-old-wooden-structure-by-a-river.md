@@ -3,39 +3,19 @@ slug: "a-half-million-year-old-wooden-structure-by-a-river"
 title: "Half-million-year-old wooden structure by a river"
 date: "2023-09-22T09:25:00+08:00"
 categories: [science]
-description: "Excavations at a Zambian site reveal wooden logs shaped and joined into a structure older than any other known woodwork, according to work published in *Science* in September 2023."
+description: "Logs cut, notched and joined at a Zambian site date to about 476,000 years, pushing the record of deliberate woodworking back by an order of magnitude."
 ---
 
-Wood rots, and a wooden structure that survives half a million years is one that was buried in water and never dried. The find is a rare window on what early people built.
+Wood rots, so a wooden structure surviving half a million years must have been buried in water and never allowed to dry. Such a find is a rare window on what early people built. Excavated at a site in Zambia and reported in *Science* in September 2023, the logs are described as cut, shaped and arranged in a way that suggests a platform or a walkway.
 
-The excavation reported in *Science*, September 2023 is at a site in Zambia. The authors describe logs that were cut and shaped, and a arrangement that suggests a platform or a walkway.
+Age carries the claim. Luminescence dating of the sediment around the logs places them near 476,000 years, older than any other known wooden construction; the method works because a mineral grain accumulates stored charge until light releases it, so burial is the event being dated.
 
-The age is the claim. A luminescence date on the sediment around the logs places them at about 476,000 years, which is older than any other known wooden construction.
+Shaping is the evidence of intent, since a log cut with a tool and notched is one someone worked, and microscopy of the surfaces is how that is shown. Join is the second evidence, because two logs meeting at a notch make a structure rather than a heap, and the geometry of the arrangement is what the authors reconstruct. Preservation explains why the find exists at all. A waterlogged site excludes oxygen, bacteria cannot consume a log in oxygen-free mud, and the water table is the reason the material survived.
 
-The shaping is the evidence of intent. A log that has been cut with a tool and notched is one that someone worked, and the authors' microscopic analysis of the surfaces is the demonstration.
+Context supplies the archaeology. Tools and sediments place the builders in a riverine setting, and a region that was wetter then would have had a river flowing all year, which is where a structure gets built. Species identification adds a third line, since a tree growing by a river is one a riverside community could use, and that places the material's source. Interpretation sets the limitation, because a platform and a heap of debris can look alike and the argument rests on the regularity of the joinery. A dwelling is the claim not made, since a structure is not a house and settlement needs other evidence.
 
-The join is the second evidence. Two logs that meet at a notch are a structure rather than a heap, and the arrangement's geometry is what the authors reconstruct.
+Archaeology gains a date that pushes back a capability, extending a record of tens of thousands of years by an order of magnitude. Stratigraphy frames the argument, because the logs lie in a dated layer and their position relative to the tools is the association being defended, while scale remains an inference, since a few logs may be a platform and a larger arrangement a fence.
 
-The preservation is the reason for the find. A waterlogged site excludes oxygen, and the wood's survival is a consequence of the burial.
+A second excavation at a neighbouring site would show whether the joinery is a habit or an accident, since a single arrangement can be read either way and a second one with the same notches would settle it. A microscopic comparison of the cut marks with those made by experimental tools would also pin down the implement, and the implement's identity is what turns a worked log into a statement about technique.
 
-The context is the archaeology. The site's tools and its sediments place the builders in a riverine setting, and the structure's purpose is inferred from that setting.
-
-The limitation is the interpretation. A platform and a pile of debris can look alike, and the authors' argument rests on the joinery's regularity.
-
-What the paper does not show is a dwelling. A structure is not a house, and the site's other evidence is what would establish a settlement.
-
-For archaeology, the value is a date that pushes back a capability. The record of woodworking has been a few tens of thousands of years, and the find extends it by an order of magnitude.
-
-The luminescence method is the dating. A mineral grain's stored charge accumulates until light releases it, and the sediment's burial is the event that the date measures.
-
-The tool marks are the identification. A cut's cross-section distinguishes an axe from a natural break, and the authors' microscopy is the evidence of a tool.
-
-The wood's species is the context. A tree that grows by a river is one that a riverside community could use, and the identification places the material's source.
-
-The water's role is the preservation. A log in an oxygen-free mud is one that bacteria cannot consume, and the site's water table is the reason the find exists.
-
-The comparison with other early structures is the frame. A few sites have yielded wood of comparable age, and the joinery is what distinguishes a construction from a scatter.
-
-The climate's history is the setting. The region was wetter then, and a river that flowed year-round is a place where a structure would be built.
-The site's stratigraphy is the frame. The logs lie in a layer that the excavation dates, and the layer's position relative to the tools is the association that the paper argues.
-The structure's scale is the inference. A few logs may be a platform and a large arrangement may be a fence, and the authors' reconstruction is a reading of the geometry rather than a certainty.
+An analysis of the wood's growth rings would give the season of cutting, and a season is a small fact that says a great deal about how long a group stayed by the river. A reconstruction of the arrangement as a walkway would need a use for the walkway, and a river crossing leads to a marsh rather than a destination, which is why the authors offer several readings.

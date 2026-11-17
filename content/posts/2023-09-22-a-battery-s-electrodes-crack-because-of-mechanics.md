@@ -12,7 +12,7 @@ Rate plays the counterintuitive part. A slow charge lets a particle swell unifor
 
 Architecture is the second lever. A composite accommodating expansion with a binder lasts longer than a dense one, and the model includes the surrounding matrix. Measurement supplies the advance. A particle's swelling is small and fast, and an in situ technique is what resolves it during a cycle.
 
-Assumptions set the limitation, because a continuum treats a particle as homogeneous while a real one has grain boundaries the model smooths. Lifetime is what the paper does not establish, since crack initiation is only the first failure and capacity fade follows a sequence the paper does not simulate.
+Assumptions set the limitation, because a continuum treats a particle as homogeneous while a real one has grain boundaries the model smooths. No lifetime follows from the model, since crack initiation is only the first failure and capacity fade follows a sequence the paper does not simulate.
 
 Battery science gains a mechanical criterion, and the field's designs have been empirical while a stress criterion lets a material be chosen before it is tested. Fracture toughness is the yardstick, because a crack propagates when the material releases more energy than its new surface can absorb.
 

@@ -14,7 +14,7 @@ Subunit comparison frames the result. A receptor assembled from different subuni
 
 Pharmacology points to use. A drug changing the receptor's mobility would change its kinetics, and a modulator acting on flexibility is a different kind of molecule from one competing with the ligand. Ensembles carry the measurement, since structures from cryo-electron microscopy combined with simulation are what characterise mobility. Reconstitution sets the limitation, because a purified receptor in detergent or a nanodisc is not a receptor in a membrane with its partners.
 
-Synaptic behaviour is what the paper does not establish, since kinetics in a test tube is an input to a model and the synapse's response is its output. Neuroscience gains a link between a molecule's motion and a circuit's timing, and the rate constants its models need now have a structural basis.
+Whether the synapse behaves the same way stays outside the analysis, since kinetics in a test tube is an input to a model and the synapse's response is its output. Neuroscience gains a link between a molecule's motion and a circuit's timing, and the rate constants its models need now have a structural basis.
 
 Stiffening the domain by mutation without touching the ligand site would be the clean test, because kinetics should slow without any change in binding affinity, and that separation is what the model predicts. Measuring the receptor in a supported lipid bilayer would also bring the reconstitution closer to a membrane, and the difference from a nanodisc would show how much the lipid environment contributes.
 
