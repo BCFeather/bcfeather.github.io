@@ -3,37 +3,19 @@ slug: "curbing-recruitment-reduces-cartel-violence"
 title: "Curbing recruitment reduces cartel violence"
 date: "2023-09-22T10:10:00+08:00"
 categories: [science]
-description: "An analysis of Mexican cartel data finds that the supply of recruits shapes the level of violence more than the competition between groups, according to work published in *Science* in September 2023."
+description: "Data on Mexican cartels, arrests and local labour markets point to the supply of recruits rather than rivalry between groups as the force behind the level of violence."
 ---
 
-A cartel's violence is a cost that it imposes on a territory, and the level of that cost has been explained by competition between groups. An explanation that turns on recruitment would predict a different pattern.
+A cartel's violence is a cost it imposes on a territory, and that cost has usually been explained by competition between groups. An account turning on recruitment would predict a different pattern, and a different pattern is what the data show. Tested in *Science* in September 2023, the account is assembled from records of cartel violence, of arrests and of the local labour market in Mexico, and the relationships point to recruitment as the driver.
 
-The analysis in *Science*, September 2023 tests it. The authors assemble data on cartel violence, on arrests and on the local labour market in Mexico, and the relationships point to recruitment as the driver.
+Result is that a shrinking pool of recruits reduces violence. Where a cartel struggles to replace members it behaves less violently, and that effect exceeds the effect of a rival's entry. Mechanism follows the organisation's logic, because a cartel able to replace a member cheaply can afford violence while one that cannot must conserve people.
 
-The result is that a shrinking pool of recruits reduces violence. A region where a cartel struggles to replace its members has less violence, and the effect is larger than the effect of a rival's entry.
+Labour market supplies the proxy. A region with few young men and with alternatives in work supplies fewer recruits, and that variation is what the identification rests on; the variation is not caused by the cartel, which is why it can serve as a source of variation at all. Policy reads a lever from it, since a programme offering an alternative to recruitment lowers violence without a confrontation, and the estimate is the expected size of that effect.
 
-The mechanism is the organisation's logic. A cartel that can replace a member cheaply can afford to be violent, and one that cannot must conserve its people.
+Measurement sets the limitation, because a cartel's violence is recorded by the state and the recording is itself a political variable. A causal chain to a specific policy is what the paper does not close, since a correlation is a hypothesis about an intervention and a trial is the test. Social science gains an explanation putting people before territory, since a literature focused on competition has missed the supply side.
 
-The labour market is the proxy. A region with few young men and with alternative employment supplies fewer recruits, and the authors' use of that variation is the identification.
+Structure of the organisation is the model, because a cartel is a firm with a hierarchy and a firm that cannot hire cannot expand. Arrest is the shock, since removing a leader creates a vacancy and a sequence of removals is a sequence of promotions a small pool cannot sustain.
 
-The policy implication is a lever. A programme that offers an alternative to recruitment reduces violence without a direct confrontation, and the paper's estimate is the expected effect.
+Form of the violence is the outcome, because homicide and disappearance are different measures and separating them is where the detail lies. State capacity is the context, since a region with a working police force responds differently, and the Colombian case offers the comparison, because a different country and organisation test how general the mechanism is.
 
-The limitation is the measurement. A cartel's violence is recorded by the state, and a state's recording is itself a political variable.
-
-What the paper does not establish is a causal chain to a policy. A correlation between recruitment and violence is a hypothesis about an intervention, and a trial is the test.
-
-For social science, the value is an explanation that puts people before territory. The literature's focus on competition has missed the supply side, and the paper's data support the shift.
-
-The organisation's structure is the model. A cartel is a firm with a hierarchy, and a firm that cannot hire is one that cannot expand its operations.
-
-The arrest's effect is the shock. A leader's removal creates a vacancy that a member fills, and a series of removals is a series of promotions that a small pool cannot sustain.
-
-The identification is the method's core. A labour market's variation is not caused by the cartel, which makes it a source of variation that the analysis can use.
-
-The violence's form is the outcome. A homicide rate and a disappearance rate are different, and the authors' separation of the forms is the paper's detail.
-
-The comparison with the Colombian case is the frame. A different country and a different organisation provide a test of the mechanism's generality.
-
-The policy's cost is the trade-off. A recruitment programme is cheap compared with a military deployment, and the paper's estimate is the argument for the cheaper instrument.
-The state's capacity is the context. A region with a functioning police force and a region without one respond differently to a cartel's expansion, and the authors' control for capacity is the paper's care.
-The recruitment's channel is the mechanism's detail. A cartel recruits through a network of family and of local contacts, and a programme that interrupts the network is one that the paper's model predicts would work.
+A programme piloted in a few municipalities would test whether the predicted effect survives contact with a labour market that a government is also trying to manage, and a randomised rollout across regions is the design that would settle it. A comparison with a military deployment in a matched region would also give the cost per homicide avoided, and that ratio is what a budget office would actually weigh. The recruitment channel is the mechanism's detail, because a cartel hires through family and local contacts and a programme interrupting that network is one the model predicts would bite.
