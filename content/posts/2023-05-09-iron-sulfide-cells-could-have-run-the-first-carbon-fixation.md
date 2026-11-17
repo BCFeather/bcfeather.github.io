@@ -3,31 +3,19 @@ slug: "iron-sulfide-cells-could-have-run-the-first-carbon-fixation"
 title: "Iron-sulfide cells could have run the first carbon fixation"
 date: "2023-05-09T09:20:00+08:00"
 categories: [science]
-description: "Laboratory protocells built from iron-sulfide membranes sustain carbon-fixing cycles and a form of metabolic homeostasis, according to work published in *PNAS* on 9 May 2023."
+description: "Laboratory protocells built from iron-sulfide membranes sustain carbon-fixing cycles and a form of metabolic homeostasis."
 ---
 
-The origin of metabolism is a chicken-and-egg problem: enzymes are made by metabolism, and metabolism needs enzymes. A plausible resolution gives the first reactions to a mineral surface and the first compartment to a mineral membrane.
+The origin of metabolism is a chicken-and-egg problem, since enzymes are made by metabolism and metabolism needs enzymes. A plausible resolution gives the first reactions to a mineral surface and the first compartment to a mineral membrane.
 
-The work in *PNAS*, 9 May 2023 builds such a system. The authors assemble protocells with iron-sulfide membranes, supply them with carbon dioxide and a reductant, and observe carbon-fixing cycles that produce organic molecules inside the compartment.
+In *PNAS* on 9 May 2023, such a system is built. The authors assemble protocells with iron-sulfide membranes, supply them with carbon dioxide and a reductant, and observe carbon-fixing cycles that produce organic molecules inside the compartment.
 
-The membrane is the key component. An iron-sulfide precipitate forms a thin, permeable wall, and a wall that admits ions while retaining larger molecules is a wall that creates a chemical inside and outside.
+Membrane is the key component. An iron-sulfide precipitate forms a thin, permeable wall, and a wall that admits ions while retaining larger molecules creates a chemical difference between inside and outside. Compartments here are not vesicles, because a lipid bilayer needs a synthesis the protocell does not perform while a mineral membrane needs only precipitation, and that distinction matters since a membrane the environment provides requires no gene.
 
-The chemistry is the ancient route. The acetyl-coenzyme-A pathway and the reverse tricarboxylic acid cycle both run in organisms that live at hydrothermal vents, and the paper's reactions follow the same logic without enzymes.
+Because the acetyl-coenzyme-A pathway and the reverse tricarboxylic acid cycle both run in organisms at hydrothermal vents, the chemistry follows an ancient route, and the reported reactions keep that logic without enzymes. The mineral surface is a catalyst in its own right, since iron-sulfide clusters catalyse electron transfer in modern enzymes, and using the same chemistry in the same geometry is a continuity rather than an analogy.
 
-The homeostasis is the surprising part. The system maintains a steady internal pH and a steady concentration of intermediates over time, which is the property that distinguishes a cell from a reaction vessel.
+Homeostasis is the surprising part. The system holds a steady internal pH and a steady concentration of intermediates over time, which is the property separating a cell from a reaction vessel. Gradient supplies the energy, since a proton gradient across the membrane drives the reactions and a vent's fluid provides such a gradient in nature. Geochemistry places the reactor, because alkaline fluid rich in hydrogen and sulfide mixes with iron-bearing seawater in porous rock, and the conditions chosen match that mixing zone.
 
-The growth is modest. The protocells accumulate material and increase in size, and the increase is not division. A system that grows without dividing is a system with a boundary problem.
+Growth is modest, as the protocells accumulate material and increase in size without dividing, and a system that grows without dividing has a boundary problem. Intervention is the limit, since the experiment supplies conditions the authors chose while a natural vent supplies them with fluctuations no laboratory reproduces.
 
-The energy source is the gradient. A proton gradient across the membrane drives the reactions, and a gradient is what a vent's fluid provides in the natural setting.
-
-The limitation is the intervention. The experiment supplies conditions that the authors chose, and a natural vent supplies them with fluctuations that a laboratory does not reproduce.
-
-What the paper does not show is replication. A metabolism that maintains itself is one of the cell's properties, and heredity is the other, and the two need a coupling that the protocell lacks.
-
-For origins research, the value is a demonstration that the pieces can coexist. A metabolism without enzymes and a compartment without lipids are each plausible, and a system that has both is a stronger candidate for the first cell.
-
-The mineral's surface is a catalyst in its own right. Iron-sulfide clusters catalyse electron transfer in modern enzymes, and the paper's protocell uses the same chemistry in the same geometry, which is a continuity rather than an analogy.
-
-The geochemistry is the setting. An alkaline vent's fluid is rich in hydrogen and in sulfide, and it mixes with iron-bearing seawater in a porous rock. The mixing zone is the reactor, and the paper's conditions are chosen to match it.
-The compartments are not vesicles. A lipid bilayer requires a synthesis that the protocell does not perform, and a mineral membrane requires only precipitation. The distinction matters because a membrane that the environment provides does not need a gene.
-The modern analogue is a vent's biofilm. Microbes at a vent grow in mineral compartments and use the same gradients, and the paper's argument is that the physiology came first and the lipids later.
+Replication stays unshown, because a metabolism that maintains itself is one property of a cell and heredity is the other, and coupling the two is what the protocell lacks. Origins research gains a demonstration that the pieces coexist, since a metabolism without enzymes and a compartment without lipids are each plausible and a system holding both is the stronger candidate. The modern analogue is a vent's biofilm, where microbes grow in mineral compartments and use the same gradients, which supports the argument that physiology came first and lipids later. A reactor that cycles its temperature and flow would sit closer to a real vent than a steady vessel does, and the first metabolism also needs phosphate and metals, which a mineral wall supplies while keeping them near the reactions that use them. Whether a natural vent would keep such a compartment for long enough is the geological question, since a mineral wall precipitates and dissolves on its own schedule.

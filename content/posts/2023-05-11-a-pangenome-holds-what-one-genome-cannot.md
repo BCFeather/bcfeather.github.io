@@ -3,31 +3,19 @@ slug: "a-pangenome-holds-what-one-genome-cannot"
 title: "Pangenome holds what one genome cannot"
 date: "2023-05-11T09:20:00+08:00"
 categories: [science]
-description: "A reference assembled from many human genomes captures structural variation that a single sequence misses, according to the draft pangenome published in *Nature* on 11 May 2023."
+description: "A reference assembled from many human genomes captures structural variation that a single sequence misses."
 ---
 
 A reference genome is a coordinate system, and the human reference has been one person's sequence with a few alternatives bolted on. A coordinate system built from one individual cannot represent a sequence that the individual does not carry.
 
-The draft pangenome in *Nature*, 11 May 2023 changes the coordinate system. The consortium assembles genomes from a set of donors with diverse ancestry, aligns them into a graph, and produces a reference in which a position can hold several alternative sequences.
+In *Nature* on 11 May 2023, the coordinate system changes. The consortium assembles genomes from donors of diverse ancestry, aligns them into a graph, and produces a reference in which a position can hold several alternative sequences.
 
-The graph is the technical departure. A linear reference forces every genome to be described as a series of differences from one path, and a graph allows a region to have multiple paths. A variant that is common in one population is a path rather than an anomaly.
+Graph structure is the technical departure. A linear reference forces every genome to be described as a series of differences from one path while a graph allows a region to carry multiple paths, so a variant common in one population becomes a path rather than an anomaly. Structural variation is what the graph captures, because small differences are easy to record on any reference whereas insertions, deletions and inversions of thousands of bases are hard to place without one.
 
-The variation captured is structural. Small differences are easy to record on any reference, and insertions, deletions and inversions of thousands of bases are hard to place without a graph. The pangenome represents them directly.
+Ancestry is the design's point, since a reference dominated by one population makes the variants of others look like errors, and donors chosen for diversity reduce that bias. Assembly quality is the foundation, because long-read sequencing produces contiguous sequence through regions short reads cannot resolve, and the graph's usability rests on that continuity.
 
-The ancestry is the point of the design. A reference dominated by one population makes variants from others look like errors, and a set of donors chosen for diversity reduces that bias.
+Clinically, variant calling improves. A pipeline comparing a patient's genome with a graph finds variants a linear reference would misplace, and the gain is largest where structure is complex. The immune region demonstrates it, because the human leukocyte antigen locus varies so widely that no single path can represent its combinations, and the graph resolves haplotypes a linear reference collapses.
 
-The assembly quality is the foundation. Long-read sequencing produces contiguous sequence through regions that short reads cannot resolve, and the pangenome's continuity is what makes the graph usable.
+Sample size sets the limitation, since a few dozen donors are a beginning rather than a census and coverage of rare populations stays thin. Routine use is what the paper does not yet show, because a graph costs computation, and a clinic running thousands of samples needs tools as fast as the linear ones.
 
-The clinical consequence is a better variant call. A diagnostic pipeline that compares a patient's genome with a graph finds variants that a linear reference would misplace, and the improvement is largest in regions with structural complexity.
-
-The limitation is the sample. A few dozen donors are a beginning and not a census, and the graph's coverage of rare populations is thin.
-
-What the paper does not yet show is the routine use. A graph reference costs computation, and a clinic running thousands of samples needs tools that are as fast as the linear ones.
-
-For genomics, the value is a change of default. The single reference has been a convenience that shaped a field's assumptions, and a graph makes the assumptions visible.
-
-The immune region is the demonstration. The human leukocyte antigen locus varies so extensively that a linear reference cannot represent its combinations, and the pangenome's graph resolves haplotypes that a single path collapses.
-
-The comparative use is immediate. A graph built from many individuals is a representation of a species' variation rather than of one member's, and a species' variation is what a study of selection needs.
-The assembly pipeline is a shared resource. A graph has to be built, annotated and versioned, and the consortium's release includes the tools as well as the sequence. A reference that others cannot rebuild is a reference that cannot be corrected.
-The cost of the graph is the practical brake. A linear reference fits in a fraction of the memory, and a graph's alignment is slower. The paper's benchmarks show the gap narrowing, and the gap is what a clinical laboratory weighs against the gain in accuracy.
+Cost is the practical brake. A linear reference fits in a fraction of the memory and a graph's alignment is slower, and the benchmarks show the gap narrowing while a laboratory weighs it against the gain in accuracy. The pipeline is a shared resource as well, because a graph has to be built, annotated and versioned, and the release includes the tools, since a reference others cannot rebuild is one that cannot be corrected. Genomics gains a change of default, because the single reference was a convenience that shaped a field's assumptions, and a graph makes those assumptions visible, while the comparative use is immediate: a graph from many individuals represents a species' variation rather than one member's, and that variation is what a study of selection needs. Versioning raises a problem of its own, because a graph updated as new donors arrive is a different coordinate system, and a clinical report citing it has to say which version it used. A pangenome also changes teaching, since a student who sees a region as many paths learns that a reference is a choice rather than a fact.
