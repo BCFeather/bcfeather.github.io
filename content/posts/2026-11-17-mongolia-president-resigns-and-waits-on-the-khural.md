@@ -1,0 +1,19 @@
+---
+slug: "mongolia-president-resigns-and-waits-on-the-khural"
+title: "Mongolia's president resigns and waits on the Khural to vote"
+date: "2026-11-17T16:15:00+08:00"
+categories: [news]
+description: "Ukhnaagiin Khürelsükh has offered to resign over allegations of abuse of power and bribery, and the 126-member State Great Khural must now decide whether to accept the offer."
+---
+
+Ulaanbaatar heard on 17 November that the country's sixth president, Ukhnaagiin Khürelsükh, intends to resign. At a press conference that morning he said recent months had produced a campaign against the reputation of the presidency, and that he would surrender the office before defending his name. The State Great Khural had not opened a committee review of the request by the afternoon, and under Mongolian law the presidency therefore continues in his hands until the chamber votes.
+
+Acceptance is a parliamentary act rather than a personal decision. The Law on the Presidency sends a resignation request first to a standing committee, which forms an opinion, and the plenary then votes in public, a majority of the 126 members being what makes the resignation effective. Until that majority exists, the powers of the office stay with the president, which is why an announcement that changed the political weather left the constitutional position untouched. Removal by impeachment is the harder road, since it requires a finding of abuse of power from the Constitutional Court and two thirds of the chamber.
+
+Article 37 of the constitution sets out what follows. Where the president resigns, the chairman of the State Great Khural exercises the presidential powers until a newly elected president is inaugurated, and the chamber must announce and hold the election within four months. The arithmetic compresses the calendar. A term that began in 2021 runs six years and had been due to end in 2027, so an accepted resignation this month would bring the next election forward by roughly a year, while a vote that fails would leave the calendar where it stands.
+
+Specific enough to be examined, the accusations remain general enough to be denied. Xinhua reported that the resignation followed allegations of abuse of power and bribery. CGTN connected the accusation to financial benefit from a government railway project, and Mongolian coverage describes a corruption dispute that the opposition Democratic Party and critics inside the ruling Mongolian People's Party have pressed since the coal-export case of 2022. Khürelsükh answered that he had made no policy error and had taken nothing from the state, and that he would pursue those who defamed him through the courts. No court has ruled on the substance, and an allegation is not yet a finding.
+
+The chamber that must now judge him is the one he has spent a year arguing with. In October 2025 the Khural voted to dismiss Prime Minister Zandanshatar Gombojav four months after his appointment. Khürelsükh vetoed the resolution, citing the conduct of the vote and the count of those present, and the Constitutional Court then held the dismissal unconstitutional. Zandanshatar resigned in March 2026, and Nyam-Osorin Uchral succeeded him. A president who once defended procedure against a parliamentary majority now asks that same procedure to settle his own exit, and the body that meets his request is the body whose decisions he has been overturning.
+
+Three questions remain unanswered. The committee's timetable has not been published, so the plenary vote could arrive within days or after weeks of argument. Whether the ruling party's majority will vote to accept is unknown, and a party that has just changed prime minister may prefer a caretaker presidency to an early election. An interim under the Khural chairman would place foreign policy and national security, the two areas the constitution reserves to the presidency, in the hands of the legislature while a campaign is organised.
