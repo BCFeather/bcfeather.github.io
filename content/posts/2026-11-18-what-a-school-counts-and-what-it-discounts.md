@@ -3,7 +3,7 @@ slug: "what-a-school-counts-and-what-it-discounts"
 title: "What a school counts and what it discounts"
 date: "2026-11-18T10:40:00+08:00"
 categories: [essay]
-description: "A collapse on the track and a mind under load reach the same institution, and the same accounting habit decides which of them is recorded, investigated and prevented. More frightening still, the institutions and the people who should answer for either retreat behind a curtain of feigned ignorance."
+description: "A collapse on the track and a mind under load reach the same institution, and the same accounting habit decides which of them is recorded, investigated and prevented. More frightening still, the institutions and the people who should answer for either retreat, in some cases, behind a curtain of feigned ignorance."
 ---
 
 Two kinds of event recur in Chinese secondary schools every term, and neither is rare enough to be filed as bad luck. Both are worth picturing plainly. In the first, a boy who has not run a kilometre since primary school covers 1,000 metres for a grade, in heat, on a field without a defibrillator, and goes down in the last bend; the notice that follows offers the family condolences and records that he felt unwell. In the second, a girl stops eating and sleeps four hours a night, and by the spring term her classmates are told, in a sentence that never uses the word, that she is gone.
