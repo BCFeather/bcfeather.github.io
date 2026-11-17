@@ -10,9 +10,7 @@ Node names have stopped describing physical dimensions and started describing a 
 
 Performance claims are 12 per cent higher single-thread throughput at the same power, or 25 per cent lower power at the same throughput, measured on a mixed workload the vendor publishes. Both figures depend on the workload: a memory-bound task gains less, because the process does not improve the latency of a DRAM access.
 
-Cost is the part the launch materials do not lead with. A wafer from the two-nanometre line costs roughly 30,000 dollars against 20,000 for the previous generation, and the number of good dies per wafer has not risen proportionally, so the cost per die is up by 40 per cent. A flagship phone can absorb that; a mid-range phone cannot, which is why the node will stay in the top tier for at least a year.
-
-Design effort is the other constraint. A chip on a leading node needs a physical design team that can close timing at these pitches, and only a handful of companies retain that capability in-house. Everyone else buys a design or a license, which concentrates the benefit of the node in fewer products.
+Cost is the part the launch materials do not lead with. A wafer from the two-nanometre line costs roughly 30,000 dollars against 20,000 for the previous generation, and the number of good dies per wafer has not risen proportionally, so the cost per die is up by 40 per cent. A flagship phone can absorb that; a mid-range phone cannot, which is why the node will stay in the top tier for at least a year. Design effort is the other constraint. A chip on a leading node needs a physical design team that can close timing at these pitches, and only a handful of companies retain that capability in-house. Everyone else buys a design or a license, which concentrates the benefit of the node in fewer products.
 
 Thermals set the ceiling in a phone. The chip can dissipate about 4 watts sustained in a 8 millimetre chassis, and the efficiency gain shows up as longer sustained performance rather than higher peak benchmark scores. Reviewers who measure a thirty-minute run will see the difference; those who quote a single-run score will not.
 
