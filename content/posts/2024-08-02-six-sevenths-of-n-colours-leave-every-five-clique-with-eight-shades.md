@@ -1,9 +1,9 @@
 ---
 slug: "six-sevenths-of-n-colours-leave-every-five-clique-with-eight-shades"
-title: "Six-sevenths of n colours leave every five-clique with eight shades"
+title: "Six-sevenths as many colours as vertices satisfy the five-clique rule"
 date: "2024-08-02T09:40:00+08:00"
 categories: [science]
-description: "A preprint closes the constant in a generalized Ramsey number, proving that six-sevenths of n colours let every five-vertex clique display eight distinct shades."
+description: "A preprint closes the constant in a generalized Ramsey number, proving that six-sevenths as many colours as vertices let every five-vertex clique display eight distinct shades."
 ---
 
 Take the complete graph on \(n\) vertices and colour every edge from a palette. Each five-vertex clique carries ten of those edges, and the rule is that the ten must show at least eight distinct colours. The smallest palette that satisfies the rule at every five-clique is the generalized Ramsey number \(f(n,5,8)\), one entry in a table that Erdős and Gyárfás opened half a century ago.
