@@ -6,9 +6,7 @@ categories: [science]
 description: "The solar term of the rainwater falls on the eighteenth of February, and the name describes a hope rather than a forecast. The farming that depends on it has learned to work with both."
 ---
 
-What the almanac calls the rainwater falls on the eighteenth of February, and the name describes a hope rather than a forecast. The term marks the point at which the winter's dry cold gives way to a warmer and wetter air, and the rain that it promises is the rain that the spring planting depends on.
-
-Behind it lies a shift in the circulation. The cold air that sat over the continent retreats to the north, the moist air from the sea moves inland, and the two meet in a band of cloud that crosses the country from the south-west. The rain that results is light and persistent in the south and rare in the north, and the term arrives in both places on the same day.
+What the almanac calls the rainwater falls on the eighteenth of February, and the name describes a hope rather than a forecast. The term marks the point at which the winter's dry cold gives way to a warmer and wetter air, and the rain that it promises is the rain that the spring planting depends on. Behind it lies a shift in the circulation. The cold air that sat over the continent retreats to the north, the moist air from the sea moves inland, and the two meet in a band of cloud that crosses the country from the south-west. The rain that results is light and persistent in the south and rare in the north, and the term arrives in both places on the same day.
 
 Farming calendars that follow the term are a set of windows rather than a set of dates. The wheat that was sown in the autumn begins to grow, the fields that will carry the rice are prepared, and the orchards are pruned. The window is about three weeks, and the farmer who works inside it has a better chance than the one who does not.
 

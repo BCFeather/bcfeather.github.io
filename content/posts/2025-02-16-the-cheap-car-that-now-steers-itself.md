@@ -6,9 +6,7 @@ categories: [technology]
 description: "A Chinese carmaker put a driver assistance system on its cheapest models in February, and the announcement moved the feature from the premium segment to the mass market in a single week."
 ---
 
-A Chinese carmaker put a driver assistance system on its cheapest models in February, and the announcement moved the feature from the premium segment to the mass market in a single week. The system combines a camera, a radar and a chip that runs a small model, and the version that was promised for the entry-level hatchback was the same version that the flagship sedan had received a year earlier.
-
-What changed is what the hardware costs. A camera module, a millimetre-wave radar and a computing board have all fallen in price as the volumes have grown, and the bill of materials for a basic assistance system is now a small fraction of the price of the car. The software is where the engineering cost sits, and the software is written once and shipped to every model.
+A Chinese carmaker put a driver assistance system on its cheapest models in February, and the announcement moved the feature from the premium segment to the mass market in a single week. The system combines a camera, a radar and a chip that runs a small model, and the version that was promised for the entry-level hatchback was the same version that the flagship sedan had received a year earlier. What changed is what the hardware costs. A camera module, a millimetre-wave radar and a computing board have all fallen in price as the volumes have grown, and the bill of materials for a basic assistance system is now a small fraction of the price of the car. The software is where the engineering cost sits, and the software is written once and shipped to every model.
 
 What the system does is narrower than the advertising suggests. It keeps the car in its lane, it follows the vehicle ahead, it brakes for a pedestrian in some conditions, and it parks. The driver remains responsible, the system disengages in the rain and at night, and the manual says so in a paragraph that the buyer does not read.
 
