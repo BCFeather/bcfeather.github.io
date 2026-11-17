@@ -159,7 +159,7 @@ A colon title is welcome where it carries both object and angle, and colon title
 
 Anything carrying a subscript, a superscript, scientific notation or an index is set in TeX rather than typed with underscores, carets or spelled-out powers. Plain numbers, percentages and units in running text take no TeX and should not be given it.
 
-Within TeX, single Latin and Greek letters are italic variables and are written bare; names of functions, units, acronyms and proteins are upright, and so are a differential and `pH`. A subscript that is a letter is italic; a subscript that is a word or a numeral is upright. The acidity symbol splits the same way: `\(\mathrm{p}K_{a}\)` keeps the logarithmic operator `p` upright, slants the constant `K` and leaves the label `a` upright, where `\(pK_a\)` slants all three letters and reads a label as a variable.
+Within TeX, single Latin and Greek letters are italic variables and are written bare; names of functions, units, acronyms and proteins are upright, and so are a differential and `pH`. A subscript that is a letter is italic; a subscript that is a word or a numeral is upright. The acidity symbol splits the same way, and each letter takes its own `\mathrm` where it needs one: `\(\mathrm{p}K_{\mathrm{a}}\)` keeps the logarithmic operator `p` upright, slants the constant `K` and uprights the label `a`, while `\(\mathrm{p}K_{a}\)` leaves the subscript slanted and `\(pK_a\)` slants all three and reads a label as a variable.
 
 * *Variable, bare italic*: `\(a_\mu\)`
 * *Upright formula name*: `\(\mathrm{PI}(3,4)P_2\)`
