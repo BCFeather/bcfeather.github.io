@@ -3,39 +3,19 @@ slug: "the-sun-s-corona-is-built-from-countless-small-jets"
 title: "The Sun's corona is built from countless small jets"
 date: "2023-08-25T09:25:00+08:00"
 categories: [science]
-description: "Observations resolve a multitude of small-scale jets at the base of the solar corona, pointing to a mechanism that heats the outer atmosphere, according to work published in *Science* in August 2023."
+description: "High-cadence imaging resolves a large population of small jets at the base of the corona, and their combined energy flux is compared with the radiative losses the outer atmosphere sustains."
 ---
 
-The corona is hundreds of times hotter than the surface below it, and the energy that heats it must come from the surface's magnetic field. How the energy is transported and dissipated is the coronal heating problem.
+The corona is hundreds of times hotter than the surface below it, and the energy heating it must come from the surface's magnetic field. How that energy is transported and dissipated is the coronal heating problem.
 
-The observations in *Science*, August 2023 address it. The authors resolve a large population of small jets at the base of the corona, and the jets' properties are consistent with a mechanism that carries energy upward along magnetic field lines.
+In *Science* in August 2023, the problem is approached from the base. The authors resolve a large population of small jets at the foot of the corona, and the jets' properties are consistent with a mechanism carrying energy upward along field lines. Population is the finding. The jets are numerous and small, and their combined energy flux is enough to account for a substantial part of the corona's heating.
 
-The population is the finding. The jets are numerous and small, and their combined energy flux is sufficient to account for a substantial part of the corona's heating.
+Reconnection supplies the mechanism. A field line stressed by the surface's motion can reconnect and release energy, and the jet is the outflow that follows; the footpoint is the origin, because a line anchored in the chromosphere is stressed by granulation until it reconnects. Spicules offer the comparison. A jet rising and falling resembles a spicule, and the difference lies in magnetic topology and in the energy the event carries.
 
-The mechanism is magnetic reconnection. A field line that is stressed by the surface's motion can reconnect and release energy, and the jet is the outflow that follows.
+Observation is the achievement. A jet lasts minutes and is small, so high-cadence imaging resolves the population rather than a few examples; the cadence is the requirement, since a jet of minutes needs an image every few seconds, and spectroscopy then gives its temperature and velocity together.
 
-The spicule analogy is the frame. A jet that rises and falls is similar to a spicule, and the difference is the magnetic topology and the energy that the event carries.
+Energy budget is the test. A mechanism heating the corona must supply its radiative losses, and the estimate of the jets' flux is compared with that loss. The transition region matters too, because a jet crosses it in seconds and the emission from that layer records the event as a bright point that moves.
 
-The observation is the achievement. A jet's lifetime is minutes and its size is small, and the authors' high-cadence imaging resolves the population rather than a few examples.
+A global survey is what the limitation demands, since a population in one region is not the whole corona and a global budget needs one. Dissipation is left to inference, because the jet carries energy upward and the conversion into heat is inferred rather than measured.
 
-The energy budget is the test. A mechanism that heats the corona must supply the radiative losses, and the authors' estimate of the jets' flux is compared with that loss.
-
-The limitation is the extrapolation. A observed population at one region is not the whole corona, and a global budget needs a survey.
-
-What the paper does not show is the dissipation. The jet carries energy upward, and the dissipation into heat is a process that the paper infers rather than measures.
-
-For solar physics, the value is a candidate mechanism quantified. The heating problem has had several candidate mechanisms, and a measured energy flux is what allows them to be compared.
-
-The magnetic field's structure is the frame. A field that emerges through the surface forms a loop, and a stressed loop reconnects and releases its energy as a jet.
-
-The cadence is the observational requirement. A jet that lasts minutes needs an image every few seconds, and the authors' instrument provides that rate.
-
-The spectroscopy is the diagnostic. A jet's emission lines give its temperature and its velocity, and the two together identify the outflow.
-
-The comparison with nanoflares is the useful one. A nanoflare is a small reconnection event, and a jet is the same event with a directed outflow that the observation can see.
-
-The coronal hole is the region. A hole's open field lines are where the solar wind leaves, and the jets there are part of the wind's acceleration.
-
-The model's test is a global simulation. A simulation that reproduces the population's statistics would be the theory's confirmation, and the paper's data are its target.
-The jet's origin is the field's footpoint. A field line that is anchored in the chromosphere is stressed by the granulation's motion, and the stress builds until it reconnects.
-The transition region is the layer. A jet crosses it in seconds, and the emission from that layer is what the instrument records as a bright point that moves.
+Solar physics gains a candidate mechanism quantified, since the problem has had several candidates and a measured flux is what allows them to be compared. Nanoflares supply the parallel, because a nanoflare is the same reconnection event without a directed outflow the observation could see. A simulation reproducing the population's statistics would be the theory's confirmation, and these data are its target, while the coronal hole is where the mechanism meets the solar wind, since open field lines there are what the wind leaves along. A second region observed with the same cadence would show whether the population's statistics hold, and a survey of a coronal hole and of an active region at once would test whether the mechanism depends on the field's geometry. The energy flux also needs a spectral measurement rather than an imaging estimate, because a jet's density and its temperature are what turn a brightness into an energy, and that conversion is where the budget's uncertainty sits. A global simulation constrained by these statistics would then decide whether reconnection in small events is a sufficient source or only a contributor.

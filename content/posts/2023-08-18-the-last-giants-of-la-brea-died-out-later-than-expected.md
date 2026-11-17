@@ -3,37 +3,19 @@ slug: "the-last-giants-of-la-brea-died-out-later-than-expected"
 title: "Last giants of La Brea died out later than expected"
 date: "2023-08-18T09:20:00+08:00"
 categories: [science]
-description: "Radiocarbon dating of fossils from the La Brea tar pits shows that the region's megafauna survived longer than some extinction scenarios require, according to a study published in *Science* on 18 August 2023."
+description: "Carefully filtered radiocarbon dates on the youngest specimens from the tar pits compress the interval between the last megafauna and the arrival of people."
 ---
 
-The tar pits at Rancho La Brea preserved a fauna of ground sloths, camels, horses and sabre-toothed cats, and the fauna's extinction is a case study of what happened to large animals at the end of the Pleistocene.
+The tar pits at Rancho La Brea preserved ground sloths, camels, horses and sabre-toothed cats, and that fauna's extinction is a case study of what happened to large animals at the end of the Pleistocene.
 
-The dating in *Science*, 18 August 2023 refines the case. The authors radiocarbon date the youngest specimens of each species and find ages that are later than some earlier estimates, which compresses the interval between the last animals and the arrival of people.
+Dating reported in *Science* on 18 August 2023 refines the case. The authors radiocarbon date the youngest specimens of each species and find ages later than several earlier estimates, which compresses the interval between the last animals and the arrival of people. Compression carries the significance. If the megafauna disappeared shortly after humans arrived, the coincidence supports a human cause, and if the last animals predate the arrival by millennia, the case weakens.
 
-The compression is the significance. If the megafauna disappeared shortly after humans arrived, the coincidence supports a human cause, and if the last animals predate the arrival by millennia, the case for a human cause weakens.
+Method supplies the advance. Collagen and bioapatite from a bone can both be dated, and careful sample selection avoids the contamination that made earlier dates unreliable; ultrafiltration is what removes the artefact, because groundwater adds carbon and a sample that exchanged carbon reports a younger age.
 
-The method is the advance. A bone's collagen and its bioapatite can be dated, and the authors' careful sample selection avoids the contamination that made earlier dates unreliable.
+Taphonomy complicates the reading. A tar pit mixes specimens of different ages, and a bone's stratigraphic position is what allows a date to be attributed to an individual; a pit fills in layers, so a bone in a layer is older than the layer above, which gives a relative order that the dates confirm.
 
-The taphonomy is the complication. A tar pit mixes specimens of different ages, and a bone's stratigraphic position is what allows a date to be attributed to an individual.
+Climate is the competing explanation, since the region warmed and dried at the end of the Pleistocene and a habitat that disappeared would remove a fauna without any hunting. A pollen record from a nearby lake gives the vegetation's history, and a decline tracking the vegetation is a climate story; the predator's date is the informative one, because a sabre-toothed cat at the top of a food web dates the collapse of the fauna rather than one species' decline.
 
-The climate is the competing explanation. The region warmed and dried at the end of the Pleistocene, and a habitat that disappeared would remove a fauna without any hunting.
+The dates give no resolution, because the dates narrow the window and a narrow window is consistent with either cause. A single site's chronology describes a corner of a continent, and the extinction happened across two continents.
 
-The result is not a resolution. The dates narrow the window, and a narrow window is consistent with either cause.
-
-The limitation is the region. A single site's chronology describes a corner of a continent, and the extinction happened across two continents.
-
-What the paper does not show is a mechanism. A date range is a constraint, and the cause of the extinction needs evidence about hunting, about climate and about population.
-
-For palaeontology, the value is a chronology that a hypothesis can be tested against. The debate about the megafauna's end has been a debate about dates, and the paper supplies better ones.
-
-The specimen's collagen is the dated material. A bone's organic fraction turns over during life and stops at death, and its radiocarbon age is the time since that stop.
-
-The contamination is the enemy. Groundwater can add carbon, and a sample that has exchanged carbon reports a younger age. The authors' ultrafiltration is what removes the artefact.
-
-The predator's date is the informative one. A sabre-toothed cat sits at the top of a food web, and its disappearance dates the collapse of the fauna rather than one species' decline.
-
-The tar's stratigraphy is the frame. A pit fills in layers, and a bone in a layer is older than the layer above, which gives a relative order that the dates confirm.
-
-The human arrival is the other date. The evidence for people in the region is archaeological, and a comparison of the two chronologies is the test the debate needs.
-
-The climate record is the third. A pollen record from a nearby lake gives the vegetation's history, and a fauna's decline that tracks the vegetation is a climate story.
+Palaeontology gains a chronology a hypothesis can be tested against, since the debate about the megafauna's end has been a debate about dates and the paper supplies better ones. A human arrival dated by archaeology on the same site would complete the comparison, and that pairing is the test the field still lacks. A single species dated at several pits would show whether the youngest dates agree across the basin, and disagreement between pits would mean the fauna's end was staggered rather than synchronous. A Bayesian model that combines the dates with the archaeology would then put a probability on the two causes, and a probability is what the debate has been missing. A bone's nitrogen content is the second screen, because collagen that has lost its nitrogen has lost its carbon too, and the authors' screening is what separates a reliable date from an artefact of the pit's chemistry. A date on the youngest human coprolite from the same layers would place people at the site to within a century, and that is the resolution the comparison needs.

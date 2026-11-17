@@ -3,39 +3,19 @@ slug: "the-shape-of-a-stretch-sensitive-channel-is-seen-directly"
 title: "Shape of a stretch-sensitive channel is seen directly"
 date: "2023-08-31T09:25:00+08:00"
 categories: [science]
-description: "Cryo-electron microscopy resolves the conformational states of the mechanosensitive channel PIEZO1, according to work published in *Nature* on 31 August 2023."
+description: "Structures of PIEZO1 in membranes of different curvature show the dome flattening that opens its pore, turning a cartoon of tension gating into coordinates."
 ---
 
-A cell senses touch through channels that open when their membrane is stretched, and the mechanism has been a matter of inference. A structure of the channel in its different states would make the inference unnecessary.
+A cell senses touch through channels opening when their membrane is stretched, and the mechanism has been a matter of inference. A structure of the channel in its different states would make inference unnecessary. In *Nature* on 31 August 2023, those structures are provided. The authors determine cryo-electron microscopy structures of PIEZO1 in curved and flattened membrane environments, and the comparison shows how the protein's shape follows the lipid's.
 
-The structures in *Nature*, 31 August 2023 provide them. The authors determine cryo-electron microscopy structures of PIEZO1 in curved and in flattened membrane environments, and the comparison shows how the protein's shape follows the lipid's.
+Architecture is unusual. PIEZO1 is a large trimer with a domed shape, and the dome's curvature couples membrane tension to the pore; the trimer's symmetry is the gating's frame, since three subunits must move together and a symmetric motion is the simplest way for a dome to flatten.
 
-The protein's architecture is unusual. PIEZO1 is a large trimer with a domed shape, and the dome's curvature is what couples the membrane's tension to the channel's pore.
+Flattening is the mechanism. A stretched membrane flattens the dome, and flattening spreads the subunits and opens the pore, so the channel's state is a function of the membrane's geometry.
 
-The mechanism is a flattening. A stretched membrane flattens the dome, and the flattening spreads the subunits and opens the pore, so that the channel's state is a function of the membrane's geometry.
+States are the evidence. The protein is trapped in curved and flat conformations, and the difference between them is the motion gating requires, with the pore at the axis of the dome where opening is coupled to curvature. Lipid's role is the second finding. The structures include surrounding lipids, and their arrangement changes between states, which supports a model in which channel and bilayer move together.
 
-The states are the evidence. The authors trap the protein in curved and in flat conformations, and the difference between them is the motion that gating requires.
+Disease connection is direct. Mutations in the gene cause a skeletal disorder and a blood disorder, and the structures place the affected residues at interfaces the gating moves; a residue at a subunit interface is one whose change would alter gating.
 
-The lipid's role is the second finding. The structures include the surrounding lipids, and their arrangement changes between states, which supports a model in which the channel and the bilayer move together.
+Membrane sets the method's difficulty. A membrane protein needs a lipid environment, and lipid nanodiscs of controlled curvature are what allow the states to be compared. The disc's diameter imposes that curvature, and a range of sizes samples the states.
 
-The disease connection is direct. Mutations in the gene cause a skeletal disorder and a blood disorder, and the structures place the affected residues at the interfaces that the gating moves.
-
-The method's difficulty is the membrane. A membrane protein needs a lipid environment, and the authors' use of lipid nanodiscs of controlled curvature is what allows the states to be compared.
-
-The limitation is the static picture. Two states are not a trajectory, and the intermediate conformations that connect them are inferred.
-
-What the paper does not show is force. A structure does not measure the tension that opens the channel, and the force's magnitude is a separate measurement.
-
-For biophysics, the value is a mechanosensitive channel described in structural terms. The field's model of tension-gated opening has been a cartoon, and the paper's structures are its coordinates.
-
-The trimer's symmetry is the gating's frame. Three subunits must move together, and a symmetric motion is the simplest way for a dome to flatten.
-
-The pore's location is at the centre. A channel whose gate is at the axis of a dome is one whose opening is coupled to the dome's curvature, which is the design the structures reveal.
-
-The nanodisc's curvature is the control. A disc with a defined diameter imposes a curvature on the protein, and the authors' range of disc sizes samples the states.
-
-The comparison with other mechanosensitive channels is instructive. A bacterial channel uses a different architecture, and the two solutions show that tension gating has more than one route.
-
-The disease mutation's position is the test. A residue at a subunit interface is a residue whose change would alter the gating, and the structures show where such residues sit.
-
-The force's scale is the physiological question. A membrane's tension in a cell is small, and a channel that opens at that tension must have a lever that amplifies it.
+Static picture is the limitation. Two states are not a trajectory, and the intermediate conformations are inferred. The tension that opens the channel is not measured, because a structure does not measure the tension opening the channel. Biophysics gains a mechanosensitive channel described structurally, since the field's model has been a cartoon and these structures are its coordinates. A bacterial channel offers the comparison, because its different architecture shows tension gating has more than one route. A measurement of the tension at which the channel opens would connect the structures to the physiology, and a patch-clamp experiment on a membrane of known curvature is the way to obtain it. A trajectory between the two states would need a simulation or a time-resolved method, because the flattening is a motion and the endpoints alone do not say how fast it happens. A structure with a disease mutation would show whether the interface the gating uses is the one the mutation disturbs, and that comparison is the direct test of the model. A reconstruction in a membrane of intermediate curvature would show whether the flattening is continuous, and a partial flattening would mean the channel has more than two states.
