@@ -6,7 +6,7 @@ categories: [science]
 description: "Structures of midnolin show how a ligase recognizes a broad set of substrates by extending a beta sheet rather than by fitting a deep pocket."
 ---
 
-A cell removes proteins by tagging them with ubiquitin and sending them to a proteasome, and the tagging is done by ligases recognising specific targets. A ligase with a very broad target set is unusual. Structures of midnolin, reported in *Science* in August 2023, explain how one such ligase works. The authors determine the protein's structure and its complexes with substrate fragments, and the arrangement shows a binding surface accommodating many sequences.
+A cell removes proteins by tagging them with ubiquitin and sending them to a proteasome, and the tagging is done by ligases recognizing specific targets. A ligase with a very broad target set is unusual. Structures of midnolin, reported in *Science* in August 2023, explain how one such ligase works. The authors determine the protein's structure and its complexes with substrate fragments, and the arrangement shows a binding surface accommodating many sequences.
 
 Recognition is the finding. Rather than a pocket fitting one motif, midnolin presents an extended groove engaging a substrate's exposed loop, and the groove's shallowness is what lets many sequences bind. Breadth is the point. A narrow ligase controls one pathway and a broad one controls a class of proteins, and midnolin's class is the proteins that fold slowly.
 

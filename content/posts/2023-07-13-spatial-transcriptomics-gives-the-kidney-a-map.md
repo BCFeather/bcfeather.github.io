@@ -6,7 +6,7 @@ categories: [science]
 description: "Spatial transcriptomics resolves gene expression across a section of human kidney, revealing zonation and cell states that a dissociated sample would blur."
 ---
 
-A kidney is organised by function: filtration at the cortex, concentration in the medulla. That organisation is visible in a microscope and invisible in a tube of dissociated cells. In *Nature* on 13 July 2023, it is recovered. The authors measure gene expression at positions across a kidney section, and the result is a grid in which every spot carries a transcriptome.
+A kidney is organized by function: filtration at the cortex, concentration in the medulla. That organization is visible in a microscope and invisible in a tube of dissociated cells. In *Nature* on 13 July 2023, it is recovered. The authors measure gene expression at positions across a kidney section, and the result is a grid in which every spot carries a transcriptome.
 
 Zonation is the result. Cortex and medulla differ in the expression of transporters and metabolic genes, and the difference is continuous rather than abrupt, which a section shows and a bulk sample cannot. Geometry explains why the map matters, since a tubule is a long tube with a gradient along it and a section cuts across many tubules at once, so a reconstruction is what recovers that gradient.
 
