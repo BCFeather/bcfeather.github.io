@@ -3,7 +3,7 @@ slug: "abca7-loss-rewires-lipid-and-mitochondrial-chemistry-in-neurons"
 title: "ABCA7 loss rewires lipid and mitochondrial chemistry in neurons"
 date: "2025-11-27T09:25:00+08:00"
 categories: [science]
-description: "In *Nature*, 13 November 2025, loss-of-function variants of *ABCA7*, a gene linked to Alzheimer's disease, disrupt phosphatidylcholine metabolism, mitochondrial function, DNA repair and synaptic signalling in the human brain."
+description: "Loss-of-function variants of *ABCA7*, a gene linked to Alzheimer's disease, disrupt phosphatidylcholine metabolism, mitochondrial function, DNA repair and synaptic signalling in the human brain, as reported in *Nature*."
 ---
 
 Genetic studies of Alzheimer's disease have produced a list of genes whose function is only partly understood. *ABCA7* is one of the strongest of the non-apolipoprotein signals, and it encodes a transporter that moves lipids across membranes. Loss-of-function variants raise risk, and the question has been what a missing transporter does to a neuron over decades.

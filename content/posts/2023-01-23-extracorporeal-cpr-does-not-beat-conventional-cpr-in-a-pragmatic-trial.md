@@ -3,7 +3,7 @@ slug: "extracorporeal-cpr-does-not-beat-conventional-cpr-in-a-pragmatic-trial"
 title: "Extracorporeal CPR does not beat conventional CPR in a pragmatic trial"
 date: "2023-01-23T09:25:00+08:00"
 categories: [science]
-description: "A multicentre pragmatic trial finds extracorporeal CPR and conventional CPR give similar survival with a favourable neurologic outcome at 30 days in refractory out-of-hospital cardiac arrest. The study appears in *New England Journal of Medicine* on 26 January 2023."
+description: "A multicentre pragmatic trial finds extracorporeal CPR and conventional CPR give similar survival with a favourable neurologic outcome at 30 days in refractory out-of-hospital cardiac arrest. The study appears in *The New England Journal of Medicine* on 26 January 2023."
 ---
 
 Extracorporeal membrane oxygenation can restore circulation when compressions cannot, and single-centre series have reported survival rates that seemed to justify building programmes around it. The question a health system has to answer is whether those rates survive the move from a specialised unit to a set of ordinary hospitals.

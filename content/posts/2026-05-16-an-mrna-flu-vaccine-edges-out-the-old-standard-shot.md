@@ -3,7 +3,7 @@ slug: "an-mrna-flu-vaccine-edges-out-the-old-standard-shot"
 title: "mRNA-1010 beats the standard flu shot in adults over 50"
 date: "2026-05-16T10:49:00+08:00"
 categories: [science]
-description: "A phase 3 trial of Moderna's mRNA-1010 seasonal flu vaccine, reported in the New England Journal of Medicine, beat the standard-dose flu shot in adults over 50 by a modest but real margin, at the cost of more side effects. The first mRNA flu shot is inching towards the clinic."
+description: "A phase 3 trial of Moderna's mRNA-1010 seasonal flu vaccine, reported in *The New England Journal of Medicine*, beat the standard-dose flu shot in adults over 50 by a modest but real margin, at the cost of more side effects. The first mRNA flu shot is inching towards the clinic."
 ---
 
 Seasonal influenza kills and hospitalizes hundreds of thousands of older adults every year, and the vaccines we give them are, by the standards of modern medicine, disappointingly mediocre. They work well against a well-matched strain and far less well against a drifted one, and even in good seasons the protection in older adults is only partial. A paper published online on 6 May in *NEJM*, from Isabel Leroux-Roels at Ghent University and colleagues on the Fluent trial, asks whether the mRNA technology that defined the last decade of vaccines can close that gap for flu. The answer, it turns out, is yes, by a little, and the details are more interesting than the headline.

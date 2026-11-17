@@ -3,7 +3,7 @@ slug: "half-a-million-han-chinese-genomes-give-risk-scores-a-reference"
 title: "Half a million Han Chinese genomes give risk scores a reference"
 date: "2025-12-05T09:20:00+08:00"
 categories: [science]
-description: "In *Nature*, 15 October 2025, the Taiwan Precision Medicine Initiative reports a cohort of more than half a million people of Han Chinese ancestry with genetic and medical data, a resource for polygenic risk prediction in a population under-represented in genomics."
+description: "A cohort of more than half a million people of Han Chinese ancestry, with genetic and medical data, gives polygenic risk prediction a reference for a population under-represented in genomics, the Taiwan Precision Medicine Initiative reports in *Nature*."
 ---
 
 Genetic risk scores are built from studies, and studies are built from the people who volunteer for them. The consequence is that most polygenic scores were calibrated on Europeans, and their performance falls when applied to anyone else. The failure is not a small correction: a score that predicts well in one population can lose much of its discrimination in another, because the variants it uses are in different combinations and the allele frequencies differ.

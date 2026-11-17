@@ -3,7 +3,7 @@ slug: "precision-oncology-has-a-success-paradox"
 title: "Precision oncology has a success paradox"
 date: "2026-10-08T22:50:00+08:00"
 categories: [science]
-description: "A Lancet Oncology commission finds cancer genomics deeply unequal and warns that cost and complexity are growing faster than the population-level benefit."
+description: "A commission in *The Lancet Oncology* finds cancer genomics deeply unequal and warns that cost and complexity are growing faster than the population-level benefit."
 ---
 
 A commission published in *The Lancet Oncology* in October set out to measure how far precision oncology has travelled and found a distribution problem at the end of the road. Genomic testing and matched therapy remain sharply unequal, both between countries and within them, and the commission describes a success paradox: as the field advances, its cost and complexity grow faster than the benefit it delivers to a population. The document is the most comprehensive assessment of the field's reach that has been assembled, and it was written by a group with no interest in arguing that sequencing should stop.

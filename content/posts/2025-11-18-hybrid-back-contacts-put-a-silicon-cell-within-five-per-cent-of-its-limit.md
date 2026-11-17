@@ -3,7 +3,7 @@ slug: "hybrid-back-contacts-put-a-silicon-cell-within-five-per-cent-of-its-limit
 title: "Hybrid back contacts put a silicon cell within five per cent of its limit"
 date: "2025-11-18T09:30:00+08:00"
 categories: [science]
-description: "In *Nature*, 13 November 2025, a silicon solar cell with hybrid interdigitated back contacts reaches a power conversion efficiency approaching 95 per cent of the theoretical limit, with a fill factor approaching 98 per cent of its limit."
+description: "A silicon solar cell with hybrid interdigitated back contacts reaches a power conversion efficiency approaching 95 per cent of the theoretical limit, with a fill factor approaching 98 per cent of its limit, as reported in *Nature*."
 ---
 
 Silicon solar cells have been close to their ceiling for a decade, and the remaining gains are measured in fractions of a point. The detailed-balance limit for a single junction sets the maximum, and every recombination path, every resistive loss and every parasitic absorption moves a cell away from it. The cells reported in *Nature*, 13 November 2025 close most of that distance with a contact design rather than a new material.

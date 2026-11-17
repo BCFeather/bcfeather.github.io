@@ -3,7 +3,7 @@ slug: "fifteen-years-after-a-stem-cell-transplant-for-autoimmune-disease"
 title: "Fifteen years after a stem-cell transplant for autoimmune disease"
 date: "2026-06-19T09:20:00+08:00"
 categories: [science]
-description: "Two patients with a severe autoimmune condition that attacks the spinal cord and optic nerve have remained in remission for more than fifteen years after a stem-cell transplant, a report in Med describes."
+description: "Two patients with a severe autoimmune condition that attacks the spinal cord and optic nerve have remained in remission for more than fifteen years after a stem-cell transplant, a report in *Med* describes."
 ---
 
 Autologous haematopoietic stem-cell transplantation has been used in multiple sclerosis and in other autoimmune diseases for two decades, on the reasoning that wiping out the immune repertoire and rebuilding it from the patient's own stem cells can reset a misdirected response. The procedure is risky, so it has been reserved for people who are failing conventional therapy. The procedure uses cyclophosphamide and anti-thymocyte globulin to ablate the immune system, then returns the patient's own stem cells, which have been harvested and frozen beforehand.

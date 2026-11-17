@@ -3,7 +3,7 @@ slug: "a-record-hot-ocean-year-after-year"
 title: "A record-hot ocean, year after year"
 date: "2025-05-08T15:28:00+08:00"
 categories: [science]
-description: "A team of 54 scientists reported on 10 January 2025 that 2024 set a new record for both sea-surface temperature and upper-ocean heat content. A close reading of the Advances in Atmospheric *Science*s paper, and what the repeated records actually measure."
+description: "A team of 54 scientists reported on 10 January 2025 that 2024 set a new record for both sea-surface temperature and upper-ocean heat content. A close reading of the Advances in Atmospheric Sciences paper, and what the repeated records actually measure."
 ---
 
 If you want to know what the climate is doing, the air temperature is a noisy answer. The oceans absorb roughly 90 per cent of the excess heat trapped by greenhouse gases, so the heat content of the sea is the cleaner instrument. On 10 January 2025, an international team of 54 scientists from seven countries published their annual account of that instrument in Advances in Atmospheric Sciences. 'Record High Temperatures in the Ocean in 2024', led by Cheng Lijing of the Institute of Atmospheric Physics, reports that 2024 set a new high for both global sea-surface temperature and the heat stored in the upper 2,000 metres, each one a record in the modern observational record.

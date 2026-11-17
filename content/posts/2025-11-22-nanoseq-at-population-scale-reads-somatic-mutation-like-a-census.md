@@ -3,7 +3,7 @@ slug: "nanoseq-at-population-scale-reads-somatic-mutation-like-a-census"
 title: "NanoSeq at population scale reads somatic mutation like a census"
 date: "2025-11-22T09:40:00+08:00"
 categories: [science]
-description: "In *Nature*, 13 November 2025, a new version of nanorate sequencing reaches an error rate below five errors per billion base pairs and works on whole-exome and targeted capture, making epidemiological studies of somatic mutation possible."
+description: "A new version of nanorate sequencing reaches an error rate below five errors per billion base pairs and works on whole-exome and targeted capture, making epidemiological studies of somatic mutation possible, the group reports in *Nature*."
 ---
 
 Every cell in a body accumulates mutations, and most of them matter only as a record of what that tissue has been through. Reading that record requires distinguishing a real mutation from a sequencing error, and the error rate of conventional sequencing is thousands of times higher than the mutation rate of a normal cell. The technique that solved this, nanorate sequencing, achieved its low error rate by tagging the original DNA strands, which limited it to small targeted panels.

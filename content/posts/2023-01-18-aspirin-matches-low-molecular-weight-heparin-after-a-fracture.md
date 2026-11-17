@@ -3,7 +3,7 @@ slug: "aspirin-matches-low-molecular-weight-heparin-after-a-fracture"
 title: "Aspirin matches low-molecular-weight heparin after a fracture"
 date: "2023-01-18T09:20:00+08:00"
 categories: [science]
-description: "The PREVENT CLOT trial finds aspirin noninferior to low-molecular-weight heparin for preventing death after orthopaedic trauma, with 47 deaths among 6,101 aspirin patients and 45 among 6,110 given heparin. The paper is published in *New England Journal of Medicine* on 19 January 2023."
+description: "The PREVENT CLOT trial finds aspirin noninferior to low-molecular-weight heparin for preventing death after orthopaedic trauma, with 47 deaths among 6,101 aspirin patients and 45 among 6,110 given heparin. The paper is published in *The New England Journal of Medicine* on 19 January 2023."
 ---
 
 Orthopaedic trauma produces a patient who cannot walk, has a broken bone with torn tissue around it, and carries the risk of a clot that travels to the lung. Prophylaxis is standard, and the standard has been low-molecular-weight heparin, an injectable drug that costs more and is harder to give at home than a tablet.

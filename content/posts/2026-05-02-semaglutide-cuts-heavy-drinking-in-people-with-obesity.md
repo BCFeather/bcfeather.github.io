@@ -3,7 +3,7 @@ slug: "semaglutide-cuts-heavy-drinking-in-people-with-obesity"
 title: "Semaglutide cuts heavy drinking in people with obesity"
 date: "2026-05-02T09:20:00+08:00"
 categories: [science]
-description: "A Lancet trial finds that weekly semaglutide, added to counselling, reduced heavy drinking days and alcohol consumption in people with alcohol use disorder and obesity."
+description: "A trial in *The Lancet* finds that weekly semaglutide, added to counselling, reduced heavy drinking days and alcohol consumption in people with alcohol use disorder and obesity."
 ---
 
 Alcohol use disorder and obesity travel together, and the treatments have lived in separate clinics. A trial reported in *The Lancet* on 2 May tested whether a drug developed for one condition helps with the other, on the reasoning that both involve reward circuitry and compulsive consumption.

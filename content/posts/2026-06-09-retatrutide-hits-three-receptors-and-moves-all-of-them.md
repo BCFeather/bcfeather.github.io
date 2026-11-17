@@ -3,7 +3,7 @@ slug: "retatrutide-hits-three-receptors-and-moves-all-of-them"
 title: "Retatrutide hits three receptors and moves all of them"
 date: "2026-06-09T09:20:00+08:00"
 categories: [science]
-description: "A Lancet trial of the triple agonist retatrutide reports dose-dependent reductions in HbA1c and body weight at 40 weeks in people with type 2 diabetes and obesity."
+description: "The triple agonist retatrutide lowers HbA1c and body weight in a dose-dependent way at 40 weeks in people with type 2 diabetes and obesity, a trial in *The Lancet* reports."
 ---
 
 Incretin research has moved from single agonists to dual agonists and now to triple agonists, each step adding a receptor and asking whether the extra mechanism buys more benefit than it costs in tolerability. Retatrutide adds glucagon receptor agonism to GLP-1 and GIP agonism. Glucagon agonism raises energy expenditure, GIP agonism appears to improve tolerability, and GLP-1 agonism reduces intake, so the three mechanisms are meant to add rather than duplicate.

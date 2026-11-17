@@ -3,7 +3,7 @@ slug: "satellites-see-landfill-methane-but-not-yet-how-much"
 title: "Satellites see landfill methane but not yet how much"
 date: "2025-11-21T09:45:00+08:00"
 categories: [science]
-description: "In *Nature*, 13 November 2025, a global satellite survey of landfill methane finds that emission estimates vary widely between sites and methods, and that the uncertainty is large enough to matter for climate accounting."
+description: "A global satellite survey of landfill methane finds that emission estimates vary widely between sites and methods, and that the uncertainty is large enough to matter for climate accounting, as reported in *Nature*."
 ---
 
 Methane is the second most important greenhouse gas and the one with the shortest lifetime, which makes it the cheapest lever for slowing warming within a decade. Landfills are among the largest anthropogenic sources, and they are also among the least measured: a site's emissions depend on how much waste was buried, how deep, how wet and how long ago, and the standard method is a model with coefficients rather than a measurement.

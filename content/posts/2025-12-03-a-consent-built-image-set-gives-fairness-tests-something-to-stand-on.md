@@ -3,7 +3,7 @@ slug: "consent-built-image-set-gives-fairness-tests-something-to-stand-on"
 title: "Consent-built image set gives fairness tests something to stand on"
 date: "2025-12-03T09:40:00+08:00"
 categories: [science]
-description: "In *Nature*, 5 November 2025, Alice Xiang and colleagues release FHIBE, a human-centric image benchmark built with documented consent, privacy protection and compensation, designed as a reference for fairness evaluation."
+description: "A human-centric image benchmark built with documented consent, privacy protection and compensation gives fairness evaluation a reference set, a team reports in *Nature*."
 ---
 
 Fairness testing in computer vision has a data problem that no metric can fix. A model is audited on a dataset, and that dataset was usually scraped from the internet, which means the people in it never agreed to be there, are not paid, and are not described in terms they would recognize. An audit built on such a set measures a model's behaviour on a population that was collected without consent, and the result is neither ethical nor representative.

@@ -3,7 +3,7 @@ slug: "ptychography-resolves-how-a-perovskite-edge-is-terminated"
 title: "Ptychography resolves how a perovskite edge is terminated"
 date: "2025-11-17T09:50:00+08:00"
 categories: [science]
-description: "In *Nature*, 13 November 2025, electron ptychography resolves the atomic structure of methylammonium lead iodide edges and shows that edge termination and defect stability depend on the concentration and type of vacancies."
+description: "Electron ptychography resolves the atomic structure of methylammonium lead iodide edges and shows that edge termination and defect stability depend on the concentration and type of vacancies, the group reports in *Nature*."
 ---
 
 Halide perovskites are cheap to make and hard to keep. Their solar cells reach efficiencies that rival silicon, and their films degrade under heat, moisture and illumination in ways that no encapsulation has fully solved. Much of the degradation begins at surfaces and edges, where the crystal stops and the chemistry changes, and where the atomic arrangement has been difficult to see.

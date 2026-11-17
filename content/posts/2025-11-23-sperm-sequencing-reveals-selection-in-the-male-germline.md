@@ -3,7 +3,7 @@ slug: "sperm-sequencing-reveals-selection-in-the-male-germline"
 title: "Sperm sequencing reveals selection in the male germline"
 date: "2025-11-23T09:30:00+08:00"
 categories: [science]
-description: "In *Nature*, 13 November 2025, whole-genome and exome nanorate sequencing of sperm measures mutation rates directly and finds extensive positive selection among the genes that shape sperm production."
+description: "Whole-genome and exome nanorate sequencing of sperm measures mutation rates directly and finds extensive positive selection among the genes that shape sperm production, a study in *Nature* reports."
 ---
 
 The mutations a child inherits from its father are not a random sample of the father's cells. They are the output of a lineage that has been dividing since before the father was born, and the cells that reach the sperm are the ones that survived a long competition. Sequencing sperm is therefore a way of reading that competition directly, and it has been impractical because sperm DNA is scarce and mutation rates are low.
