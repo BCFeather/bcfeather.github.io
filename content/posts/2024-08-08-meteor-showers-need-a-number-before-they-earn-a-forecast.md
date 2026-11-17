@@ -18,4 +18,4 @@ Speed does much of the work. Impact energy scales with the square of velocity, s
 
 What the test buys is a forecast that can be defended. A shower dropped from the list becomes a judgement somebody made and can be re-examined; a list of a thousand entries, ranked by nothing, is a judgement nobody can check.
 
-The uncertain middle stays where it belongs, with showers whose parameters are incomplete. Those need observation before they need a policy, and the criterion at least makes plain which measurement would settle the question. Pruning is also how a forecast stays short enough to be read before a spacewalk rather than after one. The paper was accepted by *Advances in Space Research*.
+The uncertain middle stays where it belongs, with showers whose parameters are incomplete. Those need observation before they need a policy, and the criterion at least makes plain which measurement would settle the question. It also shortens the forecast to entries that can be counted and rechecked, which is exactly what keeps the document readable before a spacewalk rather than after one. The paper was accepted by *Advances in Space Research*.
