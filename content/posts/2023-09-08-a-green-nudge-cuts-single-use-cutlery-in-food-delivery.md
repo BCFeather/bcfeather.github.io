@@ -3,39 +3,19 @@ slug: "a-green-nudge-cuts-single-use-cutlery-in-food-delivery"
 title: "Green nudge cuts single-use cutlery in food delivery"
 date: "2023-09-08T09:20:00+08:00"
 categories: [science]
-description: "A field experiment on a food delivery platform shows that changing the default and awarding green points sharply reduces single-use cutlery, according to work published in *Science* on 8 September 2023."
+description: "A field experiment on a delivery platform reverses the cutlery default and adds a small reward of green points, and the share of orders arriving without plastic rises sharply."
 ---
 
-A food delivery order often arrives with a set of plastic cutlery that the customer did not ask for, and the default is the reason. A default that is reversed is a policy that costs nothing and changes behaviour.
+A delivery order often arrives with a set of plastic cutlery nobody asked for, and the default rather than any preference is the reason. Reversing that default is a policy that costs almost nothing and changes behaviour at once.
 
-The experiment in *Science*, 8 September 2023 tests it. The authors run a field experiment on a large platform, change the cutlery default to none, and add a small reward of green points for choosing no cutlery.
+Tested in *Science* on 8 September 2023, the intervention runs on a large platform, where the cutlery default is set to none and a small award of green points is offered for keeping it that way. Reduction is the result. The share of orders without cutlery rises sharply, and the estimate of plastic avoided is the environmental consequence the authors compute from the order count.
 
-The reduction is the result. The share of orders without cutlery rises sharply, and the authors' estimate of the avoided plastic is the environmental consequence.
+Design supplies the strength. A randomised experiment across millions of users is a test at platform scale, and randomisation is what makes the effect causal rather than a correlation with conscientious customers. Platform scale is also the power, because a million users yield a precise estimate where a laboratory study would miss a small effect.
 
-The design is the strength. A randomized experiment on a platform with millions of users is a test at scale, and the randomization is what makes the effect causal.
+Mechanism runs through the default. A customer who must opt out must act, and the cost of that action is the inertia the default exploits; the choice point sits on the confirmation screen, and its position there is the whole intervention.
 
-The mechanism is the default. A person who must opt out is a person who must act, and the action's cost is the inertia that the default exploits.
+Reward is the second lever, and a non-monetary point is a small incentive whose effect is smaller than the default's and additive to it. Points also avoid the cost of a subsidy, which is why their small size leaves the default as the larger force.
 
-The reward is the second lever. A non-monetary point is a small incentive, and its effect is smaller than the default's and additive to it.
+Persistence remains open. An effect lasting only while the nudge is in place is temporary, and the measurement over time is the test the authors run. The setting is the limitation, since a platform's users are a selected population and a restaurant counter is a different context.
 
-The behaviour's persistence is the question. An effect that lasts only while the nudge is in place is a temporary one, and the authors' measurement over time is the test.
-
-The limitation is the setting. A platform's users are a selected population, and a restaurant's counter is a different context.
-
-What the paper does not establish is the waste's fate. A cutlery set that is not delivered is not produced, and the production's avoidance is the environmental gain.
-
-For policy, the value is a cheap instrument with a measured effect. A regulation that bans a default is easier than a ban on the item, and the experiment is the evidence a regulator needs.
-
-The platform's scale is the experiment's power. A million users produce a precise estimate, and a small effect is detectable where a laboratory study would miss it.
-
-The default's ethics is the debate. A nudge that changes a default is a choice architecture, and the authors' measurement of user satisfaction is the check on paternalism.
-
-The points' design is the incentive's form. A non-monetary reward avoids a subsidy's cost, and its small size is what makes the default's effect the larger one.
-
-The plastic's lifecycle is the environmental accounting. A cutlery set's production and disposal are the emissions, and the avoided sets are the paper's unit.
-
-The comparison with a ban is the policy frame. A ban removes the choice and a nudge preserves it, and the two have different political costs.
-
-The replication is the generalization. A similar experiment on another platform would test whether the effect is cultural or universal, and the authors' discussion invites it.
-The order's flow is the choice point. A customer who confirms an order passes through a screen that offers cutlery, and the default's position on that screen is the intervention's site.
-The platform's incentive is the business question. A platform that saves on cutlery has a cost reason as well as an environmental one, and the authors' discussion notes both.
+Fate of the waste is the missing half, because a set not delivered is not produced, and avoidance of production is where the environmental gain actually sits. Policy gains a cheap instrument with a measured effect, and a rule on defaults is easier to write than a ban on the item itself. Satisfaction with the change is the check on paternalism, and a ban offers the comparison, since it removes the choice that a nudge preserves. A second platform running the same change would test whether the effect is cultural or universal, and a replication in a different country is the comparison the discussion invites. A longer observation window would show whether the drop in cutlery orders decays after the points stop being advertised, and a decay would say the reward rather than the default carries the behaviour. The plastic's lifecycle is the accounting, since production and disposal of a set are the emissions and the avoided sets are the unit the authors count. A cost per avoided set would let a city compare the nudge with a ban on the same budget, and that comparison is the number a procurement office would ask for.

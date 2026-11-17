@@ -3,38 +3,19 @@ slug: "a-map-of-the-protein-universe-turns-up-new-folds"
 title: "A map of the protein universe turns up new folds"
 date: "2023-09-13T09:20:00+08:00"
 categories: [science]
-description: "A systematic search of sequenced genomes uncovers protein families and folds that no catalogue had recorded, according to work published in *Nature* on 13 September 2023."
+description: "Folding every sequence in a large set of metagenomes and clustering the results uncovers protein families and folds that no catalogue had recorded."
 ---
 
-The protein databases hold structures for a fraction of known sequences, and the rest are annotated by similarity. A search that looks for structure rather than similarity can find what the annotation misses.
+Protein databases hold structures for a fraction of known sequences, and the rest are annotated by similarity, so a search looking for structure rather than similarity can reach what annotation misses.
 
-The search in *Nature*, 13 September 2023 does that. The authors fold every protein in a large set of metagenomes with a structure prediction network, cluster the results, and identify families that the existing catalogues do not contain.
+Applied to a large set of metagenomes and reported in *Nature* on 13 September 2023, the search folds every sequence with a prediction network, clusters the models and identifies families absent from existing catalogues.
 
-The new families are the result. A set of clusters has no assigned function and no close homologue, and the authors' analysis places them in the tree of life and in the space of folds.
+New families are the result. A set of clusters carries no assigned function and no close homologue, and the analysis places them both in the tree of life and in the space of folds. Folds carry the structural finding. A shape biology has produced and nobody catalogued is a discovery, and the count of such folds is the paper's headline number.
 
-The folds are the structural finding. A fold that no known protein adopts is a shape that biology has produced and that no one had catalogued, and the count of such folds is the paper's headline.
+Method is the enabler. A network turning a sequence into a reliable structure converts an unannotated gene into a testable hypothesis, and the breadth of the metagenomes is what makes the search wide; clustering is the organisation, because a structure space of millions of models needs a distance measure, and grouping by shape rather than sequence is the one chosen.
 
-The method is the enabler. A prediction network that produces a reliable structure from a sequence turns an unannotated gene into a testable hypothesis, and the scale of the metagenomes is what makes the search broad.
+Function is the open question, since a structure suggests a chemistry and a suggestion is not a demonstration, and the families whose function is a guess are flagged as such. Annotation's limit is homology, because a sequence diverged beyond recognition is invisible to a similarity search while the structure's conservation outlasts it.
 
-The function is the open question. A structure suggests a chemistry, and a suggestion is not a demonstration, and the authors flag the families whose function is a guess.
+Viral fraction is the surprise. A large share of the new families comes from phage and viruses, which the databases have underrepresented, and a virus's fast-evolving proteins are exactly what a structure-based search finds where a sequence search does not.
 
-The viral fraction is notable. A large share of the new families comes from phage and from viruses, which the databases have underrepresented.
-
-The limitation is the prediction. A network's structure is a model, and a model's accuracy falls for a sequence with no homologue.
-
-What the paper does not show is a function for most of the new families. A catalogue of shapes is a resource, and the experiments that assign functions are the next decade's work.
-
-For biology, the value is a map with blank regions filled. The protein universe has had a shape that the known structures defined, and the search extends the shape.
-
-The metagenome is the source. A sample from a soil or a ocean holds sequences from organisms that no one has cultured, and the sequences are the raw material that the search folds.
-
-The clustering is the organization. A structure space with millions of models needs a distance measure, and the authors' clustering groups models by shape rather than by sequence.
-
-The novelty's criterion is the catalogue. A family that matches a known one at a low confidence is a variant, and a family that matches nothing is a discovery.
-
-The phage's share is the surprise. A virus's proteins evolve fast and are poorly annotated, and a structure-based search finds them where a sequence search does not.
-
-The annotation's limit is the homology. A sequence that has diverged beyond recognition is invisible to a similarity search, and the structure's conservation outlasts the sequence's.
-
-The resource's use is a screen. A lab with a new protein can compare its structure with the map and find a relative, and the comparison is the catalogue's service.
-The structural alignment is the comparison's basis. Two models with the same fold superpose with a small deviation, and the authors' threshold for a match is what defines a family.
+A function for most new families is what the paper does not supply, since a catalogue of shapes is a resource and the experiments assigning functions are the next decade's work. Biology gains a map with blank regions filled, and the threshold for a structural match is what defines a family, so the catalogue's service is a comparison any laboratory can run on a new protein. A test on a family whose function is known would calibrate how much a structure alone can say, and that calibration is what would make the assignments for unknown families trustworthy. A comparison with a sequence-based annotation of the same metagenomes would also show how many families each method finds that the other misses. The resource's use is a screen, because a laboratory with an uncharacterised protein can compare its structure with the map and find a relative. A structural alignment superposing two models with the same fold and measuring the deviation would place them in one family, and the threshold used for that match is what decides how many discoveries the map reports. A laboratory that folds a newly solved protein and finds it matching one of the unnamed families has a starting point for an experiment, and that is how a catalogue of shapes becomes a programme of work.
