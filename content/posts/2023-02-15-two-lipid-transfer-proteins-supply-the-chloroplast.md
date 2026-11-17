@@ -8,11 +8,11 @@ description: "Arabidopsis Sec14 proteins SFH5 and SFH7 mediate interorganelle tr
 
 
 
-The chloroplast's thylakoid membrane is a specialised lipid environment, and the lipids are not made there. They are synthesised in the endoplasmic reticulum, and they have to cross the cytosol and the chloroplast envelope to reach the thylakoids.
+The chloroplast's thylakoid membrane is a specialized lipid environment, and the lipids are not made there. They are synthesized in the endoplasmic reticulum, and they have to cross the cytosol and the chloroplast envelope to reach the thylakoids.
 
 In *PNAS* on 7 February 2023, two proteins that carry one of those lipids are identified. The authors show that Arabidopsis Sec14 proteins *SFH5* and *SFH7* mediate the interorganelle transport of phosphatidic acid, and that their loss changes chloroplast development.
 
-Canonical Sec14 proteins are lipid-binding modules that present a lipid to an enzyme. Moving a lipid between membranes is a different function, and the evidence is that the proteins' location and their loss-of-function phenotypes fit a transport role, with localisation at the envelope being the observation that makes the claim plausible.
+Canonical Sec14 proteins are lipid-binding modules that present a lipid to an enzyme. Moving a lipid between membranes is a different function, and the evidence is that the proteins' location and their loss-of-function phenotypes fit a transport role, with localization at the envelope being the observation that makes the claim plausible.
 
 Because phosphatidic acid is made in the endoplasmic reticulum and converted into phosphatidylglycerol and the galactolipids that dominate the thylakoid, a step that moves the precursor sets the supply, and the envelope's two membranes demand a carrier or a contact site, so these proteins are candidates for the carrier. Specificity supports the argument, since a Sec14 domain that binds the precursor and not its derivatives is a domain evolved for that job, and specificity is what separates a transport protein from a general lipid chaperone.
 

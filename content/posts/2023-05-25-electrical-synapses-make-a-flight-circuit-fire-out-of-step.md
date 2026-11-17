@@ -6,13 +6,13 @@ categories: [science]
 description: "In the fruit fly's flight circuit, neurons joined by electrical synapses fire in sequence rather than in unison, a counterintuitive arrangement that turns unpatterned input into a stable wingbeat."
 ---
 
-Central pattern generators produce rhythmic movement, and the textbook version of a coupled oscillator network is one in which the units synchronise. A network whose units deliberately desynchronise is a different solution to the same problem.
+Central pattern generators produce rhythmic movement, and the textbook version of a coupled oscillator network is one in which the units synchronize. A network whose units deliberately desynchronize is a different solution to the same problem.
 
-In *Nature* on 24 May 2023, that solution is described. The authors study the flight control network of Drosophila, find that its motoneurons are connected by electrical synapses, and show that the connections produce activity splayed out in time rather than synchronised.
+In *Nature* on 24 May 2023, that solution is described. The authors study the flight control network of Drosophila, find that its motoneurons are connected by electrical synapses, and show that the connections produce activity splayed out in time rather than synchronized.
 
-Counterintuitive as the arrangement sounds, the explanation is physical. An electrical synapse equalises voltage, and equalisation usually means synchrony, yet here the coupling is weak and the neurons' resting excitability differs, so the connection produces a phase lag instead of a lockstep. Under weak coupling a neuron's phase shifts without being forced, and a cell sitting near threshold answers a small shift with a large change in timing, which is the whole mechanism in two sentences.
+Counterintuitive as the arrangement sounds, the explanation is physical. An electrical synapse equalizes voltage, and equalization usually means synchrony, yet here the coupling is weak and the neurons' resting excitability differs, so the connection produces a phase lag instead of a lockstep. Under weak coupling a neuron's phase shifts without being forced, and a cell sitting near threshold answers a small shift with a large change in timing, which is the whole mechanism in two sentences.
 
-Wingbeat is the function. A flight muscle needs a sequence of activations in a fixed order, and a network producing a sequence from unpatterned input is one that stabilises the beat against noise, so the circuit converts an unreliable command into a reliable rhythm.
+Wingbeat is the function. A flight muscle needs a sequence of activations in a fixed order, and a network producing a sequence from unpatterned input is one that stabilizes the beat against noise, so the circuit converts an unreliable command into a reliable rhythm.
 
 Experiment and theory together supply the evidence, with electrophysiology, optogenetic perturbation, genetics and a mathematical model each carrying a share of the argument. Development explains where the coupling comes from, since a gap junction is a channel between cells whose conductance depends on the connexin forming it, and the genetic identification of that connexin turns the coupling into a component that can be removed and replaced.
 
