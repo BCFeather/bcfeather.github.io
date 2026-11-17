@@ -10,7 +10,7 @@ An identifying code is a set of vertices that dominates a graph and separates it
 
 How small a code can be is the question, and the conjecture on it has a simple shape. For a connected graph of order \(n\) and maximum degree \(\delta\), a code should exist with at most \(\frac{\delta-1}{\delta}n\) plus some absolute constant \(c\). The ratio is easy to trust, because a graph of high degree is dominated cheaply, and the constant is the part nobody could pin down.
 
-A preprint posted to arXiv on 19 March 2024 pins it down for trees. The authors characterise exactly which trees need a positive constant and give its exact value for each, so the conjecture is proved in that class rather than merely supported by examples, and the proof identifies the trees that force the constant to be positive at all.
+A preprint posted to arXiv on 19 March 2024 pins it down for trees. The authors characterize exactly which trees need a positive constant and give its exact value for each, so the conjecture is proved in that class rather than merely supported by examples, and the proof identifies the trees that force the constant to be positive at all.
 
 The values are small and explicit. For \(\delta=2\), where a tree is a path, a constant of 3/2 has long been known to suffice. For every \(\delta\ge 3\), a constant of \(1/\delta\) works, at most a third, and a positive constant is needed only for finitely many trees. At \(\delta=3\) there are exactly twelve such trees, and for every \(\delta\ge 4\) the only tree that needs one is the \(\delta\)-star, the single vertex with \(\delta\) leaves.
 

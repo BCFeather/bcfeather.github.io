@@ -14,7 +14,7 @@ The profile is parabolic. Hexagonal holes grow in size with distance from the op
 
 The stack is five wafers. Each gradient wafer is 525 micrometres thick, and one anti-reflection wafer sits on each face, so the lens is built from seven etched wafers bonded into a 100 mm disc, which is the kind of part a wafer fab can produce in quantity, not one at a time. Bonding is the risk in the process, since every bond line is a place where light scatters and where a bubble can sit.
 
-Three layers carry the anti-reflection duty. Square holes and cross-shaped posts are combined in a graded stack optimised for 160 to 355 gigahertz, and because the features are non-resonant they remain achromatic over a band that is wide for a structure of this kind, which is what makes one design cover the whole range rather than one frequency.
+Three layers carry the anti-reflection duty. Square holes and cross-shaped posts are combined in a graded stack optimized for 160 to 355 gigahertz, and because the features are non-resonant they remain achromatic over a band that is wide for a structure of this kind, which is what makes one design cover the whole range rather than one frequency.
 
 Measured behaviour is close to design. Over 220 to 330 gigahertz the lens follows Gaussian optics down to minus 14 decibels and transmits between 75 and 100 per cent of the incident power, which are the two numbers an instrument builder needs in order to place it in a receiver chain. The band itself is set by the etch depth and the wafer thickness, so a wider range would need a deeper structure, not a different material.
 
