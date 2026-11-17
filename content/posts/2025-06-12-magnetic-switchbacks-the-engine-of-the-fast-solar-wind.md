@@ -3,7 +3,7 @@ slug: "magnetic-switchbacks-the-engine-of-the-fast-solar-wind"
 title: "Magnetic switchbacks: the engine of the fast solar wind"
 date: "2025-06-12T12:53:00+08:00"
 categories: [science]
-description: "A paper in *Science* on 29 August 2024 used two spacecraft at different distances to show that Alfvénic switchbacks deposit their energy to heat and accelerate the fast solar wind. A close reading of the *in-situ* measurement that settled a decades-old question."
+description: "Two spacecraft at different distances show that Alfvénic switchbacks deposit their energy to heat and accelerate the fast solar wind, in a paper in *Science*. A close reading of the *in-situ* measurement that settled a decades-old question."
 ---
 
 The Sun throws off a constant wind of charged particles, and for sixty years nobody could say for sure what accelerates the fast component of that wind to several million degrees. The corona is mysteriously hotter than the surface below it, and the wind that streams outward from it needs an energy source that models had only guessed at. A paper published in *Science* on 29 August 2024 closes much of that gap with a direct measurement. 'In situ observations of large-amplitude Alfvén waves heating and accelerating the solar wind', by Yeimy Rivera and Samuel Badman at Harvard and the Smithsonian, led a team that exploited a rare alignment of two spacecraft watching the same stream of plasma from different distances.

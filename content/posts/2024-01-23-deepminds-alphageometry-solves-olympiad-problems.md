@@ -3,7 +3,7 @@ slug: "deepminds-alphageometry-solves-olympiad-problems"
 title: "DeepMind's AlphaGeometry solves olympiad problems"
 date: "2024-01-23T21:14:00+08:00"
 categories: [science]
-description: "AlphaGeometry, published in *Nature* on 17 January, solved twenty-five of thirty olympiad geometry problems without human demonstrations, matching the average gold medallist by pairing a language model with a symbolic deduction engine."
+description: "AlphaGeometry solves twenty-five of thirty olympiad geometry problems without human demonstrations, matching the average gold medallist by pairing a language model with a symbolic deduction engine, as its authors report in *Nature*."
 ---
 
 A paper published in *Nature* on the seventeenth of January describes a program that solves olympiad geometry problems at roughly the level of a gold medallist, and the interesting thing about it is how little it resembles the systems that have been trying to do mathematics by learning from human proofs. AlphaGeometry, built by a team at Google DeepMind led by Trieu Trinh, was given thirty problems from recent International Mathematical Olympiads. It solved twenty-five of them within the standard time allowed. The best previous system solved ten. Average human gold medallists, working under competition conditions, solve somewhere between twenty and twenty-five of the same set.

@@ -3,7 +3,7 @@ slug: "bempedoic-acid-and-fenofibrate-together-lower-hdl"
 title: "Bempedoic acid and fenofibrate together lower HDL"
 date: "2025-03-26T20:40:00+08:00"
 categories: [science]
-description: "A research letter in *The New England Journal of Medicine* on 26 March reports that combining bempedoic acid with fenofibrate produced a marked and reversible fall in HDL cholesterol, an interaction that neither drug's label warns about."
+description: "A research letter in *The New England Journal of Medicine* reports that combining bempedoic acid with fenofibrate produced a marked and reversible fall in HDL cholesterol, an interaction that neither drug's label warns about."
 ---
 
 Bempedoic acid is an oral drug that inhibits an enzyme upstream of cholesterol synthesis in the liver, and it lowers LDL by about 18 per cent on its own, which is enough to be useful in a patient who cannot take a statin, and fenofibrate is an older drug that lowers triglycerides and raises HDL. Both are used in patients who cannot tolerate a statin or who need more lowering than a statin provides, and the two are prescribed together in exactly that population, where the aim is to lower triglycerides and to raise HDL at the same time as the LDL falls.

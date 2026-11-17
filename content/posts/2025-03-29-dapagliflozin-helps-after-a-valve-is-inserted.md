@@ -3,7 +3,7 @@ slug: "dapagliflozin-helps-after-a-valve-is-inserted"
 title: "Dapagliflozin helps after a valve is inserted"
 date: "2025-03-29T14:05:00+08:00"
 categories: [science]
-description: "A trial reported in *The New England Journal of Medicine* on 29 March found that dapagliflozin reduced heart failure events and death in patients who had just undergone a transcatheter aortic valve replacement, a setting in which the drug had not previously been tested."
+description: "Dapagliflozin reduces heart failure events and death in patients who have just undergone a transcatheter aortic valve replacement, a setting in which the drug had not previously been tested, a trial in *The New England Journal of Medicine* finds."
 ---
 
 Transcatheter aortic valve replacement is a procedure in which a new valve is delivered through a catheter and expanded inside the diseased one, and it has replaced open surgery for most patients over 75. The heart that has been carrying a stenotic valve is often damaged by years of pressure overload, and a fraction of the patients who survive the procedure develop heart failure in the months afterwards, which is the problem that the trial addressed.

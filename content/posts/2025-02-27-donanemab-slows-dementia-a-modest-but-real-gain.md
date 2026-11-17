@@ -3,7 +3,7 @@ slug: "donanemab-slows-dementia-a-modest-but-real-gain"
 title: "Donanemab slows dementia: a modest but real gain"
 date: "2025-02-27T17:09:00+08:00"
 categories: [science]
-description: "The TRAILBLAZER-ALZ 2 phase 3 trial, published in *JAMA* on 17 July 2023, found donanemab slowed early Alzheimer's disease by about 35 per cent in the key subgroup. A close reading of what the number means, and what the safety profile costs."
+description: "The TRAILBLAZER-ALZ 2 phase 3 trial, reported in *JAMA*, finds donanemab slows early Alzheimer's disease by about 35 per cent in the key subgroup. A close reading of what the number means, and what the safety profile costs."
 ---
 
 For two decades, a drug that clears amyloid plaques from the brain failed to slow Alzheimer's disease every single time it was tried. The hypothesis was simple, the target was abundant, and the clinical results were uniformly null. A phase 3 trial published in *JAMA* on 17 July 2023 is the study that broke that streak, if only narrowly. 'Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial', led by John Sims and colleagues for Eli Lilly, enrolled 1,736 participants with early symptomatic disease and both amyloid and tau pathology confirmed by positron emission tomography.

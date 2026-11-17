@@ -3,7 +3,7 @@ slug: "starving-gram-negative-bacteria-of-a-membrane"
 title: "New compound starves Gram-negative bacteria of an outer membrane"
 date: "2026-04-14T08:50:00+08:00"
 categories: [science]
-description: "A compound from a soil bacterium blocks the transport of lipopolysaccharide to the outer membrane of Gram-negative bacteria. Published in *Nature* on 9 April, the study reports low frequencies of spontaneous resistance in vitro and clear activity in a mouse model of sepsis."
+description: "A compound from a soil bacterium blocks the transport of lipopolysaccharide to the outer membrane of Gram-negative bacteria, with low frequencies of spontaneous resistance in vitro and clear activity in a mouse model of sepsis, as reported in *Nature*."
 ---
 
 Gram-negative bacteria are hard to kill for a structural reason. They carry two membranes, and the outer one is a barrier of lipopolysaccharide that keeps out large molecules, including most antibiotics that work elsewhere in the cell. On 9 April, a group publishing in *Nature* described a compound, isolated from a soil actinomycete and then optimized, that attacks the assembly of that barrier rather than anything behind it.

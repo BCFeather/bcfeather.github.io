@@ -3,7 +3,7 @@ slug: "a-blue-crystal-and-a-claim-that-travelled-fast"
 title: "A blue crystal and a claim that travelled fast"
 date: "2023-03-08T23:20:00+08:00"
 categories: [science]
-description: "A paper in *Nature* on 8 March 2023 reported that nitrogen-doped lutetium hydride conducted electricity without resistance at 294 kelvin and near-ambient pressure, and physicists began trying to repeat the result within days."
+description: "Nitrogen-doped lutetium hydride conducts electricity without resistance at 294 kelvin and near-ambient pressure, the group reports in *Nature*, and physicists began trying to repeat the result within days."
 ---
 
 Superconductivity at room temperature has been the field's standing promise since the 1980s, and every claim of it has arrived with a condition attached. The condition has always been pressure, usually millions of atmospheres, which is why the materials that broke temperature records have stayed in the laboratory. The paper published on 8 March claimed to have removed the condition, and the claim was what made it news.

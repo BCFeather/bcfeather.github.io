@@ -3,7 +3,7 @@ slug: "a-synapse-on-a-chip-switches-a-million-times-lighter"
 title: "Hafnium-oxide synapse switches a million times lighter"
 date: "2026-05-27T13:26:00+08:00"
 categories: [technology]
-description: "A Cambridge team built a hafnium-oxide memristor that switches at currents roughly a million times lower than silicon, published in *Nature* Electronics on 22 April. The device mimics a brain synapse and hints at a route to AI hardware that runs on a fraction of today's power."
+description: "A Cambridge team built a hafnium-oxide memristor that switches at currents roughly a million times lower than silicon, as reported in *Nature* Electronics. The device mimics a brain synapse and hints at a route to AI hardware that runs on a fraction of today's power."
 ---
 
 The computer chip has spent half a century getting faster by getting smaller, and that era is visibly running into a wall that physics, not engineering, is putting up. Chips still consume large amounts of energy, and the energy appetite of running ever-larger artificial-intelligence models has become an industry-level worry: the International Energy Agency projects that data centres on AI workloads could consume more than 1,500 terawatt-hours of electricity a year by 2030. A paper published in *Nature Electronics* on 22 April, from Babak Bakhit and Manish Chhowalla at the University of Cambridge, proposes a different way forward, one borrowed not from the digital computer but from the brain.

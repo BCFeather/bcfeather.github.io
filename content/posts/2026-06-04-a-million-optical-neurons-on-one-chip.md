@@ -3,7 +3,7 @@ slug: "a-million-optical-neurons-on-one-chip"
 title: "A million optical neurons on one chip"
 date: "2026-06-04T16:35:00+08:00"
 categories: [technology]
-description: "Shanghai Jiao Tong University's LightGen chip, reported in *Science* in December 2025, performs large-scale generative image synthesis entirely in light. Why moving the computation out of electrons and into photons changes what optical computing can actually do."
+description: "Shanghai Jiao Tong University's LightGen chip performs large-scale generative image synthesis entirely in light, as reported in *Science*. Why moving the computation out of electrons and into photons changes what optical computing can actually do."
 ---
 
 Generative AI keeps growing hungrier. Diffusion models that turn text into images need ever larger matrices multiplied over and over, and those multiplications currently run on silicon that dissipates heat as fast as it computes. A team at Shanghai Jiao Tong University led by Yitong Chen argues that the work belongs in light instead. On 19 December 2025 they published, in *Science*, a chip called LightGen that performs large-scale semantic image generation optically, without shuttling the data back and forth into electronics for the heavy arithmetic.

@@ -3,7 +3,7 @@ slug: "west-antarctica-warmed-on-a-summer-schedule-through-the-holocene"
 title: "West Antarctica warmed on a summer schedule through the Holocene"
 date: "2023-01-15T09:35:00+08:00"
 categories: [science]
-description: "A continuous water-isotope record from the West Antarctic Ice Sheet Divide ice core shows that summer insolation, not annual mean sunshine, set West Antarctic temperatures through the Holocene. The study appears in *Nature* on 11 January 2023."
+description: "A continuous water-isotope record from the West Antarctic Ice Sheet Divide ice core shows that summer insolation, not annual mean sunshine, set West Antarctic temperatures through the Holocene, the group reports in *Nature*."
 ---
 
 Ice cores are read as archives of temperature, and the reading depends on an assumption about when the snow fell. In West Antarctica, most accumulation happens in summer, so a core's isotope record is weighted towards one season, and a temperature reconstructed from it is a summer temperature whether the reconstruction says so or not. The study in *Nature*, 11 January 2023 makes that assumption explicit and then tests it. Tyler Jones, Kurt Cuffey, James White and colleagues analyse a continuous record of water-isotope ratios from the West Antarctic Ice Sheet Divide core and compare it with orbital calculations of insolation at different seasons.

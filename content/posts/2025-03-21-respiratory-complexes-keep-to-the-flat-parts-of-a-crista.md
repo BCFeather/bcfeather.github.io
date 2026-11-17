@@ -3,7 +3,7 @@ slug: "respiratory-complexes-keep-to-the-flat-parts-of-a-crista"
 title: "Respiratory complexes keep to the flat parts of a crista"
 date: "2025-03-21T14:05:00+08:00"
 categories: [science]
-description: "A study in *Science* on 21 March used cryo-electron tomography to resolve the respiratory complexes as they sit inside a living algal cell, and found that the assemblies are confined to flat membrane regions while the ATP synthase rows occupy the curved tips."
+description: "A study in *Science* used cryo-electron tomography to resolve the respiratory complexes as they sit inside a living algal cell, and found that the assemblies are confined to flat membrane regions while the ATP synthase rows occupy the curved tips."
 ---
 
 A mitochondrion generates usable energy by pumping protons across an inner membrane and letting them return through a turbine, and the proteins that do it are organized into supercomplexes. The arrangement had been studied by dissolving the membrane and purifying the proteins, a method that tells a biochemist which proteins associate and destroys the geometry of where they sit.

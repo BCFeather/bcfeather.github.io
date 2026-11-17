@@ -3,7 +3,7 @@ slug: "a-snowflake-yeast-learns-to-be-big"
 title: "Snowflake yeast learns to be big"
 date: "2025-03-20T14:05:00+08:00"
 categories: [science]
-description: "An experiment reported in *Nature* on 20 March shows that a single duplication of the genome is enough to set snowflake yeast on the path to multicellularity, and that the path then runs faster than the textbook allows."
+description: "A single duplication of the genome is enough to set snowflake yeast on the path to multicellularity, and the path then runs faster than the textbook allows, the experiment reported in *Nature* shows."
 ---
 
 Snowflake yeast is a laboratory model for the origin of multicellular life. A single cell divides and the daughters stay attached, and the resulting cluster grows into a branching snowflake that sediments faster than a single cell. The cluster is not yet an organism, because each cell is still capable of living alone and a fragment that breaks off can found a new cluster, and the model lets a laboratory watch the first steps of a transition that in nature took hundreds of millions of years.

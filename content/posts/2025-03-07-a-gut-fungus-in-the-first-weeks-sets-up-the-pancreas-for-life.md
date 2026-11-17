@@ -3,7 +3,7 @@ slug: "a-gut-fungus-in-the-first-weeks-sets-up-the-pancreas-for-life"
 title: "Gut fungus in the first weeks sets up the pancreas for life"
 date: "2025-03-07T20:40:00+08:00"
 categories: [science]
-description: "A study in *Science* on 7 March reports that mice need a microbial signal in a narrow neonatal window to build a full complement of insulin-producing cells, and that a fungus common in the infant gut supplies it."
+description: "A study in *Science* reports that mice need a microbial signal in a narrow neonatal window to build a full complement of insulin-producing cells, and that a fungus common in the infant gut supplies it."
 ---
 
 A fetal pancreas is built before birth, but the population of beta cells that produce insulin continues to expand and to mature in the weeks afterwards. Epidemiologists have noticed for years that disruptions in that period, including antibiotic use in a newborn, correlate with a higher risk of type 1 diabetes later in childhood, and the mechanism behind the correlation had not been identified, so the clinical advice had to rest on an association that nobody could explain.

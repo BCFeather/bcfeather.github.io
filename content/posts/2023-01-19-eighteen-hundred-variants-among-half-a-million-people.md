@@ -3,7 +3,7 @@ slug: "eighteen-hundred-variants-among-half-a-million-people"
 title: "Eighteen hundred variants among half a million people"
 date: "2023-01-19T23:40:00+08:00"
 categories: [science]
-description: "Two studies published in *Nature* on 19 January 2023 reported the analysis of genome and health data from 224,737 Finnish participants, identifying 1,838 genetic variants associated with 681 diseases."
+description: "Genome and health data from 224,737 Finnish participants yield 1,838 genetic variants associated with 681 diseases, in two studies reported in *Nature*."
 ---
 
 Two papers in *Nature* on 19 January reported the largest genetic association study yet conducted in a single national population, using genome and health data from 224,737 people in Finland. The studies identified 1,838 genetic variants associated with 681 diseases, including 702 associations involving low-frequency variants that the authors described as likely to be new. The project is a partnership between universities, hospitals, the national institute for health and welfare and three pharmaceutical companies, and it began in 2017.

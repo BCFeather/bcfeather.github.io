@@ -3,7 +3,7 @@ slug: "graphene-that-superconducts-harder-when-the-magnetic-field-rises"
 title: "Graphene that superconducts harder when the magnetic field rises"
 date: "2026-07-18T18:18:00+08:00"
 categories: [science]
-description: "A team at MIT writing in *Nature* on 29 June reports that rhombohedral graphene, a natural stacking of four or five carbon layers, hosts four distinct superconducting states. Three of them survive magnetic fields near nine tesla, and one actually becomes superconducting at a higher temperature when a perpendicular field is applied."
+description: "A team at MIT reports in *Nature* that rhombohedral graphene, a natural stacking of four or five carbon layers, hosts four distinct superconducting states. Three of them survive magnetic fields near nine tesla, and one actually becomes superconducting at a higher temperature when a perpendicular field is applied."
 ---
 
 Ordinary graphite, the material in pencil lead, is about as boring as a crystalline solid gets. Carbon atoms in flat sheets, stacked loosely, a conductor, a semimetal, the kind of material students use to learn about band structure. Zoom in, though, and the sheets can be stacked in different ways, and one of those ways, the rhombohedral stacking, has over the last few years turned out to host a surprising zoo of electronic states. A paper in *Nature* on 29 June, from Long Ju's group at MIT with collaborators at Basel, Florida State and a Japanese national materials lab, adds a new entry to that zoo: a family of superconducting states in rhombohedral graphene, several of which get stronger rather than weaker when a magnetic field is turned on.

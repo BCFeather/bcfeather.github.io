@@ -3,7 +3,7 @@ slug: "change-six-basalt-dates-the-far-side-at-two-point-eight-billion-years"
 title: "Chang'e-6 basalt dates the far side at 2.8 billion years"
 date: "2025-03-21T09:20:00+08:00"
 categories: [science]
-description: "Basalt fragments returned by the Chang'e-6 mission have been dated to 2.8 billion years, according to a study in *Science* on 21 March, which makes the far side of the Moon volcanically younger than the near side's record suggests."
+description: "Basalt fragments returned by the Chang'e-6 mission have been dated to 2.8 billion years, a study in *Science* finds, which makes the far side of the Moon volcanically younger than the near side's record suggests."
 ---
 
 Samples came back in June 2024 from the South Pole-Aitken basin, a crater 2,500 kilometres across that occupies the southern part of the far side and that is the largest impact structure on the Moon. Every previous sample, from Apollo and from the Soviet and Chinese landers, came from the near side, and the far side had been known only from orbit, from images and from the composition inferred from spectroscopy.

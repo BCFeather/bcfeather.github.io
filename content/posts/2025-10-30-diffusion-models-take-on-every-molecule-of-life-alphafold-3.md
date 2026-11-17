@@ -3,7 +3,7 @@ slug: "diffusion-models-take-on-every-molecule-of-life-alphafold-3"
 title: "Diffusion models take on every molecule of life: AlphaFold 3"
 date: "2025-10-30T10:49:00+08:00"
 categories: [science]
-description: "AlphaFold 3 moved beyond single-protein folding to predict the structures of complexes containing proteins, DNA, RNA, ligands and ions. Published in *Nature* on 8 May 2024, the model uses a diffusion-based architecture and roughly doubles accuracy on drug-binding interactions. What the architecture changes, and where it still falls short."
+description: "AlphaFold 3 moved beyond single-protein folding to predict the structures of complexes containing proteins, DNA, RNA, ligands and ions. The model, described in *Nature*, uses a diffusion-based architecture and roughly doubles accuracy on drug-binding interactions. What the architecture changes, and where it still falls short."
 ---
 Protein folding was solved, more or less, by AlphaFold 2. The harder problem that remained was predicting not just what a protein looks like in isolation, but what it looks like when it binds to the things it actually does: a strand of DNA, a turn of RNA, a small-molecule drug, a metal ion, a post-translationally modified residue. These interactions are where biology happens and where drugs are designed, and no model before 2024 could predict them all in one system. The paper that arrived on 8 May 2024, published in *Nature* and signed by a large team from Google DeepMind and Isomorphic Labs, is AlphaFold 3, and it tackles the whole molecular zoo at once.
 

@@ -3,7 +3,7 @@ slug: "ai-that-designed-its-own-viruses"
 title: "AI that designed its own viruses"
 date: "2026-08-06T14:05:00+08:00"
 categories: [science]
-description: "In a paper published in *Science* on 6 August, researchers used the generative AI models Evo 1 and Evo 2 to design complete bacteriophage genomes from scratch, then built 285 of the designs in the lab. Sixteen worked, and a cocktail of them defeated antibiotic-resistant bacteria that natural phages could not."
+description: "Using the generative AI models Evo 1 and Evo 2, researchers designed complete bacteriophage genomes from scratch and built 285 of the designs in the lab, in a paper in *Science*. Sixteen worked, and a cocktail of them defeated antibiotic-resistant bacteria that natural phages could not."
 ---
 
 In a paper published in *Science* on 6 August, a team at Stanford led by computational biologist Brian Hie used two generative AI models, Evo 1 and Evo 2, to design complete viral genomes from scratch. The viruses in question are bacteriophages, which attack bacteria rather than people, and the model, trained on trillions of nucleotides of genetic sequence, works the way a large language model does, except that instead of predicting the next word it predicts the next base pair. Given a starting point, it proposes genomes; the team selected about 700,000 candidate designs, built 285 of them in the lab and found that sixteen of them successfully infected and killed *E. coli* in the dish. Some of the synthetic phages appeared to multiply and spread better than the natural phage they were modelled on.

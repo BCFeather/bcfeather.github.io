@@ -3,7 +3,7 @@ slug: "more-qubits-and-fewer-errors"
 title: "More qubits and fewer errors"
 date: "2023-02-22T23:40:00+08:00"
 categories: [science]
-description: "Google's quantum computing group reported in *Nature* on 22 February 2023 that a larger surface code logical qubit performed slightly better than a smaller one, the first experimental sign that error correction improves as the code grows."
+description: "Google's quantum computing group finds that a larger surface code logical qubit performs slightly better than a smaller one, the first experimental sign that error correction improves as the code grows, in *Nature*."
 ---
 
 The central problem of quantum computing is that qubits make mistakes. A physical qubit loses its state to noise in a fraction of a millisecond, and a calculation that needs millions of operations cannot be built out of parts that fail that often. Error correction answers the problem by spreading one logical qubit across many physical ones, and the question that the field has been unable to answer experimentally is whether spreading it wider actually helps.

@@ -3,7 +3,7 @@ slug: "a-nanoparticle-that-carries-an-editor-into-the-lungs"
 title: "A nanoparticle that carries an editor into the lungs"
 date: "2023-03-30T23:40:00+08:00"
 categories: [science]
-description: "Researchers reported in *Nature Biotechnology* on 30 March 2023 that an inhalable nanoparticle could deliver messenger RNA and a CRISPR editor to the lungs of mice, a step towards gene editing that is given as an aerosol rather than as an injection."
+description: "An inhalable nanoparticle delivers messenger RNA and a CRISPR editor to the lungs of mice, a step towards gene editing given as an aerosol rather than as an injection, the authors report in *Nature Biotechnology*."
 ---
 
 Gene editing has been limited by delivery as much as by the editing itself. The editor has to reach the right tissue, enter the right cells and do so without provoking an immune response, and the tools that work in a dish often fail in a body. A paper published in *Nature Biotechnology* on 30 March described a delivery system for the lungs, which is the tissue that an aerosol reaches most directly. The lung is also the tissue where an aerosol deposits most of its dose, which is why inhalers have been the standard treatment for asthma for fifty years.

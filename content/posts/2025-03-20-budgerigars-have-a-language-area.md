@@ -3,7 +3,7 @@ slug: "budgerigars-have-a-language-area"
 title: "Budgerigars have a language area"
 date: "2025-03-20T20:40:00+08:00"
 categories: [science]
-description: "A study in *Nature* on 20 March reports that the brain of the budgerigar contains a region organized like the language areas of the human cortex, which makes the bird a better model for speech than the songbirds that researchers usually use."
+description: "A study in *Nature* reports that the brain of the budgerigar contains a region organized like the language areas of the human cortex, which makes the bird a better model for speech than the songbirds that researchers usually use."
 ---
 
 Budgerigars are small Australian parrots that learn to imitate sounds, including human speech, and they do it with a brain that is organized on a plan different from the mammalian one. Mammals have a cortex with layered columns, and birds have a pallium with nuclei, and the two structures evolved separately from a common ancestor that had neither.

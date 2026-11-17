@@ -3,7 +3,7 @@ slug: "a-language-model-that-reads-and-writes-genomes-evo-2"
 title: "Evo 2 writes genomes: a language model for DNA"
 date: "2026-09-17T08:58:00+08:00"
 categories: [science]
-description: "Evo 2, a DNA foundation model trained on nine trillion base pairs and published in *Nature* in March 2026, designs whole genomes from scratch at single-letter resolution. What it means that writing life is starting to look like generating text."
+description: "Evo 2, a DNA foundation model trained on nine trillion base pairs, designs whole genomes from scratch at single-letter resolution, as described in *Nature*. What it means that writing life is starting to look like generating text."
 ---
 
 Large language models learn statistics over text, and from those statistics emerge the ability to summarize, translate and compose. DNA is also a sequence, written in four letters rather than twenty-six, and the same modelling instinct has been turned on genomes for several years. On 4 March 2026 the results arrived in *Nature*. A team at the Arc Institute, working with NVIDIA, Stanford and the University of California, Berkeley, published Evo 2, a biological foundation model trained on nine trillion DNA base pairs drawn from across all domains of life, and showed that it can both read genomes and write them.

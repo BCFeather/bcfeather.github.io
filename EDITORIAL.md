@@ -107,7 +107,7 @@ description: "One plain sentence, no TeX, readable without the body."
 * `categories`: exactly one, unquoted inside square brackets, from the nine listed below. No tags.
 * `description`: one sentence of plain prose. No TeX, no backslash, no caret, no underscore notation, no abbreviated formula that a reader would have to decode. A description that needs notation is the wrong description; write the compound or the quantity in words. Italics are carried in markdown asterisks exactly as the body carries them (§9): journal titles, gene symbols and Latin binomials are italic; article titles, protein names, strain designations and programme names are roman. The page renders the description as markdown before it is displayed and strips the markup for the meta tags, so the asterisks cost nothing in a search preview. A description with a journal name set in roman is the commonest fault in this field.
 
-The description is a sentence of narrative, not a citation. It says what happened; a journal is named inside that sentence, in italics, and never as an opening formula with a date attached.
+The description is a sentence of narrative, not a citation. It says what happened; a journal is named inside that sentence, in italics, and never as an opening formula with a date attached. A publication date belongs in the body, where the citation lives, and a description carrying one reads as a reference rather than as a sentence.
 
 * *Journal italic, as it should be written*: `A tantalum base layer lifts transmon lifetimes into the millisecond range, the group reports in *Nature*.`
 * *Citation formula, rejected*: `In *Nature*, 13 November 2025, the group reports millisecond transmon lifetimes.`

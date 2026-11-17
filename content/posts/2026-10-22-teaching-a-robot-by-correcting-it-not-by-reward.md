@@ -3,7 +3,7 @@ slug: "teaching-a-robot-by-correcting-it-not-by-reward"
 title: "Teaching a robot by correcting it, not by reward"
 date: "2026-10-22T17:44:00+08:00"
 categories: [technology]
-description: "A Berkeley team writing in *Science Robotics* in August 2025 trained real robot arms on dexterous industrial tasks in one to two hours by letting a human intervene whenever the policy failed. Why human-in-the-loop reinforcement learning may be the trick that makes real-world RL practical."
+description: "A Berkeley team trained real robot arms on dexterous industrial tasks in one to two hours by letting a human intervene whenever the policy failed, as reported in *Science Robotics*. Why human-in-the-loop reinforcement learning may be the trick that makes real-world RL practical."
 ---
 
 Reinforcement learning in simulation has produced superhuman game players and gymnastic virtual robots, but on a real robot it has always been awkward. Real arms cannot afford millions of failed attempts, a simulator's contact physics never quite matches the workshop floor, and the reward functions needed to guide learning through a long task are hard to write. A paper in *Science Robotics* on 20 August 2025, from Jianlan Luo, Charles Xu, Jeffrey Wu and Sergey Levine at the University of California, Berkeley, tackles the problem by changing who supplies the signal: a human corrects the robot instead of a reward function grading it.

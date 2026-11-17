@@ -3,7 +3,7 @@ slug: "a-ductile-interface-keeps-solid-batteries-from-cracking"
 title: "Ductile interface keeps solid-state batteries from cracking"
 date: "2025-12-11T13:15:00+08:00"
 categories: [science]
-description: "Solid-state lithium metal batteries have a brittle interface problem that no electrolyte conductivity fix has solved. A team at Tsinghua SIGS reported a ductile solid electrolyte interphase built from silver sulfide and silver fluoride in *Nature* on 30 October 2025. The interface bends, heals and conducts lithium at high current densities."
+description: "Solid-state lithium metal batteries have a brittle interface problem that no electrolyte conductivity fix has solved. A team at Tsinghua SIGS reports in *Nature* a ductile solid electrolyte interphase built from silver sulfide and silver fluoride. The interface bends, heals and conducts lithium at high current densities."
 ---
 
 Solid-state lithium metal batteries are the most cited next-generation energy storage technology, and for good reason: a lithium metal anode paired with a solid electrolyte promises roughly twice the energy density of today's lithium-ion cells, with no flammable liquid to leak or catch fire. For a decade the field has pushed ionic conductivity ever higher, and modern solid electrolytes now rival liquid ones. The bottleneck that remains is mechanical, not chemical. The rigid interface between a lithium metal anode and a brittle solid electrolyte fractures under the volume changes of plating and stripping, and once cracks form, resistance spikes and short circuits follow.

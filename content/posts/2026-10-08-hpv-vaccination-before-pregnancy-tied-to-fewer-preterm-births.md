@@ -3,7 +3,7 @@ slug: "hpv-vaccination-before-pregnancy-tied-to-fewer-preterm-births"
 title: "HPV vaccination before pregnancy tied to fewer preterm births"
 date: "2026-10-08T11:05:00+08:00"
 categories: [news]
-description: "A nationwide Swedish study in *The BMJ* on 7 October, linking 624,713 first births, found women vaccinated against HPV before pregnancy had lower odds of preterm birth and other complications. The benefit looked larger for those vaccinated younger, extending the vaccine's case beyond cancer."
+description: "A nationwide Swedish study in *The BMJ*, linking 624,713 first births, found women vaccinated against HPV before pregnancy had lower odds of preterm birth and other complications. The benefit looked larger for those vaccinated younger, extending the vaccine's case beyond cancer."
 ---
 
 The human papillomavirus vaccine has spent its whole public life being justified on the same grounds: it prevents cancer. A large nationwide study published in *The BMJ* on 7 October now makes a quieter, wider claim, suggesting that the protection it offers may reach into pregnancy itself. Drawing on Swedish registers covering more than six hundred thousand first births, the researchers found that women vaccinated against HPV before conception had modestly but consistently lower odds of a string of complications, above all preterm birth.

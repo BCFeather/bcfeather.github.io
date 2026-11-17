@@ -3,7 +3,7 @@ slug: "base-editing-reaches-a-newborn-with-a-urea-cycle-mutation"
 title: "Base editing reaches a newborn with a urea-cycle mutation"
 date: "2025-08-30T09:20:00+08:00"
 categories: [science]
-description: "A tailored CRISPR therapy corrected a CPS1 mutation in an infant through lipid nanoparticles, in a case that took about six months from sequencing to treatment and was reported in *Nature* on 28 August."
+description: "A tailored CRISPR therapy corrects a CPS1 mutation in an infant through lipid nanoparticles, in a case that took about six months from sequencing to treatment, as reported in *Nature*."
 ---
 
 A newborn with a mutation in the gene CPS1 was treated with a base editor delivered by lipid nanoparticles, according to a case reported in *The New England Journal of Medicine* and discussed in *Nature* on 28 August. The child had a severe form of a urea-cycle disorder, in which ammonia accumulates because the enzyme that clears it is missing or defective, and high ammonia causes brain damage within days.

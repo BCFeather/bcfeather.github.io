@@ -3,7 +3,7 @@ slug: "a-weekly-dual-agonist-that-pairs-fullness-with-calorie-burn"
 title: "Fullness and calorie burn from a weekly injection"
 date: "2026-07-11T16:16:00+08:00"
 categories: [science]
-description: "The phase 3 SYNCHRONIZE-1 trial of survodutide, a once-weekly dual agonist of the glucagon and GLP-1 receptors, was published in *The New England Journal of Medicine* on 7 June. On the efficacy estimand it produced an average weight loss of 16.6 per cent at 76 weeks against 3.2 per cent on placebo."
+description: "The phase 3 SYNCHRONIZE-1 trial of survodutide, a once-weekly dual agonist of the glucagon and GLP-1 receptors, reported in *The New England Journal of Medicine*, produced an average weight loss of 16.6 per cent at 76 weeks against 3.2 per cent on placebo on the efficacy estimand."
 ---
 
 Obesity medicine is no longer a single-agonist story. The first wave of GLP-1 drugs worked by slowing the stomach, blunting appetite and making patients feel full on less food. They worked, and they worked better than anything before them, but they worked one mechanism at a time. The next generation of drugs asks why not add a second mechanism, one that raises energy expenditure and treats the liver rather than only the stomach. Survodutide, a once-weekly injectable from Boehringer Ingelheim, is the most advanced test of that idea. Its phase 3 trial, SYNCHRONIZE-1, was published in *The New England Journal of Medicine* on 7 June 2026.

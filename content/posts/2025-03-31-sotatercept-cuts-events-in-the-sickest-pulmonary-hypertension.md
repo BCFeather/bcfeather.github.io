@@ -3,7 +3,7 @@ slug: "sotatercept-cuts-events-in-the-sickest-pulmonary-hypertension"
 title: "Sotatercept cuts events in the sickest pulmonary hypertension"
 date: "2025-03-31T09:20:00+08:00"
 categories: [science]
-description: "In patients with high-risk pulmonary arterial hypertension, sotatercept reduced the rate of clinical worsening events from 54.7 per cent to 17.4 per cent, a trial reported in *The New England Journal of Medicine* on 31 March."
+description: "In patients with high-risk pulmonary arterial hypertension, sotatercept cuts the rate of clinical worsening events from 54.7 per cent to 17.4 per cent, a trial in *The New England Journal of Medicine* finds."
 ---
 
 Pulmonary arterial hypertension is a disease of the small arteries in the lung that narrow until the right ventricle cannot push blood through them. The approved drugs dilate those vessels through three pathways, and a patient who is breathless at rest despite all three has a prognosis measured in years. The population that the trial enrolled is that population, and the treatment options beyond it had been transplantation and a pump that delivers a continuous infusion.

@@ -3,7 +3,7 @@ slug: "a-compound-that-kills-malaria-parasites-inside-the-mosquito"
 title: "Compound that kills malaria parasites inside the mosquito"
 date: "2025-05-21T20:40:00+08:00"
 categories: [science]
-description: "A screen reported in *Nature* on 21 May found 22 compounds that block parasite development in mosquitoes, the best killing every parasite within six minutes of contact and lasting a year on netting."
+description: "A screen in *Nature* finds 22 compounds that block parasite development in mosquitoes, the best killing every parasite within six minutes of contact and lasting a year on netting."
 ---
 
 Malaria control has been a story of two interventions: nets and drugs. Both have been eroded by resistance, and both act on the human side of the cycle. The mosquito is the other host, and it is where a parasite spends the part of its life that is easiest to interrupt, because the numbers are small and the environment is contained.
