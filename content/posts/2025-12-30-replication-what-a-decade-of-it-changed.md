@@ -6,9 +6,7 @@ categories: [essay]
 description: "Ten years of large-scale replication projects have not produced the disaster that some predicted or the correction that others promised, and the case is worth stating carefully."
 ---
 
-Ten years ago a set of replication projects began reporting that a substantial share of published findings in psychology and cancer biology did not reproduce. The reaction was a crisis narrative, and a decade later the record is more interesting than the narrative.
-
-The reported replication rates settled at between 40 and 60 per cent across fields, and the number depends heavily on what counts as a success. A study that reproduces a direction but not an effect size is a partial success, and the categories were not standardized when the first results landed.
+Ten years ago a set of replication projects began reporting that a substantial share of published findings in psychology and cancer biology did not reproduce. The reaction was a crisis narrative, and a decade later the record is more interesting than the narrative. The reported replication rates settled at between 40 and 60 per cent across fields, and the number depends heavily on what counts as a success. A study that reproduces a direction but not an effect size is a partial success, and the categories were not standardized when the first results landed.
 
 Practices changed in ways that are measurable. Preregistration rose from a rarity to a majority in several journals, sample sizes in the replicated subfields grew by a factor of four, and the reporting of a study's constraints on generality became a section rather than an afterthought.
 

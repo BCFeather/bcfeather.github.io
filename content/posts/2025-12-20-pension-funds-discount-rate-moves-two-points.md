@@ -6,9 +6,7 @@ categories: [economy]
 description: "A public pension fund has lowered its assumed return from 7 to 5 per cent, and the arithmetic turns a 78 per cent funded plan into a 61 per cent one without changing a single payment."
 ---
 
-A pension fund's liabilities are a promise discounted to today, and the rate used to discount them determines whether the fund looks solvent. A public fund lowered its assumption this month from 7 to 5 per cent, and the funded ratio fell from 78 to 61 per cent with no change in benefits.
-
-The arithmetic is sensitive in both directions. A 100-basis-point fall in the discount rate raises a 20-year liability by 15 per cent, and the fund's liability is 4.2 billion, so the change added 900 million. Actuaries' practice is the contested part. A public plan discounts at the expected return on assets, which lets a fund improve its funded ratio by investing in riskier assets. An economist's view discounts at a rate that reflects the promise's risk, which is closer to a government bond's yield.
+A pension fund's liabilities are a promise discounted to today, and the rate used to discount them determines whether the fund looks solvent. A public fund lowered its assumption this month from 7 to 5 per cent, and the funded ratio fell from 78 to 61 per cent with no change in benefits. The arithmetic is sensitive in both directions. A 100-basis-point fall in the discount rate raises a 20-year liability by 15 per cent, and the fund's liability is 4.2 billion, so the change added 900 million. Actuaries' practice is the contested part. A public plan discounts at the expected return on assets, which lets a fund improve its funded ratio by investing in riskier assets. An economist's view discounts at a rate that reflects the promise's risk, which is closer to a government bond's yield.
 
 Contribution rises are the consequence. A 61 per cent funded ratio under the fund's policy triggers a 6-point rise in the employer contribution over eight years, which for a city means 40 million a year. A 20-year liability's duration is 12 years, and a 16 per cent rise in its value is the arithmetic that a two-point change produces.
 

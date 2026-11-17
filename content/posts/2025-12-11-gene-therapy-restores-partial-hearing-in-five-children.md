@@ -6,9 +6,7 @@ categories: [science]
 description: "Five children with a genetic form of deafness have gained hearing after an inner-ear injection of a viral vector, and the gain is partial and the trial is the first for this mutation."
 ---
 
-A mutation in a single gene causes a form of deafness that is present at birth, and the gene's product is a protein that lets hair cells respond to sound. A trial reported this month that five children who received a vector carrying the gene have gained hearing, and the gain is partial.
-
-The vector is a dual-adeno-associated virus, split because the gene is larger than a single vector's capacity. The two vectors recombine inside the cell, which is the technical novelty. Delivery is surgical. The vector is injected into the cochlea through the round window membrane, under general anesthesia, in a procedure that takes 90 minutes. The trial treated one ear in each child.
+A mutation in a single gene causes a form of deafness that is present at birth, and the gene's product is a protein that lets hair cells respond to sound. A trial reported this month that five children who received a vector carrying the gene have gained hearing, and the gain is partial. The vector is a dual-adeno-associated virus, split because the gene is larger than a single vector's capacity. The two vectors recombine inside the cell, which is the technical novelty. Delivery is surgical. The vector is injected into the cochlea through the round window membrane, under general anesthesia, in a procedure that takes 90 minutes. The trial treated one ear in each child.
 
 The outcome measure is the auditory brainstem response, which is an electrical signal from the brain when a sound is presented. Four of the five children developed a response, and their thresholds improved from no response at any level to 45 to 65 decibels.
 
@@ -18,6 +16,6 @@ AAV does not integrate and its expression declines over years, and the trial's p
 
 A cochlea's hair cells are the target and their number is fixed at birth. A vector delivered to the scala tympani reaches the cells nearest the injection site, and the gradient explains why the restored thresholds are better at low frequencies than high. Immunity is the practical obstacle. A significant share of adults carry neutralizing antibodies to the AAV serotypes used, and a second dose is blocked by the first's response. A pediatric population has fewer prior exposures, which is part of why the trial's age range worked.
 
-A partial restoration changes a child's path through school. A child who hears at 50 decibels in a quiet room needs a seat at the front and a teacher who faces the class, and a child with an implant needs a processor and a technician. The two arrangements cost a school different things.
+Partial restoration changes a child's path through school. A child who hears at 50 decibels in a quiet room needs a seat at the front and a teacher who faces the class, and a child with an implant needs a processor and a technician. The two arrangements cost a school different things.
 
-A first, not a cure, is what five children received. Five children, partial hearing, and a mutation-specific treatment: the significance is that a deafness gene has been delivered to a human inner ear at all.
+What five children received is a first, not a cure. Five children, partial hearing, and a mutation-specific treatment: the significance is that a deafness gene has been delivered to a human inner ear at all.

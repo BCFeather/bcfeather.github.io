@@ -6,9 +6,7 @@ categories: [sport]
 description: "A football club's stadium project has a 400-million-dollar price tag, and the case turns on whether a city will guarantee the debt, because a club's own cash flow cannot service a 30-year bond."
 ---
 
-A stadium is a long-lived asset with a short-lived tenant, and the financing has to reconcile the two. A club's proposal for a 45,000-seat stadium has a 400-million-dollar cost, and the question before the city is whether to guarantee the bond that the club cannot.
-
-The first constraint is the club's own cash flow. Its annual revenue is 180 million, of which matchday income at the new stadium would be 40, and its operating margin is 12 per cent. A bond at 5 per cent over 30 years needs 26 million a year, which is more than the club's entire operating profit.
+A stadium is a long-lived asset with a short-lived tenant, and the financing has to reconcile the two. A club's proposal for a 45,000-seat stadium has a 400-million-dollar cost, and the question before the city is whether to guarantee the bond that the club cannot. The first constraint is the club's own cash flow. Its annual revenue is 180 million, of which matchday income at the new stadium would be 40, and its operating margin is 12 per cent. A bond at 5 per cent over 30 years needs 26 million a year, which is more than the club's entire operating profit.
 
 Second comes the city's stake. A stadium generates business rates, transport revenue and visitor spending, and the city's consultants estimate 18 million a year in additional local revenue. That revenue accrues to the city and not to the club, which is why a guarantee is a plausible instrument.
 

@@ -6,9 +6,7 @@ categories: [science]
 description: "Ion-channel conductance in the GluN1a-2B NMDA receptor is controlled by the bending patterns of the pore-forming transmembrane helices, and the sites where neurosteroids bind are mapped, as reported in *Nature*."
 ---
 
-Ion channels are described by their conductance, the rate at which ions pass when the channel is open. For most channels that number is fixed; for NMDA receptors it is not. The same receptor can pass current in discrete steps, and the steps depend on which subunits are assembled and on what is bound to them. Explaining the steps has been a structural problem without a structure.
-
-The study in *Nature*, 29 October 2025 provides one. Hyunook Kang, Ruben Steigerwald, Hiro Furukawa and colleagues examine the GluN1a-2B heterotetramer and find that the conductance levels are set by the bending patterns of the transmembrane helices that line the pore.
+Ion channels are described by their conductance, the rate at which ions pass when the channel is open. For most channels that number is fixed; for NMDA receptors it is not. The same receptor can pass current in discrete steps, and the steps depend on which subunits are assembled and on what is bound to them. Explaining the steps has been a structural problem without a structure. The study in *Nature*, 29 October 2025 provides one. Hyunook Kang, Ruben Steigerwald, Hiro Furukawa and colleagues examine the GluN1a-2B heterotetramer and find that the conductance levels are set by the bending patterns of the transmembrane helices that line the pore.
 
 A pore is a tube, and a tube's conductance depends on its narrowest section and on the shape of its walls. If the helices that form the walls bend differently, the tube narrows or widens at a specific depth, and an ion passing through encounters a different barrier. The paper's structural data show the bends, and the electrophysiology shows the current levels that correspond to them.
 
@@ -20,8 +18,4 @@ That placement turns a pharmacological observation into a mechanism. A neuroster
 
 What the structure does not give is the dynamics. A cryo-electron microscopy reconstruction is an average over many molecules, and the bending may be a distribution rather than a single pose. Single-molecule measurements, or simulations seeded by the structure, would show whether the helices flex on a timescale that current flow can follow.
 
-The clinical thread runs through neuropsychiatric disease. NMDA receptor hypofunction is implicated in schizophrenia, and a modulator that adjusts conductance is a different intervention from an agonist that increases occupancy. Whether such a modulator can be specific enough to affect one subunit combination is the question a medicinal chemist would ask first.
-
-For the field, the result completes a picture that had been assembled from physiology alone. Conductance levels were a phenomenon looking for a structural explanation, and now the explanation exists in the geometry of a pore.
-
-Subunit composition is the variable that a drug would have to respect. GluN1a-2B is one of several assemblies, and the conductance rule may differ for each. A modulator that acts on one combination and not another would be a tool for dissecting which combination matters in which circuit.
+The clinical thread runs through neuropsychiatric disease. NMDA receptor hypofunction is implicated in schizophrenia, and a modulator that adjusts conductance is a different intervention from an agonist that increases occupancy. Whether such a modulator can be specific enough to affect one subunit combination is the question a medicinal chemist would ask first. For the field, the result completes a picture that had been assembled from physiology alone. Conductance levels were a phenomenon looking for a structural explanation, and now the explanation exists in the geometry of a pore. Subunit composition is the variable that a drug would have to respect. GluN1a-2B is one of several assemblies, and the conductance rule may differ for each. A modulator that acts on one combination and not another would be a tool for dissecting which combination matters in which circuit.

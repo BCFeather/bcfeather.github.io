@@ -6,9 +6,7 @@ categories: [science]
 description: "A human-centric image benchmark built with documented consent, privacy protection and compensation gives fairness evaluation a reference set, a team reports in *Nature*."
 ---
 
-Fairness testing in computer vision has a data problem that no metric can fix. A model is audited on a dataset, and that dataset was usually scraped from the internet, which means the people in it never agreed to be there, are not paid, and are not described in terms they would recognize. An audit built on such a set measures a model's behaviour on a population that was collected without consent, and the result is neither ethical nor representative.
-
-The Fair Human-Centric Image Benchmark, released with a paper in *Nature*, 5 November 2025, is an attempt to build the reference set differently. Alice Xiang, Jerone Andrews, Michael Spranger and colleagues recruited participants, recorded their consent, protected their privacy and paid them, and then annotated the images in a way that supports fairness evaluation across attributes that matter.
+Fairness testing in computer vision has a data problem that no metric can fix. A model is audited on a dataset, and that dataset was usually scraped from the internet, which means the people in it never agreed to be there, are not paid, and are not described in terms they would recognize. An audit built on such a set measures a model's behaviour on a population that was collected without consent, and the result is neither ethical nor representative. The Fair Human-Centric Image Benchmark, released with a paper in *Nature*, 5 November 2025, is an attempt to build the reference set differently. Alice Xiang, Jerone Andrews, Michael Spranger and colleagues recruited participants, recorded their consent, protected their privacy and paid them, and then annotated the images in a way that supports fairness evaluation across attributes that matter.
 
 The design decisions are the contribution. Consent is documented per image rather than inferred from a licence, which means the dataset can be maintained: a participant can withdraw, and the collection can be updated. Compensation is part of the record, so the set is not a free resource extracted from volunteers. Diversity is a recruitment target rather than a post hoc count.
 
@@ -18,8 +16,6 @@ The utility claim is that models evaluated on this set behave as they do on the 
 
 Scale is the limitation. A consented set is expensive per image, and the benchmark is small next to the training corpora that produce the biases being measured. A small set can detect a disparity and cannot characterize it across every intersection, which means the tool is better suited to auditing than to training.
 
-The maintenance question is the one that decides whether this becomes infrastructure. Datasets rot: links break, participants change their minds, and annotation conventions drift. A consented benchmark needs an organization willing to keep it current, and the paper's release is a beginning of that commitment rather than the whole of it.
+Maintenance is the question that decides whether this becomes infrastructure. Datasets rot: links break, participants change their minds, and annotation conventions drift. A consented benchmark needs an organization willing to keep it current, and the paper's release is a beginning of that commitment rather than the whole of it.
 
-What the work establishes most firmly is a precedent. If a consented set can pass the same tests as a scraped one, then the scraped set has no defence, and the next benchmark will be built this way.
-
-The economics are the open question. Consented data costs money to collect and to keep, and a benchmark is not a product; someone has to fund the maintenance. Whether funders treat a reference set as infrastructure or as a one-off publication decides how long it remains usable.
+What the work establishes most firmly is a precedent. If a consented set can pass the same tests as a scraped one, then the scraped set has no defence, and the next benchmark will be built this way. The economics are the open question. Consented data costs money to collect and to keep, and a benchmark is not a product; someone has to fund the maintenance. Whether funders treat a reference set as infrastructure or as a one-off publication decides how long it remains usable.
