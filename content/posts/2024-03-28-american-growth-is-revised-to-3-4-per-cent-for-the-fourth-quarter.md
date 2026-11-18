@@ -2,7 +2,7 @@
 slug: "american-growth-is-revised-to-3-4-per-cent-for-the-fourth-quarter"
 title: "American growth is revised to 3.4 per cent for the fourth quarter"
 date: "2024-03-28T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The third estimate raised the figure by a tenth, and the year as a whole grew by 2.5 per cent, which is the fastest since 2021."
 ---
 

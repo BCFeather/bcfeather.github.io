@@ -6,7 +6,7 @@ categories: [society]
 description: "Exam scores come out on a single evening in late June, and the hour before the message arrives is one of the quietest in the Chinese year."
 ---
 
-The provincial education examination authorities release the scores on a fixed evening in the second half of June, and the release is synchronized to the minute. Candidates can check a website, a mini-program or a text message, and the three channels are opened at the same moment because a staggered release would create a market in information. The three channels open at the same moment because a staggered release would create a market in information. Candidates can check a website, a mini-program or a text message.
+The provincial education examination authorities release the scores on a fixed evening in the second half of June, and the release is synchronized to the minute. Candidates can check a website, a mini-programme or a text message, and the three channels are opened at the same moment because a staggered release would create a market in information. The three channels open at the same moment because a staggered release would create a market in information. Candidates can check a website, a mini-programme or a text message.
 
 The hour before the release is strange. Families sit together, the phones are charged, and nobody says much. In a city, the traffic on the roads around the schools is lighter than usual, because the students who would be out are at home. The score arrives in a message that is shorter than the sentence a parent expected.
 

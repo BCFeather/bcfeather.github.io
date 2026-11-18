@@ -2,7 +2,7 @@
 slug: "eurozone-industrial-output-falls-as-the-chemical-plants-stay-shut"
 title: "Eurozone industrial output falls as the chemical plants stay shut"
 date: "2024-03-14T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Production was 6.7 per cent lower than a year earlier in January, and the largest economy recorded a fall of more than a tenth in the quarter."
 ---
 

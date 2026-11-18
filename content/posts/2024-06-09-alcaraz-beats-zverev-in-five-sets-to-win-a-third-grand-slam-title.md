@@ -2,7 +2,7 @@
 slug: "alcaraz-beats-zverev-in-five-sets-to-win-a-third-grand-slam-title"
 title: "Alcaraz beats Zverev in five sets to win a third Grand Slam title"
 date: "2024-06-09T09:20:00+08:00"
-categories: ["sport"]
+categories: [sport]
 description: "The twenty-one-year-old recovered from two sets to one down at Roland Garros, and he is the youngest man to win majors on three surfaces."
 ---
 

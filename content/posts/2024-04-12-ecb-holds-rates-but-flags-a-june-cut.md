@@ -2,7 +2,7 @@
 slug: "ecb-holds-rates-but-flags-a-june-cut"
 title: "ECB holds rates but flags a June cut"
 date: "2024-04-12T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The governing council left the deposit rate at four per cent, and its president said the council would know enough by June to decide, which the market read as a signal."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tsmc-posts-a-fall-in-profit-and-lifts-its-spending-on-advanced-chips"
 title: "TSMC posts a fall in profit and lifts its spending on advanced chips"
 date: "2024-01-18T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The fourth-quarter net profit fell 19 per cent, and the company said it would spend more this year on the plants that make the chips for artificial intelligence."
 ---
 

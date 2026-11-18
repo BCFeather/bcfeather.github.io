@@ -2,7 +2,7 @@
 slug: "attacks-in-the-red-sea-double-the-cost-of-moving-a-container"
 title: "Attacks in the Red Sea double the cost of moving a container"
 date: "2024-01-16T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Freight rates on the Asia-Europe route have risen to more than twice their level in December, and the ships are going round Africa instead."
 ---
 

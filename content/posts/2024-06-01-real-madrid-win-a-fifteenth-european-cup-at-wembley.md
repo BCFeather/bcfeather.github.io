@@ -2,7 +2,7 @@
 slug: "real-madrid-win-a-fifteenth-european-cup-at-wembley"
 title: "Real Madrid win a fifteenth European Cup at Wembley"
 date: "2024-06-01T09:20:00+08:00"
-categories: ["sport"]
+categories: [sport]
 description: "Two goals in the last quarter of an hour beat Dortmund, and the club has now won the competition more often than any other side in its history."
 ---
 

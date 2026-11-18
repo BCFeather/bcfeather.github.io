@@ -2,7 +2,7 @@
 slug: "nvidia-posts-revenue-of-26-billion-dollars-and-announces-a-ten-for-one-split"
 title: "NVIDIA posts revenue of 26 billion dollars and announces a ten-for-one split"
 date: "2024-05-22T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Revenue rose 262 per cent from a year earlier and the data-centre business reached 22.6 billion dollars, and the company guided the next quarter above what analysts expected."
 ---
 

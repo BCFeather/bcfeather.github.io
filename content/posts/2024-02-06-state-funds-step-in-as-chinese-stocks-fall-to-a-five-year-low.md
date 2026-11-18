@@ -2,7 +2,7 @@
 slug: "state-funds-step-in-as-chinese-stocks-fall-to-a-five-year-low"
 title: "State funds step in as Chinese stocks fall to a five-year low"
 date: "2024-02-06T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The main index fell to its lowest since 2019 before a rebound on 6 February, and the buying that turned it came from funds that the government controls."
 ---
 

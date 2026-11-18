@@ -2,7 +2,7 @@
 slug: "japans-unions-win-wage-rises-of-5-3-per-cent-in-the-spring-talks"
 title: "Japan's unions win wage rises of 5.3 per cent in the spring talks"
 date: "2024-03-15T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The first tally from the confederation was the highest since 1991, and the figure is the evidence the central bank has said it needs to end the negative rates."
 ---
 

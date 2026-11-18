@@ -2,7 +2,7 @@
 slug: "eurozone-inflation-slows-to-2-8-per-cent-as-the-energy-prices-fall"
 title: "Eurozone inflation slows to 2.8 per cent as the energy prices fall"
 date: "2024-02-01T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The headline rate fell for a third month and the core measure was 3.3 per cent, and the food prices rose more slowly than at any time since 2022."
 ---
 

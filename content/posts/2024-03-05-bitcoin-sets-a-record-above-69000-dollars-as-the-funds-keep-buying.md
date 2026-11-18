@@ -2,7 +2,7 @@
 slug: "bitcoin-sets-a-record-above-69000-dollars-as-the-funds-keep-buying"
 title: "Bitcoin sets a record above 69,000 dollars as the funds keep buying"
 date: "2024-03-05T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The coin passed its 2021 peak on 5 March and then fell by about a tenth within hours, which is the volatility that the new buyers have not seen."
 ---
 

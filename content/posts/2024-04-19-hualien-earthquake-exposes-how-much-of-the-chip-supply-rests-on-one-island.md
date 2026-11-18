@@ -2,7 +2,7 @@
 slug: "hualien-earthquake-exposes-how-much-of-the-chip-supply-rests-on-one-island"
 title: "Hualien earthquake exposes how much of the chip supply rests on one island"
 date: "2024-04-19T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Production resumed within days of the strongest tremor in twenty-five years, and the episode showed both how resilient the plants are and how concentrated the industry remains."
 ---
 

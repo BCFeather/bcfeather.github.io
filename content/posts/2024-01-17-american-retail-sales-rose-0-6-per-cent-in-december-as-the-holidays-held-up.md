@@ -2,7 +2,7 @@
 slug: "american-retail-sales-rose-0-6-per-cent-in-december-as-the-holidays-held-up"
 title: "American retail sales rose 0.6 per cent in December as the holidays held up"
 date: "2024-01-17T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The gain was stronger than forecast and was led by the online stores and the restaurants, while the sales of the furniture and the electronics fell."
 ---
 

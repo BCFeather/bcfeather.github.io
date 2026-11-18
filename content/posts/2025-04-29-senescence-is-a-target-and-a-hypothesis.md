@@ -6,7 +6,7 @@ categories: [science]
 description: "Drugs that clear senescent cells have moved into trials for specific diseases, and the broader claim about ageing is still a claim about a mechanism."
 ---
 
-A senescent cell is a cell that has stopped dividing and has not died, and it releases a mixture of inflammatory signals that damage the tissue around it. The accumulation of those cells with age is one of the hallmarks that ageing research has organized itself around, and the hypothesis that follows is that removing them would restore some function to the tissue. A cell that has been damaged or has divided too many times enters the state, and the state is a program rather than a failure.
+A senescent cell is a cell that has stopped dividing and has not died, and it releases a mixture of inflammatory signals that damage the tissue around it. The accumulation of those cells with age is one of the hallmarks that ageing research has organized itself around, and the hypothesis that follows is that removing them would restore some function to the tissue. A cell that has been damaged or has divided too many times enters the state, and the state is a programme rather than a failure.
 
 Drugs that do it are called senolytics, and the first combination was found by screening for compounds that kill senescent cells and spare normal ones. Dasatinib and quercetin was the first pair tested in humans, in a small trial of patients with diabetic kidney disease, and the results were modest and the trial was short. A first trial of a combination in humans enrolled fourteen patients, which is enough to establish safety and not efficacy.
 

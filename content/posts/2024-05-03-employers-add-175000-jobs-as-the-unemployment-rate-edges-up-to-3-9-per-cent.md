@@ -2,7 +2,7 @@
 slug: "employers-add-175000-jobs-as-the-unemployment-rate-edges-up-to-3-9-per-cent"
 title: "Employers add 175,000 jobs as the unemployment rate edges up to 3.9 per cent"
 date: "2024-05-03T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Hiring slowed more than forecasters expected and the previous two months were revised down, which is the cooling the central bank has been waiting for."
 ---
 

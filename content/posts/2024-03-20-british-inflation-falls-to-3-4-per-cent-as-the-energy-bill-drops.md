@@ -2,7 +2,7 @@
 slug: "british-inflation-falls-to-3-4-per-cent-as-the-energy-bill-drops"
 title: "British inflation falls to 3.4 per cent as the energy bill drops"
 date: "2024-03-20T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The headline rate was the lowest since 2021 and the services measure fell to 6.1 per cent, which the committee has said it needs to see continue."
 ---
 

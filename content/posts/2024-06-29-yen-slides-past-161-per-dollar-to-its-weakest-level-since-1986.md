@@ -2,7 +2,7 @@
 slug: "yen-slides-past-161-per-dollar-to-its-weakest-level-since-1986"
 title: "Yen slides past 161 per dollar to its weakest level since 1986"
 date: "2024-06-29T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The currency fell to 161.27 in thin trading, and the authorities have spent about sixty billion dollars this year trying to slow the decline without reversing it."
 ---
 

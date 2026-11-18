@@ -2,7 +2,7 @@
 slug: "yen-slides-past-152-per-dollar-as-officials-warn-of-excessive-moves"
 title: "Yen slides past 152 per dollar as officials warn of excessive moves"
 date: "2024-04-10T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The currency reached its weakest level since 1990, and the finance ministry used language that has preceded intervention in earlier episodes."
 ---
 

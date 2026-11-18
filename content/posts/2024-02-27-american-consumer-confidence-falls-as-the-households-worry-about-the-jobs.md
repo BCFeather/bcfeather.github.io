@@ -2,7 +2,7 @@
 slug: "american-consumer-confidence-falls-as-the-households-worry-about-the-jobs"
 title: "American consumer confidence falls as the households worry about the jobs"
 date: "2024-02-27T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The index fell to 106.7 in February from a revised 110.9, and the measure of expectations dropped below the level that has preceded past recessions."
 ---
 

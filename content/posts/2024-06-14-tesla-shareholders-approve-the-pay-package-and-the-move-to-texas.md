@@ -2,7 +2,7 @@
 slug: "tesla-shareholders-approve-the-pay-package-and-the-move-to-texas"
 title: "Tesla shareholders approve the pay package and the move to Texas"
 date: "2024-06-14T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The award is worth about forty-four billion dollars at the current price, and the same vote moved the company's incorporation out of Delaware."
 ---
 

@@ -14,7 +14,7 @@ The diagnostic paper, from teams at the affiliated Xinhua Hospital of Shanghai J
 
 The transparency is the point: a diagnosis the doctor can audit, rather than a score the doctor must either trust or discard.
 
-The treatment paper goes after a different layer of the same problem. It concerns Snijders Blok–Campeau syndrome, a neurodevelopmental disorder caused by mutations in the *CHD3* gene, for which there is no treatment. The teams, from Xinhua, the Songjiang Institute of Shanghai Jiao Tong University, Fudan's Institute for Brain Science and the CAS Center for Excellence in Molecular Cell Science, engineered a new adenine base editor, TeABE, that converts a mutated A·T base pair back to G·C without breaking the DNA strand. Guide-seq screening showed off-target editing below 1 per cent in human cells.
+The treatment paper goes after a different layer of the same problem. It concerns Snijders Blok-Campeau syndrome, a neurodevelopmental disorder caused by mutations in the *CHD3* gene, for which there is no treatment. The teams, from Xinhua, the Songjiang Institute of Shanghai Jiao Tong University, Fudan's Institute for Brain Science and the CAS Center for Excellence in Molecular Cell Science, engineered a new adenine base editor, TeABE, that converts a mutated A·T base pair back to G·C without breaking the DNA strand. Guide-seq screening showed off-target editing below 1 per cent in human cells.
 
 Intrathecal injection of an AAV9-delivered TeABE into macaque brains produced efficient expression and measurable base-editing activity, the first demonstration that this kind of editor can function in the primate brain.
 

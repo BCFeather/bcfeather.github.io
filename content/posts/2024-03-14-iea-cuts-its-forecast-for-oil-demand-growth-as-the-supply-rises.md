@@ -2,7 +2,7 @@
 slug: "iea-cuts-its-forecast-for-oil-demand-growth-as-the-supply-rises"
 title: "IEA cuts its forecast for oil demand growth as the supply rises"
 date: "2024-03-14T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The agency lowered its estimate for the year to 1.3 million barrels a day and said the output outside the cartel is growing faster than the demand."
 ---
 

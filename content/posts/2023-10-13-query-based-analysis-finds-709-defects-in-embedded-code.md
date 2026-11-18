@@ -8,7 +8,7 @@ description: "A query-based analyser run over 258 popular open-source embedded p
 
 Embedded software sits in devices that are rarely updated and seldom audited, which makes it a good place to ask whether modern static analysis is worth the effort. The answer from a large experience study is that the tools are rarely used and that they work better than their reputation suggests. A device that ships with a flawed parser keeps the flaw for its service life.
 
-A corpus of 258 of the most popular open-source embedded projects was assembled, and their use of static application security testing was measured through program analysis and a survey of 25 developers. Only 3 per cent of the projects go beyond the trivial checks built into a compiler, according to a preprint posted on 30 September 2023. Popularity is what makes the corpus representative of code that others actually build on.
+A corpus of 258 of the most popular open-source embedded projects was assembled, and their use of static application security testing was measured through programme analysis and a survey of 25 developers. Only 3 per cent of the projects go beyond the trivial checks built into a compiler, according to a preprint posted on 30 September 2023. Popularity is what makes the corpus representative of code that others actually build on.
 
 Developers gave two reasons for the gap. One is a belief that the tools do not find much, and the other is the false positives that make each finding cost more than it saves. Both beliefs are testable, and the rest of the paper tests them. The survey asked about tools by name and about the reasons for not adopting them.
 

@@ -2,7 +2,7 @@
 slug: "gamestop-sells-933-million-dollars-of-shares-while-the-retail-crowd-returns"
 title: "GameStop sells 933 million dollars of shares while the retail crowd returns"
 date: "2024-05-24T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The company used a share sale to raise cash during a rally that was driven by social media rather than by results, and it retired part of the debt that had been the original cause of the squeeze."
 ---
 

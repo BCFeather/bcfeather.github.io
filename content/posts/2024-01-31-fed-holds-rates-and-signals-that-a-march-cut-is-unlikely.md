@@ -2,7 +2,7 @@
 slug: "fed-holds-rates-and-signals-that-a-march-cut-is-unlikely"
 title: "Fed holds rates and signals that a March cut is unlikely"
 date: "2024-01-31T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The committee kept the rate at its peak and removed the reference to further tightening, while the chair said a reduction in March was not the base case."
 ---
 

@@ -2,7 +2,7 @@
 slug: "japans-economy-contracts-as-consumers-stop-spending"
 title: "Japan's economy contracts as consumers stop spending"
 date: "2024-05-20T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Output fell at an annual rate of two per cent in the first quarter, the first contraction in a year, and consumption was the largest drag."
 ---
 

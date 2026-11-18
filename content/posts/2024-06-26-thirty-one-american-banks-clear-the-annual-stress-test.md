@@ -2,7 +2,7 @@
 slug: "thirty-one-american-banks-clear-the-annual-stress-test"
 title: "Thirty-one American banks clear the annual stress test"
 date: "2024-06-26T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The largest lenders would lose about 685 billion dollars under the hypothetical recession, and every one of them stayed above the minimum capital ratio."
 ---
 

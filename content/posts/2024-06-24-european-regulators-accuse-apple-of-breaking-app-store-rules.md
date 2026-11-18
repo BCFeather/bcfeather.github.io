@@ -2,7 +2,7 @@
 slug: "european-regulators-accuse-apple-of-breaking-app-store-rules"
 title: "European regulators accuse Apple of breaking app store rules"
 date: "2024-06-24T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The commission said the company's terms stop developers from steering users to cheaper offers, in the first formal charge under the digital markets law."
 ---
 

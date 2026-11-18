@@ -2,7 +2,7 @@
 slug: "samsung-reports-a-tenfold-rise-in-operating-profit-as-memory-prices-recover"
 title: "Samsung reports a tenfold rise in operating profit as memory prices recover"
 date: "2024-04-29T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Operating profit reached 6.6 trillion won in the first quarter, against 640 billion a year earlier, and the chip division returned to profit after four loss-making quarters."
 ---
 

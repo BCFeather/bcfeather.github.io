@@ -2,7 +2,7 @@
 slug: "eurozone-exits-stagnation-with-growth-of-0-3-per-cent-in-the-first-quarter"
 title: "Eurozone exits stagnation with growth of 0.3 per cent in the first quarter"
 date: "2024-04-30T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The four largest economies all expanded, and inflation held at 2.4 per cent, which is the combination the central bank has been waiting for."
 ---
 

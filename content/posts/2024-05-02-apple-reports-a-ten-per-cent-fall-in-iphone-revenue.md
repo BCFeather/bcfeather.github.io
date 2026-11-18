@@ -2,7 +2,7 @@
 slug: "apple-reports-a-ten-per-cent-fall-in-iphone-revenue"
 title: "Apple reports a ten per cent fall in iPhone revenue"
 date: "2024-05-02T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Revenue for the quarter to March fell four per cent to 90.75 billion dollars, and the decline in the largest product line was larger than any analyst had forecast."
 ---
 

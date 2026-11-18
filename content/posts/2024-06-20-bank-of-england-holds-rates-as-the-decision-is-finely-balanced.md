@@ -2,7 +2,7 @@
 slug: "bank-of-england-holds-rates-as-the-decision-is-finely-balanced"
 title: "Bank of England holds rates as the decision is finely balanced"
 date: "2024-06-20T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The committee kept the rate at 5.25 per cent, and some members recorded that the case for a cut had already been made."
 ---
 

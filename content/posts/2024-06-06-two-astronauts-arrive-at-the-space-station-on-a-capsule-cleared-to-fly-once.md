@@ -2,7 +2,7 @@
 slug: "two-astronauts-arrive-at-the-space-station-on-a-capsule-cleared-to-fly-once"
 title: "Two astronauts arrive at the space station on a capsule cleared to fly once"
 date: "2024-06-06T09:20:00+08:00"
-categories: ["science"]
+categories: [science]
 description: "The vehicle docked a day after launch with two leaks in its propulsion system, and the agency said it would review the data before deciding when the crew returns."
 ---
 

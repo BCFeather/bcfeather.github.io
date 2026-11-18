@@ -2,7 +2,7 @@
 slug: "microsoft-becomes-the-second-company-worth-three-trillion-dollars"
 title: "Microsoft becomes the second company worth three trillion dollars"
 date: "2024-01-23T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The shares rose 1.4 per cent in the session that took the value past the mark, six weeks after Apple had reached it for the first time."
 ---
 

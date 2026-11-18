@@ -2,7 +2,7 @@
 slug: "japan-slips-into-recession-as-the-consumers-stop-spending"
 title: "Japan slips into recession as the consumers stop spending"
 date: "2024-02-16T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Output fell at an annual rate of 0.4 per cent in the fourth quarter, the second consecutive contraction, and the central bank is still preparing to raise rates."
 ---
 

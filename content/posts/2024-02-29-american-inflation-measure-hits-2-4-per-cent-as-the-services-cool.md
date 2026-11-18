@@ -2,7 +2,7 @@
 slug: "american-inflation-measure-hits-2-4-per-cent-as-the-services-cool"
 title: "American inflation measure hits 2.4 per cent as the services cool"
 date: "2024-02-29T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The personal consumption measure rose 2.4 per cent in the year to January and the core was 2.8 per cent, the lowest since 2021."
 ---
 

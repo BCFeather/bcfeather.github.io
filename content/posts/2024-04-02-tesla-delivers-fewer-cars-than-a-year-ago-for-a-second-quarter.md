@@ -2,7 +2,7 @@
 slug: "tesla-delivers-fewer-cars-than-a-year-ago-for-a-second-quarter"
 title: "Tesla delivers fewer cars than a year ago for a second quarter"
 date: "2024-04-02T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The company shipped 386,810 vehicles in the first quarter, about eight per cent below the same period last year and well short of the figure its own forecast implied."
 ---
 

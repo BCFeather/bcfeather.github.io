@@ -2,7 +2,7 @@
 slug: "hsbc-reports-a-profit-of-30-billion-dollars-and-buys-back-its-shares"
 title: "HSBC reports a profit of 30 billion dollars and buys back its shares"
 date: "2024-02-21T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The bank's earnings rose on the higher rates and it announced a buyback of up to three billion dollars, which the market had been expecting."
 ---
 

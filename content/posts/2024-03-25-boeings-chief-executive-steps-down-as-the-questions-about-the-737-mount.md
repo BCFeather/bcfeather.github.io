@@ -2,7 +2,7 @@
 slug: "boeings-chief-executive-steps-down-as-the-questions-about-the-737-mount"
 title: "Boeing's chief executive steps down as the questions about the 737 mount"
 date: "2024-03-25T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Dave Calhoun will leave at the end of the year and the chairman of the board will not stand for re-election, after a door panel blew out in January."
 ---
 

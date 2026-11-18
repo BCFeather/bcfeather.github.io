@@ -2,7 +2,7 @@
 slug: "japans-core-inflation-slows-as-the-central-bank-weighs-another-move"
 title: "Japan's core inflation slows as the central bank weighs another move"
 date: "2024-06-21T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Core prices rose 2.2 per cent in May and the headline 2.8 per cent, and the bank has said it will raise rates again if the wage data confirm the trend."
 ---
 

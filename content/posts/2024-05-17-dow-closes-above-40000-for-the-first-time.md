@@ -2,7 +2,7 @@
 slug: "dow-closes-above-40000-for-the-first-time"
 title: "Dow closes above 40,000 for the first time"
 date: "2024-05-17T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The index of thirty large companies crossed the level five months after it crossed 38,000, and the gains this year have come from the shares that were left behind last year."
 ---
 

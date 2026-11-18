@@ -2,7 +2,7 @@
 slug: "british-economy-leaves-recession-with-growth-of-0-6-per-cent"
 title: "British economy leaves recession with growth of 0.6 per cent"
 date: "2024-05-10T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The first quarter was the strongest since the economy reopened, and services did most of the work while construction and manufacturing were flat."
 ---
 

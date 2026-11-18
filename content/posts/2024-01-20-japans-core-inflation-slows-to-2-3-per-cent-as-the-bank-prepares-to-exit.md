@@ -2,7 +2,7 @@
 slug: "japans-core-inflation-slows-to-2-3-per-cent-as-the-bank-prepares-to-exit"
 title: "Japan's core inflation slows to 2.3 per cent as the bank prepares to exit"
 date: "2024-01-20T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The December figure was the lowest in eighteen months, and the members of the board have said the case for ending the negative rate is building."
 ---
 

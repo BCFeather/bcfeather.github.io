@@ -2,7 +2,7 @@
 slug: "apple-opens-orders-for-its-headset-at-3499-dollars"
 title: "Apple opens orders for its headset at 3,499 dollars"
 date: "2024-01-20T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Pre-orders began on 19 January for a device that ships in February, and the analysts expect a small first year as the developers learn what to build for it."
 ---
 

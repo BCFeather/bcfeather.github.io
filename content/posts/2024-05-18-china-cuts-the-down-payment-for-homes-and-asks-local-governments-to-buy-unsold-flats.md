@@ -2,7 +2,7 @@
 slug: "china-cuts-the-down-payment-for-homes-and-asks-local-governments-to-buy-unsold-flats"
 title: "China cuts the down payment for homes and asks local governments to buy unsold flats"
 date: "2024-05-18T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The minimum deposit falls to fifteen per cent for a first home and the national floor on mortgage rates is scrapped, in the largest easing since the property slump began."
 ---
 

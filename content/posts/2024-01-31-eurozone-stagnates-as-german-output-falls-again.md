@@ -2,7 +2,7 @@
 slug: "eurozone-stagnates-as-german-output-falls-again"
 title: "Eurozone stagnates as German output falls again"
 date: "2024-01-31T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Output was flat in the fourth quarter of 2023, and the largest economy contracted for the second quarter in a row, which is the definition of a recession."
 ---
 

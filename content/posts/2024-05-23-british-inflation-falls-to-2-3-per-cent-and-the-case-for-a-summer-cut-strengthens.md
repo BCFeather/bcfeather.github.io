@@ -2,7 +2,7 @@
 slug: "british-inflation-falls-to-2-3-per-cent-and-the-case-for-a-summer-cut-strengthens"
 title: "British inflation falls to 2.3 per cent and the case for a summer cut strengthens"
 date: "2024-05-23T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The rate dropped from 3.2 per cent, close to the two per cent target, and the core measure fell to 3.9 per cent, which is the fastest decline since the energy shock began."
 ---
 

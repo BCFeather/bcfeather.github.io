@@ -2,7 +2,7 @@
 slug: "american-consumer-prices-rose-2-6-per-cent-in-the-year-to-may"
 title: "American consumer prices rose 2.6 per cent in the year to May"
 date: "2024-06-28T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The measure the Federal Reserve prefers slowed again, and the core rate held at 2.5 per cent as the prices of goods fell and those of services rose more slowly."
 ---
 

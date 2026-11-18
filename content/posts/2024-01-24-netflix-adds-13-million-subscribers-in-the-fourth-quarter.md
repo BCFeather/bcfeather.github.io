@@ -2,7 +2,7 @@
 slug: "netflix-adds-13-million-subscribers-in-the-fourth-quarter"
 title: "Netflix adds 13 million subscribers in the fourth quarter"
 date: "2024-01-24T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The company ended the year with 260 million members, and it told investors that the growth would slow as it moves into advertising and live events."
 ---
 

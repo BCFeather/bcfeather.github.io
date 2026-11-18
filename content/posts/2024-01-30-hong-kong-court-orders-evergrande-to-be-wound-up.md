@@ -2,7 +2,7 @@
 slug: "hong-kong-court-orders-evergrande-to-be-wound-up"
 title: "Hong Kong court orders Evergrande to be wound up"
 date: "2024-01-30T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The developer that once owed more than 300 billion dollars was put into liquidation, and the administrator will now decide what the creditors receive."
 ---
 

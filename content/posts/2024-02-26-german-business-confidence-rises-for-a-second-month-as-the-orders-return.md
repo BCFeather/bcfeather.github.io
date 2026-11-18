@@ -2,7 +2,7 @@
 slug: "german-business-confidence-rises-for-a-second-month-as-the-orders-return"
 title: "German business confidence rises for a second month as the orders return"
 date: "2024-02-26T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The Ifo index rose to 85.5 and the expectations component improved, although both remain below the level of the middle of last year."
 ---
 

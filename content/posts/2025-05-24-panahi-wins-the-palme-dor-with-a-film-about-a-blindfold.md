@@ -14,7 +14,7 @@ Award is a vindication with a commercial edge. Neon, the American distributor, h
 
 Rest of the list was French. Seven of the eight prizes went to French productions or co-productions, including the Palme, which was made with Les Films Pelleas and Arte France, and the Grand Prix, which went to Joachim Trier's *Sentimental Value*, a Norwegian film starring Renate Reinsve, Elle Fanning and Stellan Skarsgard. Twenty-two films competed, and the jury was chaired by Juliette Binoche.
 
-Competition had been shaped by politics before the jury met. Films from Iran, Palestine and Ukraine were in the selection, and the festival's decision to program them is itself a statement in a year when several governments were restricting what their directors could say. A prize to a director who was jailed for his work is the clearest version of that statement.
+Competition had been shaped by politics before the jury met. Films from Iran, Palestine and Ukraine were in the selection, and the festival's decision to programme them is itself a statement in a year when several governments were restricting what their directors could say. A prize to a director who was jailed for his work is the clearest version of that statement.
 
 Panahi's speech was about his country and not about cinema. He asked Iranians with different opinions to put their differences aside, and said the most important thing was the country and its freedom. A festival that usually rewards formal invention rewarded a sentence, and the audience stood for it, which is the only review that matters on a closing night.
 

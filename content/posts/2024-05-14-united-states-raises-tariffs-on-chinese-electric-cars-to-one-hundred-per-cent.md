@@ -2,7 +2,7 @@
 slug: "united-states-raises-tariffs-on-chinese-electric-cars-to-one-hundred-per-cent"
 title: "United States raises tariffs on Chinese electric cars to one hundred per cent"
 date: "2024-05-14T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The increase covers cars, batteries, solar cells and semiconductors, and it was announced as a protection of domestic industry rather than as a negotiating step."
 ---
 

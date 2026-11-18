@@ -2,7 +2,7 @@
 slug: "tesla-warns-that-its-volume-growth-will-be-notably-lower-this-year"
 title: "Tesla warns that its volume growth will be notably lower this year"
 date: "2024-01-25T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The company reported a fourth-quarter operating margin of 8.2 per cent, down from 16 per cent a year earlier, and said the price cuts had done their work."
 ---
 

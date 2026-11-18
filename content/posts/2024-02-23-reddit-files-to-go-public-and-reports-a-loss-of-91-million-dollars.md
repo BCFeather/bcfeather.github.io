@@ -2,7 +2,7 @@
 slug: "reddit-files-to-go-public-and-reports-a-loss-of-91-million-dollars"
 title: "Reddit files to go public and reports a loss of 91 million dollars"
 date: "2024-02-23T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The filing disclosed revenue of 804 million dollars for 2023 and about 73 million daily users, and the company has never made an annual profit."
 ---
 

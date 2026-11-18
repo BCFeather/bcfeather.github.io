@@ -2,7 +2,7 @@
 slug: "alphabet-pays-its-first-dividend-and-authorizes-seventy-billion-dollars-of-buybacks"
 title: "Alphabet pays its first dividend and authorizes seventy billion dollars of buybacks"
 date: "2024-04-25T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Revenue rose 15 per cent to 80.5 billion dollars and net income reached 23.7 billion, and the company told investors it would return cash instead of holding it."
 ---
 

@@ -2,7 +2,7 @@
 slug: "reddit-prices-its-shares-at-34-dollars-and-opens-40-per-cent-higher"
 title: "Reddit prices its shares at 34 dollars and opens 40 per cent higher"
 date: "2024-03-22T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The listing valued the company at about 6.4 billion dollars and the first trade was at 47, which is a sign of the demand that the bankers underestimated."
 ---
 

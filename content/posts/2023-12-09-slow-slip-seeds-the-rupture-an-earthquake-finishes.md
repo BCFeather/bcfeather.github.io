@@ -10,7 +10,7 @@ Faults release accumulated stress in two ways. A fast rupture radiates seismic w
 
 Laboratory experiments supply the missing control. A preprint posted on 29 December 2023 reports faults built to include a patch of granular material along part of the interface, which creeps where the rest of the fault sticks, and the response of the whole interface to shear is measured while the normal load is varied.
 
-A granular patch acts as a nucleation center. Fast ruptures begin there at a lower shear resistance than they would on a uniform fault, so the heterogeneity seeds the event the way a scratch seeds a crack in glass. The frequency of fast events rises accordingly, since less stress has to accumulate before the next one starts, and the interval between events shortens in proportion to the reduction in resistance.
+A granular patch acts as a nucleation centre. Fast ruptures begin there at a lower shear resistance than they would on a uniform fault, so the heterogeneity seeds the event the way a scratch seeds a crack in glass. The frequency of fast events rises accordingly, since less stress has to accumulate before the next one starts, and the interval between events shortens in proportion to the reduction in resistance.
 
 The normal load controls how far the slow region spreads. With a light load the creeping zone stays close to the granular patch, and with a heavier load it extends beyond the material that caused it, which shows that composition alone does not define a slow-slip region. Stress state does, and the boundary between creeping and locked behaviour moves with it.
 

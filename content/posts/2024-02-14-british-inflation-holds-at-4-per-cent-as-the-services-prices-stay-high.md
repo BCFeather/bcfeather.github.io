@@ -2,7 +2,7 @@
 slug: "british-inflation-holds-at-4-per-cent-as-the-services-prices-stay-high"
 title: "British inflation holds at 4 per cent as the services prices stay high"
 date: "2024-02-14T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The headline rate was unchanged and the services measure rose to 6.5 per cent, which is the number the committee has said it needs to see fall."
 ---
 

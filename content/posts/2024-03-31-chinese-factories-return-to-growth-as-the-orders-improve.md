@@ -2,7 +2,7 @@
 slug: "chinese-factories-return-to-growth-as-the-orders-improve"
 title: "Chinese factories return to growth as the orders improve"
 date: "2024-03-31T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The official index rose to 50.8 in March, the first reading above the line that separates expansion from contraction since September."
 ---
 

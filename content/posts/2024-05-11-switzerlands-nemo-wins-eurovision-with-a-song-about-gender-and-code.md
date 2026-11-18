@@ -2,7 +2,7 @@
 slug: "switzerlands-nemo-wins-eurovision-with-a-song-about-gender-and-code"
 title: "Switzerland's Nemo wins Eurovision with a song about gender and code"
 date: "2024-05-11T09:20:00+08:00"
-categories: ["culture"]
+categories: [culture]
 description: "The twenty-four-year-old won the final in Malmö with a performance that mixed opera and rap, and the contest drew its largest audience in years."
 ---
 

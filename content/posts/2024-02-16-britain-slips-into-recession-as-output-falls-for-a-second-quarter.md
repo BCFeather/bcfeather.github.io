@@ -2,7 +2,7 @@
 slug: "britain-slips-into-recession-as-output-falls-for-a-second-quarter"
 title: "Britain slips into recession as output falls for a second quarter"
 date: "2024-02-16T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Output fell 0.3 per cent in the fourth quarter after a 0.1 per cent decline in the third, and the year as a whole grew by barely a tenth."
 ---
 

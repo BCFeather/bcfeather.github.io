@@ -2,7 +2,7 @@
 slug: "eurozone-inflation-ticks-up-to-2-6-per-cent-as-services-prices-stay-sticky"
 title: "Eurozone inflation ticks up to 2.6 per cent as services prices stay sticky"
 date: "2024-05-31T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The rise from 2.4 per cent was expected and was driven by energy base effects, while the measure that excludes them held at 2.9 per cent."
 ---
 

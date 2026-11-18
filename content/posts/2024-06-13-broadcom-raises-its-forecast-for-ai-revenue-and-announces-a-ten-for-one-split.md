@@ -2,7 +2,7 @@
 slug: "broadcom-raises-its-forecast-for-ai-revenue-and-announces-a-ten-for-one-split"
 title: "Broadcom raises its forecast for AI revenue and announces a ten-for-one split"
 date: "2024-06-13T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The chipmaker reported revenue of 12.46 billion dollars for the quarter and lifted its outlook for the year, and the shares rose by double digits in the session after the release."
 ---
 

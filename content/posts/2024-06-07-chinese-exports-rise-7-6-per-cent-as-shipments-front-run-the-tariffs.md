@@ -2,7 +2,7 @@
 slug: "chinese-exports-rise-7-6-per-cent-as-shipments-front-run-the-tariffs"
 title: "Chinese exports rise 7.6 per cent as shipments front-run the tariffs"
 date: "2024-06-07T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The gain in May was the strongest in a year and was concentrated in the goods that face the new American duties, while imports grew more slowly than forecast."
 ---
 

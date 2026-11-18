@@ -2,7 +2,7 @@
 slug: "japan-revises-its-fourth-quarter-growth-and-avoids-a-recession"
 title: "Japan revises its fourth quarter growth and avoids a recession"
 date: "2024-03-11T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The revised figures showed output rising 0.1 per cent at the end of 2023, which erases the contraction that had been reported a month earlier."
 ---
 

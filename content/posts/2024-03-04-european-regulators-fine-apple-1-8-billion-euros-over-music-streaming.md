@@ -2,7 +2,7 @@
 slug: "european-regulators-fine-apple-1-8-billion-euros-over-music-streaming"
 title: "European regulators fine Apple 1.8 billion euros over music streaming"
 date: "2024-03-04T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The commission said the rules that stopped the rival apps from telling users about cheaper offers abroad were an abuse of the company's position."
 ---
 

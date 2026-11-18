@@ -2,7 +2,7 @@
 slug: "consumer-prices-rose-3-4-per-cent-in-the-year-to-april-as-shelter-stayed-expensive"
 title: "Consumer prices rose 3.4 per cent in the year to April as shelter stayed expensive"
 date: "2024-05-15T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The headline rate eased from 3.5 per cent and the core measure from 3.8, and the shelter component was the largest single contributor for a thirteenth month."
 ---
 

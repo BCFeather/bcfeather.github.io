@@ -2,7 +2,7 @@
 slug: "tokyo-inflation-cools-as-the-food-prices-stop-rising"
 title: "Tokyo inflation cools as the food prices stop rising"
 date: "2024-03-29T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Core prices in the capital rose 2.4 per cent in the year to March, and the measure that the central bank watches for the trend was unchanged."
 ---
 

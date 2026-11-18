@@ -2,7 +2,7 @@
 slug: "nvidia-overtakes-microsoft-as-most-valuable-company"
 title: "NVIDIA overtakes Microsoft as the most valuable company in the world"
 date: "2024-06-18T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Shares closed at a valuation of 3.34 trillion dollars, six weeks after the company passed a trillion on a forecast that its customers would keep buying accelerators."
 ---
 

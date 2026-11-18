@@ -2,7 +2,7 @@
 slug: "american-growth-is-revised-down-to-1-3-per-cent-for-the-first-quarter"
 title: "American growth is revised down to 1.3 per cent for the first quarter"
 date: "2024-05-30T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The second estimate cut the annual rate from 1.6 per cent, and the revision came from imports and from inventories rather than from consumer spending."
 ---
 

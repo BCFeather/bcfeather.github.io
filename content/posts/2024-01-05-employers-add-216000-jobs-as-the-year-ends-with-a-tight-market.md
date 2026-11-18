@@ -2,7 +2,7 @@
 slug: "employers-add-216000-jobs-as-the-year-ends-with-a-tight-market"
 title: "Employers add 216,000 jobs as the year ends with a tight market"
 date: "2024-01-05T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Hiring beat forecasts in December and wages rose faster than expected, which pushed back the market's expectation of a rate cut in the spring."
 ---
 

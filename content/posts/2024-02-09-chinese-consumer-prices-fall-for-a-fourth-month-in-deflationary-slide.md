@@ -2,7 +2,7 @@
 slug: "chinese-consumer-prices-fall-for-a-fourth-month-in-deflationary-slide"
 title: "Chinese consumer prices fall for a fourth month in a deflationary slide"
 date: "2024-02-09T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Prices were 0.8 per cent lower than a year earlier in January, the sharpest fall since 2009, and the producer prices have declined for sixteen months."
 ---
 

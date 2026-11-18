@@ -2,7 +2,7 @@
 slug: "job-openings-fall-to-the-lowest-level-since-2021"
 title: "Job openings fall to the lowest level since 2021"
 date: "2024-06-05T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Employers advertised 8.06 million vacancies in April, down from more than twelve million at the peak, and the number of people quitting also fell."
 ---
 

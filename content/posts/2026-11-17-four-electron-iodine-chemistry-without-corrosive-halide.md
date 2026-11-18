@@ -6,7 +6,7 @@ categories: [science]
 description: "A zinc-iodine cell reaches the iodine(I) state in a dilute, halogen-free electrolyte and keeps 96 per cent of its capacity across 1,000 cycles."
 ---
 
-Aqueous zinc-iodine cells hold appeal for grid storage: iodine is abundant, the electrolyte is water, and the positive electrode stores charge by changing oxidation state instead of hosting ions in a lattice. Nearly all of that promise has been realized on the two-electron couple, which offers a theoretical capacity of \(211\ \mathrm{mAh\,g^{-1}}\). Extending the chemistry to iodine(+1) doubles the figure to \(422\ \mathrm{mAh\,g^{-1}}\) and adds a plateau near 1.07 V against the standard hydrogen electrode.
+Aqueous zinc-iodine cells hold appeal for grid storage: iodine is abundant, the electrolyte is water, and the positive electrode stores charge by changing oxidation state instead of hosting ions in a lattice. Nearly all of that promise has been realized on the two-electron couple, which offers a theoretical capacity of \(211\ \mathrm{mA h\,g^{-1}}\). Extending the chemistry to iodine(+1) doubles the figure to \(422\ \mathrm{mA h\,g^{-1}}\) and adds a plateau near 1.07 V against the standard hydrogen electrode.
 
 Reaching that second plateau has meant dissolving large amounts of halide in the electrolyte, so that the reactive iodine(+1) cation is held as an interhalogen complex. Concentrations in the literature run to tens of moles per litre, and the brine attacks current collectors. Chen, Dong and He report an alternative in *Nature*, 11 November 2026: a framework built from kosmotropic anions, polar anions and a nucleophilic species, with no halide in it. The pouch electrolyte, for instance, was 1.5 M zinc sulfate, 0.5 M zinc acetate and 0.4 M nicotinamide.
 

@@ -1,6 +1,6 @@
 ---
-slug: "a-poverty-program-changes-how-the-poor-treat-each-other"
-title: "A poverty program changes how the poor treat each other"
+slug: "a-poverty-programme-changes-how-the-poor-treat-each-other"
+title: "A poverty programme changes how the poor treat each other"
 date: "2023-03-11T09:30:00+08:00"
 categories: [science]
 description: "A regression discontinuity around a Chinese anti-poverty programme shows that the intervention changed recipients' social preferences as well as their incomes."

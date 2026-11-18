@@ -2,7 +2,7 @@
 slug: "oppenheimer-wins-seven-awards-at-the-oscars"
 title: "Oppenheimer wins seven awards at the Oscars"
 date: "2024-03-11T09:20:00+08:00"
-categories: ["culture"]
+categories: [culture]
 description: "The film took best picture, director and both of the leading acting prizes, and the ceremony drew an audience that was larger than the year before."
 ---
 

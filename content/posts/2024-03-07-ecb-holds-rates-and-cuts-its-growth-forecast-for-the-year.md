@@ -2,7 +2,7 @@
 slug: "ecb-holds-rates-and-cuts-its-growth-forecast-for-the-year"
 title: "ECB holds rates and cuts its growth forecast for the year"
 date: "2024-03-07T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The central bank kept its deposit rate at 4 per cent and lowered its estimate for output to 0.6 per cent, which is the weakest since the euro was created."
 ---
 

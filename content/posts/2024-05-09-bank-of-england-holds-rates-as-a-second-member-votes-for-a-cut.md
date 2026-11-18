@@ -2,7 +2,7 @@
 slug: "bank-of-england-holds-rates-as-a-second-member-votes-for-a-cut"
 title: "Bank of England holds rates as a second member votes for a cut"
 date: "2024-05-09T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The committee left the bank rate at 5.25 per cent for a sixth meeting, and two of its nine members voted to reduce it, which is the first split in favour of easing since 2021."
 ---
 

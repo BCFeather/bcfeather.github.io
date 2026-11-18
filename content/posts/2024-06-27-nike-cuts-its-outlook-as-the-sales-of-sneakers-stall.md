@@ -2,7 +2,7 @@
 slug: "nike-cuts-its-outlook-as-the-sales-of-sneakers-stall"
 title: "Nike cuts its outlook as the sales of sneakers stall"
 date: "2024-06-27T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Revenue fell 2 per cent in the quarter and the company warned that the next three months would be weaker, sending the shares down by about a fifth."
 ---
 

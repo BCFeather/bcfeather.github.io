@@ -2,7 +2,7 @@
 slug: "ecb-keeps-rates-at-4-per-cent-and-resists-the-calls-for-a-spring-cut"
 title: "ECB keeps rates at 4 per cent and resists the calls for a spring cut"
 date: "2024-01-26T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The central bank left its deposit rate unchanged for a third meeting and said the wage data it needs will arrive in the spring, which pushed the market's first cut to June."
 ---
 

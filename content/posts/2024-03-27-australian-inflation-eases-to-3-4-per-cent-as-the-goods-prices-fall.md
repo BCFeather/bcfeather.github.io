@@ -2,7 +2,7 @@
 slug: "australian-inflation-eases-to-3-4-per-cent-as-the-goods-prices-fall"
 title: "Australian inflation eases to 3.4 per cent as the goods prices fall"
 date: "2024-03-27T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The monthly measure was unchanged and the prices of the goods fell for a fifth month, while the services kept the measure above the target."
 ---
 

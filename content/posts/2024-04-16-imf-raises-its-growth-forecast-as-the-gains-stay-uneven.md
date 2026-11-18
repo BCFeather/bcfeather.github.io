@@ -2,7 +2,7 @@
 slug: "imf-raises-its-growth-forecast-as-the-gains-stay-uneven"
 title: "IMF raises its growth forecast as the gains stay uneven"
 date: "2024-04-16T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The fund now expects the world economy to expand 3.2 per cent this year, with the American figure raised and the European one cut."
 ---
 

@@ -2,7 +2,7 @@
 slug: "chinese-retail-sales-grow-3-7-per-cent-as-the-property-slump-drags-on"
 title: "Chinese retail sales grow 3.7 per cent as the property slump drags on"
 date: "2024-06-17T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The gain in May was slower than forecast, industrial output held up, and investment in property fell by more than a tenth in the first five months of the year."
 ---
 

@@ -18,4 +18,4 @@ Cost and delivery are the constraints that will decide use. The candidate needs 
 
 Trial sites determine the comparison. A site with high transmission tests a vaccine's ability to protect against repeated exposure, and a site with low transmission tests its ability to protect a naive immune system. The same candidate can look different in each. A vaccine's three-year readout is a milestone and not a licence. A trial that reports at three years must continue to five, and a regulator's file needs the longer interval because tuberculosis's latency makes a short follow-up uninformative about protection against reactivation.
 
-Two numbers carry the weight of this result, 62 and 31. A vaccine that works best in people who have never been infected is a vaccine for adolescents, and that is a program a health ministry can plan around.
+Two numbers carry the weight of this result, 62 and 31. A vaccine that works best in people who have never been infected is a vaccine for adolescents, and that is a programme a health ministry can plan around.

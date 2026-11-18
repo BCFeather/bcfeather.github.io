@@ -2,7 +2,7 @@
 slug: "kansas-city-beat-the-49ers-in-overtime-to-win-a-third-super-bowl-in-five-years"
 title: "Kansas City beat the 49ers in overtime to win a third Super Bowl in five years"
 date: "2024-02-12T09:20:00+08:00"
-categories: ["sport"]
+categories: [sport]
 description: "The winning drive ended with a touchdown in the first overtime in the game's history, and the quarterback was named the most valuable player for the third time."
 ---
 

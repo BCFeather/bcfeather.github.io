@@ -2,7 +2,7 @@
 slug: "american-consumer-confidence-slips-as-the-job-market-cools"
 title: "American consumer confidence slips as the job market cools"
 date: "2024-06-25T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The index fell to 100.4 in June and the measure of expectations dropped, with fewer households describing jobs as plentiful than at any time since 2021."
 ---
 

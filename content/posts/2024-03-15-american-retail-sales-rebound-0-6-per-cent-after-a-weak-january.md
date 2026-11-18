@@ -2,7 +2,7 @@
 slug: "american-retail-sales-rebound-0-6-per-cent-after-a-weak-january"
 title: "American retail sales rebound 0.6 per cent after a weak January"
 date: "2024-03-15T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The gain reversed part of the previous month's fall and the control group rose 0.3 per cent, which supports the forecast for the quarter."
 ---
 

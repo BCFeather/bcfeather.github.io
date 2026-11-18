@@ -2,7 +2,7 @@
 slug: "nvidia-posts-a-quarter-of-22-billion-dollars-as-the-chip-demand-outruns-the-supply"
 title: "NVIDIA posts a quarter of 22 billion dollars as the chip demand outruns the supply"
 date: "2024-02-21T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Revenue rose by 265 per cent from a year earlier and the guidance for the current quarter was above the highest forecast on Wall Street."
 ---
 

@@ -2,7 +2,7 @@
 slug: "samsung-warns-that-its-operating-profit-fell-by-a-third-as-memory-prices-stay-low"
 title: "Samsung warns that its operating profit fell by a third as memory prices stay low"
 date: "2024-01-09T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The company's preliminary figures put the quarterly profit at 2.8 trillion won, and the recovery in the memory market that the analysts expected has not arrived."
 ---
 

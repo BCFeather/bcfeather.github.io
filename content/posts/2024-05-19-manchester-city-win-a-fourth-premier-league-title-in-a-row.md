@@ -2,7 +2,7 @@
 slug: "manchester-city-win-a-fourth-premier-league-title-in-a-row"
 title: "Manchester City win a fourth Premier League title in a row"
 date: "2024-05-19T09:20:00+08:00"
-categories: ["sport"]
+categories: [sport]
 description: "The club finished two points above Arsenal on the last day, the eighth league title of the Abu Dhabi era, and the first time any English side has won four in succession."
 ---
 

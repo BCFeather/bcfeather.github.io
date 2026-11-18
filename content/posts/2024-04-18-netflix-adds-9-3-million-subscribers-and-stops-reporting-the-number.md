@@ -2,7 +2,7 @@
 slug: "netflix-adds-9-3-million-subscribers-and-stops-reporting-the-number"
 title: "Netflix adds 9.3 million subscribers and stops reporting the number"
 date: "2024-04-18T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The company said it would stop publishing quarterly subscriber counts from next year, a change that arrives as its advertising tier starts to generate revenue."
 ---
 

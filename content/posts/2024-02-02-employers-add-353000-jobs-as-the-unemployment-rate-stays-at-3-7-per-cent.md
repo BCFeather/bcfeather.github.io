@@ -2,7 +2,7 @@
 slug: "employers-add-353000-jobs-as-the-unemployment-rate-stays-at-3-7-per-cent"
 title: "Employers add 353,000 jobs as the unemployment rate stays at 3.7 per cent"
 date: "2024-02-02T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Hiring in January nearly doubled the forecast and the previous two months were revised up, while wages rose faster than at any time since 2021."
 ---
 

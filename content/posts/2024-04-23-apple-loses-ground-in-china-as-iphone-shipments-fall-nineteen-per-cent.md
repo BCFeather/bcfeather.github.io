@@ -2,7 +2,7 @@
 slug: "apple-loses-ground-in-china-as-iphone-shipments-fall-nineteen-per-cent"
 title: "Apple loses ground in China as iPhone shipments fall nineteen per cent"
 date: "2024-04-23T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The decline in the first quarter was the steepest in several years, and the local brands that took the share sell phones with features the iPhone does not offer at that price."
 ---
 

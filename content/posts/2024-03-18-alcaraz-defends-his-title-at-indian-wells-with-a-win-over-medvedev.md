@@ -2,7 +2,7 @@
 slug: "alcaraz-defends-his-title-at-indian-wells-with-a-win-over-medvedev"
 title: "Alcaraz defends his title at Indian Wells with a win over Medvedev"
 date: "2024-03-18T09:20:00+08:00"
-categories: ["sport"]
+categories: [sport]
 description: "The Spaniard won 7-6, 6-1 in an hour and eleven minutes and became the first player to keep the title here since 2016."
 ---
 

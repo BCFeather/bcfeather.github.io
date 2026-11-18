@@ -8,7 +8,7 @@ description: "An array of DNA origami tiles whose gates are configured by input 
 
 A DNA computer uses strands as its wires and its gates, and the field's circuits have been small. An array that can be programmed to implement different functions is the step from a demonstration to an architecture. Built in *Nature* on 13 September 2023, the array is assembled from DNA origami tiles, configured by input strands, and run as circuits that implement logic and arithmetic.
 
-Programmability is the advance. A fixed circuit does one function, and an array whose gates are set by strands does many, so the configuration rather than the wiring carries the computation. The input's encoding is the program itself, because a set of strands stands for a value and the gates transform it according to their sequences.
+Programmability is the advance. A fixed circuit does one function, and an array whose gates are set by strands does many, so the configuration rather than the wiring carries the computation. The input's encoding is the programme itself, because a set of strands stands for a value and the gates transform it according to their sequences.
 
 Self-assembly supplies the fabrication. A tile carries a gate and a connector, and tiles assemble into a lattice whose connections the strands specify; connectors are the wiring, since a tile's edge binds one specific neighbour and the set of edges is the circuit's topology. Speed is the weakness, and the authors are candid about it. A DNA reaction takes minutes and a computation is a sequence of them, so the architecture is slow against silicon by orders of magnitude. That comparison is unfair and still useful, because it identifies a niche rather than a competitor.
 

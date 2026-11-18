@@ -2,7 +2,7 @@
 slug: "american-inflation-rises-to-3-2-per-cent-as-the-shelter-costs-hold"
 title: "American inflation rises to 3.2 per cent as the shelter costs hold"
 date: "2024-03-12T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The headline rate rose from 3.1 per cent and the core fell to 3.8, and the report was the third in a row in which the services set the pace."
 ---
 

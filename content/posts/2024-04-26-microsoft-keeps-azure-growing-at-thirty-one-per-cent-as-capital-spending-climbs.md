@@ -2,7 +2,7 @@
 slug: "microsoft-keeps-azure-growing-at-thirty-one-per-cent-as-capital-spending-climbs"
 title: "Microsoft keeps Azure growing at thirty-one per cent as capital spending climbs"
 date: "2024-04-26T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Revenue reached 61.9 billion dollars in the quarter to March, and the company said demand for its artificial intelligence services was still larger than the capacity it had built."
 ---
 

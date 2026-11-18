@@ -2,7 +2,7 @@
 slug: "american-consumer-confidence-holds-near-its-level-as-the-jobs-stay-plentiful"
 title: "American consumer confidence holds near its level as the jobs stay plentiful"
 date: "2024-03-26T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The index was 104.7 in March against 104.7 in February after a revision, and the measure of the expectations improved slightly."
 ---
 

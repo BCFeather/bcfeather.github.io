@@ -2,7 +2,7 @@
 slug: "bitcoin-passes-60000-dollars-for-the-first-time-since-2021"
 title: "Bitcoin passes 60,000 dollars for the first time since 2021"
 date: "2024-02-28T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The coin rose by about a fifth in a week as the new funds took in money, and the supply is set to grow more slowly in April."
 ---
 

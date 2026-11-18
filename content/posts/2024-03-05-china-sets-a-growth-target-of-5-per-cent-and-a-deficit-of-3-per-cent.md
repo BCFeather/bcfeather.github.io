@@ -2,7 +2,7 @@
 slug: "china-sets-a-growth-target-of-5-per-cent-and-a-deficit-of-3-per-cent"
 title: "China sets a growth target of 5 per cent and a deficit of 3 per cent"
 date: "2024-03-05T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The budget that the government presented on 5 March keeps the deficit ratio unchanged and adds a trillion yuan of special bonds for the local authorities."
 ---
 

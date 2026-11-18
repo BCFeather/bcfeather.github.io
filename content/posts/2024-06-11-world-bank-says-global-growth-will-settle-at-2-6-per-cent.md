@@ -2,7 +2,7 @@
 slug: "world-bank-says-global-growth-will-settle-at-2-6-per-cent"
 title: "World Bank says global growth will settle at 2.6 per cent this year"
 date: "2024-06-11T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The forecast is an upgrade from January and still the weakest pace outside the recessions of the last three decades, with the poorest countries growing slowest."
 ---
 

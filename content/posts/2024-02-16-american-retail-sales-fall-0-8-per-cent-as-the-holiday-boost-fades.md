@@ -2,7 +2,7 @@
 slug: "american-retail-sales-fall-0-8-per-cent-as-the-holiday-boost-fades"
 title: "American retail sales fall 0.8 per cent as the holiday boost fades"
 date: "2024-02-16T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The decline in January was the largest in a year and the control group fell 0.4 per cent, which is the measure that feeds the growth estimate."
 ---
 

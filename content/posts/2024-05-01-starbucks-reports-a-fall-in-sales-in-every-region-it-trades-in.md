@@ -2,7 +2,7 @@
 slug: "starbucks-reports-a-fall-in-sales-in-every-region-it-trades-in"
 title: "Starbucks reports a fall in sales in every region it trades in"
 date: "2024-05-01T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Comparable sales fell four per cent worldwide, three per cent in the United States and eleven per cent in China, and the company withdrew its forecast for the year."
 ---
 

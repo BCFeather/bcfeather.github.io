@@ -2,7 +2,7 @@
 slug: "fed-holds-rates-and-projects-one-cut-before-the-end-of-the-year"
 title: "Fed holds rates and projects one cut before the end of the year"
 date: "2024-06-13T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The median projection fell from two cuts to one, and the chair said the committee would need more evidence before it moved that the disinflation was durable."
 ---
 

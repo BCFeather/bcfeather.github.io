@@ -2,7 +2,7 @@
 slug: "eurozone-inflation-falls-to-2-6-per-cent-as-the-food-and-energy-ease"
 title: "Eurozone inflation falls to 2.6 per cent as the food and energy ease"
 date: "2024-03-01T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The flash estimate for February was the lowest since March 2021, and the core measure fell to 3.1 per cent, which the bank has said it wants to see continue."
 ---
 

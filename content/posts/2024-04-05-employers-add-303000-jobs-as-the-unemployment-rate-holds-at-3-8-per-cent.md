@@ -2,7 +2,7 @@
 slug: "employers-add-303000-jobs-as-the-unemployment-rate-holds-at-3-8-per-cent"
 title: "Employers add 303,000 jobs as the unemployment rate holds at 3.8 per cent"
 date: "2024-04-05T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Hiring ran far above the 200,000 that forecasters expected, and the participation rate rose, which is the detail that makes the report stronger than its headline."
 ---
 

@@ -2,7 +2,7 @@
 slug: "regulators-approve-the-first-spot-bitcoin-funds-in-america"
 title: "Regulators approve the first spot bitcoin funds in America"
 date: "2024-01-11T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Eleven applications were cleared in a single order after a decade of refusals, and trading began the next day with about 4.6 billion dollars changing hands."
 ---
 

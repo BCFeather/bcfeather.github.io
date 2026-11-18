@@ -2,7 +2,7 @@
 slug: "sinner-beats-medvedev-from-two-sets-down-to-win-the-australian-open"
 title: "Sinner beats Medvedev from two sets down to win the Australian Open"
 date: "2024-01-28T09:20:00+08:00"
-categories: ["sport"]
+categories: [sport]
 description: "The Italian won his first major after three hours and forty-four minutes, and he is the first man from his country to take a Grand Slam title since 1976."
 ---
 

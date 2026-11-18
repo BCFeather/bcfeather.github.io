@@ -3,7 +3,7 @@ slug: "hydrogen-firing-reaches-70-per-cent-in-a-12-megawatt-turbine"
 title: "Hydrogen firing reaches 70 per cent in a 12-megawatt turbine"
 date: "2025-10-18T09:35:00+08:00"
 categories: [technology]
-description: "A 12-megawatt turbine has been fired on a 70 per cent hydrogen blend, and the test program's data show that the limits are the combustor's acoustics and the supply chain's ability to deliver the fuel, not the machine's materials."
+description: "A 12-megawatt turbine has been fired on a 70 per cent hydrogen blend, and the test programme's data show that the limits are the combustor's acoustics and the supply chain's ability to deliver the fuel, not the machine's materials."
 ---
 
 Gas turbines burn a mixture and the mixture's composition determines almost everything about how they behave. A manufacturer has fired a 12-megawatt industrial turbine on a blend of 70 per cent hydrogen and 30 per cent natural gas, and the test report describes a machine that works and a supply chain that does not yet. The combustor is the changed component. Hydrogen's flame speed is six times methane's, which makes the flame sit closer to the injector and raises the risk of the combustor's acoustic resonance. The test used a modified injector with a smaller exit area and a liner with acoustic damping holes.

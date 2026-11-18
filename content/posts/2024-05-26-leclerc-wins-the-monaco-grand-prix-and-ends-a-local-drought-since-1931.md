@@ -2,7 +2,7 @@
 slug: "leclerc-wins-the-monaco-grand-prix-and-ends-a-local-drought-since-1931"
 title: "Leclerc wins the Monaco Grand Prix and ends a local drought since 1931"
 date: "2024-05-26T09:20:00+08:00"
-categories: ["sport"]
+categories: [sport]
 description: "The Monegasque driver started from pole and led every lap, and the race was decided at the first corner because the circuit offers almost no room to overtake."
 ---
 

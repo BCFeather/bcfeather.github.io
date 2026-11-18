@@ -2,7 +2,7 @@
 slug: "disney-reports-a-profit-in-its-streaming-business-for-the-first-time"
 title: "Disney reports a profit in its streaming business for the first time"
 date: "2024-05-07T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The streaming division earned forty-seven million dollars in the quarter to March after years of losses, and the company said it expected the parks to carry the group while the studios recover."
 ---
 

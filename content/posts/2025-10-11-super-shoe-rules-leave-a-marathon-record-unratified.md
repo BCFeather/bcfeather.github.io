@@ -12,7 +12,7 @@ Three numbers make up the regulation. The sole's stack height may not exceed 40 
 
 Athletes' interests cut both ways. A record that stands is a career's peak and a marketing asset for a sponsor; a record that is annulled after eleven months is a public humiliation. Four current record holders have written to the committee asking for a faster procedure. Swimming's rulebook offers the closest comparison. Swimming's governing body publishes an approved list of suits and tests samples at events, and a suit not on the list is disqualified on the day rather than a year later. That approach front-loads the decision and removes the retrospective risk.
 
-Cost is the reason athletics resists it. A testing program for shoes at every major marathon would cost 300,000 dollars a year, and the sport's governing body has a budget of 90 million for everything. A pre-approval list with spot checks is the cheaper model, and it is what the committee has proposed.
+Cost is the reason athletics resists it. A testing programme for shoes at every major marathon would cost 300,000 dollars a year, and the sport's governing body has a budget of 90 million for everything. A pre-approval list with spot checks is the cheaper model, and it is what the committee has proposed.
 
 Enforcement is retrospective because nobody inspects a shoe before a race. A record is submitted with the model, the batch code and the stack height, and a technical delegate compares the sample against the approved list. A shoe that was approved in one colourway and modified in another is the case that produced the dispute.
 

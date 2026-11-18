@@ -2,7 +2,7 @@
 slug: "berlinale-gives-its-top-prize-to-a-film-about-the-return-of-looted-art"
 title: "Berlinale gives its top prize to a film about the return of looted art"
 date: "2024-02-19T09:20:00+08:00"
-categories: ["culture"]
+categories: [culture]
 description: "Mati Diop took the Golden Bear for a documentary about the restitution of treasures from a Paris museum to the country they were taken from."
 ---
 

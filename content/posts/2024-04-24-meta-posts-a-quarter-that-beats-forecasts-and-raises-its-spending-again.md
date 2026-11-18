@@ -2,7 +2,7 @@
 slug: "meta-posts-a-quarter-that-beats-forecasts-and-raises-its-spending-again"
 title: "Meta posts a quarter that beats forecasts and raises its spending again"
 date: "2024-04-24T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "Revenue rose 27 per cent to 36.46 billion dollars and net income reached 12.37 billion, and the company told investors that capital spending would be higher than it said three months ago."
 ---
 

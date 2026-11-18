@@ -2,7 +2,7 @@
 slug: "employers-add-275000-jobs-and-the-unemployment-rate-rises-to-3-9-per-cent"
 title: "Employers add 275,000 jobs and the unemployment rate rises to 3.9 per cent"
 date: "2024-03-08T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Hiring beat the forecast for a third month and the rate rose because more people looked for work, while the wage growth slowed."
 ---
 

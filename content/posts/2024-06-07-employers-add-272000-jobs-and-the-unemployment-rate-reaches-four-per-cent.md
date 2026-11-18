@@ -2,7 +2,7 @@
 slug: "employers-add-272000-jobs-and-the-unemployment-rate-reaches-four-per-cent"
 title: "Employers add 272,000 jobs and the unemployment rate reaches four per cent"
 date: "2024-06-07T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "Hiring beat forecasts by a wide margin while the jobless rate rose for a second month, and wages grew faster than they had in the previous reading."
 ---
 

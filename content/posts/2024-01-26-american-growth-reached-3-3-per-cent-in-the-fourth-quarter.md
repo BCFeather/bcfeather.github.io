@@ -2,7 +2,7 @@
 slug: "american-growth-reached-3-3-per-cent-in-the-fourth-quarter"
 title: "American growth reached 3.3 per cent in the fourth quarter"
 date: "2024-01-26T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The advance estimate beat the forecast by half a point, and the consumer did most of the work while the inventories added a smaller amount than in the previous quarter."
 ---
 

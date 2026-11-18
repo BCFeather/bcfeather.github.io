@@ -2,7 +2,7 @@
 slug: "salesforce-says-its-customers-are-buying-artificial-intelligence-more-slowly"
 title: "Salesforce says its customers are buying artificial intelligence more slowly"
 date: "2024-05-29T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The company reported revenue of 9.13 billion dollars and cut its forecast for the year, and the shares fell by a fifth as the market revalued the software sector."
 ---
 

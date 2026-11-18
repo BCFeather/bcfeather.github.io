@@ -2,7 +2,7 @@
 slug: "ecb-cuts-rates-for-the-first-time-since-2019"
 title: "ECB cuts rates for the first time since 2019"
 date: "2024-06-06T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The deposit rate falls to 3.75 per cent, and the council said it would decide on the next step meeting by meeting rather than promising a path."
 ---
 

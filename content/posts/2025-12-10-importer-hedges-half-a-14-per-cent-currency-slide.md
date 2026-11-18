@@ -3,7 +3,7 @@ slug: "importer-hedges-half-a-14-per-cent-currency-slide"
 title: "Importer hedges half a 14 per cent currency slide"
 date: "2025-12-10T09:25:00+08:00"
 categories: [economy]
-description: "An importer's currency fell 14 per cent over a year, and its hedging program covered the loss on the first half of the move and not the second, because the forward market's premium made the hedge expensive exactly when it was needed."
+description: "An importer's currency fell 14 per cent over a year, and its hedging programme covered the loss on the first half of the move and not the second, because the forward market's premium made the hedge expensive exactly when it was needed."
 ---
 
 A currency's fall is a cost for an importer and an opportunity for an exporter, and the importer's hedge is supposed to convert a volatile cost into a fixed one. An importer's disclosure this month shows the hedge covering half the move, and the reason is the pricing of the forward market rather than a failure of nerve.
@@ -16,6 +16,6 @@ The alternative is a natural hedge. An importer with foreign revenue offsets its
 
 A hedge's cost is visible and an unhedged loss is not, which is why programs stop early. A treasurer who pays a 6 per cent premium records the cost this quarter, and a treasurer who declines records nothing until the currency moves. The asymmetry is behavioural and it is also how boards read the two.
 
-The coverage ratio is the policy variable. A program that hedges 50 to 80 per cent of a 12-month exposure reduces variance by more than half and never eliminates it, and a program that hedges 100 per cent has converted a hedging desk into a forecasting one. A hedge's accounting is a set of rules about documentation. A hedge that is designated at inception, documented and tested for effectiveness is deferred; one that is not is marked to market. A treasurer's first task is the paperwork rather than the trade.
+The coverage ratio is the policy variable. A programme that hedges 50 to 80 per cent of a 12-month exposure reduces variance by more than half and never eliminates it, and a programme that hedges 100 per cent has converted a hedging desk into a forecasting one. A hedge's accounting is a set of rules about documentation. A hedge that is designated at inception, documented and tested for effectiveness is deferred; one that is not is marked to market. A treasurer's first task is the paperwork rather than the trade.
 
 Protection has a price, and that price rises when the risk does. A forward market that charges a premium for the direction everyone expects is a market that makes protection expensive precisely when it is wanted.

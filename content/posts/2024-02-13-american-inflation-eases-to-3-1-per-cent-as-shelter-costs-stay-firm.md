@@ -2,7 +2,7 @@
 slug: "american-inflation-eases-to-3-1-per-cent-as-shelter-costs-stay-firm"
 title: "American inflation eases to 3.1 per cent as shelter costs stay firm"
 date: "2024-02-13T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The headline rate fell by two tenths and the core measure to 3.9 per cent, and the report was the last before the committee met in March."
 ---
 

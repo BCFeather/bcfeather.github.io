@@ -2,7 +2,7 @@
 slug: "american-inflation-holds-at-3-4-per-cent-as-the-shelter-costs-stay-high"
 title: "American inflation holds at 3.4 per cent as shelter costs stay high"
 date: "2024-01-12T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The December report came in above the forecast, and the core measure rose 3.9 per cent as the rents and the services kept the last mile slow."
 ---
 

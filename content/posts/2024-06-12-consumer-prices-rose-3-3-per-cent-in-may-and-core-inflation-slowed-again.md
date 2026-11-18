@@ -2,7 +2,7 @@
 slug: "consumer-prices-rose-3-3-per-cent-in-may-and-core-inflation-slowed-again"
 title: "Consumer prices rose 3.3 per cent in May and core inflation slowed again"
 date: "2024-06-12T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The headline rate eased by a tenth and the core measure by two tenths, and the report was the first in five months to come in below the forecast."
 ---
 

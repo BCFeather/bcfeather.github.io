@@ -2,7 +2,7 @@
 slug: "australias-central-bank-holds-rates-and-says-it-is-not-ruling-anything-out"
 title: "Australia's central bank holds rates and says it is not ruling anything out"
 date: "2024-03-19T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The board kept the cash rate at 4.35 per cent for a fourth meeting and said the path of the inflation will decide the next move."
 ---
 

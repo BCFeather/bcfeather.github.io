@@ -2,7 +2,7 @@
 slug: "apple-cuts-the-price-of-the-iphone-in-china-as-the-sales-slide"
 title: "Apple cuts the price of the iPhone in China as the sales slide"
 date: "2024-01-19T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The company authorized discounts of up to 500 yuan through its online retailers, the deepest reduction it has offered in the market in a year."
 ---
 

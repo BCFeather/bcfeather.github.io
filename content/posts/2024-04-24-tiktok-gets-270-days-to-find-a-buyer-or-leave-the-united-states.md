@@ -2,7 +2,7 @@
 slug: "tiktok-gets-270-days-to-find-a-buyer-or-leave-the-united-states"
 title: "TikTok gets 270 days to find a buyer or leave the United States"
 date: "2024-04-24T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The law signed on 24 April forces the Chinese owner to sell the application or see it banned, and the deadline can be extended by three months if a sale is under way."
 ---
 

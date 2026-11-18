@@ -2,7 +2,7 @@
 slug: "dechambeau-wins-the-us-open-as-mcilroy-misses-two-short-putts"
 title: "DeChambeau wins the US Open as McIlroy misses two short putts"
 date: "2024-06-16T09:20:00+08:00"
-categories: ["sport"]
+categories: [sport]
 description: "The American won by a stroke at Pinehurst after the Northern Irishman missed from inside four feet on two of the last three greens."
 ---
 

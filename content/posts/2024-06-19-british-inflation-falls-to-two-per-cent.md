@@ -2,7 +2,7 @@
 slug: "british-inflation-falls-to-two-per-cent"
 title: "British inflation falls to 2 per cent for the first time in three years"
 date: "2024-06-19T09:20:00+08:00"
-categories: ["economy"]
+categories: [economy]
 description: "The headline rate reached the target exactly, while services prices rose 5.7 per cent and the core measure held above three per cent."
 ---
 

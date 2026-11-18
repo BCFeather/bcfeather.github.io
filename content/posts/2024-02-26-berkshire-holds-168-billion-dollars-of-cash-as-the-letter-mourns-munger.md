@@ -2,7 +2,7 @@
 slug: "berkshire-holds-168-billion-dollars-of-cash-as-the-letter-mourns-munger"
 title: "Berkshire holds 168 billion dollars of cash as the letter mourns Munger"
 date: "2024-02-26T09:20:00+08:00"
-categories: ["business"]
+categories: [business]
 description: "The annual letter reported operating earnings of 37.4 billion dollars and a record cash pile, and it opened with a tribute to the vice-chairman who died in November."
 ---
 
