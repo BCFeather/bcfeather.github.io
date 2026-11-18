@@ -3,7 +3,7 @@ slug: "fructose-leaves-marks-in-the-liver-that-a-map-can-now-show"
 title: "Fructose leaves marks in the liver that a map can now show"
 date: "2025-12-12T09:25:00+08:00"
 categories: [science]
-description: "Spatial metabolic gradients across the mouse liver and small intestine show that fructose produces focal derangements rather than a uniform change, according to a study in *Nature*."
+description: "Spatial metabolic gradients across the mouse liver and small intestine show that fructose produces focal derangements rather than a uniform change, a study in *Nature* finds."
 ---
 
 Metabolism is usually measured in bulk. A liver is homogenized, its metabolites are extracted, and the result is an average over a tissue that is not uniform. The liver's lobule has a direction: blood enters at one edge and leaves at another, and the cells along that path do different jobs. An average blurs the difference. The study in *Nature*, 15 October 2025 maps the gradients instead. Laith Samarah, Clover Zheng, Joshua Rabinowitz and colleagues measure metabolites across the mouse liver and small intestine with spatial resolution, and the maps show that the tissue's chemistry varies along the same axes as its anatomy.

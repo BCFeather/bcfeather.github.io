@@ -3,7 +3,7 @@ slug: "the-first-clear-carbon-dioxide-in-an-exoplanet-sky"
 title: "The first clear carbon dioxide in an exoplanet sky"
 date: "2023-02-23T23:50:00+08:00"
 categories: [science]
-description: "James Webb Space Telescope observations of the hot Jupiter WASP-39b produce the first unambiguous detection of carbon dioxide in the atmosphere of a planet outside the solar system, reported in *Nature*."
+description: "James Webb Space Telescope observations of the hot Jupiter WASP-39b produce the first unambiguous detection of carbon dioxide in the atmosphere of a planet outside the solar system, according to the paper in *Nature*."
 ---
 
 WASP-39b is a gas giant about the size of Saturn and the mass of Jupiter, orbiting a star seven hundred light-years away once every four days. It is close enough to its star that its atmosphere is inflated and its temperature is high, and it passes in front of the star from the point of view of the Earth, which makes it a good target for transmission spectroscopy. When the planet transits, a thin slice of its atmosphere is backlit by the star, and the wavelengths that the atmosphere absorbs appear as dips in the starlight.

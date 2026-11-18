@@ -3,7 +3,7 @@ slug: "ligands-turn-an-insulating-nanocrystal-into-a-light-emitter"
 title: "Ligands turn an insulating nanocrystal into a light emitter"
 date: "2025-11-21T11:05:00+08:00"
 categories: [science]
-description: "Organic ligands anchored on 4 nm lanthanide-doped fluoride nanocrystals generate excitons externally and transfer them into the crystal, producing efficient, colour-tunable electroluminescence, the authors report in *Nature*."
+description: "Organic ligands anchored on 4 nm lanthanide-doped fluoride nanocrystals generate excitons externally and transfer them into the crystal, producing efficient, colour-tunable electroluminescence, as the authors report in *Nature*."
 ---
 
 Lanthanide-doped nanocrystals emit narrow, stable lines across the visible and near infrared, which is why they are attractive for displays and imaging. Their hosts are oxides and fluorides, and those materials are electrical insulators. Directly injecting carriers into a 4 nm crystal has therefore been unworkable, and the field's progress in electroluminescence has been limited by the charge-injection step and not by the emitters themselves.

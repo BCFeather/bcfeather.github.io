@@ -3,7 +3,7 @@ slug: "small-molecule-changes-which-g-protein-a-receptor-calls"
 title: "Small molecule changes which G protein a receptor calls"
 date: "2025-12-19T09:25:00+08:00"
 categories: [science]
-description: "The G protein selectivity of the receptor NTSR1 can be modified by small molecules, opening a route to drugs that switch a receptor's signalling subtype rather than turning it on or off, according to a study in *Nature*."
+description: "The G protein selectivity of the receptor NTSR1 can be modified by small molecules, opening a route to drugs that switch a receptor's signalling subtype rather than turning it on or off, the study in *Nature* reports."
 ---
 
 G-protein-coupled receptors are the largest family of drug targets, and their pharmacology has been organized around a simple idea: a ligand binds, the receptor changes shape, and a G protein is activated. What the idea hides is that a receptor can couple to several G protein subtypes, and the subtype determines what the cell does. The study in *Nature*, 22 October 2025 shows that the choice can be changed from outside. Madelyn Moore, Kelsey Person, Lauren Slosky and colleagues work with NTSR1, the receptor for neurotensin, and find that small molecules binding at an allosteric site shift its preference from one G protein subtype to another.

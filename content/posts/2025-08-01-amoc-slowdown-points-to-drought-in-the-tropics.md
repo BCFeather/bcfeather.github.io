@@ -3,7 +3,7 @@ slug: "amoc-slowdown-points-to-drought-in-the-tropics"
 title: "AMOC slowdown points to drought in the tropics"
 date: "2025-08-01T10:40:00+08:00"
 categories: [science]
-description: "Climate models and a Heinrich Stadial 1 proxy record indicate that a weaker Atlantic overturning circulation would shift rainfall away from Mesoamerica, the Amazon and West Africa, the authors report in *Nature*."
+description: "Climate models and a Heinrich Stadial 1 proxy record indicate that a weaker Atlantic overturning circulation would shift rainfall away from Mesoamerica, the Amazon and West Africa, as the authors write in *Nature*."
 ---
 
 Carrying heat northwards, the Atlantic meridional overturning circulation, or AMOC, has mostly been discussed as a system whose effects stay in the North Atlantic: cooler seas, altered European winters, a different hurricane season. Tropical rainfall is less obviously connected, which is why model projections of its future have stayed uncertain. A study in *Nature*, 30 July 2025, traces the route by which a slowdown in the high latitudes reaches the tropics, then checks that route against a past interval in which the circulation is known to have weakened.

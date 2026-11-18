@@ -74,6 +74,11 @@ Numbered scaffolding is a list in disguise: either number the items openly or dr
 
 **5.3 Habits on ration.** `rather than` appears about once in a post; it is a serviceable phrase that becomes a tic when every contrast reaches for it. `not ... but ...` is used only where the contrast is the point. Consecutive paragraphs do not open on the same grammatical subject, and a batch does not share a single sentence rhythm from first post to last.
 
+**5.5 Closings.** The last sentence of a paragraph and the last sentence of a post carry a tic of their own: the summary tag, the forward glance, the attribution of the source. Any one of them is legitimate; the fault is a batch in which the same closing recurs. Across a batch, attributions vary in shape and verb, and the journal named at the close of one description does not reappear in the same position at the close of the next. In a post, a paragraph that ends on a one-line summary is followed by one that ends on a fact.
+
+* *Attribution, varied*: `..., the group reports in *Nature*.` / `..., as a paper in *Nature* shows.` / `..., the paper in *Nature* argues.`
+* *Closing tic to avoid*: every paragraph ending `That is the open question.`
+
 **5.4 Rewriting.** A revised sentence is read against the one it replaces: the clause carrying the number, the caveat or the attribution must survive the revision. Bulk edits are verified by comparing word counts per changed line before anything is pushed.
 
 ## 6. Voice

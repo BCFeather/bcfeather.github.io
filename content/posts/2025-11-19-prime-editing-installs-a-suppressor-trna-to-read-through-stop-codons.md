@@ -3,7 +3,7 @@ slug: "prime-editing-installs-a-suppressor-trna-to-read-through-stop-codons"
 title: "Prime editing installs a suppressor tRNA to read through stop codons"
 date: "2025-11-19T09:55:00+08:00"
 categories: [science]
-description: "Prime editing converts an endogenous human tRNA into a suppressor tRNA, restoring full-length protein in cell models and in a mouse model of Hurler syndrome without detectable readthrough of normal stop codons, the group reports in *Nature*."
+description: "Prime editing converts an endogenous human tRNA into a suppressor tRNA, restoring full-length protein in cell models and in a mouse model of Hurler syndrome without detectable readthrough of normal stop codons, the authors write in *Nature*."
 ---
 
 About a tenth of human disease-causing variants are nonsense mutations: a single base change turns a coding codon into a stop, and the protein is cut short. Suppressor tRNAs offer a general answer, inserting an amino acid at that premature stop and letting translation finish. The difficulty has been delivery and dose. Supplying a suppressor from outside the genome requires repeated dosing, overexpression carries toxicity, and there is the risk that the same tRNA will also read through the stops that are supposed to be there.

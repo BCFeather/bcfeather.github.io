@@ -3,7 +3,7 @@ slug: "kctd10-clears-the-polymerase-when-two-machines-collide"
 title: "KCTD10 clears the polymerase when two machines collide"
 date: "2025-12-13T09:35:00+08:00"
 categories: [science]
-description: "KCTD10 is identified as the sensor for co-directional transcription-replication conflicts, marking the transcription machinery for ubiquitination and removal when the two machines run into each other, the group reports in *Nature*."
+description: "KCTD10 is identified as the sensor for co-directional transcription-replication conflicts, marking the transcription machinery for ubiquitination and removal when the two machines run into each other, the paper in *Nature* reports."
 ---
 
 DNA carries two processes at once. The replisome copies the double helix while RNA polymerase transcribes it, and the two machines travel along the same track. Head-on collisions are the well-studied case: the polymerase and the fork approach each other, and the fork stalls. Co-directional conflicts are the quieter version, where the polymerase moves ahead of the fork in the same direction and the fork catches up from behind. The study in *Nature*, 8 October 2025 identifies the sensor that handles the second case. Jake Kloeber, Bin Chen, Zhenkun Lou and colleagues find that KCTD10 binds both the replication machinery and the transcription complex, and that it marks the polymerase for ubiquitination and removal when the two are in conflict.

@@ -3,7 +3,7 @@ slug: "normal-bladder-carries-sex-and-smoking-signatures-in-its-clones"
 title: "Normal bladder carries sex and smoking signatures in its clones"
 date: "2025-11-24T09:20:00+08:00"
 categories: [science]
-description: "Sequencing of normal human bladder tissue maps driver mutations and clonal expansions and finds sex bias and a link to smoking history, which may explain the higher bladder cancer risk in men and in smokers, according to a study in *Nature*."
+description: "Sequencing of normal human bladder tissue maps driver mutations and clonal expansions and finds sex bias and a link to smoking history, which may explain the higher bladder cancer risk in men and in smokers, the study in *Nature* finds."
 ---
 
 Bladder cancer is three to four times more common in men than in women, and smokers carry several times the risk of non-smokers, and neither difference has been fully explained by exposure. The tissue that gives rise to the cancer is a transitional epithelium that turns over continuously, which means it accumulates clones, and reading those clones in people without cancer is the way to see the process before it becomes a disease. The study in *Nature*, 13 November 2025 sequences normal bladder tissue from a cohort and maps driver mutations and clonal expansions. The finding is that the normal organ is already a mosaic: patches of cells share mutations in the genes that are later found mutated in tumours, and some patches cover a substantial area of the epithelium.

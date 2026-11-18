@@ -3,7 +3,7 @@ slug: "one-dose-flu-drug-clears-virus-faster-than-placebo"
 title: "One dose of a new flu drug clears virus faster than placebo"
 date: "2025-01-07T09:20:00+08:00"
 categories: [science]
-description: "A single oral dose of suraxavir marboxil shortened the time to symptom relief and cut viral shedding in adults and adolescents with uncomplicated influenza, according to a phase 3 trial reported in *Nature Medicine*."
+description: "A single oral dose of suraxavir marboxil shortened the time to symptom relief and cut viral shedding in adults and adolescents with uncomplicated influenza, a phase 3 trial in *Nature Medicine* finds."
 ---
 
 Oseltamivir has been the standard antiviral for influenza for twenty years, and its limits are well documented. It has to be started within two days of illness, it is taken twice a day for five days, and resistance emerges readily in treated children, who shed virus for longer than adults do. Baloxavir marboxil, approved in 2018, showed that one dose of a polymerase inhibitor could do the same job, and the class has been the focus of antiviral development since then.

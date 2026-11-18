@@ -3,7 +3,7 @@ slug: "alignment-with-human-judgments-tightens-machine-vision"
 title: "Alignment with human judgments tightens machine vision"
 date: "2025-11-15T09:40:00+08:00"
 categories: [science]
-description: "Aligning vision foundation models with human similarity judgments across levels of visual abstraction improves predictions of human behaviour and uncertainty as well as out-of-distribution generalization, a team reports in *Nature*."
+description: "Aligning vision foundation models with human similarity judgments across levels of visual abstraction improves predictions of human behaviour and uncertainty as well as out-of-distribution generalization, according to the team's paper in *Nature*."
 ---
 
 Vision models are trained to name things, and people do far more than name things. A model that can label a photograph of a dog will still be puzzled by the question of which of two dogs looks more like a third, because that judgment depends on shape, texture, posture and context in proportions that no label captures. Lukas Muttenthaler, Klaus Greff, Andrew Lampinen and colleagues report in *Nature*, 13 November 2025 that a model can be taught those proportions directly, by aligning its internal representations with the similarity judgments people make. The experiments span abstraction levels. At the concrete end, observers compare photographs of specific objects; at the abstract end, they compare categories, shapes and textures that have no single instance. The group collected human similarity judgments across that range and then adjusted the model so that distances in its representation space matched the distances people reported, rather than the distances implied by category labels.

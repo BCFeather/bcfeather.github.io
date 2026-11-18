@@ -3,7 +3,7 @@ slug: "katrin-data-narrows-the-range-where-a-sterile-neutrino-could-hide"
 title: "KATRIN data narrows the range where a sterile neutrino could hide"
 date: "2025-12-04T09:45:00+08:00"
 categories: [science]
-description: "259 days of KATRIN data on the tritium beta-decay spectrum challenge the Neutrino-4 claim of a sterile neutrino and constrain the mass range in which such a particle could still exist, as reported in *Nature*."
+description: "259 days of KATRIN data on the tritium beta-decay spectrum challenge the Neutrino-4 claim of a sterile neutrino and constrain the mass range in which such a particle could still exist, the paper in *Nature* reports."
 ---
 
 Neutrinos have three known flavours, and a fourth that interacts only through gravity would be invisible to every detector built so far except through one signature: it would mix with the known states and shift their masses. Several anomalies in neutrino experiments have been read as evidence for such a sterile state, and the claims have been difficult to confirm or exclude. The KATRIN experiment attacks the question from the other end. It measures the energy spectrum of electrons emitted when tritium decays, and the shape of that spectrum near its endpoint encodes the mass of the lightest neutrino. A sterile neutrino with a mass of a few electronvolts would add a small distortion, a kink in the spectrum at a specific energy.

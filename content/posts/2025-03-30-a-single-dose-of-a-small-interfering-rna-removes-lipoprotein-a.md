@@ -3,7 +3,7 @@ slug: "a-single-dose-of-a-small-interfering-rna-removes-lipoprotein-a"
 title: "Single dose of a small interfering RNA removes lipoprotein(a)"
 date: "2025-03-30T20:40:00+08:00"
 categories: [science]
-description: "A single injection of lepodisiran lowered lipoprotein(a) by a time-averaged 93.9 percentage points over the following six months, according to a trial in *The New England Journal of Medicine*."
+description: "A single injection of lepodisiran lowered lipoprotein(a) by a time-averaged 93.9 percentage points over the following six months, a trial in *The New England Journal of Medicine* reports."
 ---
 
 Lipoprotein(a) is a particle that carries cholesterol and is built around apolipoprotein(a), a protein whose gene came from a duplication and whose concentration is set almost entirely by inheritance. Levels vary by a factor of a thousand between people, and the variation is not explained by diet. Epidemiologists have known for decades that a high level predicts heart attack and stroke independently of LDL, and the absence of a drug that lowers it has been a standing gap in prevention.

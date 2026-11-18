@@ -3,7 +3,7 @@ slug: "bend-in-the-pore-sets-an-nmda-receptors-conductance"
 title: "Bend in the pore sets an NMDA receptor's conductance"
 date: "2025-12-17T09:40:00+08:00"
 categories: [science]
-description: "Ion-channel conductance in the GluN1a-2B NMDA receptor is controlled by the bending patterns of the pore-forming transmembrane helices, and the sites where neurosteroids bind are mapped, as reported in *Nature*."
+description: "Ion-channel conductance in the GluN1a-2B NMDA receptor is controlled by the bending patterns of the pore-forming transmembrane helices, and the sites where neurosteroids bind are mapped, according to the paper in *Nature*."
 ---
 
 Ion channels are described by their conductance, the rate at which ions pass when the channel is open. For most channels that number is fixed; for NMDA receptors it is not. The same receptor can pass current in discrete steps, and the steps depend on which subunits are assembled and on what is bound to them. Explaining the steps has been a structural problem without a structure. The study in *Nature*, 29 October 2025 provides one. Hyunook Kang, Ruben Steigerwald, Hiro Furukawa and colleagues examine the GluN1a-2B heterotetramer and find that the conductance levels are set by the bending patterns of the transmembrane helices that line the pore.

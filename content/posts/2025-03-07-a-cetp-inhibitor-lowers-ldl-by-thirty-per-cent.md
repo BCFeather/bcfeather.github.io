@@ -3,7 +3,7 @@ slug: "a-cetp-inhibitor-lowers-ldl-by-thirty-per-cent"
 title: "CETP inhibitor lowers LDL by thirty per cent"
 date: "2025-03-07T14:05:00+08:00"
 categories: [science]
-description: "Obicetrapib cuts LDL cholesterol by 29.9 per cent at 84 days in patients already on maximal lipid-lowering therapy, reviving a drug class that had failed three times, the trial reports in *The New England Journal of Medicine*."
+description: "Obicetrapib cuts LDL cholesterol by 29.9 per cent at 84 days in patients already on maximal lipid-lowering therapy, reviving a drug class that had failed three times, according to the trial in *The New England Journal of Medicine*."
 ---
 
 Cholesteryl ester transfer protein moves cholesterol between lipoprotein particles, and blocking it raises HDL cholesterol and lowers LDL. The logic attracted three large programmes in the 2000s and 2010s, and all three ended badly: torcetrapib raised mortality and blood pressure, dalcetrapib showed no benefit on outcomes, and evacetrapib was stopped for futility.

@@ -3,7 +3,7 @@ slug: "a-letter-from-doctors-that-changed-what-patients-believed"
 title: "A letter from doctors that changed what patients believed"
 date: "2022-06-16T23:15:00+08:00"
 categories: [science]
-description: "Ninety per cent of Czech doctors trusted the COVID vaccines, yet most people guessed fifty. Correcting that guess raised uptake and kept it raised for months, according to a study in *Nature*."
+description: "Ninety per cent of Czech doctors trusted the COVID vaccines, yet most people guessed fifty. Correcting that guess raised uptake and kept it raised for months, the study in *Nature* finds."
 ---
 
 Nine thousand six hundred and fifty doctors in the Czech Republic were asked whether they trusted the COVID-19 vaccines, and ninety per cent said they did. A nationally representative sample of two thousand and one hundred adults was then asked to guess the same number, and ninety per cent of them underestimated it. The most common guess was fifty per cent, half the true figure, and that gap is the subject of a paper published in *Nature* on 16 June.

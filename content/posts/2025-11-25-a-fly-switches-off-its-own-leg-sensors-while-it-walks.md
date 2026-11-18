@@ -3,7 +3,7 @@ slug: "proprioceptors-go-quiet-while-the-fly-walks"
 title: "Proprioceptors go quiet while the fly walks"
 date: "2025-11-25T09:35:00+08:00"
 categories: [science]
-description: "A circuit in Drosophila suppresses movement-encoding proprioceptors during self-generated actions such as walking and grooming, so that the brain does not read its own motion as a signal from the world, the group reports in *Nature*."
+description: "A circuit in Drosophila suppresses movement-encoding proprioceptors during self-generated actions such as walking and grooming, so that the brain does not read its own motion as a signal from the world, a *Nature* paper reports."
 ---
 
 An animal that moves is an animal that disturbs its own senses. Every step a fly takes bends the joints that carry proprioceptors, and those receptors fire in response, sending the brain a signal that looks exactly like an external perturbation. If the brain treated that signal as information about the world, walking would be a continuous confusion. The study in *Nature*, 13 November 2025 finds the circuit that prevents it. Leg proprioceptors in *Drosophila* are silenced presynaptically while the fly walks or grooms, and the silencing is selective: the receptors that encode movement are suppressed, while others keep reporting. The effect is that self-generated motion is removed from the signal before it reaches the circuits that compute posture.

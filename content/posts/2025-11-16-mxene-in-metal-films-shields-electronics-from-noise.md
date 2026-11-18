@@ -3,7 +3,7 @@ slug: "mxene-in-metal-films-shields-electronics-from-noise"
 title: "MXene in metal films shields electronics from noise"
 date: "2025-11-16T09:35:00+08:00"
 categories: [science]
-description: "Non-porous MXene films embedded in metal thin films reach electromagnetic shielding performance that thick metal enclosures cannot match at comparable thickness, according to a study in *Nature*."
+description: "Non-porous MXene films embedded in metal thin films reach electromagnetic shielding performance that thick metal enclosures cannot match at comparable thickness, the study in *Nature* finds."
 ---
 
 Electromagnetic interference is the price of packing radios next to processors. A phone holds cellular, Wi-Fi, Bluetooth and near-field antennas within a few centimetres of high-speed digital lines, and each of them is a source for the others. The standard answer is a metal can: a grounded enclosure that reflects and absorbs the fields before they reach a sensitive circuit. Metal works, and metal is heavy, stiff and awkward to place around the parts that need it most. Hanwool Yeon and colleagues report a different laminate in *Nature*, 13 November 2025. Instead of a solid metal layer, they embed a non-porous film of MXene, a family of transition-metal carbides and nitrides with layered structures, inside a metal thin film. The result is a shield that is thin enough to sit in a package and performs better than the metals it replaces.

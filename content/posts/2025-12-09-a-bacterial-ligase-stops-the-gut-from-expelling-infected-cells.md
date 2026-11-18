@@ -3,7 +3,7 @@ slug: "bacterial-ligase-stops-the-gut-from-expelling-infected-cells"
 title: "Bacterial ligase stops the gut from expelling infected cells"
 date: "2025-12-09T09:45:00+08:00"
 categories: [science]
-description: "The bacterial ubiquitin ligase NleL blocks pyroptosis and prevents infected intestinal cells from being extruded into the lumen, so that the infection keeps its foothold in the epithelium, the group reports in *Nature*."
+description: "The bacterial ubiquitin ligase NleL blocks pyroptosis and prevents infected intestinal cells from being extruded into the lumen, so that the infection keeps its foothold in the epithelium, as the authors report in *Nature*."
 ---
 
 The intestinal epithelium has an eviction policy. A cell that detects an infection triggers pyroptosis, dies in a way that alerts the tissue, and is pushed out of the monolayer into the lumen, where it is carried away with the contents of the gut. It is an effective defence: the pathogen loses its host cell and its position. The study in *Nature*, 22 October 2025 describes how one pathogen defeats it. Giovanni Luchetti, Marin Miner, Vishva Dixit and colleagues work with enteropathogenic bacteria that inject a ubiquitin ligase, NleL, into the cells they colonise. The enzyme blocks pyroptosis, and it also prevents the extrusion that would otherwise remove the infected cell.

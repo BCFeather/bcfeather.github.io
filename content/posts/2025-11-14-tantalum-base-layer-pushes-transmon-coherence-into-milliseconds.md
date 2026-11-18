@@ -3,7 +3,7 @@ slug: "tantalum-base-layer-pushes-transmon-coherence-into-milliseconds"
 title: "Tantalum base layer pushes transmon coherence into milliseconds"
 date: "2025-11-14T09:20:00+08:00"
 categories: [science]
-description: "Two-dimensional transmon qubits built on a tantalum base layer reach millisecond lifetimes, millisecond coherence times and high time-averaged quality factors, the group reports in *Nature*."
+description: "Two-dimensional transmon qubits built on a tantalum base layer reach millisecond lifetimes, millisecond coherence times and high time-averaged quality factors, a paper in *Nature* reports."
 ---
 
 Superconducting qubits lose coherence to the surfaces around them. Every interface between a metal film and its substrate carries a population of two-level systems, and each of those defects can absorb a photon from the qubit and give the energy back at a slightly different phase. Niobium and titanium nitride have been the standard choices for the wiring, and both are limited by the oxides that form on top of them. Matthew Bland, Faranak Bahrami and Andrew Houck report a materials platform in *Nature*, 13 November 2025 that moves the whole stack onto tantalum. The change is a base layer. A thin film of tantalum is grown first, and the rest of the circuit is built above it on a silicon substrate; the tantalum sets the template for the layers that follow, so the later films inherit its grain structure and its surface chemistry. Tantalum oxide is a different chemical proposition from niobium oxide, and the group's argument is that this difference, rather than any single processing trick, is what removes a class of lossy defects from the stack.

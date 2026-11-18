@@ -3,7 +3,7 @@ slug: "microplastics-reach-the-deep-sea-vents-two-kilometres-down"
 title: "Microplastics reach the deep-sea vents two kilometres down"
 date: "2026-07-23T10:10:00+08:00"
 categories: [news]
-description: "A Korean team comparing animals from hydrothermal vents more than 2,000 metres down in the south-western Pacific and the Indian Ocean found microplastics in 92 per cent of the creatures they examined, with Indian Ocean specimens carrying up to 14.7 times the load of Pacific ones. The study was published in *Water Research*."
+description: "A Korean team comparing animals from hydrothermal vents more than 2,000 metres down in the south-western Pacific and the Indian Ocean found microplastics in 92 per cent of the creatures they examined, with Indian Ocean specimens carrying up to 14.7 times the load of Pacific ones, the study in *Water Research* reports."
 ---
 
 The deep-sea hydrothermal vent is one of the most remote environments on Earth. It sits two or more kilometres below the surface, in darkness, fed by chemical energy rather than sunlight, home to snails and mussels that live around plumes of superheated water. Until recently, it was assumed to be insulated from the plastic mess of the surface. A study published on 3 June in *Water Research*, and announced in detail on 15 July, removes that assumption. Animals collected from vents in the North Fiji Basin and the Central Indian Ridge contained microplastics in 92 per cent of individuals examined, at an average of 3.42 particles per animal.

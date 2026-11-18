@@ -3,7 +3,7 @@ slug: "earth-s-core-is-changing-the-length-of-a-day"
 title: "Earth's core is changing the length of a day"
 date: "2026-09-23T20:40:00+08:00"
 categories: [science]
-description: "A tug-of-war between gravitational and electromagnetic forces acting on the metallic core can explain the small wobbles in the planet's rotation rate, according to a modelling study in *Nature*."
+description: "A tug-of-war between gravitational and electromagnetic forces acting on the metallic core can explain the small wobbles in the planet's rotation rate, a modelling study in *Nature* argues."
 ---
 
 The length of a day is not constant, and the deviations are tiny: a millisecond here, a fraction of a millisecond there, measured by comparing the rotation of the solid Earth against the ticking of atomic clocks and against the positions of distant quasars. The variations have been attributed to tides, to the redistribution of mass as ice sheets melt, and to exchanges of angular momentum between the solid mantle and the fluid core. Explaining the residual signal has been a problem for decades.

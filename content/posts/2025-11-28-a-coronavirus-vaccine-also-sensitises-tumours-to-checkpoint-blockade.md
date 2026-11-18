@@ -3,7 +3,7 @@ slug: "coronavirus-vaccines-sensitise-tumours-to-checkpoint-blockade"
 title: "Coronavirus vaccines sensitize tumours to checkpoint blockade"
 date: "2025-11-28T09:50:00+08:00"
 categories: [science]
-description: "mRNA vaccines that target SARS-CoV-2 sensitize tumours to immune checkpoint inhibitors, an effect that runs through the innate immune response rather than through antibodies against the virus, according to a study in *Nature*."
+description: "mRNA vaccines that target SARS-CoV-2 sensitize tumours to immune checkpoint inhibitors, an effect that runs through the innate immune response rather than through antibodies against the virus, the study in *Nature* shows."
 ---
 
 Checkpoint inhibitors work by removing the brakes on T cells, and they fail when there are no T cells to release. A tumour with few mutations presents few antigens, and the immune system has nothing to recognize. The strategies that address this try to create a signal where none exists, and one of them has turned out to be a vaccine against a virus that has nothing to do with the tumour. The study in *Nature*, 13 November 2025 reports that mRNA vaccines targeting SARS-CoV-2 sensitize tumours to checkpoint blockade. The effect does not depend on immunity against the virus: it depends on the innate response that the vaccine's RNA and its delivery provoke, which changes the tumour's microenvironment enough for the checkpoint inhibitor to act.

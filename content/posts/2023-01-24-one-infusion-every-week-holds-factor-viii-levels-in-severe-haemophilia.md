@@ -3,7 +3,7 @@ slug: "one-infusion-every-week-holds-factor-viii-levels-in-severe-haemophilia"
 title: "One infusion every week holds factor VIII levels in severe haemophilia"
 date: "2023-01-24T09:35:00+08:00"
 categories: [science]
-description: "Efanesoctocog alfa given once weekly keeps factor VIII activity high enough to prevent bleeds in severe haemophilia A, with no bleeding into joints in most patients during prophylaxis, the authors report in *The New England Journal of Medicine*."
+description: "Efanesoctocog alfa given once weekly keeps factor VIII activity high enough to prevent bleeds in severe haemophilia A, with no bleeding into joints in most patients during prophylaxis, the authors write in *The New England Journal of Medicine*."
 ---
 
 Haemophilia A is managed by replacing the missing clotting factor, and the schedule has been the compromise. A standard factor VIII product has a half-life of about twelve hours, so prophylaxis means infusions two or three times a week, and adherence among teenagers is poor for reasons that are easy to understand. The product tested in *The New England Journal of Medicine*, 26 January 2023 is engineered to last longer. Efanesoctocog alfa is a fusion that binds factor VIII to von Willebrand factor and to a fragment that extends its circulation, and the result is a half-life measured in days rather than hours.

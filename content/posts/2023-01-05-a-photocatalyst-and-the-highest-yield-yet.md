@@ -3,7 +3,7 @@ slug: "a-photocatalyst-and-the-highest-yield-yet"
 title: "A photocatalyst and the highest yield yet"
 date: "2023-01-05T23:20:00+08:00"
 categories: [science]
-description: "A photocatalytic system splits water with sunlight at the highest solar-to-hydrogen efficiency recorded for the approach, the group reports in *Nature*."
+description: "A photocatalytic system splits water with sunlight at the highest solar-to-hydrogen efficiency recorded for the approach, a paper in *Nature* reports."
 ---
 
 A paper in *Nature* on 5 January reported a photocatalytic system that splits water into hydrogen and oxygen using sunlight, and reported an efficiency higher than any previously published for the approach. The work appears in the journal's first issue of the year, at page 66 of volume 613, and it belongs to a line of research that began in 1972. The efficiency figure is the claim that will be quoted, and the conditions of the measurement are set out in the supplementary material. The claim, in the language of the field, is a record rather than a discovery.

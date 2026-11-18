@@ -3,7 +3,7 @@ slug: "a-wooden-seed-that-drills-itself-into-the-ground"
 title: "A wooden seed that drills itself into the ground"
 date: "2023-02-16T23:30:00+08:00"
 categories: [science]
-description: "A carrier made of oak veneer coils and drills itself into the soil when it rains, a design meant to improve the survival of seeds dropped from aircraft or drones, described in *Nature*."
+description: "Writing in *Nature*, a team describes a carrier made of oak veneer that coils and drills itself into the soil when it rains, a design meant to improve the survival of seeds dropped from aircraft or drones."
 ---
 
 Aerial seeding is a cheap way to cover a hillside and a poor way to grow anything. Seeds dropped from a plane or a drone mostly land on the surface, where birds eat them and the sun dries them, and the germination rates that follow are low enough that the method is usually a first step rather than a fix. A paper published in *Nature* on 16 February described a carrier that imitates a seed which has solved the problem already, and reported that the imitation works up to eighty per cent of the time on ground where the natural version often fails entirely.

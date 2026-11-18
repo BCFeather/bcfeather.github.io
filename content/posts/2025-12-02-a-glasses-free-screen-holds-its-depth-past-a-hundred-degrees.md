@@ -3,7 +3,7 @@ slug: "glasses-free-screen-holds-its-depth-past-a-hundred-degrees"
 title: "Glasses-free screen holds its depth past a hundred degrees"
 date: "2025-12-02T09:30:00+08:00"
 categories: [science]
-description: "A desktop-sized glasses-free 3D display holds its depth past a viewing angle wider than 100 degrees, using a deep-learning algorithm that adapts the images sent to each eye in real time, the group reports in *Nature*."
+description: "A desktop-sized glasses-free 3D display holds its depth past a viewing angle wider than 100 degrees, using a deep-learning algorithm that adapts the images sent to each eye in real time, according to the group's paper in *Nature*."
 ---
 
 Glasses-free three-dimensional displays have been a laboratory demonstration for twenty years, and the reason they have not become products is a trade between two numbers. A screen that sends different images to many directions needs many pixels, and the light from each pixel spreads into a cone that is narrow. Widen the cone and the resolution drops; keep the resolution and the viewer has to sit in one place. The display reported in *Nature*, 26 November 2025 resolves the trade with computation. Weijie Ma, Zhangrui Zhao, Han-Sen Zhong and colleagues build a panel the size of a desktop monitor with a viewing angle wider than 100 degrees, and they drive it with an optimization algorithm that computes what each eye should see from wherever the viewer is, adjusting the virtual images in real time.

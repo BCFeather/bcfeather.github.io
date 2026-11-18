@@ -3,7 +3,7 @@ slug: "consent-built-image-set-gives-fairness-tests-something-to-stand-on"
 title: "Consent-built image set gives fairness tests something to stand on"
 date: "2025-12-03T09:40:00+08:00"
 categories: [science]
-description: "A human-centric image benchmark built with documented consent, privacy protection and compensation gives fairness evaluation a reference set, a team reports in *Nature*."
+description: "A human-centric image benchmark built with documented consent, privacy protection and compensation gives fairness evaluation a reference set, as the team reports in *Nature*."
 ---
 
 Fairness testing in computer vision has a data problem that no metric can fix. A model is audited on a dataset, and that dataset was usually scraped from the internet, which means the people in it never agreed to be there, are not paid, and are not described in terms they would recognize. An audit built on such a set measures a model's behaviour on a population that was collected without consent, and the result is neither ethical nor representative. The Fair Human-Centric Image Benchmark, released with a paper in *Nature*, 5 November 2025, is an attempt to build the reference set differently. Alice Xiang, Jerone Andrews, Michael Spranger and colleagues recruited participants, recorded their consent, protected their privacy and paid them, and then annotated the images in a way that supports fairness evaluation across attributes that matter.
