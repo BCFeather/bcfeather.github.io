@@ -8,7 +8,7 @@ description: "Images from the DART mission show nine boulder tracks on Didymos, 
 
 Soil mechanics has a vocabulary that planetary scientists have borrowed cautiously. Bearing capacity is the load a surface can support before it fails, and it has been estimated for the Moon from the tracks that rolling boulders leave behind, since a track records how far a boulder sank as it travelled. The method assumes that a rolling boulder leaves a record of the surface it crossed, which is true only where the regolith is loose.
 
-A paper in *Nature Communications* on 30 July 2024 applies the method to an asteroid for the first time. The images come from DRACO, the camera on the DART spacecraft, which photographed the surface of (65,803) Didymos before it struck the smaller moonlet Dimorphos. DART's camera was built to navigate to a target, and its images turned out to be good enough for geotechnics.
+A paper in *Nature Communications* on 30 July 2024 applies the method to an asteroid for the first time. The images come from DRACO, the camera on the DART spacecraft, which photographed the surface of (65803) Didymos before it struck the smaller moonlet Dimorphos. DART's camera was built to navigate to a target, and its images turned out to be good enough for geotechnics.
 
 Nine tracks were resolved well enough to measure. Their average width is 8.9 metres, with a spread of 1.5 metres, and their average length is 51.6 metres, with a spread of 13.3 metres. The dimensions are what a geotechnical calculation needs, since width records the boulder and length records the distance it rolled while sinking. Widths and lengths were measured from shadows as well as outlines, since the illumination was oblique and the relief shallow.
 
