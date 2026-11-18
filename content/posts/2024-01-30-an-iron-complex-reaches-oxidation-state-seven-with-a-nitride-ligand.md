@@ -1,5 +1,5 @@
 ---
-slug: "2024-01-30-an-iron-complex-reaches-oxidation-state-seven-with-a-nitride-ligand"
+slug: "an-iron-complex-reaches-oxidation-state-seven-with-a-nitride-ligand"
 title: "An iron complex reaches oxidation state seven with a nitride ligand"
 date: "2024-01-30T18:20:00+08:00"
 categories: [science]
