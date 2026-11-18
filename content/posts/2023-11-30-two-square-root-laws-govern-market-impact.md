@@ -8,7 +8,7 @@ description: "Separating traded volume from participation rate in a no-arbitrage
 
 Executing a large order moves the price against the buyer, and the size of that move is the central cost in institutional trading. Empirically the impact grows roughly as the square root of the order size, a regularity that has survived decades of market structure change. What the law does not say is which variable the square root applies to, since a large order can be executed slowly at a low participation rate or quickly at a high one.
 
-A no-arbitrage framework derived from order flow, previously applied to the same question, is extended in a preprint posted on 30 November 2023 to include a sophisticated participant. The trader is assumed to analyze the market better than the rest of the flow, which changes how the price responds to a sequence of transactions and gives the model an informed agent, not a mechanical schedule.
+A no-arbitrage framework derived from order flow, previously applied to the same question, is extended in a preprint posted on 30 November 2023 to include a sophisticated participant. The trader is assumed to analyse the market better than the rest of the flow, which changes how the price responds to a sequence of transactions and gives the model an informed agent, not a mechanical schedule.
 
 Two relations come out. For a given participation rate, the impact during execution grows as the square root of the cumulative traded volume. For a given executed volume, the impact is proportional to the square root of the participation rate, provided that rate is large enough, and the dependence becomes closer to linear as the rate falls.
 
