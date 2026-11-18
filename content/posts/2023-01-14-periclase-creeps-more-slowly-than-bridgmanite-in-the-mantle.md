@@ -14,7 +14,7 @@ That result matters because the mantle's viscosity is not uniform. If one minera
 
 For geophysics the consequence is a recalibration rather than a revolution. Mantle convection models use a viscosity that is fitted to observations such as post-glacial rebound, and the fit does not care which mineral provides it. What changes is the interpretation: a stiff lower mantle becomes consistent with a periclase that resists deformation, and the temperature dependence of viscosity shifts accordingly.
 
-Experimental difficulty explains why this took so long. Reaching 25 gigapascals and 2,000 kelvin while measuring deformation is at the edge of what diamond anvil cells can do, and the modelling fills the gap with theory that has to be anchored by the few experiments that exist.
+Experimental difficulty explains why this took so long. Reaching 25 gigapascals and 2,000 kelvins while measuring deformation is at the edge of what diamond anvil cells can do, and the modelling fills the gap with theory that has to be anchored by the few experiments that exist.
 
 What remains uncertain is the role of water and of grain size. A tiny amount of hydrogen weakens silicates dramatically, and the lower mantle's water content is unknown. The paper's results are for dry crystals, and a wet mantle would change the ranking. For the deeper question of how the Earth's interior evolves, the result is a reminder that mineral physics sets the boundary conditions for everything else. A convection model with the wrong weak phase will still fit the present, and it will mispredict the past.
 

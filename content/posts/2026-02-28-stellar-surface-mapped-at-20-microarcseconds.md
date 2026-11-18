@@ -10,7 +10,7 @@ A star other than the Sun is a point of light to almost every telescope, because
 
 The technique combines light rather than collecting it. Interferometry measures the phase difference between apertures separated by a baseline, and the resolution is set by the baseline, 200 metres here, rather than by the mirror. The array observes in the infrared, where the star is bright and the atmosphere is steadier. Reconstruction is the computational work. The array records visibilities and closure phases on 30 baselines, and an image is reconstructed by fitting a model to those measurements. The reconstruction used a maximum-entropy prior and produced a map with 12 resolution elements across the disc.
 
-The features are the result. The image shows 5 to 7 bright cells, each about 0.8 milliarcseconds across, which corresponds to a convective cell 30 times the size of a solar granule. A dark patch near the limb is a magnetic spot, cooler by 400 kelvin.
+The features are the result. The image shows 5 to 7 bright cells, each about 0.8 milliarcseconds across, which corresponds to a convective cell 30 times the size of a solar granule. A dark patch near the limb is a magnetic spot, cooler by 400 kelvins.
 
 Comparing with the Sun is the frame. Solar convection cells are 1,000 kilometres across and last 10 minutes; a red giant's cells are 100 times larger and last months, because the surface gravity is a hundredth and the density a millionth. The image is the first direct check of that scaling.
 

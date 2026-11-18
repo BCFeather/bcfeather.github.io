@@ -3,12 +3,12 @@ slug: "a-hydride-superconductor-wears-the-a-15-sublattice"
 title: "A hydride superconductor wears the A-15 sublattice"
 date: "2024-02-29T09:10:00+08:00"
 categories: [science]
-description: "Analysis of lanthanum hydride at 81 kelvin finds grains of 5 to 35 nanometres, a coupling constant between 1.5 and 2.55, and a place in the unconventional-superconductor band of the Uemura plot."
+description: "Analysis of lanthanum hydride at 81 kelvins finds grains of 5 to 35 nanometres, a coupling constant between 1.5 and 2.55, and a place in the unconventional-superconductor band of the Uemura plot."
 ---
 
-For seven decades the A-15 superconductors meant metallic alloys of the form \(\mathrm{A}_3\mathrm{B}\), with a transition metal on one sublattice and a group III or IV element on the other, and the family produced the record: niobium germanium reached 23 kelvin, and niobium tin became the workhorse of every superconducting magnet built since.
+For seven decades the A-15 superconductors meant metallic alloys of the form \(\mathrm{A}_3\mathrm{B}\), with a transition metal on one sublattice and a group III or IV element on the other, and the family produced the record: niobium germanium reached 23 kelvins, and niobium tin became the workhorse of every superconducting magnet built since.
 
-A new member arrived in 2023, when a lanthanum hydride phase, \(\mathrm{La}_4\mathrm{H}_{23}\), was reported to superconduct at 81 kelvin under 118 gigapascals, a transition temperature far below the 250 kelvin of \(\mathrm{LaH}_{10}\) at 200 gigapascals and yet the highest recorded inside the A-15 sublattice. The result was subsequently confirmed by an independent group, which matters because the phase is made at pressure and recovered from a handful of diffraction peaks.
+A new member arrived in 2023, when a lanthanum hydride phase, \(\mathrm{La}_4\mathrm{H}_{23}\), was reported to superconduct at 81 kelvins under 118 gigapascals, a transition temperature far below the 250 kelvins of \(\mathrm{LaH}_{10}\) at 200 gigapascals and yet the highest recorded inside the A-15 sublattice. The result was subsequently confirmed by an independent group, which matters because the phase is made at pressure and recovered from a handful of diffraction peaks.
 
 A preprint posted to arXiv on 29 February 2024 asks what kind of superconductor that is. The authors analyse the published experimental data rather than taking new measurements, and extract the quantities that a description of the pairing needs: grain size, crystalline strain, the electron-phonon coupling constant and the ratio of the Debye temperature to the Fermi temperature.
 

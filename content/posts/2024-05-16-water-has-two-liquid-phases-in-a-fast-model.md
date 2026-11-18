@@ -3,7 +3,7 @@ slug: "water-has-two-liquid-phases-in-a-fast-model"
 title: "A fast water model reproduces the two-liquid story"
 date: "2024-05-16T18:30:00+08:00"
 categories: [science]
-description: "A machine-learned coarse-grained water model shows a liquid-liquid transition ending at 170 megapascals and 181 kelvin, and it places the fastest ice crystallization exactly on that line."
+description: "A machine-learned coarse-grained water model shows a liquid-liquid transition ending at 170 megapascals and 181 kelvins, and it places the fastest ice crystallization exactly on that line."
 
 ---
 

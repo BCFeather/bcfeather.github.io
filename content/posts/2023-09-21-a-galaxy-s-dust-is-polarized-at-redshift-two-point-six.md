@@ -8,7 +8,7 @@ description: "Polarized far-infrared emission from dust in a galaxy a quarter of
 
 A galaxy's dust grains align with its magnetic field, and that alignment polarizes the dust's thermal emission, so the polarization becomes a probe of a field otherwise invisible. Measured in *Nature* on 21 September 2023 at redshift 2.6, when the universe was a quarter of its present age, the polarization of a galaxy's far-infrared emission is used to infer the field's geometry.
 
-Distance carries the achievement. A polarized signal from a nearby galaxy is faint, one from a distant galaxy is fainter, and detecting either needs a sensitive far-infrared polarimeter; the band is the window, because dust at tens of kelvin emits at hundreds of micrometres where the atmosphere is opaque. Geometry is the result. The polarization angle traces the field's direction on the sky, and the pattern is consistent with an ordered field on the galaxy's scale.
+Distance carries the achievement. A polarized signal from a nearby galaxy is faint, one from a distant galaxy is fainter, and detecting either needs a sensitive far-infrared polarimeter; the band is the window, because dust at tens of kelvins emits at hundreds of micrometres where the atmosphere is opaque. Geometry is the result. The polarization angle traces the field's direction on the sky, and the pattern is consistent with an ordered field on the galaxy's scale.
 
 Grain alignment supplies the mechanism. An elongated grain exposed to radiation aligns its axis with the field, and the emission is polarized perpendicular to the grain's long axis; radiative torques drive that alignment on a timescale set by the radiation field, and the efficiency is the unknown in any estimate of strength.
 

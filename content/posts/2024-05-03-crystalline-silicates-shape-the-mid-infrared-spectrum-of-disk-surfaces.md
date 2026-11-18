@@ -6,7 +6,7 @@ categories: [science]
 description: "A model that tracks where silicate grains crystallize, mix vertically and drift outward finds that the ten micrometre feature is dominated by crystalline dust unless the inner disk is depleted of small crystals."
 ---
 
-Silicate grains in a protoplanetary disk start out amorphous and become crystalline when they are heated above the annealing temperature, which happens in the hot inner region. The crystals then move, and mid-infrared spectra see whatever ends up on the disk surface, so the observed feature strengths depend on transport as much as on temperature. The annealing temperature is near 1,300 kelvin for the silicates of interest, so only the innermost astronomical units of a T Tauri disk qualify.
+Silicate grains in a protoplanetary disk start out amorphous and become crystalline when they are heated above the annealing temperature, which happens in the hot inner region. The crystals then move, and mid-infrared spectra see whatever ends up on the disk surface, so the observed feature strengths depend on transport as much as on temperature. The annealing temperature is near 1,300 kelvins for the silicates of interest, so only the innermost astronomical units of a T Tauri disk qualify.
 
 A preprint posted to arXiv on 1 May 2024 models that chain of events. The authors take a T Tauri disk, define the crystallization region from the crystallization and residence time scales, and compare radial mixing and radial drift to identify a region where vertical mixing keeps the surface coupled to the midplane. Residence time matters because a grain has to stay hot long enough to crystallize, which couples the crystallized region to the accretion rate.
 
