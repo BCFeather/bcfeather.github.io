@@ -1,5 +1,5 @@
 ---
-slug: "2024-04-23-a-catalogue-of-met-receptor-mutations-tells-clinicians-which-ones-to-treat"
+slug: "a-catalogue-of-met-receptor-mutations-tells-clinicians-which-ones-to-treat"
 title: "A catalogue of MET receptor mutations tells clinicians which ones to treat"
 date: "2024-04-23T18:20:00+08:00"
 categories: [science]

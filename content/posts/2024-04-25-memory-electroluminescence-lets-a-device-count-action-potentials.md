@@ -1,5 +1,5 @@
 ---
-slug: "2024-04-25-memory-electroluminescence-lets-a-device-count-action-potentials"
+slug: "memory-electroluminescence-lets-a-device-count-action-potentials"
 title: "Memory electroluminescence lets a device count action potentials"
 date: "2024-04-25T18:20:00+08:00"
 categories: [science]

@@ -1,5 +1,5 @@
 ---
-slug: "2024-04-02-a-physical-model-lets-a-metasurface-controller-adapt-without-retraining"
+slug: "a-physical-model-lets-a-metasurface-controller-adapt-without-retraining"
 title: "A physical model lets a metasurface controller adapt without retraining"
 date: "2024-04-02T18:20:00+08:00"
 categories: [science]

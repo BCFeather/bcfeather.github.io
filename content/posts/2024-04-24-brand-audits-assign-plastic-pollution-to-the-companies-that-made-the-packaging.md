@@ -1,5 +1,5 @@
 ---
-slug: "2024-04-24-brand-audits-assign-plastic-pollution-to-the-companies-that-made-the-packaging"
+slug: "brand-audits-assign-plastic-pollution-to-the-companies-that-made-the-packaging"
 title: "Brand audits assign plastic pollution to the companies that made the packaging"
 date: "2024-04-24T18:20:00+08:00"
 categories: [science]

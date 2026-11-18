@@ -1,5 +1,5 @@
 ---
-slug: "2024-04-01-anvil-clouds-shrink-less-than-models-assumed-as-the-climate-warms"
+slug: "anvil-clouds-shrink-less-than-models-assumed-as-the-climate-warms"
 title: "Anvil clouds shrink less than models assumed as the climate warms"
 date: "2024-04-01T18:20:00+08:00"
 categories: [science]

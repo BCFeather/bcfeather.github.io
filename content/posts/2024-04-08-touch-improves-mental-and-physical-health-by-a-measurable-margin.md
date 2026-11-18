@@ -1,5 +1,5 @@
 ---
-slug: "2024-04-08-touch-improves-mental-and-physical-health-by-a-measurable-margin"
+slug: "touch-improves-mental-and-physical-health-by-a-measurable-margin"
 title: "Touch improves mental and physical health by a measurable margin"
 date: "2024-04-08T18:20:00+08:00"
 categories: [science]
