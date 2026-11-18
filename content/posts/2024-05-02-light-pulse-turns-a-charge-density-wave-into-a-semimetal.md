@@ -7,7 +7,7 @@ description: "Time-resolved photoemission on 1T-TiSe2 shows that an intense opti
 
 ---
 
-Charge-density-wave materials sit on the edge of instability, and 1T-TiSe\(_{2}\) has been the standard example since the 1970s. Below about 200 kelvin its electrons lock into a periodic modulation, a gap opens at the Fermi level, and the crystal stops behaving like a metal. Doping and gating have long been the ways to push such a crystal across the boundary. A paper in *Science Advances* on 2 May 2024 argues that light can do the same work on a femtosecond clock, and that the mechanism is screening.
+Charge-density-wave materials sit on the edge of instability, and 1T-\(\mathrm{TiSe_2}\) has been the standard example since the 1970s. Below about 200 kelvin its electrons lock into a periodic modulation, a gap opens at the Fermi level, and the crystal stops behaving like a metal. Doping and gating have long been the ways to push such a crystal across the boundary. A paper in *Science Advances* on 2 May 2024 argues that light can do the same work on a femtosecond clock, and that the mechanism is screening.
 
 The experiment is time- and angle-resolved photoemission spectroscopy, which maps the occupied band structure while a pump pulse drives the sample. With sufficient excitation, the gapped spectrum converts almost instantly into one with small electron and hole pockets, the signature of a semimetal. The conversion does not wait for the lattice to heat, which is what a thermal model would predict.
 
