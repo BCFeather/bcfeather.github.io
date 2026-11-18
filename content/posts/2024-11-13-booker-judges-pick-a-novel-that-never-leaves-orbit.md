@@ -3,7 +3,7 @@ slug: "booker-judges-pick-a-novel-that-never-leaves-orbit"
 title: "Booker judges pick a novel that never leaves orbit"
 date: "2024-11-13T09:20:00+08:00"
 categories: [culture]
-description: "Samantha Harvey's Orbital, a short book set during a single day aboard the space station, took the prize and gave the award a rare public argument about length."
+description: "Samantha Harvey's *Orbital*, a short book set during a single day aboard the space station, took the prize and gave the award a rare public argument about length."
 ---
 
 Judges gave the Booker Prize to a novel of a little over a hundred pages that takes place in low orbit, follows six astronauts through sixteen sunrises, and has almost no plot in the sense that a reader expects. The judges described it as a book about the planet seen from outside, and the award did what awards occasionally do: it made a quiet book the subject of a loud argument. A hundred pages is a length that a judge can read twice, and the second reading is where the craft shows.
