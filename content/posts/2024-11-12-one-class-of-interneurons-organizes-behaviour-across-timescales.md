@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-12-one-class-of-interneurons-organizes-behaviour-across-timescales"
+slug: "one-class-of-interneurons-organizes-behaviour-across-timescales"
 title: "One class of interneurons organizes behaviour across timescales"
 date: "2024-11-12T18:20:00+08:00"
 categories: [science]

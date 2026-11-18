@@ -1,5 +1,5 @@
 ---
-slug: "2024-12-09-a-shard-test-overturns-how-cement-particles-fill-space"
+slug: "a-shard-test-overturns-how-cement-particles-fill-space"
 title: "A shard test overturns how cement particles fill space"
 date: "2024-12-09T18:20:00+08:00"
 categories: [science]

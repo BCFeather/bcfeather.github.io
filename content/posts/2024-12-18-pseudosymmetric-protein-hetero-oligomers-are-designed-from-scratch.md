@@ -1,5 +1,5 @@
 ---
-slug: "2024-12-18-pseudosymmetric-protein-hetero-oligomers-are-designed-from-scratch"
+slug: "pseudosymmetric-protein-hetero-oligomers-are-designed-from-scratch"
 title: "Pseudosymmetric protein hetero-oligomers are designed from scratch"
 date: "2024-12-18T18:20:00+08:00"
 categories: [science]

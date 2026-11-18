@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-19-striatal-astrocytes-excite-cholinergic-interneurons-and-tune-dopamine-release"
+slug: "striatal-astrocytes-excite-cholinergic-interneurons-and-tune-dopamine-release"
 title: "Striatal astrocytes excite cholinergic interneurons and tune dopamine release"
 date: "2024-11-19T18:20:00+08:00"
 categories: [science]

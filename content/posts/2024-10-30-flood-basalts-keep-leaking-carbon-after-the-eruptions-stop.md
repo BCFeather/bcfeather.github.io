@@ -1,5 +1,5 @@
 ---
-slug: "2024-10-30-flood-basalts-keep-leaking-carbon-after-the-eruptions-stop"
+slug: "flood-basalts-keep-leaking-carbon-after-the-eruptions-stop"
 title: "Flood basalts keep leaking carbon after the eruptions stop"
 date: "2024-10-30T18:20:00+08:00"
 categories: [science]

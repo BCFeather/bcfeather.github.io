@@ -1,5 +1,5 @@
 ---
-slug: "2024-12-16-an-early-subset-of-cerebellar-nuclei-neurons-is-specified-before-the-rest"
+slug: "an-early-subset-of-cerebellar-nuclei-neurons-is-specified-before-the-rest"
 title: "An early subset of cerebellar nuclei neurons is specified before the rest"
 date: "2024-12-16T18:20:00+08:00"
 categories: [science]

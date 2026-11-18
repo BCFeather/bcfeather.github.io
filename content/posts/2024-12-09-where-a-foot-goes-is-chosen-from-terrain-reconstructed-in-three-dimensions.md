@@ -1,5 +1,5 @@
 ---
-slug: "2024-12-09-where-a-foot-goes-is-chosen-from-terrain-reconstructed-in-three-dimensions"
+slug: "where-a-foot-goes-is-chosen-from-terrain-reconstructed-in-three-dimensions"
 title: "Where a foot goes is chosen from terrain reconstructed in three dimensions"
 date: "2024-12-09T18:20:00+08:00"
 categories: [science]

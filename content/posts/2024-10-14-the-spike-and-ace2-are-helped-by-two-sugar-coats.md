@@ -1,5 +1,5 @@
 ---
-slug: "2024-10-14-the-spike-and-ace2-are-helped-by-two-sugar-coats"
+slug: "the-spike-and-ace2-are-helped-by-two-sugar-coats"
 title: "The spike and ACE2 are helped by two sugar coats"
 date: "2024-10-14T18:20:00+08:00"
 categories: [science]

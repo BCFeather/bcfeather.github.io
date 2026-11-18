@@ -1,5 +1,5 @@
 ---
-slug: "2024-12-09-dark-comets-split-into-two-populations-when-orbits-and-sizes-are-compared"
+slug: "dark-comets-split-into-two-populations-when-orbits-and-sizes-are-compared"
 title: "Dark comets split into two populations when orbits and sizes are compared"
 date: "2024-12-09T18:20:00+08:00"
 categories: [science]

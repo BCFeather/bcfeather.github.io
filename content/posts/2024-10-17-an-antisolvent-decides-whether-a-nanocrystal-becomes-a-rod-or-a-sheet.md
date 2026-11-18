@@ -1,5 +1,5 @@
 ---
-slug: "2024-10-17-an-antisolvent-decides-whether-a-nanocrystal-becomes-a-rod-or-a-sheet"
+slug: "an-antisolvent-decides-whether-a-nanocrystal-becomes-a-rod-or-a-sheet"
 title: "An antisolvent decides whether a nanocrystal becomes a rod or a sheet"
 date: "2024-10-17T18:20:00+08:00"
 categories: [science]

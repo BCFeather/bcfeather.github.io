@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-01-a-large-colony-shows-which-animals-slide-into-cocaine-addiction"
+slug: "a-large-colony-shows-which-animals-slide-into-cocaine-addiction"
 title: "A large colony shows which animals slide into cocaine addiction"
 date: "2024-11-01T18:20:00+08:00"
 categories: [science]

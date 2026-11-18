@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-21-design-rules-for-folding-three-dimensional-dna-origami"
+slug: "design-rules-for-folding-three-dimensional-dna-origami"
 title: "Design rules for folding three-dimensional DNA origami"
 date: "2024-11-21T18:20:00+08:00"
 categories: [science]

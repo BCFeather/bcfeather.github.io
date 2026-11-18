@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-05-a-stimulus-that-cancels-adaptation-lets-a-photoreceptor-be-tested-alone"
+slug: "a-stimulus-that-cancels-adaptation-lets-a-photoreceptor-be-tested-alone"
 title: "A stimulus that cancels adaptation lets a photoreceptor be tested alone"
 date: "2024-11-05T18:20:00+08:00"
 categories: [science]

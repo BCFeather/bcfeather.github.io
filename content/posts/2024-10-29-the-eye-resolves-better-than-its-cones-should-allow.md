@@ -1,5 +1,5 @@
 ---
-slug: "2024-10-29-the-eye-resolves-better-than-its-cones-should-allow"
+slug: "the-eye-resolves-better-than-its-cones-should-allow"
 title: "The eye resolves better than its cones should allow"
 date: "2024-10-29T18:20:00+08:00"
 categories: [science]

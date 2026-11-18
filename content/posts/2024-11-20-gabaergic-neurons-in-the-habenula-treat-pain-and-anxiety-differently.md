@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-20-gabaergic-neurons-in-the-habenula-treat-pain-and-anxiety-differently"
+slug: "gabaergic-neurons-in-the-habenula-treat-pain-and-anxiety-differently"
 title: "GABAergic neurons in the habenula treat pain and anxiety differently"
 date: "2024-11-20T18:20:00+08:00"
 categories: [science]

@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-18-a-cave-fish-keeps-a-giant-sensory-neuron-that-cave-life-should-have-removed"
+slug: "a-cave-fish-keeps-a-giant-sensory-neuron-that-cave-life-should-have-removed"
 title: "A cave fish keeps a giant sensory neuron that cave life should have removed"
 date: "2024-11-18T18:20:00+08:00"
 categories: [science]

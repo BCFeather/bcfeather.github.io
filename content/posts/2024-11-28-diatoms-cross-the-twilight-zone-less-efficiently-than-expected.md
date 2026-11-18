@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-28-diatoms-cross-the-twilight-zone-less-efficiently-than-expected"
+slug: "diatoms-cross-the-twilight-zone-less-efficiently-than-expected"
 title: "Diatoms cross the twilight zone less efficiently than expected"
 date: "2024-11-28T18:20:00+08:00"
 categories: [science]

@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-08-rain-over-the-amazon-starts-new-particles-in-the-canopy"
+slug: "rain-over-the-amazon-starts-new-particles-in-the-canopy"
 title: "Rain over the Amazon starts new particles in the canopy"
 date: "2024-11-08T18:20:00+08:00"
 categories: [science]

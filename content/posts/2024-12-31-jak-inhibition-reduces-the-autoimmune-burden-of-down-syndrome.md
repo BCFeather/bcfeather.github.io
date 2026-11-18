@@ -1,5 +1,5 @@
 ---
-slug: "2024-12-31-jak-inhibition-reduces-the-autoimmune-burden-of-down-syndrome"
+slug: "jak-inhibition-reduces-the-autoimmune-burden-of-down-syndrome"
 title: "JAK inhibition reduces the autoimmune burden of Down syndrome"
 date: "2024-12-31T18:20:00+08:00"
 categories: [science]

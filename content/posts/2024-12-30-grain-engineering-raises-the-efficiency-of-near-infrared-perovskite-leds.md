@@ -1,5 +1,5 @@
 ---
-slug: "2024-12-30-grain-engineering-raises-the-efficiency-of-near-infrared-perovskite-leds"
+slug: "grain-engineering-raises-the-efficiency-of-near-infrared-perovskite-leds"
 title: "Grain engineering raises the efficiency of near-infrared perovskite LEDs"
 date: "2024-12-30T18:20:00+08:00"
 categories: [science]

@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-11-a-linear-carbon-temperature-relation-pins-2023-at-1.49-degrees"
+slug: "a-linear-carbon-temperature-relation-pins-2023-at-1.49-degrees"
 title: "A linear carbon-temperature relation pins 2023 at 1.49 degrees"
 date: "2024-11-11T18:20:00+08:00"
 categories: [science]

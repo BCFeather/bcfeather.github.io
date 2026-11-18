@@ -1,5 +1,5 @@
 ---
-slug: "2024-12-13-caspar-sets-the-number-and-the-identity-of-primordial-germ-cells"
+slug: "caspar-sets-the-number-and-the-identity-of-primordial-germ-cells"
 title: "Caspar sets the number and the identity of primordial germ cells"
 date: "2024-12-13T18:20:00+08:00"
 categories: [science]

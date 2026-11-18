@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-15-mammary-luminal-cells-turn-variable-ageing-into-a-stereotyped-outcome"
+slug: "mammary-luminal-cells-turn-variable-ageing-into-a-stereotyped-outcome"
 title: "Mammary luminal cells turn variable ageing into a stereotyped outcome"
 date: "2024-11-15T18:20:00+08:00"
 categories: [science]

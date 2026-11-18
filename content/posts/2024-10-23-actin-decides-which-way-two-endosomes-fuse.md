@@ -1,5 +1,5 @@
 ---
-slug: "2024-10-23-actin-decides-which-way-two-endosomes-fuse"
+slug: "actin-decides-which-way-two-endosomes-fuse"
 title: "Actin decides which way two endosomes fuse"
 date: "2024-10-23T18:20:00+08:00"
 categories: [science]

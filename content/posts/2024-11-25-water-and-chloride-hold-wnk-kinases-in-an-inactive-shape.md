@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-25-water-and-chloride-hold-wnk-kinases-in-an-inactive-shape"
+slug: "water-and-chloride-hold-wnk-kinases-in-an-inactive-shape"
 title: "Water and chloride hold WNK kinases in an inactive shape"
 date: "2024-11-25T18:20:00+08:00"
 categories: [science]

@@ -1,5 +1,5 @@
 ---
-slug: "2024-12-12-crispr-deletions-in-the-wfdc-cluster-test-eleven-reproductive-genes-at-once"
+slug: "crispr-deletions-in-the-wfdc-cluster-test-eleven-reproductive-genes-at-once"
 title: "CRISPR deletions in the WFDC cluster test eleven reproductive genes at once"
 date: "2024-12-12T18:20:00+08:00"
 categories: [science]

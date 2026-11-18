@@ -1,5 +1,5 @@
 ---
-slug: "2024-12-12-the-weevil-family-belidae-tracks-both-flowering-plants-and-a-breaking-continent"
+slug: "the-weevil-family-belidae-tracks-both-flowering-plants-and-a-breaking-continent"
 title: "The weevil family Belidae tracks both flowering plants and a breaking continent"
 date: "2024-12-12T18:20:00+08:00"
 categories: [science]

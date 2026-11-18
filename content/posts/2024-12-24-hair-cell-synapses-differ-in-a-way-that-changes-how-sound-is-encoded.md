@@ -1,5 +1,5 @@
 ---
-slug: "2024-12-24-hair-cell-synapses-differ-in-a-way-that-changes-how-sound-is-encoded"
+slug: "hair-cell-synapses-differ-in-a-way-that-changes-how-sound-is-encoded"
 title: "Hair cell synapses differ in a way that changes how sound is encoded"
 date: "2024-12-24T18:20:00+08:00"
 categories: [science]

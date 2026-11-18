@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-11-a-million-melting-points-describe-what-a-drug-does"
+slug: "a-million-melting-points-describe-what-a-drug-does"
 title: "A million melting points describe what a drug does"
 date: "2024-11-11T18:20:00+08:00"
 categories: [science]

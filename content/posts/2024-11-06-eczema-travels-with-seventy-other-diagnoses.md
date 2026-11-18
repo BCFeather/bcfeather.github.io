@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-06-eczema-travels-with-seventy-other-diagnoses"
+slug: "eczema-travels-with-seventy-other-diagnoses"
 title: "Eczema travels with seventy other diagnoses"
 date: "2024-11-06T18:20:00+08:00"
 categories: [science]

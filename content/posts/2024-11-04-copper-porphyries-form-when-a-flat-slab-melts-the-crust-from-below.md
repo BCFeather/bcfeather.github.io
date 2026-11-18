@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-04-copper-porphyries-form-when-a-flat-slab-melts-the-crust-from-below"
+slug: "copper-porphyries-form-when-a-flat-slab-melts-the-crust-from-below"
 title: "Copper porphyries form when a flat slab melts the crust from below"
 date: "2024-11-04T18:20:00+08:00"
 categories: [science]

@@ -1,5 +1,5 @@
 ---
-slug: "2024-11-07-a-rigid-flat-molecule-keeps-charge-transfer-alive-long-enough-to-emit"
+slug: "a-rigid-flat-molecule-keeps-charge-transfer-alive-long-enough-to-emit"
 title: "A rigid flat molecule keeps charge transfer alive long enough to emit"
 date: "2024-11-07T18:20:00+08:00"
 categories: [science]

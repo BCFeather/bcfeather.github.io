@@ -1,5 +1,5 @@
 ---
-slug: "2024-12-30-the-1831-mystery-eruption-was-the-zavaritskii-caldera-in-the-kurils"
+slug: "the-1831-mystery-eruption-was-the-zavaritskii-caldera-in-the-kurils"
 title: "The 1831 mystery eruption was the Zavaritskii caldera in the Kurils"
 date: "2024-12-30T18:20:00+08:00"
 categories: [science]
