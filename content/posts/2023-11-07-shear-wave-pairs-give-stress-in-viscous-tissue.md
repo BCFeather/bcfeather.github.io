@@ -10,7 +10,7 @@ Stress inside soft tissue is invisible to every imaging modality in routine use,
 
 The angled shear wave identity is such a method. Two small-amplitude shear waves, launched at an angle to each other, travel at speeds whose difference is proportional to the component of stress along their bisector, and the relation holds whatever the material law happens to be. A preprint posted on 1 November 2023 extends the identity to solids that dissipate energy.
 
-Viscosity alters the measurement, not the principle. Taking a generalised Newtonian viscous stress and allowing transverse isotropy, the authors derive the dispersion relation for small shear waves superimposed on a large static deformation. The identity survives in the same form when the stress is coaxial with the axis of anisotropy, and the speed difference then reports the stress as it did in the elastic case.
+Viscosity alters the measurement, not the principle. Taking a generalized Newtonian viscous stress and allowing transverse isotropy, the authors derive the dispersion relation for small shear waves superimposed on a large static deformation. The identity survives in the same form when the stress is coaxial with the axis of anisotropy, and the speed difference then reports the stress as it did in the elastic case.
 
 Attenuation is the price. In a viscous material the two waves are damped at different rates, and the stress can be recovered only if the attenuation is measured alongside the speed. That is a real experimental obstacle, since attenuation is harder to estimate than a time of flight and is contaminated by diffraction and by the coupling of the waves to the boundary of the sample.
 
