@@ -6,7 +6,7 @@ categories: [business]
 description: "The parent of Google will shed about 6 per cent of its workforce, joining Microsoft and Amazon in a January in which technology firms announced more than 50,000 cuts."
 ---
 
-Alphabet said on 20 January that it would cut about 12,000 jobs, roughly 6 per cent of its workforce and the largest reduction in the company's history. The chief executive, Sundar Pichai, told staff in a memo that the firm had expanded faster than its revenue growth during the pandemic and that the reductions would touch every product area and region. The memo went out at 6.30 in the morning California time, and the shares rose 3 per cent when the market opened.
+Alphabet said on 20 January that it would cut about 12,000 jobs, roughly 6 per cent of its workforce and the largest reduction in the company's history. The chief executive, Sundar Pichai, told staff in a memo that the firm had expanded faster than its revenue growth during the pandemic and that the reductions would touch every product area and region. The memo went out at 6:30 in the morning California time, and the shares rose 3 per cent when the market opened.
 
 Announcements like this one closed a month of retrenchment across the industry. Microsoft had said on 18 January that it would remove 10,000 roles, Amazon had begun a round of 18,000 that it disclosed earlier in the month, and Meta had added 11,000 in November. Trackers that count public announcements put technology layoffs above 50,000 for January alone. Four large technology firms together announced more than 50,000 cuts in the quarter, and none of them had done so in the previous decade.
 

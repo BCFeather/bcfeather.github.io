@@ -3,10 +3,10 @@ slug: "an-earthquake-off-fukushima-shakes-the-shinkansen-off-its-tracks"
 title: "An earthquake off Fukushima shakes the shinkansen off its tracks"
 date: "2022-03-16T23:40:00+08:00"
 categories: [news]
-description: "A minute of shaking at 11.36 at night, a train that came off the rails without killing anyone aboard, and a warning about a wave that arrived smaller than feared."
+description: "A minute of shaking at 11:36 at night, a train that came off the rails without killing anyone aboard, and a warning about a wave that arrived smaller than feared."
 ---
 
-At 11.36 on the night of 16 March an earthquake of magnitude 7.4 struck about 60 kilometres off the coast of Fukushima, at a depth of 57 kilometres, and the shaking reached the upper level of the Japanese scale in parts of Miyagi, Fukushima and Iwate. The Japan Meteorological Agency had first published the magnitude as 7.3 and raised it after reviewing the records, and it described the event as an aftershock of the earthquake of 2011. More than 3,000 people in the region felt the strongest shaking, according to the intensity maps that the agency published.
+At 11:36 on the night of 16 March an earthquake of magnitude 7.4 struck about 60 kilometres off the coast of Fukushima, at a depth of 57 kilometres, and the shaking reached the upper level of the Japanese scale in parts of Miyagi, Fukushima and Iwate. The Japan Meteorological Agency had first published the magnitude as 7.3 and raised it after reviewing the records, and it described the event as an aftershock of the earthquake of 2011. More than 3,000 people in the region felt the strongest shaking, according to the intensity maps that the agency published.
 
 Casualties were few for an event of that size. One man in Soma, in Fukushima prefecture, was killed when furniture fell on him in his home, and 92 people were injured, most of them by falling objects or in the confusion after the lights went out. The count of the dead rose to four in the following days as bodies were found in collapsed buildings, and the total stayed in single figures, which the agency attributed to the building code that had been rewritten after 2011.
 

@@ -3,10 +3,10 @@ slug: "two-minutes-before-dawn-in-kahramanmaras"
 title: "Two minutes before dawn in Kahramanmaras"
 date: "2023-02-06T23:40:00+08:00"
 categories: [news]
-description: "A magnitude 7.8 earthquake struck southern Turkey and northern Syria at 04.17 on 6 February 2023, followed nine hours later by a second quake of magnitude 7.5, and the damage spread across ten Turkish provinces."
+description: "A magnitude 7.8 earthquake struck southern Turkey and northern Syria at 4:17 on 6 February 2023, followed nine hours later by a second quake of magnitude 7.5, and the damage spread across ten Turkish provinces."
 ---
 
-At 04.17 local time the first shock broke, with its epicentre in the Pazarcik district of Kahramanmaras province and its shaking felt from Adana to Diyarbakir. The magnitude was 7.8, and the rupture was shallow, which is the combination that does the most damage to buildings rather than to hillsides. Nine hours later a second quake of magnitude 7.5 broke on a neighbouring fault near Elbistan, and it brought down structures that the first had weakened. Whole apartment blocks came down in a single movement, and the noise of it was heard several kilometres away, which survivors described as the last thing they remembered before the dust.
+At 4:17 local time the first shock broke, with its epicentre in the Pazarcik district of Kahramanmaras province and its shaking felt from Adana to Diyarbakir. The magnitude was 7.8, and the rupture was shallow, which is the combination that does the most damage to buildings rather than to hillsides. Nine hours later a second quake of magnitude 7.5 broke on a neighbouring fault near Elbistan, and it brought down structures that the first had weakened. Whole apartment blocks came down in a single movement, and the noise of it was heard several kilometres away, which survivors described as the last thing they remembered before the dust.
 
 Ten provinces were declared a disaster zone, and the government imposed a three-month state of emergency. Airports in Hatay and Kahramanmaras were damaged, roads were blocked by collapsed bridges, and the winter weather slowed the arrival of rescue teams in the first two days. Turkey had mobilized tens of thousands of search and rescue personnel, and more than eighty countries offered teams, equipment or money. Help arrived from outside the region more slowly than the government had promised, because the roads that carried it were the same roads that had collapsed.
 

@@ -203,6 +203,8 @@ A venue is placed where the sentence needs it, and the place differs from post t
 * *Hyphen in a score*: `3-1`
 * *En dash in a name, written with a hyphen*: `Snijders Blok-Campeau`
 
+**12.3a Clock times.** A time of day takes a colon between the hour and the minute, never a full stop: `10:16 UTC`, `12:38 a.m.`, `4:17 local time`, `between 9:00 and 17:00`. The hour carries no leading zero in prose, so a table may print `04:17` where the sentence reads `4:17`. The full stop is reserved for decimals and, where the house style asks for it, for an abbreviation; a time written `10.16` reads as ten point one six and is a mistake in a sentence.
+
 **12.3 Numerals, symbols and units.** Four-digit numerals and above take a comma every three digits, with years and code-like identifiers excepted. One to nine are words in ordinary prose and figures in measurements. Statistics are written with an italic capital *P*, and a sample size with an italic lower-case *n*. Units take a space and the correct case, and unit symbols take no plural; a unit written as a word pluralizes after a numeral and stays singular as a modifier or for a value below one (`181 kelvins`, `0.5 kelvin`, `a 200-kelvin ceiling`). A unit built from two symbols keeps them apart, because a compound written as one token reads as an unfamiliar word rather than as two quantities multiplied, and the habit is especially strong in the amp-hour and watt-hour family.
 
 * *Separated*: `1,044 h`, `12,500 tonnes`, `2,900,000 visitors`

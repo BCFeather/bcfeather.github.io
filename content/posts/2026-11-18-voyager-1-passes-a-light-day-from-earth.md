@@ -3,10 +3,10 @@ slug: "voyager-1-passes-a-light-day-from-earth"
 title: "Voyager 1 is a light-day out, and every reply now takes a day"
 date: "2026-11-18T16:45:00+08:00"
 categories: [science]
-description: "At 10.16 UTC the probe crossed 173 astronomical units, the first human-made object one light-day from Earth, and a command sent today will not be answered until tomorrow."
+description: "At 10:16 UTC the probe crossed 173 astronomical units, the first human-made object one light-day from Earth, and a command sent today will not be answered until tomorrow."
 ---
 
-Shortly after ten in the morning UTC, Voyager 1 passed a distance of 173.14 astronomical units from Earth. That number has a simple reading: light, which crosses the Earth-sun gap in about eight minutes, would now need a full day to reach the spacecraft. No other object built by people has gone that far.
+On the morning of 18 November, at 10:16 UTC, Voyager 1 passed a distance of 173.14 astronomical units from Earth. That number has a simple reading: light, which crosses the Earth-sun gap in about eight minutes, would now need a full day to reach the spacecraft. No other object built by people has gone that far.
 
 A light-day is a comfortable unit until it is applied to a real machine. Neptune orbits at about 30 astronomical units, so the probe is nearly six times farther out than the outermost planet. The nearest star system, Alpha Centauri, sits more than four light-years away, which makes one light-day about one part in fifteen hundred of the journey to a destination the spacecraft is not heading for.
 
