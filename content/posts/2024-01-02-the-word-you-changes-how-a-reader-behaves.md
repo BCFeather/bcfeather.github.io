@@ -1,5 +1,5 @@
 ---
-slug: "2024-01-02-the-word-you-changes-how-a-reader-behaves"
+slug: "the-word-you-changes-how-a-reader-behaves"
 title: "The word you changes how a reader behaves"
 date: "2024-01-02T18:20:00+08:00"
 categories: [science]

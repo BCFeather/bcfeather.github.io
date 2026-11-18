@@ -1,5 +1,5 @@
 ---
-slug: "2024-01-03-a-coadapted-knl1-and-checkpoint-axis-keeps-chromosomes-segregating-correctly"
+slug: "a-coadapted-knl1-and-checkpoint-axis-keeps-chromosomes-segregating-correctly"
 title: "A coadapted KNL1 and checkpoint axis keeps chromosomes segregating correctly"
 date: "2024-01-03T18:20:00+08:00"
 categories: [science]

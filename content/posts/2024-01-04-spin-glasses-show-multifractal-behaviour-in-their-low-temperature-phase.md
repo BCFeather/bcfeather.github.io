@@ -1,5 +1,5 @@
 ---
-slug: "2024-01-04-spin-glasses-show-multifractal-behaviour-in-their-low-temperature-phase"
+slug: "spin-glasses-show-multifractal-behaviour-in-their-low-temperature-phase"
 title: "Spin glasses show multifractal behaviour in their low-temperature phase"
 date: "2024-01-04T18:20:00+08:00"
 categories: [science]
