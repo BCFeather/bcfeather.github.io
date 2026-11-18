@@ -6,7 +6,7 @@ categories: [culture]
 description: "The film took best picture, director and both of the leading acting prizes, and the ceremony drew an audience that was larger than the year before."
 ---
 
-'Oppenheimer' took seven prizes at the Academy Awards on 10 March, including best picture, best director and the awards for the leading actor and the supporting actor. The ceremony was the first in which the films that had been released by the streaming services won few of the main prizes. The film had been the favourite since the summer, and the campaign spent an estimated 20 million dollars on the awards season.
+*Oppenheimer* took seven prizes at the Academy Awards on 10 March, including best picture, best director and the awards for the leading actor and the supporting actor. The ceremony was the first in which the films that had been released by the streaming services won few of the main prizes. The film had been the favourite since the summer, and the campaign spent an estimated 20 million dollars on the awards season.
 
 Sweep is the statistic. A film that wins both of the acting prizes and the director's award is a film that the voters agreed on across the branches, which is rare in a ceremony that has been divided in recent years. An agreement that is broad is a campaign that was run well. The director had been nominated five times before and had never won, and the speech thanked the crew that built the sets without the computer images. The director had been nominated five times before and had never won, and the speech thanked the crew that built the sets without computer images.
 

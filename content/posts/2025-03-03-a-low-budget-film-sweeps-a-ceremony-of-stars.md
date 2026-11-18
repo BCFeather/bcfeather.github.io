@@ -3,10 +3,10 @@ slug: "a-low-budget-film-sweeps-a-ceremony-of-stars"
 title: "Low-budget film sweeps a ceremony of stars"
 date: "2025-03-03T09:20:00+08:00"
 categories: [culture]
-description: "Anora took five awards including best picture, and the win was a statement about how the Academy now votes."
+description: "*Anora* took five awards including best picture, and the win was a statement about how the Academy now votes."
 ---
 
-Ninety-seventh Academy Awards on 2 March gave best picture to Anora, a film made for about six million dollars by a director who had spent his career on smaller budgets. It also took best director, best editing and best actress for Mikey Madison, in a role that carried the film from beginning to end. The ceremony, hosted for the first time by Conan O'Brien, ran long and was almost entirely free of the technical failures that the previous year had produced.
+Ninety-seventh Academy Awards on 2 March gave best picture to *Anora*, a film made for about six million dollars by a director who had spent his career on smaller budgets. It also took best director, best editing and best actress for Mikey Madison, in a role that carried the film from beginning to end. The ceremony, hosted for the first time by Conan O'Brien, ran long and was almost entirely free of the technical failures that the previous year had produced.
 
 How the awards were distributed tells a story about the electorate. The Academy has expanded its membership over the past decade, adding voters from outside the United States and from below the line, and the effect has been a shift towards films with a critical consensus rather than films with a campaign budget. A best picture winner that opened in six cinemas in October is a winner that the voters actually watched on a screener. A voter who has seen eight of the ten nominees is a voter whose ranking is about craft rather than about marketing.
 

@@ -127,7 +127,7 @@ The description is a sentence of narrative, not a citation. It says what happene
 
 A title names the finding, the object or the turn, and it is read in a list of thirty others. Plain noun phrases, verb phrases and clauses do the work. Titles opening on `A`, `An` or `The` are limited rather than banned, and the `A/The [noun] that [verb]` shape is avoided because it reads as a catalogue entry.
 
-A title is roman from the first word to the last. Anything the body would have to italicize — a journal title, a gene symbol, a Latin binomial, a variable, an algebraic formula — is kept out of the title rather than set in a form that cannot carry it. A formula in a title is a sign that the title is naming the notation instead of the finding.
+A title is roman from the first word to the last. Anything the body would have to italicize — a journal title, the title of a work, a gene symbol, a Latin binomial, a variable, an algebraic formula — is kept out of the title rather than set in a form that cannot carry it. A formula in a title is a sign that the title is naming the notation instead of the finding.
 
 * *Verb clause*: `Bicarbonate does not save lives in acidotic shock`
 * *Subject and process*: `Warming turns wetlands from a sink into a source`
@@ -159,6 +159,14 @@ A colon title is welcome where it carries both object and angle, and colon title
 * *After the first mention*: *E. coli*
 * *Strain, roman*: *E. coli* K-12
 * *Higher taxon, roman*: Diptera
+
+**9.4 Works.** A work is italic when it is named: a film, a series or an episode, a book, an album, a song, a play, a documentary, a game. The title is italic as its owner writes it, and the article that belongs to the name stays inside the italics at whatever capital it carries, for the reason §9.1 gives about mastheads. A title that arrives in quotation marks loses the marks and takes the italics instead, because one mark cannot carry two meanings; a title already in italics keeps them. What is not the title stays roman: the season, the episode number, the track, the chart placing, the studio, the publisher, the prize, the festival. An article title is not a work of this kind and stays roman inside single quotes under §9.1. A work that §8 keeps out of a post's title stays out of it.
+
+* *Film*: *Oppenheimer*, *The Gray Man*, *Dahomey*
+* *Series*: *Stranger Things*, *Succession*, *Ted Lasso*
+* *Album and song*: *Renaissance*, *Voyage*, *Break My Soul*, *Now and Then*, *The Code*
+* *Quoted title converted*: `'Dahomey'` → *Dahomey*
+* *Parts left roman*: the third season, track 2, the Palme d'Or, the studio's campaign
 
 ## 10. Notation
 

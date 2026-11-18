@@ -3,10 +3,10 @@ slug: "nemo-wins-the-eurovision-song-contest-for-switzerland"
 title: "Nemo wins the Eurovision Song Contest for Switzerland"
 date: "2024-05-11T23:45:00+08:00"
 categories: [culture]
-description: "Nemo won the Eurovision Song Contest in Malmö on 11 May with the song The Code, taking Switzerland's third title, at a final held under heavy security and overshadowed by protests over Israel's participation."
+description: "Nemo won the Eurovision Song Contest in Malmö on 11 May with the song *The Code*, taking Switzerland's third title, at a final held under heavy security and overshadowed by protests over Israel's participation."
 ---
 
-Swiss singer Nemo won the Eurovision Song Contest in Malmö on the eleventh of May with the song The Code, a track that mixes rap, opera and pop and that the performer described as a story about discovering a non-binary identity. Entry took 365 points from the juries and 226 from the public, which put it ahead of the Croatian entry by 42 points. Switzerland had won the contest twice before, in 1956 and 1988.
+Swiss singer Nemo won the Eurovision Song Contest in Malmö on the eleventh of May with the song *The Code*, a track that mixes rap, opera and pop and that the performer described as a story about discovering a non-binary identity. Entry took 365 points from the juries and 226 from the public, which put it ahead of the Croatian entry by 42 points. Switzerland had won the contest twice before, in 1956 and 1988.
 
 Result was close enough to be uncertain until the final set of votes. Croatia's entry, a folk-rock number performed by Baby Lasagna, led the public vote and was considered the favourite, and it finished second. Ukraine took third, and France and Portugal were in the top five. Nordic countries did less well than their delegations had hoped, and the host country finished in the lower half of the table.
 
