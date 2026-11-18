@@ -3,7 +3,7 @@ slug: "random-graphs-host-a-quadratic-number-of-disjoint-cliques"
 title: "Random graphs host a quadratic number of disjoint cliques"
 date: "2024-05-01T09:40:00+08:00"
 categories: [science]
-description: "The largest family of edge-disjoint near-maximal cliques in a dense random graph has size of order n squared divided by the cube of the logarithm, matching an upper bound that settled a conjecture of Alon and Spencer."
+description: "The largest family of edge-disjoint near-maximal cliques in a dense random graph has size of order the square of the vertex count divided by the cube of the logarithm, matching an upper bound that settled a conjecture of Alon and Spencer."
 ---
 
 A dense random graph contains enormously many cliques, and the interesting question is not how many exist but how many can be packed without sharing an edge. A clique packing asks for edge-disjoint members, so each edge of the host graph can serve one clique only, and the size of the largest such family is a quantity with a conjectured order. Read as a function of the vertex count, the exponent is two rather than one because a clique of size about the logarithm consumes edges from the whole graph.

@@ -3,7 +3,7 @@ slug: "oriented-trees-fit-inside-a-subquadratic-chromatic-number"
 title: "Oriented trees fit inside a subquadratic chromatic number"
 date: "2024-02-28T12:05:00+08:00"
 categories: [science]
-description: "Every oriented tree of order k is contained in any digraph with chromatic number about 2.9 k to the power three halves, the first bound below k squared for a 1980 conjecture."
+description: "Every oriented tree is contained in any digraph whose chromatic number is about 2.9 times the tree's order raised to the three halves, the first bound below the square of the order for a 1980 conjecture."
 ---
 
 Burr conjectured in 1980 that a directed graph with chromatic number \(2k-2\) contains every oriented tree of order \(k\) as a subdigraph, and the conjecture has stood because the two quantities it ties together are of different kinds: a chromatic number counts colours, while an oriented tree is a shape that has to be found inside an arbitrarily complicated digraph.

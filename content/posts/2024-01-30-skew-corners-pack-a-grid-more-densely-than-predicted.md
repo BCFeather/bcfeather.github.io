@@ -3,7 +3,7 @@ slug: "skew-corners-pack-a-grid-more-densely-than-predicted"
 title: "Skew corners pack a grid more densely than predicted"
 date: "2024-01-30T12:15:00+08:00"
 categories: [science]
-description: "A construction gives skew corner-free subsets of the n by n grid of size n to the power five quarters, disproving a conjecture, while a finite-field version still decays exponentially."
+description: "A construction gives skew corner-free subsets of a square grid whose size reaches the five-quarters power of the side, disproving a conjecture, while a finite-field version still decays exponentially."
 ---
 
 The corner problem asks how large a subset of a grid can be without containing three points that form a right-angled corner, one point and two steps away from it along a row and a column. The skew version relaxes the shape: the two arms may have different lengths, so the forbidden pattern is a wider family and the sets that avoid it should be smaller.
