@@ -1,6 +1,6 @@
 ---
 slug: "what-a-school-counts-and-what-it-discounts"
-title: "What a school counts and what it discounts"
+title: "What a school counts and what it discounts: who's in charge?"
 date: "2026-11-18T00:30:00+08:00"
 categories: [essay]
 description: "A collapse on the track, an ordinary fall on the same field and a mind under load all reach the same institution, and the same accounting habit decides which of them is recorded, investigated and prevented. More frightening still, the institutions and the people who should answer for any of them retreat, in some cases, behind a curtain of feigned ignorance."
