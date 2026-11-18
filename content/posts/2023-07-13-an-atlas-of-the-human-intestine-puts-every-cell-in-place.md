@@ -10,7 +10,7 @@ A tissue is a community of cell types, and dissociation destroys the community. 
 
 Registration is the technical feat. A section's image has coordinates and a cell's sequencing has an identity, and matching them needs a common frame both modalities can be projected onto. A coordinate system others can register their sections into turns a single study into a shared resource, and the release includes the registration parameters.
 
-Census with addresses is the result. Each cell type has a position, and those positions reveal gradients a dissociated sample would average away. Organisation is the biological finding, since epithelium, immune population and vasculature occupy distinct zones, and the boundaries between them are sharper than a bulk measurement suggests.
+Census with addresses is the result. Each cell type has a position, and those positions reveal gradients a dissociated sample would average away. Organization is the biological finding, since epithelium, immune population and vasculature occupy distinct zones, and the boundaries between them are sharper than a bulk measurement suggests.
 
 Scale is the advance. Labelling dozens of proteins on a section distinguishes cell states a single marker cannot, and that distinction is what makes the map useful. Antibody panel sets the limitation, because only proteins with good antibodies can be labelled, and a cell type defined by an unlabelled one is invisible.
 

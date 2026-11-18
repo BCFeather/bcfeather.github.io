@@ -10,7 +10,7 @@ Perovskite photovoltaics have spent a decade setting records on squares a centim
 
 A tandem stacks two absorbers. The wide-bandgap cell takes the blue end of the spectrum and passes the rest to a narrow-bandgap cell beneath it, and the pairing can in principle beat the limit that a single junction faces. The group had already reached 28 per cent on a small cell and 21.7 per cent on a module, and the module figure was the one that mattered commercially.
 
-Crystallisation was the obstacle. Narrow-bandgap perovskite films form too quickly, and at scale they form unevenly, with the top and bottom of the film solidifying out of step and leaving a defective interface at the base of the layer. Adding glycinamide hydrochloride to the precursor solution slows the process roughly tenfold and lets the film heal from the substrate upward.
+Crystallization was the obstacle. Narrow-bandgap perovskite films form too quickly, and at scale they form unevenly, with the top and bottom of the film solidifying out of step and leaving a defective interface at the base of the layer. Adding glycinamide hydrochloride to the precursor solution slows the process roughly tenfold and lets the film heal from the substrate upward.
 
 Certification came from an independent laboratory and entered in the solar-cell efficiency tables, where no module of this class stood higher when the paper appeared. That the number came from a module and not a cell is the point. Efficiency that survives scaling is the only efficiency a factory can use.
 

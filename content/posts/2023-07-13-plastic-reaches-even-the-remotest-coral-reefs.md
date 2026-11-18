@@ -12,7 +12,7 @@ Distance is the finding. Sites far from any urban source carry debris, and its d
 
 Composition is the second result. Debris is dominated by fishing gear and packaging, and the two categories point to different management routes. Gear is distinctive because a net or line is designed to entangle and a reef that traps it keeps it, so accumulation stays local even when the source does not.
 
-Risk is why the survey matters. Plastic on a reef abrades tissue, blocks light and carries adsorbed pollutants, and a reef already stressed by warming has less capacity for another insult. Standardisation is the method, since a survey across oceans needs a common protocol, and the transect design makes the sites comparable; a fixed length surveyed at a fixed depth gives a density, which lets a Pacific reef be compared with an Atlantic one.
+Risk is why the survey matters. Plastic on a reef abrades tissue, blocks light and carries adsorbed pollutants, and a reef already stressed by warming has less capacity for another insult. Standardization is the method, since a survey across oceans needs a common protocol, and the transect design makes the sites comparable; a fixed length surveyed at a fixed depth gives a density, which lets a Pacific reef be compared with an Atlantic one.
 
 Observation sets the limitation. A diver or a camera sees debris above a size threshold, and fragments below it are the majority by count. Ecosystem effect stays unestablished, because presence is not impact, and impact needs injury or mortality measured at the observed densities.
 
