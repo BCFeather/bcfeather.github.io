@@ -8,7 +8,7 @@ description: "An independent group reports that it could not reproduce the claim
 
 A claim of superconductivity at room temperature and at modest pressure would be a discovery of the century. Such a claim was made in March 2023 for a lutetium-hydrogen-nitrogen compound, and the field's response has been the response such claims always attract: attempts to repeat it.
 
-In *Nature* on 11 May 2023, one such attempt is reported. A group specialising in high-pressure synthesis made more than thirty samples following the original recipe and found no superconductivity. The samples' colours changed with pressure, which the original paper had cited as evidence, and the change came without the electrical signature.
+In *Nature* on 11 May 2023, one such attempt is reported. A group specializing in high-pressure synthesis made more than thirty samples following the original recipe and found no superconductivity. The samples' colours changed with pressure, which the original paper had cited as evidence, and the change came without the electrical signature.
 
 Signature is the test. Superconductivity means zero resistance and an expelled magnetic field, and a claim lacking those measurements concerns a colour rather than a state. Presentation of the data is the crux of the dispute, because a resistance drop can come from a percolating metallic path, and a measurement failing to separate bulk from surface can mislead.
 

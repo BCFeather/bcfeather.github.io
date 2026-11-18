@@ -6,11 +6,11 @@ categories: [science]
 description: "A chlorine-mediated loop oxidizes propylene and regenerates its oxidant, so the epoxide is the only net product and the process no longer depends on a co-product market."
 ---
 
-Propylene oxide is an intermediate for polyurethane and for glycols, and its industrial production makes a co-product for every molecule of the target. A route with no co-product would change the process's economics. In *Science* in August 2023, such a route is demonstrated. The authors use a chlorine-mediated cycle that oxidises propylene and regenerates the oxidant, so the only net product is the epoxide.
+Propylene oxide is an intermediate for polyurethane and for glycols, and its industrial production makes a co-product for every molecule of the target. A route with no co-product would change the process's economics. In *Science* in August 2023, such a route is demonstrated. The authors use a chlorine-mediated cycle that oxidizes propylene and regenerates the oxidant, so the only net product is the epoxide.
 
-Chemistry runs as a two-step loop. A chlorine species oxidises the propylene, a regeneration step returns the chlorine to its active form, and the loop's net reaction is propylene plus oxygen. The mediator is the point, because a species that is regenerated is not consumed, and the loop's stoichiometry is the process's advantage.
+Chemistry runs as a two-step loop. A chlorine species oxidizes the propylene, a regeneration step returns the chlorine to its active form, and the loop's net reaction is propylene plus oxygen. The mediator is the point, because a species that is regenerated is not consumed, and the loop's stoichiometry is the process's advantage.
 
-Selectivity is the advantage. Direct oxidation tends to over-oxidise, and a mediated route stopping at the epoxide avoids the combustion costing yield; the kinetic question is whether the species attacks the double bond to form the epoxide or attacks the ring and opens it.
+Selectivity is the advantage. Direct oxidation tends to over-oxidize, and a mediated route stopping at the epoxide avoids the combustion costing yield; the kinetic question is whether the species attacks the double bond to form the epoxide or attacks the ring and opens it.
 
 Absence of a co-product carries the economics. A process making styrene or tert-butanol alongside the epoxide is tied to those markets, while one without a co-product can scale independently. Separation follows, because a product that is the only organic in the stream needs less distillation.
 

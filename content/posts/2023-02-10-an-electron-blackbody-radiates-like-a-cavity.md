@@ -3,7 +3,7 @@ slug: "an-electron-blackbody-radiates-like-a-cavity"
 title: "An electron blackbody radiates like a cavity"
 date: "2023-02-10T09:25:00+08:00"
 categories: [science]
-description: "A blackbody built from carbon nanotubes emits a spectrum that follows a thermal law, which makes it a laboratory realization of an idealised emitter."
+description: "A blackbody built from carbon nanotubes emits a spectrum that follows a thermal law, which makes it a laboratory realization of an idealized emitter."
 ---
 
 

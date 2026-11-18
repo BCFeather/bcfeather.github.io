@@ -12,7 +12,7 @@ The reframing is that arousal is not an input to the brain but a dynamical syste
 
 The gain is interpretability. A model with one axis can be read: the state moves, and the movement predicts what the population will do next. A model with a hundred axes can fit better and say nothing. The paper's argument is that the simpler description is not a loss of accuracy but a gain in what the description can be used for.
 
-Timescale is what makes it plausible. Neuromodulation acts slowly, over seconds, and a slow variable can organise fast activity without being organised by it. Sleep, attention and stress all change the brain's state on that schedule, and all of them are described as arousal in the older literature.
+Timescale is what makes it plausible. Neuromodulation acts slowly, over seconds, and a slow variable can organize fast activity without being organized by it. Sleep, attention and stress all change the brain's state on that schedule, and all of them are described as arousal in the older literature.
 
 What the reconstruction does not settle is causation. A latent variable that predicts the data is a summary, and a summary can be an effect rather than a cause. Experiments that manipulate arousal, by stimulating a neuromodulatory pathway or by changing the environment, would show whether the axis drives the activity or merely correlates with it.
 

@@ -3,7 +3,7 @@ slug: "maternal-vaccination-protects-infants-from-covid"
 title: "Maternal vaccination protects infants from COVID"
 date: "2022-06-10T09:35:00+08:00"
 categories: [science]
-description: "In a test-negative study of 1,049 infants under six months at 30 hospitals, two mRNA doses during pregnancy were 52 per cent effective against COVID hospitalisation overall, 80 per cent during Delta and 38 per cent during Omicron, and 69 per cent when the doses came after twenty weeks."
+description: "In a test-negative study of 1,049 infants under six months at 30 hospitals, two mRNA doses during pregnancy were 52 per cent effective against COVID hospitalization overall, 80 per cent during Delta and 38 per cent during Omicron, and 69 per cent when the doses came after twenty weeks."
 ---
 
 An infant under six months cannot be vaccinated, and the only antibody that child has is the antibody that crossed the placenta. Whether that transfer is enough to prevent hospitalization is a question that a test-negative design can answer. A test-negative design compares the vaccination status of infants who test positive with that of infants who test negative for the same reason, and it therefore controls for the propensity to be tested.

@@ -6,11 +6,11 @@ categories: [science]
 description: "A nuclear-localized form of alpha-ketoglutarate dehydrogenase supplies the cofactor that histone demethylases need, linking metabolism to chromatin."
 ---
 
-Histone demethylases remove a methyl mark from a histone, and they need alpha-ketoglutarate as a cofactor. Supply of that cofactor has been assumed to come from the cytoplasm's metabolism. In *Science* on 14 July 2023, a local source is found. The authors show that a form of alpha-ketoglutarate dehydrogenase localises to the nucleus, produces the cofactor there, and controls demethylation of histones.
+Histone demethylases remove a methyl mark from a histone, and they need alpha-ketoglutarate as a cofactor. Supply of that cofactor has been assumed to come from the cytoplasm's metabolism. In *Science* on 14 July 2023, a local source is found. The authors show that a form of alpha-ketoglutarate dehydrogenase localizes to the nucleus, produces the cofactor there, and controls demethylation of histones.
 
 Localisation is the finding. The enzyme's canonical role sits in the mitochondrial Krebs cycle, and a nuclear pool of the same activity is a second function for one protein. A dehydrogenase producing the cofactor in one compartment and consuming it in another is a protein whose location decides its function.
 
-Chromatin consequence is direct. A demethylase limited by cofactor availability is one whose activity tracks the nucleus's metabolism, and the marks change when the nuclear enzyme is perturbed. Design of that perturbation carries the evidence, since removing a nuclear localisation signal leaves mitochondrial activity intact while the chromatin change follows the nuclear loss.
+Chromatin consequence is direct. A demethylase limited by cofactor availability is one whose activity tracks the nucleus's metabolism, and the marks change when the nuclear enzyme is perturbed. Design of that perturbation carries the evidence, since removing a nuclear localization signal leaves mitochondrial activity intact while the chromatin change follows the nuclear loss.
 
 Link to metabolism is the significance. Metabolism and chromatin have been connected through cytoplasmic pools, and a nuclear source makes the connection local and fast, so a cell's metabolic state can be read by its chromatin without a signal travelling from the mitochondrion. Supply chain frames it, because a cofactor diffusing in from the cytoplasm would arrive slowly and at a concentration set elsewhere.
 

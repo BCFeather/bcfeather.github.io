@@ -14,7 +14,7 @@ Isotopes supply the fingerprint. Industrial lead has a different isotopic compos
 
 As the carrier, particles matter most. A metal adsorbing onto organic matter and mineral grains travels with them, and the sinking flux sets the speed. Release is the reverse step, since a dissolving particle releases its cargo and the release depth sets where the metal accumulates, with a shallow release returning it to the surface and a deep one storing it.
 
-Modelling supplies the inference. A tracer model including scavenging and remineralisation reproduces the profiles, and the fit is what lets the authors attribute the deep signal to the surface. Timescale is the useful number, because a transit of decades means the deep inventory still responds to emissions that peaked in the twentieth century.
+Modelling supplies the inference. A tracer model including scavenging and remineralization reproduces the profiles, and the fit is what lets the authors attribute the deep signal to the surface. Timescale is the useful number, because a transit of decades means the deep inventory still responds to emissions that peaked in the twentieth century.
 
 Biogeochemistry gains a general implication, since a contaminant released at the surface is now part of the deep ocean, and its memory there outlasts the emission itself. Atmospheric input is the source term, because industrial emissions peaked and then declined after leaded petrol was phased out, and the ocean's profile records that decline.
 

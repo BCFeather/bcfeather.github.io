@@ -3,7 +3,7 @@ slug: "coronavac-protects-young-children-from-severe-omicron-disease"
 title: "CoronaVac protects young children from severe Omicron disease"
 date: "2022-05-13T09:45:00+08:00"
 categories: [science]
-description: "In 490,694 Chilean children aged three to five during the Omicron wave, two doses of CoronaVac were 38.2 per cent effective against symptomatic COVID, 64.6 per cent against hospitalisation and 69.0 per cent against intensive care admission."
+description: "In 490,694 Chilean children aged three to five during the Omicron wave, two doses of CoronaVac were 38.2 per cent effective against symptomatic COVID, 64.6 per cent against hospitalization and 69.0 per cent against intensive care admission."
 ---
 
 Chile vaccinated children aged three to five with CoronaVac while Omicron was circulating, which gave the country a population large enough to estimate effectiveness in an age group that most trials had excluded. The result is the first national estimate for an inactivated vaccine in this age band. A country that vaccinated young children early in the Omicron wave produced the natural experiment that a randomized trial would never have delivered, and the cohort is large enough to estimate rare outcomes.

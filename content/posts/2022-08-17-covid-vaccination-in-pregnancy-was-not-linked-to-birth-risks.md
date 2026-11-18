@@ -6,7 +6,7 @@ categories: [science]
 description: "Among 85,162 births in Sweden and Norway, 43,099 of them to people vaccinated during pregnancy, vaccination was associated with no increase in preterm birth, small-for-gestational-age, or stillbirth, and with a lower risk of very preterm birth and stillbirth."
 ---
 
-A vaccine offered to pregnant women raises a question that cannot be answered by a trial for ethical reasons, and the answer has to come from the records of two countries that linked their vaccination registers to their birth registers. The linkage is the study. A question that cannot be answered by a randomised trial has to be answered by linked registers, and two countries had the linkage.
+A vaccine offered to pregnant women raises a question that cannot be answered by a trial for ethical reasons, and the answer has to come from the records of two countries that linked their vaccination registers to their birth registers. The linkage is the study. A question that cannot be answered by a randomized trial has to be answered by linked registers, and two countries had the linkage.
 
 Births were included in Sweden and Norway from pregnancies conceived at least 42 weeks before the end of the study period, with gestational age of 20 weeks or more or birth weight of 500 grams or more, and used Cox regression to estimate hazard ratios. The paper appeared in *The BMJ*, 17 August 2022. A cohort built from registers is a cohort that includes everyone rather than everyone who volunteered, and the inclusion is the strength of the design.
 

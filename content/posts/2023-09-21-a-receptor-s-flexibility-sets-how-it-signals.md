@@ -12,7 +12,7 @@ The gating supplies the mechanism, because binding closes a cleft and the closur
 
 Subunit comparison frames the result. A receptor assembled from different subunits spans a range of kinetics, and the series maps that range onto structural differences. Desensitization adds a third state, since a receptor that stays shut after binding has entered it and the rate of entry shapes the response.
 
-Pharmacology points to use. A drug changing the receptor's mobility would change its kinetics, and a modulator acting on flexibility is a different kind of molecule from one competing with the ligand. Ensembles carry the measurement, since structures from cryo-electron microscopy combined with simulation are what characterise mobility. Reconstitution sets the limitation, because a purified receptor in detergent or a nanodisc is not a receptor in a membrane with its partners.
+Pharmacology points to use. A drug changing the receptor's mobility would change its kinetics, and a modulator acting on flexibility is a different kind of molecule from one competing with the ligand. Ensembles carry the measurement, since structures from cryo-electron microscopy combined with simulation are what characterize mobility. Reconstitution sets the limitation, because a purified receptor in detergent or a nanodisc is not a receptor in a membrane with its partners.
 
 Whether the synapse behaves the same way stays outside the analysis, since kinetics in a test tube is an input to a model and the synapse's response is its output. Neuroscience gains a link between a molecule's motion and a circuit's timing, and the rate constants its models need now have a structural basis.
 

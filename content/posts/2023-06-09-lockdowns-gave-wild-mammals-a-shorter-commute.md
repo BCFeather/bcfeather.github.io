@@ -12,7 +12,7 @@ Release is the effect. An animal that avoids roads and settlements by day can us
 
 Species differ in response. A large carnivore's range responds to prey and roads, a small herbivore's to the immediate presence of people, and the comparative design separates the two. That comparison is the study's strength, since a species that expanded during the quiet and one that did not tell the authors which traits mediate the response, and those traits are what a manager can act on.
 
-Measurement is the achievement. Tracks collected for other purposes are harmonised into a common comparison, and that harmonisation is the technical contribution. Seasonal timing is a confounder handled explicitly, because spring movement differs from winter movement for reasons unrelated to people, and a comparison mixing seasons would attribute a seasonal change to a lockdown.
+Measurement is the achievement. Tracks collected for other purposes are harmonized into a common comparison, and that harmonization is the technical contribution. Seasonal timing is a confounder handled explicitly, because spring movement differs from winter movement for reasons unrelated to people, and a comparison mixing seasons would attribute a seasonal change to a lockdown.
 
 Duration sets the limitation. A lockdown lasted months, and an animal's response over months is a behavioural adjustment rather than an evolutionary one. Data bias is acknowledged too, as tracks come from populations researchers chose to study, and those populations are not a random sample of the world's mammals.
 

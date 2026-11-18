@@ -8,11 +8,11 @@ description: "Engineered T cells lacking both Regnase-1 and Roquin-1, two regula
 
 Engineered T cells work in blood cancers and struggle in solid tumours. The reasons include a hostile microenvironment and a cell that runs out of drive, and the second has a genetic remedy in removing the brakes that limit a T cell's inflammatory programme.
 
-In *PNAS* on 21 March 2023, two of those brakes are removed. The authors disrupt Regnase-1 and Roquin-1, proteins that destabilise inflammatory transcripts, in engineered T cells and test the cells in models of solid tumours.
+In *PNAS* on 21 March 2023, two of those brakes are removed. The authors disrupt Regnase-1 and Roquin-1, proteins that destabilize inflammatory transcripts, in engineered T cells and test the cells in models of solid tumours.
 
 Synergy is the result. Cells lacking either regulator alone improve on controls, and cells lacking both improve further, so two brakes in one pathway are not redundant and removing both releases more of the programme than either removal alone.
 
-Because Regnase-1 and Roquin-1 recognise related sequence elements in messenger RNAs and target them for degradation, the mechanism is transcript stability, and a cell without both accumulates messages that a normal T cell turns over quickly. Killing is not the whole of that programme, since a T cell persisting in a tumour has to resist exhaustion and the transcripts under control include genes that sustain activity over weeks.
+Because Regnase-1 and Roquin-1 recognize related sequence elements in messenger RNAs and target them for degradation, the mechanism is transcript stability, and a cell without both accumulates messages that a normal T cell turns over quickly. Killing is not the whole of that programme, since a T cell persisting in a tumour has to resist exhaustion and the transcripts under control include genes that sustain activity over weeks.
 
 Safety is why the field is careful. A T cell with an unrestrained inflammatory programme can damage healthy tissue, and sustained cytokine production is a toxicity seen in other engineered cells. Cytokine-armoured cells are the strategic comparison, because a cell that secretes its own cytokine can be controlled by a promoter while a cell with a genetic edit has behaviour that is harder to switch off.
 

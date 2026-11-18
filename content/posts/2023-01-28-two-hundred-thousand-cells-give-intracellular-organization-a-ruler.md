@@ -6,7 +6,7 @@ categories: [science]
 description: "Images of more than 200,000 induced pluripotent stem cells in three dimensions yield a framework for describing cell shape and its variation at scale."
 ---
 
-A cell's shape and the arrangement of its parts are outputs of its state, and measuring them has been an artisanal activity: a few hundred cells, a handful of markers, a paper's worth of images. The result is a literature of beautiful pictures and few quantitative generalizations. The dataset in *Nature*, 4 January 2023 is an attempt at scale. Matheus Viana, Jianxu Chen, Susanne Rafelski and colleagues imaged more than 200,000 human induced pluripotent stem cells in three dimensions, with labels for major intracellular structures, and built a framework for analyzing cell shape and organelle position.
+A cell's shape and the arrangement of its parts are outputs of its state, and measuring them has been an artisanal activity: a few hundred cells, a handful of markers, a paper's worth of images. The result is a literature of beautiful pictures and few quantitative generalizations. The dataset in *Nature*, 4 January 2023 is an attempt at scale. Matheus Viana, Jianxu Chen, Susanne Rafelski and colleagues imaged more than 200,000 human induced pluripotent stem cells in three dimensions, with labels for major intracellular structures, and built a framework for analysing cell shape and organelle position.
 
 The framework's first problem is alignment. A cell has no canonical orientation, so comparing shapes requires a registration step, and the paper's solution is to define a coordinate system from the cell's own geometry. Once cells are aligned, distances and positions become comparable across the population.
 

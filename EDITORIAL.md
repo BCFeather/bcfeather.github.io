@@ -259,4 +259,4 @@ Colons and semicolons fall under §12.4, which is advice and never grounds for r
 
 **14.3 The backlog.** The older archive carries standing defects: posts of four or fewer or eight or more paragraphs, posts below 480 words, titles opening on `A`, `An` or `The`, and paragraphs opening on `The` more than twice. They are a separate project, cleared in batches, with titles rewritten and slugs revised where the address misnames the post. New work must not add to the count.
 
-Two slugs were published before §12 settled on `-ize` and therefore still carry `authorises` and `recognise`. Under §7 they may be revised along with their titles, descriptions and bodies, which already carry the house spelling.
+Two slugs were published before §12 settled on `-ize` and still carry `authorises` and `recognise`. They keep that spelling as a permanent identifier so that inbound links resolve, while the title, description and body carry house spelling; a slug is rewritten only when the post itself is replaced.

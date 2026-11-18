@@ -14,7 +14,7 @@ Uptake is high, and the thermal behaviour is the practical part. An insertion re
 
 Reversibility is what makes it a storage material rather than a getter. The framework has to release the ammonia on demand and return to its original structure, and the paper reports cycles that do so. A material that binds ammonia irreversibly is a scrubber, which is a different product.
 
-The stability question is the one the field will press. Ammonia is a small, polar, reactive molecule, and many frameworks hydrolyse or amorphise under it. The insertion mechanism avoids some of that chemistry by consuming the bond rather than exposing the metal site, and the reported crystallinity after cycling is the evidence.
+The stability question is the one the field will press. Ammonia is a small, polar, reactive molecule, and many frameworks hydrolyse or amorphize under it. The insertion mechanism avoids some of that chemistry by consuming the bond rather than exposing the metal site, and the reported crystallinity after cycling is the evidence.
 
 Engineering the bed is the remaining gap. A powder with a phase change has to be shaped into pellets that survive many cycles and conduct heat, and the volume change of insertion is a mechanical stress that a pellet may not tolerate. Those are the questions between a material and a tank. For ammonia's role in a low-carbon economy, the result is a candidate answer to the storage problem. If the material works at the pressures and temperatures of a real system, then ammonia becomes easier to keep, and a fuel that is hard to store is a fuel that stays in the chemical plant.
 

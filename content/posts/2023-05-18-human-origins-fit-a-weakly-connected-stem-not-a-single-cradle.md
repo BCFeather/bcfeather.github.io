@@ -12,7 +12,7 @@ In *Nature* on 17 May 2023, the cradle gives way to a network. The authors fit a
 
 Demographic inference is the method. The authors simulate genealogies under different structures, compute the genetic patterns each would produce, and compare them with data from living populations. The structure that matches is a weakly connected stem.
 
-Weakness of the connections is the point. A strongly connected network would homogenise the populations and a disconnected one would produce divergent lineages, so a weak connection reproduces both the shared ancestry and the differences. Dates form part of the result, because the earliest split the model supports falls between roughly 120,000 and 135,000 years ago, which places the divergence inside the range of the fossil record.
+Weakness of the connections is the point. A strongly connected network would homogenize the populations and a disconnected one would produce divergent lineages, so a weak connection reproduces both the shared ancestry and the differences. Dates form part of the result, because the earliest split the model supports falls between roughly 120,000 and 135,000 years ago, which places the divergence inside the range of the fossil record.
 
 Fossils supply the other constraint. Early Homo sapiens fossils appear across the continent rather than in one corner, and a model with several populations is consistent with that spread. Migration's pattern changes with the model, since a single origin implies one exit from Africa while a stem implies that the populations leaving carried a mixture, and that difference matters for interpreting ancient genomes outside Africa.
 

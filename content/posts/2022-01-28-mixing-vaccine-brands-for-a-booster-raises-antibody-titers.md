@@ -3,14 +3,14 @@ slug: "mixing-vaccine-brands-for-a-booster-raises-antibody-titers"
 title: "Mixing vaccine brands for a booster raises antibody titers"
 date: "2022-01-28T11:40:00+08:00"
 categories: [science]
-description: "Among 458 adults, heterologous boosters raised neutralising antibody titers by factors of 6 to 73, more than homologous boosters did."
+description: "Among 458 adults, heterologous boosters raised neutralizing antibody titers by factors of 6 to 73, more than homologous boosters did."
 ---
 
 Booster campaigns began with the assumption that the third dose should match the first two. That assumption is administrative as much as immunological, since a programme that mixes products must track more combinations, and the trials that would justify mixing were run late. The question mattered most for the adenovirus-vectored vaccine, whose protection against infection had fallen furthest. A programme that could mix products could protect those recipients without waiting for a matching supply.
 
 A phase 1-2 open-label trial at ten American sites enrolled 458 adults who had completed a primary regimen at least 12 weeks earlier and had no reported history of infection. Participants received one of three boosters: mRNA-1273 at 100 micrograms, Ad26.COV2.S at 5 times 10 to the tenth virus particles, or BNT162b2 at 30 micrograms. The results appeared in *The New England Journal of Medicine*, 26 January 2022.
 
-Neutralising titers against a D614G pseudovirus rose by a factor of 4 to 73 across all combinations, and binding titers rose by a factor of 5 to 55. Homologous boosters raised neutralising titers by a factor of 4 to 20, while heterologous boosters raised them by 6 to 73. Spike-specific T-cell responses increased in every group except those who received a homologous Ad26.COV2.S booster.
+Neutralising titers against a D614G pseudovirus rose by a factor of 4 to 73 across all combinations, and binding titers rose by a factor of 5 to 55. Homologous boosters raised neutralizing titers by a factor of 4 to 20, while heterologous boosters raised them by 6 to 73. Spike-specific T-cell responses increased in every group except those who received a homologous Ad26.COV2.S booster.
 
 The T-cell result is the more interesting half. CD8+ responses were more durable in recipients primed with Ad26.COV2.S, and heterologous boosting with Ad26.COV2.S substantially increased spike-specific CD8+ T cells in people primed with an mRNA vaccine. A viral vector presents antigen through a different route and a different innate context, which is why mixing can broaden a response that repeating the same product narrows. The pattern is consistent with the idea that a different presentation route recruits a different arm of the response.
 

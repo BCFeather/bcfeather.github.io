@@ -3,7 +3,7 @@ slug: "ivermectin-does-nothing-for-outpatients-with-covid"
 title: "Ivermectin does nothing for outpatients with COVID"
 date: "2022-03-31T13:40:00+08:00"
 categories: [science]
-description: "In a Brazilian platform trial of 679 patients given ivermectin and 679 given placebo, 14.7 and 16.3 per cent reached the composite of hospitalisation or an extended emergency visit, a relative risk of 0.90 with an interval crossing one."
+description: "In a Brazilian platform trial of 679 patients given ivermectin and 679 given placebo, 14.7 and 16.3 per cent reached the composite of hospitalization or an extended emergency visit, a relative risk of 0.90 with an interval crossing one."
 ---
 
 Ivermectin became a political object before it became an empirical one. Laboratory studies showed antiviral activity at concentrations far above those achieved in plasma, small trials reported benefits, and meta-analyses that pooled them produced a positive result that regulators declined to act on. The drug is cheap, widely available and off-patent, and those properties made it attractive in countries that could not buy antivirals and in movements that distrusted the agencies recommending them.

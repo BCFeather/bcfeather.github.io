@@ -10,7 +10,7 @@ Most transcription factors need open chromatin, and a nucleosome is closed. A sm
 
 Distortion is the binding mode. OCT4 contacts the nucleosome where the DNA's helical path is altered, and that alteration lets the factor read a sequence otherwise facing inward. Asymmetry is what the factor exploits, since a nucleosome has two faces and a dyad, and binding one face at a defined position gives a geometry sequence-specific recognition can use.
 
-Cooperation is the second result. SOX2 binds adjacent to OCT4, and the two stabilise a nucleosome conformation neither produces alone. Histone tails play the other half, because a factor's binding can displace a tail or change its contacts, and these structures show a tail repositioned rather than evicted.
+Cooperation is the second result. SOX2 binds adjacent to OCT4, and the two stabilize a nucleosome conformation neither produces alone. Histone tails play the other half, because a factor's binding can displace a tail or change its contacts, and these structures show a tail repositioned rather than evicted.
 
 Mechanism for pioneering follows. A factor binding a closed nucleosome can recruit remodellers and open the site, and the structure shows where recruitment would happen. Affinity is modest by design, since a pioneer binds weakly and transiently, which lets it sample many sites and open the ones that matter.
 

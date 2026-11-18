@@ -6,7 +6,7 @@ categories: [science]
 description: "Across 1,615 recordings from 410 people in 21 societies, infant-directedness was reliably classified from acoustics alone, and 51,065 listeners from 187 countries judged it better than chance regardless of whether they shared a language with the speaker."
 ---
 
-A voice that an adult uses with a baby is slower, higher and more melodic than the voice used with another adult, and the pattern has been documented in every society where anyone has looked. Whether the pattern is language-specific or whether it can be recognised across languages is a separate question. A voice that is slower and higher is a voice that carries prosody and not words, and prosody is the channel that a preverbal listener can use.
+A voice that an adult uses with a baby is slower, higher and more melodic than the voice used with another adult, and the pattern has been documented in every society where anyone has looked. Whether the pattern is language-specific or whether it can be recognized across languages is a separate question. A voice that is slower and higher is a voice that carries prosody and not words, and prosody is the channel that a preverbal listener can use.
 
 Recording covered 1,615 vocalizations of infant-directed and adult-directed speech and song from 410 people in 21 urban, rural and small-scale societies, and tested whether infant-directedness could be classified from acoustic features alone. The paper appeared in *Nature Human Behaviour*, 18 July 2022. A set of 21 societies is large enough to test a claim about universality, and the small-scale societies are the cases that a Western undergraduate sample cannot supply.
 

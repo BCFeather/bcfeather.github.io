@@ -3,7 +3,7 @@ slug: "a-conflict-about-income-and-happiness-ends-in-a-joint-curve"
 title: "Income and happiness end up on one curve"
 date: "2023-03-09T09:15:00+08:00"
 categories: [science]
-description: "Two researchers whose earlier papers disagreed analyze a larger body of data and find that well-being rises with income across the range, with a plateau only among the least happy respondents."
+description: "Two researchers whose earlier papers disagreed analyse a larger body of data and find that well-being rises with income across the range, with a plateau only among the least happy respondents."
 ---
 
 

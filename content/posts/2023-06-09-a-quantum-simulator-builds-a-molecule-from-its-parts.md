@@ -14,7 +14,7 @@ Molecular analogy is the point. A molecule's electrons occupy orbitals that are 
 
 Spectroscopy supplies the measurement. The authors map energy levels and their spatial character, and that map is evidence that the simulator's states correspond to the molecule's. Readout is the technical achievement, since a spectrum comes from tunnelling spectroscopy, and a spatial map of a state needs a probe resolving position as well as energy.
 
-Scaling sets the limitation. A molecule with many electrons needs many sites, and a simulator's size is bounded by coherence and by control, so a larger array decoheres faster and the reported systems stay small. Disorder is the enemy of the mapping, because an array with site-to-site variation has a spectrum no ideal molecule has, and characterisation of that disorder bounds the fidelity.
+Scaling sets the limitation. A molecule with many electrons needs many sites, and a simulator's size is bounded by coherence and by control, so a larger array decoheres faster and the reported systems stay small. Disorder is the enemy of the mapping, because an array with site-to-site variation has a spectrum no ideal molecule has, and characterization of that disorder bounds the fidelity.
 
 Absence of approximation is the advantage. A numerical calculation of a molecule's correlations truncates them and a simulator does not. Verification is the comparison with theory, since a simulator agreeing with a calculation is one whose mapping is correct, and that agreement is the paper's test.
 

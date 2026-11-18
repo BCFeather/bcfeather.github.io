@@ -12,7 +12,7 @@ Selectivity is the prize. A receptor that couples to both a G protein that promo
 
 The mechanism is conformational. An allosteric ligand stabilizes a shape of the receptor, and the shape determines which G protein's interface fits. The paper's structural and pharmacological data show that the shift is real and that it is produced by the ligand rather than by the cell's background.
 
-The therapeutic argument is about side effects. Many GPCR drugs fail because the subtype they activate is not the one that produces the benefit, and a bias towards the useful subtype would separate the two. The paper's demonstration is in one receptor, and the question is whether the principle generalises to the hundreds of receptors that share the architecture.
+The therapeutic argument is about side effects. Many GPCR drugs fail because the subtype they activate is not the one that produces the benefit, and a bias towards the useful subtype would separate the two. The paper's demonstration is in one receptor, and the question is whether the principle generalizes to the hundreds of receptors that share the architecture.
 
 What limits the result is potency and specificity. An allosteric site is less conserved than the orthosteric pocket, which helps specificity and complicates design, and the molecules reported are tools rather than candidates. A drug would need to work at a dose that a patient can take and to hold the shift under the receptor's natural fluctuations.
 

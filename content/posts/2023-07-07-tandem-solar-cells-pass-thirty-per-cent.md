@@ -12,7 +12,7 @@ Light management is the solution there. A textured surface and a reflective back
 
 Perovskite's bandgap is the tuning knob. A gap near 1.7 electronvolts matches the silicon below, and a composition reaching that gap is the material's job. Uniformity is the material's problem, because a mixed-halide film can phase-separate under illumination, and a separated film has two gaps and one current.
 
-Interface carries the stability problem. A perovskite on rough silicon has a contact that degrades, and the second paper's treatment of that interface is the fix. Thermal budget constrains the process, since the silicon cell's metallisation is already in place, and a perovskite deposited above it must be processed below the temperature that would damage it.
+Interface carries the stability problem. A perovskite on rough silicon has a contact that degrades, and the second paper's treatment of that interface is the fix. Thermal budget constrains the process, since the silicon cell's metallization is already in place, and a perovskite deposited above it must be processed below the temperature that would damage it.
 
 Certified measurement settles credibility. A result from an independent laboratory is the number the field accepts, and both papers report certified values at a reference spectrum and temperature. Scale sets the limitation, as a cell of one square centimetre is not a module, and a module's efficiency falls with interconnect and edge losses.
 

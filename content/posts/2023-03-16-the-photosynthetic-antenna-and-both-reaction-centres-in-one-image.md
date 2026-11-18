@@ -12,7 +12,7 @@ In *Nature* on 15 March 2023, that arrangement is shown. The authors use cryo-el
 
 Coupling is the key observation. The phycobilisome contacts photosystem II directly and reaches photosystem I through other components of the membrane, so one antenna can feed both centres, and the geometry of the contact sets the ratio of energy that each receives.
 
-Because a complex purified in detergent loses the membrane's organisation and an antenna detached from its partners reports its own structure rather than its wiring, the word that matters is in situ, and tomography keeps the wiring. Distance supplies the parameter that transfer depends on, since a few nanometres of gap changes the coupling, and the measurements put a number on a gap previously estimated from spectroscopy.
+Because a complex purified in detergent loses the membrane's organization and an antenna detached from its partners reports its own structure rather than its wiring, the word that matters is in situ, and tomography keeps the wiring. Distance supplies the parameter that transfer depends on, since a few nanometres of gap changes the coupling, and the measurements put a number on a gap previously estimated from spectroscopy.
 
 Regulation follows from the architecture. A cell that can shift the antenna's output between two photosystems can balance the two halves of the electron transport chain, and the paper supplies the structural basis for that balance. Preparation is the technical achievement, as a chloroplast membrane has to be vitrified without ice crystals and the phycobilisome has to stay attached through the process, and preserving both is what makes the in situ claim credible.
 

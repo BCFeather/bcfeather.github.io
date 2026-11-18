@@ -12,7 +12,7 @@ Mechanism turns out transcriptional. The RNA binds a protein that would otherwis
 
 Tissue specificity is the appeal. An RNA acting in fat and not in liver is a target with a narrow effect, and a drug mimicking it would have fewer systemic consequences. Metabolism is measurable here. Calorimetry and body composition show the lean mice eat the same and expend more, which places the effect in energy expenditure; a metabolic cage measures oxygen consumption and carbon dioxide production, and the ratio names the substrate being burnt.
 
-Depot matters as well. Visceral and subcutaneous fat behave differently, and measuring each is what localises the effect, while the cellular context is the adipose stem cell, because a depot grows both by expanding adipocytes and by recruiting new ones.
+Depot matters as well. Visceral and subcutaneous fat behave differently, and measuring each is what localizes the effect, while the cellular context is the adipose stem cell, because a depot grows both by expanding adipocytes and by recruiting new ones.
 
 Human relevance stays open. A homologous RNA would be a target, and conservation between mouse and human is the evidence that its function carries over. Delivery is the obstacle. An RNA drug must reach the tissue, and adipose-targeted delivery is a problem the field has not solved; a chemically modified RNA reaches the liver easily, and reaching fat needs a carrier still under development.
 

@@ -8,7 +8,7 @@ description: "Compiling spectra across cuprate families links the energy needed 
 
 The cuprates have been the central problem of unconventional superconductivity for decades, and their transition temperatures cluster in a range no composition has escaped. Whether that ceiling is chemical or fundamental is a question with consequences for the search. In *Science* on 14 July 2023, it is argued to be electronic. The authors correlate the charge-transfer gap, the energy needed to move an electron from a ligand to a metal, with the maximum transition temperature across a family of cuprates, and find a relation.
 
-Correlation is the finding. A larger gap corresponds to a lower ceiling, and the relation holds across compositions and structural families. Physical meaning is the cost of charge transfer, since a cuprate's superconductivity involves electrons shared between copper and oxygen, and a large gap localises them and weakens the sharing.
+Correlation is the finding. A larger gap corresponds to a lower ceiling, and the relation holds across compositions and structural families. Physical meaning is the cost of charge transfer, since a cuprate's superconductivity involves electrons shared between copper and oxygen, and a large gap localizes them and weakens the sharing.
 
 Mechanism is a competition. Superconductivity in these materials depends on mixing between copper's orbitals and oxygen's, and a gap too large reduces the mixing pairing requires. Design rule follows. A material with a smaller gap is a candidate for a higher ceiling, and the gap is measurable before a synthesis is attempted.
 

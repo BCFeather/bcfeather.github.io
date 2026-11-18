@@ -10,7 +10,7 @@ A delivery order often arrives with a set of plastic cutlery nobody asked for, a
 
 Tested in *Science* on 8 September 2023, the intervention runs on a large platform, where the cutlery default is set to none and a small award of green points is offered for keeping it that way. Reduction is the result. The share of orders without cutlery rises sharply, and the estimate of plastic avoided is the environmental consequence the authors compute from the order count.
 
-Design supplies the strength. A randomised experiment across millions of users is a test at platform scale, and randomisation is what makes the effect causal rather than a correlation with conscientious customers. Platform scale is also the power, because a million users yield a precise estimate where a laboratory study would miss a small effect.
+Design supplies the strength. A randomized experiment across millions of users is a test at platform scale, and randomization is what makes the effect causal rather than a correlation with conscientious customers. Platform scale is also the power, because a million users yield a precise estimate where a laboratory study would miss a small effect.
 
 Mechanism runs through the default. A customer who must opt out must act, and the cost of that action is the inertia the default exploits; the choice point sits on the confirmation screen, and its position there is the whole intervention.
 

@@ -8,7 +8,7 @@ description: "The nerve net of a ctenophore is a syncytium in which neurons fuse
 
 
 
-Nervous systems are built from neurons, and neurons are cells that talk across gaps. The synapse is the textbook's unit, and the textbook's first chapter is a single cell that became specialised for signalling.
+Nervous systems are built from neurons, and neurons are cells that talk across gaps. The synapse is the textbook's unit, and the textbook's first chapter is a single cell that became specialized for signalling.
 
 In *Science* on 21 April 2023, that chapter is complicated. The authors describe the nerve net of a ctenophore, a marine invertebrate, and find that its neurons fuse into a syncytial network in which cytoplasm is continuous, so signals travel through connected cells rather than across synapses.
 
