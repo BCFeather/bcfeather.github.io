@@ -168,6 +168,14 @@ A colon title is welcome where it carries both object and angle, and colon title
 * *Quoted title converted*: `'Dahomey'` → *Dahomey*
 * *Parts left roman*: the third season, track 2, the Palme d'Or, the studio's campaign
 
+**9.5 Newspapers and magazines.** A newspaper or a magazine carries a masthead, and its title takes the italics of §9.1 on the same terms: the whole title is italic, and the article the masthead carries stays capitalized inside the italics. The italics belong to the title of the publication and not to the body that owns it, so a name acting as a wire service, a broadcaster, a data provider, an index, a ranking or a parent company stays roman. A publication used as a modifier is rewritten rather than left with its article stranded outside the italics, because a lower-case `the` beside an italic masthead reads as a broken tag.
+
+* *Masthead with its article inside*: *The Wall Street Journal*, *The New York Times*, *The Economist*
+* *Masthead without an article*: *Financial Times*, *El País*, *Politico*
+* *Body, roman*: Reuters, Bloomberg, Associated Press, CNN, BBC
+* *Index and ranking, roman*: the Nikkei 225, the Caixin manufacturing index, the Fortune 500
+* *Modifier rewritten*: `the Wall Street Journal reporter` → `the reporter, Evan Gershkovich of *The Wall Street Journal*`
+
 ## 10. Notation
 
 Anything carrying a subscript, a superscript, scientific notation or an index is set in TeX rather than typed with underscores, carets or spelled-out powers. Plain numbers, percentages and units in running text take no TeX and should not be given it.
@@ -261,7 +269,7 @@ Where a push is rejected, the branch is fetched and rebased before pushing again
 
 **14.2 Checklist.** Form, per file: five to seven paragraphs and 480 to 625 words; at most two paragraphs opening on `The`; openers varied in shape, with no two of one shape and none padded; titles opening on a bare article kept within the limit, titles carrying nothing that would need italics, and colon titles within a fifth of the batch; one unquoted category from the nine, with the front matter keys in order and the description free of notation and set in the italics of §9, and with the venue not always closing the post.
 
-Typography, per file: journal titles italic with their article inside the italics; gene symbols italic, proteins roman, binomials italic, higher taxa roman; symbols and indexed quantities in TeX with plain numbers left alone; four-digit numerals separated by commas, years and codes excepted; statistical symbols (`P` and `n`) italic; compound unit symbols spaced (`mA h`, `kW h`); `-ize` and `-yse` as in §12, with proper names keeping official spelling; straight quotes, singles outside and doubles inside, and no em or en dash in prose; `towards`, `per cent` and British vocabulary; house names as in §13.
+Typography, per file: journal titles italic with their article inside the italics, newspaper and magazine mastheads on the same terms, with agencies and indexes left roman; gene symbols italic, proteins roman, binomials italic, higher taxa roman; symbols and indexed quantities in TeX with plain numbers left alone; four-digit numerals separated by commas, years and codes excepted; statistical symbols (`P` and `n`) italic; compound unit symbols spaced (`mA h`, `kW h`); `-ize` and `-yse` as in §12, with proper names keeping official spelling; straight quotes, singles outside and doubles inside, and no em or en dash in prose; `towards`, `per cent` and British vocabulary; house names as in §13.
 
 Substance, per file: every figure traced to the primary record; borrowed facts marked as reported and borrowed wording short, with no outlet named anywhere in the body and no agent phrase crediting one; the subject either unreported or told from an angle the coverage did not take, with the opening saying what the post adds; a limitations movement present; no reproduced figure or screenshot. Per batch: venues placed in at least three different positions across four posts.
 
