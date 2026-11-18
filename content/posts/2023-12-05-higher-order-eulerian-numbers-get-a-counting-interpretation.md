@@ -3,7 +3,7 @@ slug: "higher-order-eulerian-numbers-get-a-counting-interpretation"
 title: "Higher-order Eulerian numbers get a counting interpretation"
 date: "2023-12-05T09:20:00+08:00"
 categories: [science]
-description: "A family of *m*th order Eulerian numbers is defined by counting permutations against a pattern of runs, and the recurrence, generating function and closed form all follow, with the second order reproducing a known identity with Stirling numbers."
+description: "A family of higher-order Eulerian numbers is defined by counting permutations against a pattern of runs, and the recurrence, generating function and closed form all follow, with the second order reproducing a known identity with Stirling numbers."
 ---
 
 Eulerian numbers count permutations by their number of descents, and the triangle they form has been studied since Euler. A second-order version appears in the literature on increasing trees and on Stirling permutations, and the definitions used there were built for the application at hand, with labels and conventions that suit it. Higher orders have been introduced separately in several places, with conventions that do not agree, so a statement that covers all of them has been difficult to make and comparisons between papers have been easy to get wrong.
