@@ -9,7 +9,7 @@ description: "The F-box domain of Met30 binds cadmium with a dissociation consta
 
 Ubiquitin ligases are the machinery that decides which proteins get destroyed, and the largest family of them is built on a shared scaffold. Skp1, cullin 1 and an F-box protein assemble into an SCF complex, and the F-box domain has had exactly one job in the textbooks: it grips Skp1 and holds the substrate receptor in place. A paper in *Nature Communications* on 14 May 2024 gives that domain a second job, as a sensor for a toxic metal.
 
-The work concerns Met30, the F-box protein of the SCF complex that controls sulfur metabolism in budding yeast. When cadmium enters the cell, the F-box domain binds it, and several highly conserved cysteine residues take part. The measured dissociation constant is about \(K_\mathrm{D} = 8\ \mu\mathrm{M}\), a value in the range that a cellular stress response can use.
+The work concerns Met30, the F-box protein of the SCF complex that controls sulfur metabolism in budding yeast. When cadmium enters the cell, the F-box domain binds it, and several highly conserved cysteine residues take part. The measured dissociation constant, \(K_\mathrm{D}\), is about 8 µM, a value in the range that a cellular stress response can use.
 
 Binding does something structural. The domain changes shape in a way that licenses autoubiquitylation of Met30 itself, and the ubiquitin chain that results is recognised by Cdc48, the segregase also known as p97 or VCP. That ATPase pulls the modified protein out of the complex, and the SCF assembly comes apart.
 
