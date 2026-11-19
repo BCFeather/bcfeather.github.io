@@ -11,7 +11,7 @@ Pyroclastic density currents are the deadliest thing a volcano does. They are mi
 
 A paper in *Nature Communications* on 9 May 2024 measures it. The authors built a laboratory apparatus that shears real gas-pyroclast mixtures at the concentrations and strain rates found in the dense to intermediate part of a pumice-rich current, and recorded how the material responded.
 
-Response here is decidedly non-Newtonian. Three regimes appear. At low stress the mixture carries a yield strength and stops, which is where deposition begins. At intermediate stress it shear-thins, so that faster patches resist less than slow ones and the flow organizes into channels with locally higher velocity. At high stress it shear-thickens, so that rapid shearing raises resistance, the mixture decouples, and ash can rise into a co-current plume above the ground-hugging part.
+Response here is decidedly non-Newtonian, and it divides by stress. At low stress the mixture carries a yield strength and stops, which is where deposition begins. At intermediate stress it shear-thins, so that faster patches resist less than slow ones and the flow organizes into channels with locally higher velocity. At high stress it shear-thickens, so that rapid shearing raises resistance, the mixture decouples, and ash can rise into a co-current plume above the ground-hugging part.
 
 Condensing the three regimes into one map is the paper's second contribution. into a single diagram in dimensionless stress and strain rate. The diagram is the practical product, since it lets a modeller place a current on the map and see which behaviour dominates, and it allows a current to cross from one regime to another as it travels and loses energy.
 

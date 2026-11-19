@@ -6,7 +6,7 @@ categories: [science]
 description: "Experiments with single-celled aquatic organisms show that the transition to multicellularity can proceed by three distinct routes, including combinations of the two pathways that were thought to be mutually exclusive."
 ---
 
-The transition to multicellularity has happened at least twenty-five times, which makes it one of the most repeated innovations in the history of life and one of the most studied. Two routes were known. In the first, a single cell divides repeatedly and stays together, producing a body of genetically identical cells. In the second, independent cells aggregate, producing a body of genetically diverse ones. The two were thought to be alternatives that rarely mix.
+The transition to multicellularity has happened at least twenty-five times, which makes it one of the most repeated innovations in the history of life and one of the most studied. One known route has a single cell divide repeatedly and stay together, producing a body of genetically identical cells. The other has independent cells aggregate, producing a body of genetically diverse ones. The two were thought to be alternatives that rarely mix.
 
 Brunet and colleagues tested that assumption with a set of small aquatic organisms that sit close to the boundary between single-celled and multicellular life. The experiments follow populations through the transition and characterize the bodies that form, and the paper reports three distinct routes, two of which correspond to the known pathways and one of which combines them. The work appeared in *Nature* on 26 February as an open-access article.
 

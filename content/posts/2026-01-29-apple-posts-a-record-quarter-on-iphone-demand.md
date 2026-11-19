@@ -12,7 +12,7 @@ The iPhone supplied the growth. Sales were 85.27 billion dollars, a rise of 23 p
 
 Services reached an all-time record of 30 billion dollars, up 14 per cent, and the installed base passed 2.5 billion active devices. Services is the part of the business with the margins that investors pay for, and the installed base is the number that determines how much room remains. A base of that size growing at all is a better signal than a single quarter of app store revenue.
 
-Two categories declined. Mac revenue fell to 8.39 billion dollars from 8.99 billion, and wearables, home and accessories fell to 11.49 billion from 11.75 billion. Neither decline is dramatic, and both were attributed to the timing of product refreshes and not to weak demand, and that is the explanation companies offer when the comparison base was strong and the calendar did not help.
+Mac revenue fell to 8.39 billion dollars from 8.99 billion, and wearables, home and accessories fell to 11.49 billion from 11.75 billion. Neither decline is dramatic, and both were attributed to the timing of product refreshes and not to weak demand, and that is the explanation companies offer when the comparison base was strong and the calendar did not help.
 
 Cash generation remained the defining feature. Operating cash flow was close to 54 billion dollars, and the company returned almost 32 billion to shareholders during the quarter. The board declared a dividend of 0.26 dollars per share, payable on 12 February to shareholders of record on 9 February, a figure that has become a formality and that still costs the company several billion dollars a year.
 
