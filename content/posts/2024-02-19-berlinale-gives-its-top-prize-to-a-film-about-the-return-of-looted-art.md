@@ -6,7 +6,7 @@ categories: [culture]
 description: "Mati Diop took the Golden Bear for a documentary about the restitution of treasures from a Paris museum to the country they were taken from."
 ---
 
-Berlin's film festival awarded its Golden Bear on 24 February to 'Dahomey', a documentary by Mati Diop about the return of twenty-six objects that French soldiers took from the kingdom that is now Benin in 1892. The director is the niece of the musician whose work has been sampled across the world, and this was her second feature. The director is the niece of the musician whose work has been sampled across the world, and this was her second feature.
+Berlin's film festival awarded its Golden Bear on 24 February to *Dahomey*, a documentary by Mati Diop about the return of twenty-six objects that French soldiers took from the kingdom that is now Benin in 1892. The director is the niece of the musician whose work has been sampled across the world, and this was her second feature. The director is the niece of the musician whose work has been sampled across the world, and this was her second feature.
 
 Built around the journey rather than the ceremony, the film follows the crates from the museum in Paris to the airport and to the display in the country that received them. It follows the crates from the museum in Paris to the airport and to the display in the country that received them, and it gives the objects a voice in a passage that the director wrote with a poet. A documentary that gives the artefact a voice is a film about who is allowed to speak. The objects are displayed in a museum that was built for them, and the film shows the visitors looking at the cases rather than at the labels.
 

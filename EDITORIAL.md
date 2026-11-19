@@ -133,7 +133,7 @@ The description is a sentence of narrative, not a citation. It says what happene
 
 A title names the finding, the object or the turn, and it is read in a list of thirty others. Plain noun phrases, verb phrases and clauses do the work. Titles opening on `A`, `An` or `The` are limited rather than banned, and the `A/The [noun] that [verb]` shape is avoided because it reads as a catalogue entry.
 
-A title is roman from the first word to the last. Anything the body would have to italicize — a journal title, a gene symbol, a Latin binomial, a variable, an algebraic formula — is kept out of the title rather than set in a form that cannot carry it. A formula in a title is a sign that the title is naming the notation instead of the finding.
+A title is roman from the first word to the last. Anything the body would have to italicize — a journal title, the title of a work, a gene symbol, a Latin binomial, a variable, an algebraic formula — is kept out of the title rather than set in a form that cannot carry it. A formula in a title is a sign that the title is naming the notation instead of the finding.
 
 * *Verb clause*: `Bicarbonate does not save lives in acidotic shock`
 * *Subject and process*: `Warming turns wetlands from a sink into a source`
@@ -165,6 +165,22 @@ A colon title is welcome where it carries both object and angle, and colon title
 * *After the first mention*: *E. coli*
 * *Strain, roman*: *E. coli* K-12
 * *Higher taxon, roman*: Diptera
+
+**9.4 Works.** A work is italic when it is named: a film, a series or an episode, a book, an album, a song, a play, a documentary, a game. The title is italic as its owner writes it, and the article that belongs to the name stays inside the italics at whatever capital it carries, for the reason §9.1 gives about mastheads. A title that arrives in quotation marks loses the marks and takes the italics instead, because one mark cannot carry two meanings; a title already in italics keeps them. What is not the title stays roman: the season, the episode number, the track, the chart placing, the studio, the publisher, the prize, the festival. An article title is not a work of this kind and stays roman inside single quotes under §9.1. A work that §8 keeps out of a post's title stays out of it.
+
+* *Film*: *Oppenheimer*, *The Gray Man*, *Dahomey*
+* *Series*: *Stranger Things*, *Succession*, *Ted Lasso*
+* *Album and song*: *Renaissance*, *Voyage*, *Break My Soul*, *Now and Then*, *The Code*
+* *Quoted title converted*: `'Dahomey'` → *Dahomey*
+* *Parts left roman*: the third season, track 2, the Palme d'Or, the studio's campaign
+
+**9.5 Newspapers and magazines.** A newspaper or a magazine carries a masthead, and its title takes the italics of §9.1 on the same terms: the whole title is italic, and the article the masthead carries stays capitalized inside the italics. The italics belong to the title of the publication and not to the body that owns it, so a name acting as a wire service, a broadcaster, a data provider, an index, a ranking or a parent company stays roman. A publication used as a modifier is rewritten rather than left with its article stranded outside the italics, because a lower-case `the` beside an italic masthead reads as a broken tag.
+
+* *Masthead with its article inside*: *The Wall Street Journal*, *The New York Times*, *The Economist*
+* *Masthead without an article*: *Financial Times*, *El País*, *Politico*
+* *Body, roman*: Reuters, Bloomberg, Associated Press, CNN, BBC
+* *Index and ranking, roman*: the Nikkei 225, the Caixin manufacturing index, the Fortune 500
+* *Modifier rewritten*: `the Wall Street Journal reporter` → `the reporter, Evan Gershkovich of *The Wall Street Journal*`
 
 ## 10. Notation
 
@@ -253,13 +269,13 @@ A unit as a modifier stays singular, which is why a panel is described as `a 1,0
 
 ## 14. Production
 
-**14.1 Method.** For each batch: collect sources and hold a candidate list with journal, date and the figure the post will turn on, dropping a candidate whose figure cannot be verified; read the humanizer skill at `https://github.com/blader/humanizer/blob/main/SKILL.md` before drafting; write into `content/posts/<date>-<slug>.md` with the front matter order of §7; apply the checklist of 14.2 and repair the file rather than the checklist; build with `hugo --buildFuture --gc -d public` from the toolchain and run `python3 scripts/gen-json.py`, confirming that the search, featured and index counts move by exactly the number of posts added and that categories still report nine; open one or two rendered pages where a post carries formulas or unusual markup; commit `content/posts` and, where the change is technical, this manual and the static, layout or asset files, never the build output (`public/`, `_site/`, `vendor/`); push, wait for both workflows, then fetch each new URL once. A first failure followed by a success on the second attempt is a timeout; a persistent failure is a build fault to be fixed rather than retried.
+**14.1 Method.** For each batch: collect sources and hold a candidate list with journal, date and the figure the post will turn on, dropping a candidate whose figure cannot be verified; read the humanizer skill at `https://github.com/blader/humanizer/blob/main/SKILL.md` and the supplement at `EDITORIAL-AFFIRMATIVE.md` before drafting; write into `content/posts/<date>-<slug>.md` with the front matter order of §7; apply the checklist of 14.2 and repair the file rather than the checklist; build with `hugo --buildFuture --gc -d public` from the toolchain and run `python3 scripts/gen-json.py`, confirming that the search, featured and index counts move by exactly the number of posts added and that categories still report nine; open one or two rendered pages where a post carries formulas or unusual markup; commit `content/posts` and, where the change is technical, this manual and the static, layout or asset files, never the build output (`public/`, `_site/`, `vendor/`); push, wait for both workflows, then fetch each new URL once. A first failure followed by a success on the second attempt is a timeout; a persistent failure is a build fault to be fixed rather than retried.
 
 Where a push is rejected, the branch is fetched and rebased before pushing again. Where a workflow fails, the content is corrected and a new commit is pushed; failed jobs are not re-run on the old tree. History is not rewritten by amendment or force.
 
 **14.2 Checklist.** Form, per file: five to seven paragraphs and 480 to 625 words; at most two paragraphs opening on `The`; openers varied in shape, with no two of one shape and none padded; titles opening on a bare article kept within the limit, titles carrying nothing that would need italics, and colon titles within a fifth of the batch; one unquoted category from the nine, with the front matter keys in order and the description free of notation and set in the italics of §9, and with the venue not always closing the post.
 
-Typography, per file: journal titles italic with their article inside the italics; gene symbols italic, proteins roman, binomials italic, higher taxa roman; symbols and indexed quantities in TeX with plain numbers left alone; four-digit numerals separated by commas, years and codes excepted; statistical symbols (`P` and `n`) italic; compound unit symbols spaced (`mA h`, `kW h`); `-ize` and `-yse` as in §12, with proper names keeping official spelling; straight quotes, singles outside and doubles inside, and no em or en dash in prose; `towards`, `per cent` and British vocabulary; house names as in §13.
+Typography, per file: journal titles italic with their article inside the italics, newspaper and magazine mastheads on the same terms, with agencies and indexes left roman; gene symbols italic, proteins roman, binomials italic, higher taxa roman; symbols and indexed quantities in TeX with plain numbers left alone; four-digit numerals separated by commas, years and codes excepted; statistical symbols (`P` and `n`) italic; compound unit symbols spaced (`mA h`, `kW h`); `-ize` and `-yse` as in §12, with proper names keeping official spelling; straight quotes, singles outside and doubles inside, and no em or en dash in prose; `towards`, `per cent` and British vocabulary; house names as in §13.
 
 Substance, per file: every figure traced to the primary record; borrowed facts marked as reported and borrowed wording short, with no outlet named anywhere in the body and no agent phrase crediting one; the subject either unreported or told from an angle the coverage did not take, with the opening saying what the post adds; a limitations movement present; no reproduced figure or screenshot. Per batch: venues placed in at least three different positions across four posts.
 

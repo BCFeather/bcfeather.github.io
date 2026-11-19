@@ -6,7 +6,7 @@ categories: [culture]
 description: "The awards on 3 April spread the prizes across many artists."
 ---
 
-Olivia Rodrigo won best new artist, and her album took best pop vocal. The wins were spread. Foo Fighters won best rock album, and the band did not attend. Jazmine Sullivan won best R and B album, and her record had waited a decade. The ceremony's host said the night had belonged to the newcomers. The ceremony drew 9 million viewers in Las Vegas. Silk Sonic won record and song of the year for Leave the Door Open. Twenty six categories were handed out on the night, and 60 before the show. The record had been written during the lockdown.
+Olivia Rodrigo won best new artist, and her album took best pop vocal. The wins were spread. Foo Fighters won best rock album, and the band did not attend. Jazmine Sullivan won best R and B album, and her record had waited a decade. The ceremony's host said the night had belonged to the newcomers. The ceremony drew 9 million viewers in Las Vegas. Silk Sonic won record and song of the year for *Leave the Door Open*. Twenty six categories were handed out on the night, and 60 before the show. The record had been written during the lockdown.
 
 Batiste carried the night. He had been nominated 11 times, and he won for his album and his score. He said the record had taken five years, and that his family had played in the band. He played a song on the piano during the show. Olivia Rodrigo won best new artist, and her album took best pop vocal. Foo Fighters won best rock album without attending. Jazmine Sullivan won best R and B album after a decade of waiting. The awards were voted by 10,000 members. The ceremony honoured the artists who had died in the year.
 

@@ -12,7 +12,7 @@ Subscribers grew. The company added about 5.9 million paid accounts, mostly outs
 
 Prices rose. The company has raised the prices in about 30 countries this year, and the average revenue per the member rose by about 5 per cent on the constant currency. The management said the price increases had produced little churn in the markets where the content was strong. The revenue per the member in the United States and Canada was about 16 dollars a month, up about 6 per cent.
 
-Content was thin. The quarter had few of the large releases because of the writers' strike, and the slate for the second half has been cut. The company said the strike would shift about 2 billion dollars of the spending into the next year, and the schedule would slip. The company has about 20 of the large titles planned for the second half, including the new season of the Stranger Things.
+Content was thin. The quarter had few of the large releases because of the writers' strike, and the slate for the second half has been cut. The company said the strike would shift about 2 billion dollars of the spending into the next year, and the schedule would slip. The company has about 20 of the large titles planned for the second half, including the new season of the *Stranger Things*.
 
 Its advertising tier grew. The cheaper plan with the ads was about 15 per cent of the new sign-ups in the markets where it was offered, and the company said the revenue per the user was about the same as the standard plan once the ads were counted. The advertising tier had about 5 million users at the end of the quarter, and the company said the number would double next year.
 
