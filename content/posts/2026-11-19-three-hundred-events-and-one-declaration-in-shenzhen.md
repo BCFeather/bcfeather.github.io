@@ -1,7 +1,7 @@
 ---
 slug: "three-hundred-events-and-one-declaration-in-shenzhen"
 title: "Three hundred events and one declaration in Shenzhen"
-date: "2026-11-19T10:15:00+08:00"
+date: "2026-11-19T09:50:00+08:00"
 categories: [news]
 description: "APEC's leaders meet in Shenzhen at the end of a year of committee documents, and the host convenes the first face-to-face meeting of the Chinese, Russian and American presidents on the forum's margin."
 ---
