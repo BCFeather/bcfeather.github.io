@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://bcfeather.github.io/</id>
+  <title>BlogFeather</title>
+  <subtitle>Your view also matters.</subtitle>
+  <updated>2026-11-20T18:51:54&#43;00:00</updated>
+  <author>
+    <name>Caozhe Bao</name>
+    <uri>https://bcfeather.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://bcfeather.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en" href="https://bcfeather.github.io/"/>
+  <generator uri="https://gohugo.io/">Hugo</generator>
+  <rights>© 2026 Caozhe Bao</rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <entry>
+    <title>Claude and Alpöge claim the Riemann Hypothesis, and the proof exists only as code</title>
+    <link href="https://bcfeather.github.io/posts/claude-and-alpoge-claim-the-riemann-hypothesis-and-the-proof-exists-only-as-code/" rel="alternate" type="text/html" title="Claude and Alpöge claim the Riemann Hypothesis, and the proof exists only as code"/>
+    <published>2026-11-21T02:40:00&#43;08:00</published>
+    <updated>2026-11-21T02:40:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/claude-and-alpoge-claim-the-riemann-hypothesis-and-the-proof-exists-only-as-code/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="science"/>
+    <summary>A four-page note from an Anthropic mathematician says he and Claude settled the Riemann Hypothesis and its general form in six weeks, and offers 17 million lines of Lean in place of a paper that no reader, including its author, has yet worked through.</summary>
+  </entry>
+  <entry>
+    <title>Anthropic lists at $1.5 trillion, and the first-day gain halves by the close</title>
+    <link href="https://bcfeather.github.io/posts/anthropic-lists-at-a-trillion-and-a-half-and-the-pop-fades/" rel="alternate" type="text/html" title="Anthropic lists at $1.5 trillion, and the first-day gain halves by the close"/>
+    <published>2026-11-20T09:40:00&#43;08:00</published>
+    <updated>2026-11-20T09:40:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/anthropic-lists-at-a-trillion-and-a-half-and-the-pop-fades/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="business"/>
+    <summary>The Claude maker sold 980 million shares at 83 dollars, raised 107.3 billion dollars once the chipmakers' side deal is counted, and closed its first session 17 per cent above the offer.</summary>
+  </entry>
+  <entry>
+    <title>At Ignite 2026, the meter sits next to the model</title>
+    <link href="https://bcfeather.github.io/posts/ignite-2026-the-meter-next-to-the-model/" rel="alternate" type="text/html" title="At Ignite 2026, the meter sits next to the model"/>
+    <published>2026-11-19T18:15:00&#43;08:00</published>
+    <updated>2026-11-19T18:15:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/ignite-2026-the-meter-next-to-the-model/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="technology"/>
+    <summary>Microsoft's Ignite keynote put 50 million registered agents beside a product that prices them, with the Copilot forms, models and Azure silicon filling in the supply side.</summary>
+  </entry>
+  <entry>
+    <title>Three presidents in one room on the last afternoon of APEC</title>
+    <link href="https://bcfeather.github.io/posts/the-first-meeting-of-three-presidents/" rel="alternate" type="text/html" title="Three presidents in one room on the last afternoon of APEC"/>
+    <published>2026-11-19T17:05:00&#43;08:00</published>
+    <updated>2026-11-19T17:05:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/the-first-meeting-of-three-presidents/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="news"/>
+    <summary>The three presidents met in Shenzhen on the closing afternoon of the APEC week, and the record they left was words, with the paper sitting in the bilateral meetings beside it.</summary>
+  </entry>
+  <entry>
+    <title>Who counts as family when a life is at stake</title>
+    <link href="https://bcfeather.github.io/posts/who-counts-as-family-when-a-life-is-at-stake/" rel="alternate" type="text/html" title="Who counts as family when a life is at stake"/>
+    <published>2026-11-19T09:35:00&#43;08:00</published>
+    <updated>2026-11-19T09:35:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/who-counts-as-family-when-a-life-is-at-stake/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="essay"/>
+    <summary>The lists that decide who may speak for an unconscious patient, inherit a tenancy or arrange a funeral were written for married households, and the households have changed.</summary>
+  </entry>
+  <entry>
+    <title>Voyager 1 is a light-day out, and every reply now takes a day</title>
+    <link href="https://bcfeather.github.io/posts/voyager-1-passes-a-light-day-from-earth/" rel="alternate" type="text/html" title="Voyager 1 is a light-day out, and every reply now takes a day"/>
+    <published>2026-11-18T16:45:00&#43;08:00</published>
+    <updated>2026-11-18T16:45:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/voyager-1-passes-a-light-day-from-earth/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="science"/>
+    <summary>At 10:16 UTC the probe crossed 173 astronomical units, the first human-made object one light-day from Earth, and a command sent today will not be answered until tomorrow.</summary>
+  </entry>
+  <entry>
+    <title>Career vetoes explain half of China&#39;s 1990s fertility fall</title>
+    <link href="https://bcfeather.github.io/posts/career-vetoes-explain-half-china-1990s-fertility-fall/" rel="alternate" type="text/html" title="Career vetoes explain half of China&#39;s 1990s fertility fall"/>
+    <published>2026-11-18T11:40:00&#43;08:00</published>
+    <updated>2026-11-18T11:40:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/career-vetoes-explain-half-china-1990s-fertility-fall/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="society"/>
+    <summary>Variation in when Chinese officials faced a promotion veto over birth targets accounts for about 48 per cent of the fall in the total fertility rate during the 1990s.</summary>
+  </entry>
+  <entry>
+    <title>Tapirs and anteaters carry microplastics wherever they live</title>
+    <link href="https://bcfeather.github.io/posts/tapirs-and-anteaters-carry-microplastics-wherever-they-live/" rel="alternate" type="text/html" title="Tapirs and anteaters carry microplastics wherever they live"/>
+    <published>2026-11-18T09:20:00&#43;08:00</published>
+    <updated>2026-11-18T09:20:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/tapirs-and-anteaters-carry-microplastics-wherever-they-live/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="science"/>
+    <summary>Blood from 47 free-ranging Brazilian mammals averaged 73.8 microplastic particles per millilitre, including animals on a ranch with almost no human footprint.</summary>
+  </entry>
+  <entry>
+    <title>What a school counts and what it discounts: who&#39;s in charge?</title>
+    <link href="https://bcfeather.github.io/posts/what-a-school-counts-and-what-it-discounts/" rel="alternate" type="text/html" title="What a school counts and what it discounts: who&#39;s in charge?"/>
+    <published>2026-11-18T00:30:00&#43;08:00</published>
+    <updated>2026-11-18T00:30:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/what-a-school-counts-and-what-it-discounts/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="essay"/>
+    <summary>A collapse on the track, an ordinary fall on the same field and a mind under load all reach the same institution, and the same accounting habit decides which of them is recorded, investigated and prevented. More frightening still, the institutions and the people who should answer for any of them retreat, in some cases, behind a curtain of feigned ignorance.</summary>
+  </entry>
+  <entry>
+    <title>Three hundred events and one declaration in Shenzhen</title>
+    <link href="https://bcfeather.github.io/posts/three-hundred-events-and-one-declaration-in-shenzhen/" rel="alternate" type="text/html" title="Three hundred events and one declaration in Shenzhen"/>
+    <published>2026-11-17T19:20:00&#43;08:00</published>
+    <updated>2026-11-17T19:20:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/three-hundred-events-and-one-declaration-in-shenzhen/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="news"/>
+    <summary>APEC's leaders meet in Shenzhen at the end of a year of committee documents, and the host convenes the first face-to-face meeting of the Chinese, Russian and American presidents on the forum's margin.</summary>
+  </entry>
+</feed>
