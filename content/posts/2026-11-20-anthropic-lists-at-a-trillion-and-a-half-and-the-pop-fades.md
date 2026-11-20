@@ -1,0 +1,25 @@
+---
+slug: "anthropic-lists-at-a-trillion-and-a-half-and-the-pop-fades"
+title: "Anthropic lists at $1.5 trillion, and the first-day gain halves by the close"
+date: "2026-11-20T09:40:00+08:00"
+categories: [business]
+description: "The Claude maker sold 980 million shares at 83 dollars, raised 107.3 billion dollars once the chipmakers' side deal is counted, and closed its first session 17 per cent above the offer."
+---
+
+Anthropic priced 980 million Class A shares at 83 dollars on 18 November, above the 70 to 78 dollar range it had set at the start of the month, and the stock began trading on Nasdaq the next morning under the ticker ANT. The public offer raised 81.3 billion dollars, the largest on record and ahead of the 75 billion that SpaceX raised in June. The first trade printed at 111.50 dollars, 34 per cent above the offer, and the close was 97.17, up 17.07 per cent, which put the company's market value at 1.27 trillion dollars.
+
+Seven buyers had signed before the bell. NVIDIA, Microsoft, Google, TSMC, AMD, Broadcom and Micron took 26 billion dollars of Class N stock at the offer price, which brought the two transactions to 107.3 billion dollars; after 1.96 billion of shares sold by existing holders, the company keeps about 105.4 billion. The arrangement lowers debut risk and concentrates the register: the suppliers that sell Anthropic its chips now hold its equity.
+
+Demand ran to nearly six times the stock on offer, with institutions bidding about 400 billion dollars and retail investors close to 100 billion, according to people involved in the book. That appetite let the company raise both the price and the size, from 825 million shares to 980 million. At 83 dollars the fully diluted valuation is about 1.5 trillion dollars, below the 1.77 trillion that SpaceX carries privately, and the first-day close made Anthropic the twelfth-largest listed company in the United States, above Walmart and JPMorgan.
+
+Growth is what the buyers paid for. Revenue went from 41 million dollars in 2023 to 4.59 billion in 2025, and reached 33.2 billion in the first nine months of 2026, of which 17.0 billion came in the third quarter alone. More than half of the Fortune 500 now pay at least six figures a year, and it employs about 5,300 people. Claude Code, the agentic coding product rivals have spent the year copying, carries much of that demand.
+
+The reported loss is larger than the revenue and should be read with care. For the first half of 2026 the prospectus shows revenue of 16.3 billion dollars against a net loss of 80.75 billion. Of that loss, 72.39 billion is a fair-value charge on convertible notes, derivatives and SAFE instruments, which rises as the company's own valuation rises: the carrying value of Amazon's 6.2 billion dollar note went from 40 billion at the end of 2025 to 108.57 billion in June. Strip out 2.19 billion of share-based compensation and a 0.13 billion charitable transfer, and the half-year is a profit of 2.67 billion. The cash cost of computing sits elsewhere in the accounts, and it is the number that will matter in 2027.
+
+That cost has already been contracted. The prospectus lists 900.9 billion dollars of purchase and lease commitments for computing and infrastructure, 451.6 billion of it payable by the end of 2030, and the company says the proceeds are chiefly for more of the same. The argument behind the spending is what Anthropic calls a closure: each generation of Claude helps build the next one, compressing the cycle between a model and its successor. An outside evaluation group, METR, put a number on part of it and attributed about 80 per cent of a recent acceleration in the company's research to its own models being used internally.
+
+Control does not travel with the shares. Anthropic is incorporated as a public benefit corporation in Delaware and carries five classes of common stock. A Class T block held by a long-term benefit trust elects and removes the majority of the board, Class F shares held by seven co-founders lock up 50.1 per cent of the votes, and the Class A stock sold to the public and the Class N stock sold to the chipmakers cannot shift either. Nasdaq will treat the company as controlled, which exempts it from several board-independence rules.
+
+On the morning of the listing, about a hundred researchers and founders published an open letter arguing that a company which warns about recursive improvement should not sell it as a competitive advantage, and that Anthropic is not the steward it claims to be. The signatories span camps that agree on little else, among them George Hotz, Thomas Wolf of Hugging Face, Igor Babuschkin and Judea Pearl. Anthropic's own risk factors describe frontier models concentrating power and wealth, and unaligned ones corrupting institutional decisions, in language close to the letter's.
+
+What the first session settled is that the market will fund the bet; what it left open is the price of the bill. The stock gave back half its opening gain inside six hours, and the next test arrives with the first quarterly report, when the growth rate meets the computing commitments on one page.
