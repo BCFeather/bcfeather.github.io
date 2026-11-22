@@ -1,0 +1,19 @@
+---
+slug: "anthropics-second-session-ends-85-per-cent-lower-and-the-ai-trade-follows"
+title: "Anthropic's second session ends 8.5 per cent lower and the AI trade follows"
+date: "2026-11-21T09:20:00+08:00"
+categories: [business]
+description: "The record listing lost 8.5 per cent on its first full trading day, with the shares touching 83.05 dollars, five cents above the offer, and the sell-off spread through semiconductors and the wider Nasdaq."
+---
+
+Anthropic's first full trading day as a public company took the shares down 8.5 per cent to about 88.9 dollars, and at the worst moment they traded at 83.05, five cents above the 83 dollar offer price. The stock had opened at 111.50 on 19 November and closed its debut at 97.17, so anyone who bought at the bell is now down more than 20 per cent. The fall was not contained to one company: the Nasdaq composite lost about 5 per cent, the S&P 500 fell 3.7 per cent, the Dow 1.9 per cent, and the Philadelphia semiconductor index nearly 11 per cent. The VIX, the market's measure of expected volatility, closed at its highest since April last year.
+
+The arithmetic of the debut is worth stating plainly, because it explains the mood. The company sold 980 million shares at 83 dollars, raised 81.3 billion in the public offer and 107.3 billion once the private placement to seven chip and cloud suppliers is counted, and opened at a price 34 per cent above the offer. That first print put the fully diluted equity value near 1.5 trillion dollars. By the close of the second session it was about 1.6 trillion, against the two trillion that some underwriters had hoped to see on day one, and the offer price itself was within a few cents of the day's low.
+
+The sell-off carried a specific complaint rather than a general one. Investors accepted the size of the raise and the appetite that produced six times coverage; what they doubted was the conversion. Anthropic has commitments of 900.9 billion dollars for computing capacity, 451.6 billion of it due by the end of 2030, against revenue of 33.2 billion in the first nine months of 2026. The prospectus shows a business growing faster than any software company of its scale, and it also shows a company that has promised to spend more than it has earned for years to come. At 83 dollars the shares discount a great deal of that growth, and the market spent Friday deciding how much.
+
+Comparisons with earlier mega-listings were everywhere. SpaceX in June and Rivian in 2021 both opened far above their offers and gave the gains back within days, and the pattern is common enough that underwriters plan for it. What made this one consequential was its position in the calendar: the largest listing on record, arriving in a week when AI shares had already been falling, and priced after a roadshow that drew 400 billion dollars of institutional bids.
+
+The read-through to the rest of the sector is the part that matters beyond Anthropic. A company that raised more money than any other in history, with the largest order book of its kind, could not hold its first-day gain for 48 hours. If that is a comment on Anthropic's valuation, the next AI listing will be priced lower. If it is a comment on the cost of capital for the whole build-out, then the projects that depend on the same investors will find their financing dearer, and the companies that sell the chips into those projects will feel it first, which is roughly what the semiconductor index did.
+
+Nothing in the trading changes the mathematics that Alpöge published on the same weekend, and nothing in the mathematics changes the trading. The two stories will be told separately, one as a milestone in number theory and one as a test of what the market will pay for the largest AI company in the world. Both happened in the same week, and the second one was decided by people who had read the prospectus and not the proof.

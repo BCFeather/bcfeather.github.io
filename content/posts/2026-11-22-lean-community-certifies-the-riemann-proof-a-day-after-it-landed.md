@@ -1,0 +1,21 @@
+---
+slug: "lean-community-certifies-the-riemann-proof-a-day-after-it-landed"
+title: "Lean community certifies the Riemann proof a day after it landed"
+date: "2026-11-22T10:40:00+08:00"
+categories: [science]
+description: "Two days after Levent Alpöge posted his Lean library, the Lean and Mathlib communities declared the Riemann Hypothesis proved inside the system, closing the three ways a formal proof can fail: the statement, the build and the checker."
+---
+
+On the evening of 21 November, Beijing time, the Lean and Mathlib communities published a joint statement, endorsed by Lean FRO and the Mathlib Initiative, that Alpöge's library proves the Riemann Hypothesis. 'We have full confidence that Alpöge's proof of the Riemann Hypothesis is correct, and we congratulate him on this achievement,' the statement reads. The claim had been public for a little over a day.
+
+The statement is organised around four criteria, taken from a Xena Project post published on 12 November, and it certifies each of them. The theorem statement comes from Mathlib, the community library, where a definition named RiemannHypothesis has been reviewed by Lean and number theory experts. The library compiles: dozens of people rebuilt it without errors and produced the same raw proof export. The proved theorem matches that statement: the community wrote a file that imports only Mathlib, isolates the Riemann Hypothesis, and compared it with Alpöge's theorem through two independent tools, comparator and con-leche with its compare mode. And the proof itself is valid: the export was checked by Lean's official kernel, by the con-leche and con-ron checkers, and by checkers written by third parties in other programming languages.
+
+The last two checkers matter more than their names suggest. con-leche and con-ron carry a formal proof, relative to set theory, that they cannot accept a false proof, which addresses the objection that Lean's own logic might contain a flaw a proof could exploit. All of these runs were performed on an inert export of the proof, a file that cannot execute code, so a malicious line hidden in the source could not have influenced the checker. Andrew Sutherland, a number theorist at MIT, kept the running record, and reported that all 175,187 modules compiled, that the five main theorems rest on three standard axioms, and that two further independent kernels, nanoda and lean4lean, accepted the export.
+
+What a certificate has to rule out is now ruled out, mode by mode. A proof can compile while proving a different theorem, which the isolated-statement comparison rules out. It can rest on an extra axiom smuggled in as a hypothesis, which the axiom audit rules out. It can be correct inside a logic that is itself unsound, which the set-theoretic checkers rule out. What remains outside the certificate is scope: the argument covers the Generalized Riemann Hypothesis for Dirichlet L-functions, the family the note named, and leaves the Extended form for later work.
+
+Terence Tao had already written a short assessment on his blog. His first reading is that the argument draws on the full strength of recent work on the Langlands programme and in arithmetic geometry, and that a community effort to extract the strategy is under way in the Lean Zulip thread. He expects the digestion to take time, and he notes that this case has an advantage over a proof with no living author: there is someone to correspond with while the ideas are unpacked.
+
+Formal certification is not the same as acceptance. The Clay Mathematics Institute still lists the Riemann Hypothesis as open, and its rules ask for publication in a qualifying journal, two years of scrutiny and general acceptance before its committee will consider the prize. The community's own statement ends by looking forward to the work that will explain the new ideas, which is a modest way of saying that the mathematics has been verified and not yet understood.
+
+A reader who wants the mechanical side can follow Sutherland's log, where each row records a job and its verdict. The page reads like a build report, and that is the point: a claim that would once have needed a journal, three referees and a decade of gossip was settled, or at least certified, by a few dozen people rebuilding an archive over a weekend.
