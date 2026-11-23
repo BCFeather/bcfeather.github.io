@@ -1,0 +1,19 @@
+---
+slug: "eleven-days-after-a-resignation-nvidia-votes-its-founder-back"
+title: "Eleven days after a resignation, NVIDIA's board votes its founder back"
+date: "2026-11-23T22:50:00+08:00"
+categories: [business]
+description: "NVIDIA's board voted unanimously to restore Jensen Huang as president and chief executive eleven days after accepting his resignation, and set a government input and a national-security finding beside the vote in its own announcement."
+---
+
+Eleven days after accepting his resignation, the board of NVIDIA voted unanimously on 23 November to restore Jensen Huang as president, chief executive and director. The announcement carried the basis of the reversal beside the vote: a series of discussions with him had left the board satisfied with his candor and his ability to lead the company, and the board had received input from senior levels of the United States government, on which it concluded that his reinstatement posed no national security risk.
+
+When the resignation was announced on 12 November, the company gave no reason for it and named Colette Kress, the finance chief, as interim chief executive while she kept her old post. Harvey C. Jones, a director since 1993 and formerly chief executive of Synopsys, became the board's first chair, and the board said it would search for a permanent successor among internal and external candidates. Two days earlier, the independent directors had retained Joon H. Kim, a former acting United States attorney for the Southern District of New York, and his firm to run an investigation.
+
+The quarter ran without him. Results published on 17 November, with Kress signing as interim chief executive, put revenue at 115.8 billion dollars for the three months to 25 October, up 103 per cent from a year earlier, and data-centre revenue at 107.6 billion dollars. Guidance for the current quarter was 130.0 billion dollars, give or take 3 per cent, with no data-centre compute from China assumed. Vera Rubin NVL72 had shipped during the quarter. A company without a chief executive reported revenue at more than twice the level of a year earlier.
+
+Oversight outlasts the vote. Jones stays chair, so the board keeps the structure it built during the vacancy. Kress returns to the finance office alone, and Huang takes back the seat he vacated. The release pairs the reinstatement with machinery that remains: the independent committee will proceed to its conclusion, Huang supports the investigation and will cooperate, a National Security and Export Control Committee of independent directors has been formed to oversee trade compliance and security risk, and the company has begun a search for a chief compliance officer reporting to the nominating and corporate governance committee.
+
+Both releases describe roles, dates and reasoning, and the cause of the resignation sits outside them. The later document names no official at the government, gives no form for the input, and identifies no conduct examined by the committee. Candor is the board's own word, applied to its own conversations. Huang thanks the board for its confidence and deliberation, and the chair and the interim chief executive for leading the company through the period. The committee's findings remain unpublished, and the government inquiries are described as ongoing with the company's cooperation.
+
+Filings fix the order of events: an investigation opened on 10 November, a resignation on the 12th, a quarter reported on the 17th, a unanimous reversal on the 23rd, and a compliance build-out announced in the same document as the vote. Both committees now exist, the compliance post is advertised, and the inquiries continue. The board has said the committee's report will run to its conclusion, which is the next piece of paper this sequence will have to produce.
