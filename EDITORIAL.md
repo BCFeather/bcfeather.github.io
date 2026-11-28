@@ -190,13 +190,17 @@ Single letters standing in running prose are variables and take the same treatme
 
 Within TeX, single Latin and Greek letters are italic variables and are written bare; names of functions, units, acronyms and proteins are upright, and so are a differential and `pH`. A unit symbol stays upright as a whole, prefixes included: 8 µM, 30 µm, 12 µg, and never a slanted Greek mu standing where a prefix belongs. A subscript that is a letter is italic; a subscript that is a word or a numeral is upright. The acidity symbol splits the same way, and each letter takes its own `\mathrm` where it needs one: `\(\mathrm{p}K_{\mathrm{a}}\)` keeps the logarithmic operator `p` upright, slants the constant `K` and uprights the label `a`, while `\(\mathrm{p}K_{a}\)` leaves the subscript slanted and `\(pK_a\)` slants all three and reads a label as a variable.
 
+Chemical species follow the same split, with the element symbols upright and the charge carried in the superscript: `\(\mathrm{Fe}^{2+}\)`, `\(\mathrm{Fe}(\mathrm{OH})_{3}\)`. The Unicode superscript and subscript characters stay out of the source, because the text faces carry no glyph for most of them and TeX is the only rendering the site guarantees.
+
 * *Variable, bare italic*: `\(a_\mu\)`
 * *Upright formula name*: `\(\mathrm{PI}(3,4)P_2\)`
 * *Scientific notation*: `\(1.16\times10^{-11}\)`
 * *Upright subscript*: `\(x_{\mathrm{max}}\)`
+* *Ion, element symbols upright*: `\(\mathrm{Fe}^{2+}\)`
+* *Formula unit, no Unicode subscript*: `\(\mathrm{Fe}(\mathrm{OH})_{3}\)`
 * *A rejected spelling of the same formula*: `a_mu = 1.16 times ten to the minus eleven`
 
-The chain runs from `hugo.toml`, which passes `\(` and `$$` through untouched, to `static/assets/css/math.css`, which maps every KaTeX glyph class onto Computer Modern Serif and restores italics on `.mathnormal` and `.textit`, to `static/assets/js/math.js`, which renders the blocks at load. Body text and mathematics share one family, so a variable stays slanted while a digit or a `\mathrm` word stays roman, and a rule that flattened either would be a regression. A post carrying formulas is not finished until the rendered page has been opened and the formula blocks counted.
+The chain runs from `hugo.toml`, which passes `\(` and `$$` through untouched, to `static/assets/css/math.css`, which maps every KaTeX glyph class onto NewComputerModern Web and restores italics on `.mathnormal` and `.textit`, to `static/assets/js/math.js`, which renders the blocks at load. Body text and mathematics share one family, so a variable stays slanted while a digit or a `\mathrm` word stays roman, and a rule that flattened either would be a regression. A post carrying formulas is not finished until the rendered page has been opened and the formula blocks counted.
 
 ## 11. Citations
 
