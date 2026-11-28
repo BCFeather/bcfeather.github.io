@@ -1,7 +1,7 @@
-/* Typeset math in the same face as prose: Computer Modern Serif. */
+/* Typeset math in the same face as prose: NewComputerModern Web. */
 article .content .katex,
 article .content .katex-display > .katex {
-  font-family: "Computer Modern Serif", Georgia, "Times New Roman", serif;
+  font-family: "NewComputerModern Web", Georgia, "Times New Roman", serif;
   font-size: 1em;
   color: inherit;
   white-space: nowrap;
