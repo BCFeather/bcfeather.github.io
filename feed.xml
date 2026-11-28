@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://bcfeather.github.io/</id>
+  <title>BlogFeather</title>
+  <subtitle>Your view also matters.</subtitle>
+  <updated>2026-11-28T12:48:21&#43;00:00</updated>
+  <author>
+    <name>Caozhe Bao</name>
+    <uri>https://bcfeather.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://bcfeather.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en" href="https://bcfeather.github.io/"/>
+  <generator uri="https://gohugo.io/">Hugo</generator>
+  <rights>© 2026 Caozhe Bao</rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <entry>
+    <title>A Riemann proof cut to 76,000 lines, and Alpöge&#39;s apology for the page count</title>
+    <link href="https://bcfeather.github.io/posts/riemann-proof-cut-to-76000-lines-and-an-apology-for-the-page-count/" rel="alternate" type="text/html" title="A Riemann proof cut to 76,000 lines, and Alpöge&#39;s apology for the page count"/>
+    <published>2026-11-28T21:10:00&#43;08:00</published>
+    <updated>2026-11-28T21:10:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/riemann-proof-cut-to-76000-lines-and-an-apology-for-the-page-count/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="science"/>
+    <summary>A 76,000-line rewrite of Alpöge's Lean proof of the Riemann hypothesis passes independent kernel checks, days after he apologized for the 250,000-page figure that was a joke.</summary>
+  </entry>
+  <entry>
+    <title>Counting the snow before the industry uses it</title>
+    <link href="https://bcfeather.github.io/posts/counting-the-snow-before-the-industry-uses-it/" rel="alternate" type="text/html" title="Counting the snow before the industry uses it"/>
+    <published>2026-11-28T18:35:00&#43;08:00</published>
+    <updated>2026-11-28T18:35:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/counting-the-snow-before-the-industry-uses-it/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="society"/>
+    <summary>The China Meteorological Administration will spend two years measuring snowfall, snow cover and ice across five northern regions to map where pistes and cold-weather tests should go.</summary>
+  </entry>
+  <entry>
+    <title>Logistics revenue grew more slowly than the freight it moved</title>
+    <link href="https://bcfeather.github.io/posts/logistics-revenue-grew-more-slowly-than-the-freight-it-moved/" rel="alternate" type="text/html" title="Logistics revenue grew more slowly than the freight it moved"/>
+    <published>2026-11-28T14:50:00&#43;08:00</published>
+    <updated>2026-11-28T14:50:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/logistics-revenue-grew-more-slowly-than-the-freight-it-moved/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="economy"/>
+    <summary>Logistics revenue rose 4.2 per cent to 12.3 trillion yuan in the first ten months while the value of goods moved grew 4.8 per cent, a gap that prices explain.</summary>
+  </entry>
+  <entry>
+    <title>At the Shenzhen fair, 175 billion yuan arrived as intent</title>
+    <link href="https://bcfeather.github.io/posts/at-the-shenzhen-fair-175-billion-yuan-arrived-as-intent/" rel="alternate" type="text/html" title="At the Shenzhen fair, 175 billion yuan arrived as intent"/>
+    <published>2026-11-28T09:15:00&#43;08:00</published>
+    <updated>2026-11-28T09:15:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/at-the-shenzhen-fair-175-billion-yuan-arrived-as-intent/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="technology"/>
+    <summary>The Shenzhen hi-tech fair closed with 175 billion yuan of intended deals from 570 agreements signed on the floor, a figure that measures matching among buyers and sellers.</summary>
+  </entry>
+  <entry>
+    <title>Measles deaths hit a record low while the map of cases widened</title>
+    <link href="https://bcfeather.github.io/posts/measles-deaths-at-a-record-low-while-the-map-of-cases-widened/" rel="alternate" type="text/html" title="Measles deaths hit a record low while the map of cases widened"/>
+    <published>2026-11-27T19:05:00&#43;08:00</published>
+    <updated>2026-11-27T19:05:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/measles-deaths-at-a-record-low-while-the-map-of-cases-widened/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="science"/>
+    <summary>Measles deaths fell 91 per cent from 2000 to an estimated 72,000 in 2025 even as about 10 million people were infected, with the coverage gap concentrated in low-income countries.</summary>
+  </entry>
+  <entry>
+    <title>Meituan&#39;s quarter turned on the margin of one segment</title>
+    <link href="https://bcfeather.github.io/posts/meituans-quarter-turned-on-the-margin-of-one-segment/" rel="alternate" type="text/html" title="Meituan&#39;s quarter turned on the margin of one segment"/>
+    <published>2026-11-27T13:25:00&#43;08:00</published>
+    <updated>2026-11-27T13:25:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/meituans-quarter-turned-on-the-margin-of-one-segment/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="business"/>
+    <summary>Meituan returned to profit in the September quarter as core local commerce swung from a 14.1 billion yuan operating loss to a 5.7 billion profit on revenue of 115.56 billion.</summary>
+  </entry>
+  <entry>
+    <title>Eight goals against Fiji carried China through on goal difference</title>
+    <link href="https://bcfeather.github.io/posts/eight-goals-against-fiji-carried-china-through-on-goal-difference/" rel="alternate" type="text/html" title="Eight goals against Fiji carried China through on goal difference"/>
+    <published>2026-11-27T08:40:00&#43;08:00</published>
+    <updated>2026-11-27T08:40:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/eight-goals-against-fiji-carried-china-through-on-goal-difference/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="sport"/>
+    <summary>China's under-17 side beat Fiji 8-0 in Doha to finish second among the third-placed teams and reach the round of 32, a passage decided by goals after a 0-5 opening defeat.</summary>
+  </entry>
+  <entry>
+    <title>On 2 per cent of the screens, a documentary takes the highest occupancy of the week</title>
+    <link href="https://bcfeather.github.io/posts/on-2-per-cent-of-the-screens-a-documentary-takes-the-highest-occupancy-of-the-week/" rel="alternate" type="text/html" title="On 2 per cent of the screens, a documentary takes the highest occupancy of the week"/>
+    <published>2026-11-26T01:25:00&#43;08:00</published>
+    <updated>2026-11-26T01:25:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/on-2-per-cent-of-the-screens-a-documentary-takes-the-highest-occupancy-of-the-week/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="culture"/>
+    <summary>The week to 22 November took 162.3 million yuan from 4.38 million admissions, and a documentary about the north face of Everest earned 11.0 million of it from 2.1 per cent of screenings.</summary>
+  </entry>
+  <entry>
+    <title>A draft programme shows Huawei&#39;s memory plan a year before the paper</title>
+    <link href="https://bcfeather.github.io/posts/a-draft-programme-shows-huaweis-memory-plan-a-year-before-the-paper/" rel="alternate" type="text/html" title="A draft programme shows Huawei&#39;s memory plan a year before the paper"/>
+    <published>2026-11-26T00:55:00&#43;08:00</published>
+    <updated>2026-11-26T00:55:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/a-draft-programme-shows-huaweis-memory-plan-a-year-before-the-paper/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="technology"/>
+    <summary>IEEE's draft programme for ISSCC 2027 lists four Huawei papers, among them a custom memory design with 4,096 data lanes and five layers joined by wafer-to-wafer hybrid bonding.</summary>
+  </entry>
+  <entry>
+    <title>A payload specialist, and four experiments built in Pakistan</title>
+    <link href="https://bcfeather.github.io/posts/a-payload-specialist-and-four-experiments-built-in-pakistan/" rel="alternate" type="text/html" title="A payload specialist, and four experiments built in Pakistan"/>
+    <published>2026-11-25T13:40:00&#43;08:00</published>
+    <updated>2026-11-25T13:40:00&#43;08:00</updated>
+    <id>https://bcfeather.github.io/posts/a-payload-specialist-and-four-experiments-built-in-pakistan/</id>
+    <author>
+      <name>Caozhe Bao</name>
+    </author>
+    <category term="science"/>
+    <summary>Shenzhou 24 docked at the station three and a half hours after launch with a crew that includes the station's first foreign astronaut, and 90 experiments that include four designed in Pakistan.</summary>
+  </entry>
+</feed>

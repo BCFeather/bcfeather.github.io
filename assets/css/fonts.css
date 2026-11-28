@@ -1,0 +1,37 @@
+/* NewComputerModern10 as the article face, so prose and TeX math share one family.
+   The four faces are web subsets of the NewCM10 styles from the newcomputermodern
+   package (see NewComputerModern-LICENSE.txt beside the font files); they carry Latin,
+   Greek, the site's punctuation and math symbols, and the Vietnamese letters that
+   Computer Modern never drew. */
+@font-face {
+  font-family: "NewComputerModern Web";
+  src: url("/assets/fonts/ncm-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "NewComputerModern Web";
+  src: url("/assets/fonts/ncm-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "NewComputerModern Web";
+  src: url("/assets/fonts/ncm-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "NewComputerModern Web";
+  src: url("/assets/fonts/ncm-bolditalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+article .content {
+  font-family: "NewComputerModern Web", Georgia, "Times New Roman", "Songti SC", serif;
+}
