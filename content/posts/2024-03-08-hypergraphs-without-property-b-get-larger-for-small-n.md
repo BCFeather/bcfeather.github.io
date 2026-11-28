@@ -1,9 +1,9 @@
 ---
 slug: "hypergraphs-without-property-b-get-larger-for-small-n"
-title: "Hypergraphs without property B get larger for small n"
+title: "Hypergraphs that resist a two-colouring need more edges as edge size shrinks"
 date: "2024-03-08T09:40:00+08:00"
 categories: [science]
-description: "A refined random-greedy argument raises the lower bound on the smallest n-uniform hypergraph that cannot be two-coloured, improving the known values for small edge sizes rather than only asymptotically."
+description: "A refined random-greedy argument raises the lower bound on the smallest uniform hypergraph that cannot be two-coloured, improving the known values for small edge sizes rather than only asymptotically."
 ---
 
 A hypergraph has property B when its vertices can be split into two classes with no edge entirely inside either class, so the property is two-colourability written without the graph. Erdős asked in 1963 for the smallest number of edges in an \(n\)-uniform hypergraph that fails the property, called \(m(n)\), and the gap between the best upper and lower bounds has stayed wide for six decades.
